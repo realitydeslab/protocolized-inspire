@@ -216,6 +216,366 @@
   "batch": "onchain-pak"
  },
  {
+  "name": "Marina Abramović, Rhythm 0 (1974)",
+  "why": "Audience given 72 objects and a written instruction to use them on the artist; likely belongs to the social / performance batch.",
+  "link": "https://en.wikipedia.org/wiki/Rhythm_0",
+  "found_via": "allan-kaprow",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Olafur Eliasson, The collectivity project (2005–)",
+  "why": "City of white LEGO bricks built and rebuilt by visitors; check whether a written rule shapes behaviour.",
+  "link": "https://olafureliasson.net/",
+  "found_via": "erwin-wurm",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Miranda July & Harrell Fletcher, Learning to Love You More (2002–2009)",
+  "why": "Numbered assignments posted online, completed and uploaded by thousands; belongs to network/crowdsourced.",
+  "link": "http://www.learningtoloveyoumore.com/",
+  "found_via": "david-horvitz",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Lygia Pape, Divisor (1968)",
+  "why": "Large white cloth with holes worn and moved by a crowd; belongs to social/collective-action.",
+  "link": "https://en.wikipedia.org/wiki/Lygia_Pape",
+  "found_via": "anna-halprin",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Oulipo",
+  "why": "Workshop of potential literature (1960–) inventing constraints for members and readers; decide whether a group-executed work passes.",
+  "link": "https://en.wikipedia.org/wiki/Oulipo",
+  "found_via": "raymond-queneau",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Art by Telephone... Recalled (2012–)",
+  "why": "Restaging by Sébastien Pluot and Fabien Vallos in which new artists and institutions realise the 1969 phoned instructions.",
+  "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+  "found_via": "david-katzive",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Allan Kaprow, Scales (1971) and Words (1962)",
+  "why": "Further Kaprow activities/environments with visitor rules; Scales restaged at Tate Modern 2008.",
+  "link": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
+  "found_via": "allan-kaprow",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Christian Marclay, Shuffle (2007)",
+  "why": "Deck of 75 photo cards of musical notation found in the world, to be shuffled and performed by musicians; not verified this pass.",
+  "link": "https://en.wikipedia.org/wiki/Christian_Marclay",
+  "found_via": "christian-marclay",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Christian Marclay: Festival (Whitney, 2010)",
+  "why": "Graphic scores performed by about fifty musicians; visitors marked up a wall-size score.",
+  "link": "https://whitney.org/exhibitions/christian-marclay",
+  "found_via": "christian-marclay",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Wolf Vostell, telephone happenings for Art by Telephone (1969)",
+  "why": "Visitors dialled changing numbers to receive one-minute happening instructions.",
+  "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+  "found_via": "david-katzive",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Marcel Duchamp — Erratum Musical (1913)",
+  "why": "Chance score: notes drawn from a hat, sung by Duchamp and his sisters; only three performers, check whether it passes the group test.",
+  "link": "https://en.wikipedia.org/wiki/Erratum_Musical",
+  "found_via": "marcel-duchamp",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Marcel Duchamp — Monte Carlo Bond (1924)",
+  "why": "Shares sold to fund a roulette system; belongs to social/economies.",
+  "link": "https://www.moma.org/collection/works/81223",
+  "found_via": "marcel-duchamp",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Joseph Kosuth — One and Three Chairs (1965)",
+  "why": "Certificate lets each owner re-make the photograph with a local chair; borderline execution work.",
+  "link": "https://www.moma.org/collection/works/81435",
+  "found_via": "sol-lewitt",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Lucy Lippard — 557,087 / 955,000 (1969–70)",
+  "why": "Curator executed absent artists' instructions for the number shows.",
+  "link": "https://en.wikipedia.org/wiki/Lucy_R._Lippard",
+  "found_via": "sol-lewitt",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Seth Siegelaub — The Xerox Book (1968)",
+  "why": "Seven artists incl. LeWitt and Weiner given the same 25-page constraint; likely social/economies or theory batch.",
+  "link": "https://en.wikipedia.org/wiki/Seth_Siegelaub",
+  "found_via": "lawrence-weiner",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Yoko Ono — Play It by Trust (1966)",
+  "why": "All-white chess set that visitors play until they lose track of sides.",
+  "link": "https://en.wikipedia.org/wiki/Yoko_Ono",
+  "found_via": "yoko-ono",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Yoko Ono — My Mummy Was Beautiful (2004)",
+  "why": "Visitors leave written messages about their mothers (Tate Liverpool 2004, Tate Modern 2024).",
+  "link": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
+  "found_via": "yoko-ono",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Sol LeWitt — Wall Drawing #122 and other copy-line drawings",
+  "why": "Drafters copy one another's not-straight lines; relatives of #797.",
+  "link": "https://massmoca.org/event/walldrawing797/",
+  "found_via": "sol-lewitt",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Jackson Mac Low: Three Social Projects (1963)",
+  "why": "Chapter 7 of the Getty Scores Project; social instruction pieces by Mac Low, not yet researched.",
+  "link": "https://www.getty.edu/publications/scores/07/",
+  "found_via": "jackson-mac-low",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Yvonne Rainer: We Shall Run (1963)",
+  "why": "Dance score for untrained performers running in formation; Getty Scores Project chapter 8.",
+  "link": "https://www.getty.edu/publications/scores/08/",
+  "found_via": "la-monte-young",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Takehisa Kosugi: Micro 1 (1961) / Theatre Music",
+  "why": "Event scores in the Anthology and Fluxus; performed in 2021 for the Getty program.",
+  "link": "https://www.getty.edu/publications/scores/05/",
+  "found_via": "la-monte-young",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Walter De Maria: Beach Crawl (1960)",
+  "why": "Score in the Anthology of Chance Operations, re-performed as SKY, STONE, SEA (2021).",
+  "link": "https://www.getty.edu/publications/scores/05/",
+  "found_via": "la-monte-young",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Earle Brown: December 1952",
+  "why": "Graphic score that any instrumentation may interpret; strong visual; check whether group realizations make it pass.",
+  "link": "https://www.getty.edu/publications/scores/05/",
+  "found_via": "john-cage",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Alison Knowles & James Tenney: The House of Dust (1967)",
+  "why": "Computer-generated poem built as a structure at CalArts where students and artists staged works; borderline, the rule for the group is weak.",
+  "link": "https://en.wikipedia.org/wiki/House_of_Dust",
+  "found_via": "alison-knowles",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Nam June Paik: Zen for Head (1962)",
+  "why": "Paik's realization of Young's Composition 1960 #10; could be a separate entry if Paik's scores for audiences (Participation TV) are covered.",
+  "link": "https://www.moma.org/collection/works/127631",
+  "found_via": "la-monte-young",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Dick Higgins: Danger Music series",
+  "why": "Fluxus event scores, some for audiences; not researched.",
+  "link": "https://en.wikipedia.org/wiki/Dick_Higgins",
+  "found_via": "george-maciunas",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Flux Year Box 2 (c. 1966)",
+  "why": "Second Fluxus anthology box with Fluxfilms and action kits; MoMA holds it; could join Fluxkit.",
+  "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html",
+  "found_via": "george-maciunas",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Fluxus 1 (1964)",
+  "why": "First Fluxus yearbox anthology of scores by many artists.",
+  "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/index.html",
+  "found_via": "george-maciunas",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Pauline Oliveros: Deep Listening practice / Deep Listening Institute",
+  "why": "Ongoing practice with workshops and group pieces beyond Sonic Meditations.",
+  "link": "https://www.deeplistening.rpi.edu",
+  "found_via": "pauline-oliveros",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "John Cage: Variations VII (1966, 9 Evenings)",
+  "why": "Live-electronic piece picking up sounds from phone lines and radio; Getty Research Institute video exists; check whether it passes (Cage and Tudor as performers).",
+  "link": "https://www.youtube.com/watch?v=XvKSLEzQB7k",
+  "found_via": "john-cage",
+  "status": "open",
+  "batch": "score"
+ },
+ {
+  "name": "Joseph Beuys, Honigpumpe am Arbeitsplatz / Free International University (documenta 6, 1977)",
+  "why": "100 days of workshops run by different groups around a honey-pump circuit; check whether the workshop format counts as a group protocol.",
+  "link": "https://oa.ici-berlin.org/repository/doi/10.37050/ci-11~wedemeyer_pumping_honey.pdf",
+  "found_via": "joseph-beuys",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Bill Wasik, The MOB Project (2003)",
+  "why": "First flash mobs, organised by anonymous email instructions to a crowd; belongs to network/crowdsourced.",
+  "link": "https://en.wikipedia.org/wiki/Flash_mob",
+  "found_via": "improv-everywhere",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Yoko Ono, Cut Piece (1964)",
+  "why": "Audience members cut the performer's clothes one by one; a close relative of Rhythm 0 (likely in the score batch).",
+  "link": "https://en.wikipedia.org/wiki/Cut_Piece",
+  "found_via": "marina-abramovic",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Mieko Shiomi, Spatial Poem (1965–75)",
+  "why": "Event instructions mailed to participants worldwide; responses mapped and published. Score or correspondence.",
+  "link": "https://www.moma.org/artists/36213",
+  "found_via": "ray-johnson",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Suzanne Lacy, Whisper, the Waves, the Wind (1984) and Between the Door and the Street (2013)",
+  "why": "Further large choreographed conversations with women; same protocol family as The Crystal Quilt.",
+  "link": "https://www.suzannelacy.com/",
+  "found_via": "suzanne-lacy",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Jeremy Deller, Procession (Manchester, 2009)",
+  "why": "Parade made of groups who each chose how to represent themselves.",
+  "link": "https://www.jeremydeller.org/",
+  "found_via": "jeremy-deller",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Tania Bruguera, Association of Arte Útil / Hannah Arendt International Institute for Artivism (INSTAR)",
+  "why": "Institutions run as artworks; check rules and participation.",
+  "link": "https://www.arte-util.org/",
+  "found_via": "tania-bruguera",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Marina Abramović, Abramović Method (2012–)",
+  "why": "Instructions and exercises for audiences in groups; check if the group behaviour is the work.",
+  "link": "https://mai.art/",
+  "found_via": "marina-abramovic",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Lee Mingwei, The Dining Project / Sonic Blossom / The Mending Project",
+  "why": "Other gift-and-condition works where strangers carry out the protocol.",
+  "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+  "found_via": "lee-mingwei",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Hans Haacke, Gallery-Goers' Birthplace and Residence Profile (1969)",
+  "why": "Visitors mark where they live on maps; audience produces the work's data.",
+  "link": "https://en.wikipedia.org/wiki/Hans_Haacke",
+  "found_via": "hans-haacke",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Stephen Willats, West London Social Resource Project (1972)",
+  "why": "Questionnaires and feedback loops with residents; systems-based participatory art.",
+  "link": "https://en.wikipedia.org/wiki/Stephen_Willats",
+  "found_via": "hans-haacke",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Spencer Tunick, mass nude installations (1992–)",
+  "why": "Thousands of volunteers follow posing instructions; borderline because the photograph is authored by one person.",
+  "link": "https://en.wikipedia.org/wiki/Spencer_Tunick",
+  "found_via": "francis-alys",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Hélio Oiticica, Tropicália (1967) and Éden (1969)",
+  "why": "Environments completed by visitors' behaviour; check whether a rule set exists.",
+  "link": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+  "found_via": "helio-oiticica",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Theaster Gates, Dorchester Projects / Rick Lowe, Project Row Houses",
+  "why": "Social-practice institutions built with neighbourhoods; check whether the rules are authored and addressed to the group.",
+  "link": "https://projectrowhouses.org/",
+  "found_via": "thomas-hirschhorn",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Marinella Senatore, The School of Narrative Dance",
+  "why": "Nomadic school and parades produced by local participants under a method.",
+  "link": "https://www.marinellasenatore.com/",
+  "found_via": "suzanne-lacy",
+  "status": "open",
+  "batch": "social"
+ },
+ {
   "name": "Jack Burnham, 'Real Time Systems' (Artforum, 1969)",
   "why": "Companion essay to Systems Esthetics on art as information and real-time process.",
   "link": "https://www.artforum.com/features/real-time-systems-210752/",

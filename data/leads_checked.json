@@ -112,6 +112,62 @@
   "batch": "onchain-pak"
  },
  {
+  "name": "Tino Sehgal",
+  "why": "Constructed situations (This Progress, These associations) performed by trained 'interpreters' under verbal rules; no photos allowed.",
+  "link": "https://en.wikipedia.org/wiki/Tino_Sehgal",
+  "found_via": "hans-ulrich-obrist",
+  "status": "covered",
+  "batch": "score"
+ },
+ {
+  "name": "Morton Feldman: Intersection 3 (1953)",
+  "why": "Graph score for one pianist; Getty Scores Project chapter 1; performer freedom but no group.",
+  "link": "https://www.getty.edu/publications/scores/01/",
+  "found_via": "john-cage",
+  "status": "off_topic",
+  "batch": "score"
+ },
+ {
+  "name": "Sylvano Bussotti: Five Piano Pieces for David Tudor (1959)",
+  "why": "Graphic score for a single performer; Getty chapter 3; no group carries out the rules.",
+  "link": "https://www.getty.edu/publications/scores/03/",
+  "found_via": "john-cage",
+  "status": "off_topic",
+  "batch": "score"
+ },
+ {
+  "name": "Francis Alÿs, Children's Games (1999–)",
+  "why": "Films existing children's games; the rules are not authored by the artist.",
+  "link": "https://francisalys.com/",
+  "found_via": "francis-alys",
+  "status": "off_topic",
+  "batch": "social"
+ },
+ {
+  "name": "Ai Weiwei, Sunflower Seeds (2010)",
+  "why": "Made by about 1,600 artisans as fabrication labour; no rule shapes a group's behaviour as the work.",
+  "link": "https://www.tate.org.uk/art/artworks/ai-sunflower-seeds-t13408",
+  "found_via": "ai-weiwei",
+  "status": "off_topic",
+  "batch": "social"
+ },
+ {
+  "name": "Lygia Clark, Estruturação do Self (Structuring of the Self, 1976–1988)",
+  "why": "One-to-one therapeutic sessions with relational objects; not addressed to a group.",
+  "link": "https://post.moma.org/part-3-lygia-clark-at-the-border-of-art/",
+  "found_via": "lygia-clark",
+  "status": "off_topic",
+  "batch": "social"
+ },
+ {
+  "name": "Christo and Jeanne-Claude, large installations",
+  "why": "Large paid crews install a design; crowd behaviour is not the work.",
+  "link": "https://christojeanneclaude.net/",
+  "found_via": "joseph-beuys",
+  "status": "off_topic",
+  "batch": "social"
+ },
+ {
   "name": "Wikipedia article 'Protocolar Art'",
   "why": "Flagged on Wikipedia as possibly AI-generated (March 2026); promotes a single theorist's term. Not a reliable source.",
   "link": "https://en.wikipedia.org/wiki/Protocolar_Art",

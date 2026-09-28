@@ -743,5 +743,1525 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjMwMjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2fb4df5afdc0e236": {
+  "url": "https://www.moma.org/media/W1siZiIsIjMwMjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2fb4df5afdc0e236",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hepworth-wakefield-live.s3.amazonaws.com/wp-content/uploads/2017/08/71586-0008-1024x683.jpg": {
+  "url": "https://hepworth-wakefield-live.s3.amazonaws.com/wp-content/uploads/2017/08/71586-0008-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moussemagazine.it/wp-content/uploads/2024/09/Allan-Kaprow_Yard_Ph-Agnese-Bedini-DSL-Studio-IMG_9411-768x512.jpg": {
+  "url": "https://www.moussemagazine.it/wp-content/uploads/2024/09/Allan-Kaprow_Yard_Ph-Agnese-Bedini-DSL-Studio-IMG_9411-768x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:GFCfecGIsTQ": {
+  "url": "https://www.youtube.com/watch?v=GFCfecGIsTQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GFCfecGIsTQ",
+  "title": "Allan Kaprow, Push and Pull",
+  "author": "kulturkonsum",
+  "thumbnail": "https://i.ytimg.com/vi/GFCfecGIsTQ/hqdefault.jpg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/img6432.width-600_QuDmopo.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/img6432.width-600_QuDmopo.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_053_mm.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_053_mm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_009_mm.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_009_mm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjIzNDkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1d940ba7279b937": {
+  "url": "https://www.moma.org/media/W1siZiIsIjIzNDkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1d940ba7279b937",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/87dbed26f781ae96dbefa0e60264f652.jpeg": {
+  "url": "https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/87dbed26f781ae96dbefa0e60264f652.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/724adc7d9d645a940c9c743f96667012.jpeg": {
+  "url": "https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/724adc7d9d645a940c9c743f96667012.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://curatorsintl.org/images/Scan_130107_0015_WEB.jpg?w=2000": {
+  "url": "https://curatorsintl.org/images/Scan_130107_0015_WEB.jpg?w=2000",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_d3p677p.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_d3p677p.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i.kym-cdn.com/entries/icons/original/000/001/178/241543903_1_.png": {
+  "url": "https://i.kym-cdn.com/entries/icons/original/000/001/178/241543903_1_.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg/960px-David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg/960px-David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.prismic.io/listasafn-islands/6b8be785-26d0-4457-a3a1-9cf6bb14248d_LET+US+KEEP+OUR+OWN+NOON_+2013++David+Horvitz.jpeg?auto=compress&max-w=1200": {
+  "url": "https://images.prismic.io/listasafn-islands/6b8be785-26d0-4457-a3a1-9cf6bb14248d_LET+US+KEEP+OUR+OWN+NOON_+2013++David+Horvitz.jpeg?auto=compress&max-w=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg/960px-Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg/960px-Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://enoshop.co.uk/cdn/shop/files/Oblique-Image1.png?v=1743069911": {
+  "url": "https://enoshop.co.uk/cdn/shop/files/Oblique-Image1.png?v=1743069911",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/ad/Queneau_sonnets.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Queneau_sonnets.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/romanmeasuringuniverse.width-600.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/romanmeasuringuniverse.width-600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://whitneymedia.org/assets/artwork/28280/2006_51_151_cropped.jpg": {
+  "url": "https://whitneymedia.org/assets/artwork/28280/2006_51_151_cropped.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjExNDAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c9064adde4b8174": {
+  "url": "https://www.moma.org/media/W1siZiIsIjExNDAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c9064adde4b8174",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://bioneers.org/wp-content/uploads/2020/11/PD_EarthAlive-2-scaled.jpg": {
+  "url": "https://bioneers.org/wp-content/uploads/2020/11/PD_EarthAlive-2-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://npr.brightspotcdn.com/dims4/default/fdab2d9/2147483647/strip/true/crop/6144x3226+0+435/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkalw%2Ffiles%2FPlanetary%20Dance%20Gen.jpg": {
+  "url": "https://npr.brightspotcdn.com/dims4/default/fdab2d9/2147483647/strip/true/crop/6144x3226+0+435/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkalw%2Ffiles%2FPlanetary%20Dance%20Gen.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjQ2MDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aa0665e122cca7c": {
+  "url": "https://www.moma.org/media/W1siZiIsIjQ2MDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aa0665e122cca7c",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1080/01472526.2021.2024724": {
+  "doi": "10.1080/01472526.2021.2024724",
+  "ok": true,
+  "type": "doi",
+  "title": "Making the Museum Dance: Simone Forti’s Huddle (1961) and its Acquisition by the Museum of Modern Art",
+  "year": 2022,
+  "venue": "Dance Chronicle",
+  "url": "https://doi.org/10.1080/01472526.2021.2024724"
+ },
+ "img:https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025521/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9033.jpg": {
+  "url": "https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025521/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9033.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025526/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9034.jpg": {
+  "url": "https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025526/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9034.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mcachicago.org/wp-content/uploads/image/IIARY2TY/original.jpg": {
+  "url": "https://mcachicago.org/wp-content/uploads/image/IIARY2TY/original.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjQwNDI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebb5d75b7d58fa96": {
+  "url": "https://www.moma.org/media/W1siZiIsIjQwNDI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebb5d75b7d58fa96",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://iiif.micr.io/drOqS/full/1200,/0/default.jpg": {
+  "url": "https://iiif.micr.io/drOqS/full/1200,/0/default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20201534/FC.474_01_H02-web.jpg": {
+  "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20201534/FC.474_01_H02-web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://massmoca.org/wp-content/uploads/2015/12/11-1.jpg": {
+  "url": "https://massmoca.org/wp-content/uploads/2015/12/11-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjEzNzQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d06c886172651c2": {
+  "url": "https://www.moma.org/media/W1siZiIsIjEzNzQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d06c886172651c2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/19121212/FC.512_10N_LEWITT_512_V1R3-web.jpg": {
+  "url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/19121212/FC.512_10N_LEWITT_512_V1R3-web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://massmoca.org/wp-content/uploads/2015/12/289-1.jpg": {
+  "url": "https://massmoca.org/wp-content/uploads/2015/12/289-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://massmoca.org/wp-content/uploads/2015/12/797-1.jpg": {
+  "url": "https://massmoca.org/wp-content/uploads/2015/12/797-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_MrG187b.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_MrG187b.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:c4cgB4vJ2XY": {
+  "url": "https://www.youtube.com/watch?v=c4cgB4vJ2XY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "c4cgB4vJ2XY",
+  "title": "Installing Sol LeWitt: A Wall Drawing Retrospective",
+  "author": "MASS MoCA",
+  "thumbnail": "https://i.ytimg.com/vi/c4cgB4vJ2XY/hqdefault.jpg"
+ },
+ "img:https://massmoca.org/wp-content/uploads/2015/10/detail-full-width-slw2.jpg": {
+  "url": "https://massmoca.org/wp-content/uploads/2015/10/detail-full-width-slw2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://massmoca.org/wp-content/uploads/2016/01/sol_lewitt_1180-1.jpg": {
+  "url": "https://massmoca.org/wp-content/uploads/2016/01/sol_lewitt_1180-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static1.squarespace.com/static/60e820d70025154c9413112f/641483492b47ac67ecd62a35/6407b37ef991f15f62312bb0/1787831117470/DSC04467.jpg?format=1500w": {
+  "url": "https://static1.squarespace.com/static/60e820d70025154c9413112f/641483492b47ac67ecd62a35/6407b37ef991f15f62312bb0/1787831117470/DSC04467.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg/960px-Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg/960px-Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjM0NjM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcc16cd0a4637452": {
+  "url": "https://www.moma.org/media/W1siZiIsIjM0NjM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcc16cd0a4637452",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d23eqwv5slm408.cloudfront.net/api/file/k97FqoRQRYs4im9VyvpC/convert?fit=clip&h=618&quality=100&w=824&compress=true&fit=clip": {
+  "url": "https://d23eqwv5slm408.cloudfront.net/api/file/k97FqoRQRYs4im9VyvpC/convert?fit=clip&h=618&quality=100&w=824&compress=true&fit=clip",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:-Y7R7WmdyXI": {
+  "url": "https://www.youtube.com/watch?v=-Y7R7WmdyXI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-Y7R7WmdyXI",
+  "title": "Yoko Ono : \"Cut Piece, 1964/65 | Tate Britain",
+  "author": "Art Data",
+  "thumbnail": "https://i.ytimg.com/vi/-Y7R7WmdyXI/hqdefault.jpg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ID_56_YO_2_copy_small.width-420.format-jpeg.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ID_56_YO_2_copy_small.width-420.format-jpeg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mayslesfilms.com/wp-content/uploads/2014/02/10-cut-piece.jpg": {
+  "url": "https://mayslesfilms.com/wp-content/uploads/2014/02/10-cut-piece.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/YokoOno_PaintingToHammerANailIn.jpg/960px-YokoOno_PaintingToHammerANailIn.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/YokoOno_PaintingToHammerANailIn.jpg/960px-YokoOno_PaintingToHammerANailIn.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg/960px-Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg/960px-Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://renniemuseum.org/wp-content/uploads/2019/05/RennieCollection_OnoMendPiece_091.jpg": {
+  "url": "https://renniemuseum.org/wp-content/uploads/2019/05/RennieCollection_OnoMendPiece_091.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.whitechapelgallery.org/wp-content/uploads/2021/08/YokoOno_WebCrop_ToGo-scaled.jpg": {
+  "url": "https://www.whitechapelgallery.org/wp-content/uploads/2021/08/YokoOno_WebCrop_ToGo-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yoko_Ono_Wish_Tree_B.JPG/960px-Yoko_Ono_Wish_Tree_B.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yoko_Ono_Wish_Tree_B.JPG/960px-Yoko_Ono_Wish_Tree_B.JPG",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG/960px-For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG/960px-For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cards_for_Hirshhorn_Wish_Tree.JPG/960px-Cards_for_Hirshhorn_Wish_Tree.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cards_for_Hirshhorn_Wish_Tree.JPG/960px-Cards_for_Hirshhorn_Wish_Tree.JPG",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:yoAbXwr3qkg": {
+  "url": "https://www.youtube.com/watch?v=yoAbXwr3qkg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yoAbXwr3qkg",
+  "title": "4'33\" by John Cage - John Cage Live at the Barbican - BBC Four Collections",
+  "author": "BBC",
+  "thumbnail": "https://i.ytimg.com/vi/yoAbXwr3qkg/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/8/89/4%2733%27_%28John_Cage%29_Original_Cover.webp": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/4%2733%27_%28John_Cage%29_Original_Cover.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:HBR8OAA-5p8": {
+  "url": "https://www.youtube.com/watch?v=HBR8OAA-5p8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HBR8OAA-5p8",
+  "title": "John Cage Musicircus at ENO",
+  "author": "Roberto Battista",
+  "thumbnail": "https://i.ytimg.com/vi/HBR8OAA-5p8/hqdefault.jpg"
+ },
+ "video:youtube:L1a1CpaBovQ": {
+  "url": "https://www.youtube.com/watch?v=L1a1CpaBovQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L1a1CpaBovQ",
+  "title": "ASLSP 16 ChordCange 05.Feb.2024",
+  "author": "John Cage Organ Project Halberstadt ASLSP",
+  "thumbnail": "https://i.ytimg.com/vi/L1a1CpaBovQ/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ORGAN%C2%B2ASLSP_Orgel.jpg/960px-ORGAN%C2%B2ASLSP_Orgel.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ORGAN%C2%B2ASLSP_Orgel.jpg/960px-ORGAN%C2%B2ASLSP_Orgel.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halberstadt-aslsp-gesamt.jpg/960px-Halberstadt-aslsp-gesamt.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halberstadt-aslsp-gesamt.jpg/960px-Halberstadt-aslsp-gesamt.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "video:youtube:yV-kWU1Z5u8": {
+  "url": "https://www.youtube.com/watch?v=yV-kWU1Z5u8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yV-kWU1Z5u8",
+  "title": "John Cage's \"Imaginary Landscape no. 4\" performed at DIY Space for London",
+  "author": "DIY Space for London",
+  "thumbnail": "https://i.ytimg.com/vi/yV-kWU1Z5u8/hqdefault.jpg"
+ },
+ "video:youtube:KgmGGbiYnDY": {
+  "url": "https://www.youtube.com/watch?v=KgmGGbiYnDY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KgmGGbiYnDY",
+  "title": "Cage: concert for Piano and Orchestra - conducted by Thomas R. Moore",
+  "author": "Royal Conservatoire Antwerp",
+  "thumbnail": "https://i.ytimg.com/vi/KgmGGbiYnDY/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/cage-flipbook.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/cage-flipbook.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_980039_b176_f01_001_mm_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_980039_b176_f01_001_mm_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:GEfo7DRg9TQ": {
+  "url": "https://www.youtube.com/watch?v=GEfo7DRg9TQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GEfo7DRg9TQ",
+  "title": "BL!NDMAN performs Terry Riley: In C (live at Concertgebouw Brugge)",
+  "author": "Warner Classics",
+  "thumbnail": "https://i.ytimg.com/vi/GEfo7DRg9TQ/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Terry_Riley_In_C_Carnegie_Hall.jpg/960px-Terry_Riley_In_C_Carnegie_Hall.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Terry_Riley_In_C_Carnegie_Hall.jpg/960px-Terry_Riley_In_C_Carnegie_Hall.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/3/32/Incipit_of_Terry_Riley%27s_In_C.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Incipit_of_Terry_Riley%27s_In_C.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:9fO_HbjkZrA": {
+  "url": "https://www.youtube.com/watch?v=9fO_HbjkZrA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9fO_HbjkZrA",
+  "title": "Cornelius Cardew: The Great Learning, Paragraph 7 (workshop, live)",
+  "author": "Helsingin kamarikuoro",
+  "thumbnail": "https://i.ytimg.com/vi/9fO_HbjkZrA/hqdefault.jpg"
+ },
+ "video:youtube:CudcmB4_OTw": {
+  "url": "https://www.youtube.com/watch?v=CudcmB4_OTw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CudcmB4_OTw",
+  "title": "The Scratch Orchestra - London 1969",
+  "author": "staffcarpenborg",
+  "thumbnail": "https://i.ytimg.com/vi/CudcmB4_OTw/hqdefault.jpg"
+ },
+ "doi:10.2307/951759": {
+  "doi": "10.2307/951759",
+  "ok": true,
+  "type": "doi",
+  "title": "A Scratch Orchestra: Draft Constitution",
+  "year": 1969,
+  "venue": "The Musical Times",
+  "url": "https://doi.org/10.2307/951759"
+ },
+ "video:youtube:9XPtMY-unCo": {
+  "url": "https://www.youtube.com/watch?v=9XPtMY-unCo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9XPtMY-unCo",
+  "title": "The London Experimental Ensemble-Cornelius Cardew's Treatise Part 1",
+  "author": "Ed Pettersen",
+  "thumbnail": "https://i.ytimg.com/vi/9XPtMY-unCo/hqdefault.jpg"
+ },
+ "img:https://socks-studio.com/img/blog/Treatise-01.jpg": {
+  "url": "https://socks-studio.com/img/blog/Treatise-01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://socks-studio.com/img/blog/Treatise-02.jpg": {
+  "url": "https://socks-studio.com/img/blog/Treatise-02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:wlxUpqsdlHM": {
+  "url": "https://www.youtube.com/watch?v=wlxUpqsdlHM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wlxUpqsdlHM",
+  "title": "\"Tuning Meditation,\" Pauline Oliveros | Blanton Museum of Art",
+  "author": "Blanton Museum of Art in Austin, Texas",
+  "thumbnail": "https://i.ytimg.com/vi/wlxUpqsdlHM/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg/960px-Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg/960px-Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "video:youtube:e_reft1hEJ4": {
+  "url": "https://www.youtube.com/watch?v=e_reft1hEJ4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e_reft1hEJ4",
+  "title": "Stockhausen: Aus den sieben Tagen (Prague 2022)",
+  "author": "SUPRAPHON",
+  "thumbnail": "https://i.ytimg.com/vi/e_reft1hEJ4/hqdefault.jpg"
+ },
+ "video:youtube:tJu4W45DyNo": {
+  "url": "https://www.youtube.com/watch?v=tJu4W45DyNo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tJu4W45DyNo",
+  "title": "La Monte Young - Composition 1960 #7 (1960)",
+  "author": "EEMT Ensemble for Experimental Music and Theater",
+  "thumbnail": "https://i.ytimg.com/vi/tJu4W45DyNo/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjE5MDAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97b1609717ca406f": {
+  "url": "https://www.moma.org/media/W1siZiIsIjE5MDAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97b1609717ca406f",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjIxNTgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3e958423752d310": {
+  "url": "https://www.moma.org/media/W1siZiIsIjIxNTgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3e958423752d310",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r611559_94_b19099_001_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r611559_94_b19099_001_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AA-mockup-p3-ologyof_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AA-mockup-p3-ologyof_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:oeCIvEjOMYg": {
+  "url": "https://www.youtube.com/watch?v=oeCIvEjOMYg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oeCIvEjOMYg",
+  "title": "Unboxing George Brecht’s Water Yam, 1960s | The Scores Project",
+  "author": "Getty Research Institute",
+  "thumbnail": "https://i.ytimg.com/vi/oeCIvEjOMYg/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjI0MjAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43e20d278e220ea0": {
+  "url": "https://www.moma.org/media/W1siZiIsIjI0MjAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43e20d278e220ea0",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/water-yam-grid_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/water-yam-grid_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:oGIlPBgUg9U": {
+  "url": "https://www.youtube.com/watch?v=oGIlPBgUg9U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oGIlPBgUg9U",
+  "title": "\"Drip Music\" by George Brecht, 1959 - 1961",
+  "author": "fluxconcert",
+  "thumbnail": "https://i.ytimg.com/vi/oGIlPBgUg9U/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/HigginsPerformance1979.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/HigginsPerformance1979.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/GeorgeBrechtDripMusic-by-MidoriKubota-2015nov2.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/GeorgeBrechtDripMusic-by-MidoriKubota-2015nov2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_127_003_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_127_003_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:LDNU0nqw-Ow": {
+  "url": "https://www.youtube.com/watch?v=LDNU0nqw-Ow",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LDNU0nqw-Ow",
+  "title": "Ensemble \"die reihe\" performs Brecht's \"Motor Vehicle Sundown\"",
+  "author": "Ensemblediereihe",
+  "thumbnail": "https://i.ytimg.com/vi/LDNU0nqw-Ow/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/MotorVehicleSundownEvent_Various.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/MotorVehicleSundownEvent_Various.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:lmqvnIXnmyM": {
+  "url": "https://www.youtube.com/watch?v=lmqvnIXnmyM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "lmqvnIXnmyM",
+  "title": "Alison Knowles – 'I'm Making a Giant Salad' | TateShots",
+  "author": "Tate",
+  "thumbnail": "https://i.ytimg.com/vi/lmqvnIXnmyM/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/ART545952_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/ART545952_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2015409_94_b22032_001_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2015409_94_b22032_001_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:d-MSbtR-90M": {
+  "url": "https://www.youtube.com/watch?v=d-MSbtR-90M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "d-MSbtR-90M",
+  "title": "Alison Knowles’s Identical Lunch Symphony at the Logan Center for the Arts | The Scores Project",
+  "author": "Getty Research Institute",
+  "thumbnail": "https://i.ytimg.com/vi/d-MSbtR-90M/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/AlisonKnowles_IdenticalLunchSymphony_1.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/AlisonKnowles_IdenticalLunchSymphony_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/grl_91-b35085_01_cover_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/grl_91-b35085_01_cover_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b264_002_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b264_002_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:cPi0UyHB95U": {
+  "url": "https://www.youtube.com/watch?v=cPi0UyHB95U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cPi0UyHB95U",
+  "title": "Alison Knowles discusses the Fluxkit",
+  "author": "The Museum of Modern Art",
+  "thumbnail": "https://i.ytimg.com/vi/cPi0UyHB95U/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153553_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153553_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:1-6lpTPnK8c": {
+  "url": "https://www.youtube.com/watch?v=1-6lpTPnK8c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1-6lpTPnK8c",
+  "title": "塩見允枝子《Spatial Poem No.2 方向のイヴェント》1966年（うらわ美術館蔵）",
+  "author": "うらわ美術館Urawa Art Museum",
+  "thumbnail": "https://i.ytimg.com/vi/1-6lpTPnK8c/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/sequences--525-SpatialPoem_001.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/sequences--525-SpatialPoem_001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_91_b36111_001_mm_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_91_b36111_001_mm_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014747_890164_b47_f3_001_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014747_890164_b47_f3_001_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:6lgRJe7R8Hs": {
+  "url": "https://www.youtube.com/watch?v=6lgRJe7R8Hs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6lgRJe7R8Hs",
+  "title": "Benjamin Patterson – Paper Piece (1960)",
+  "author": "Ensemble Musikfabrik",
+  "thumbnail": "https://i.ytimg.com/vi/6lgRJe7R8Hs/hqdefault.jpg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/FXM0570_Paper_Piece_by_Ben_Patterson_1964.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/FXM0570_Paper_Piece_by_Ben_Patterson_1964.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153517_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153517_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2012418_890164_b39_f33_017_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2012418_890164_b39_f33_017_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:5lNfOox76EY": {
+  "url": "https://www.youtube.com/watch?v=5lNfOox76EY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5lNfOox76EY",
+  "title": "Christian Wolff - Stones (1969)",
+  "author": "EEMT Ensemble for Experimental Music and Theater",
+  "thumbnail": "https://i.ytimg.com/vi/5lNfOox76EY/hqdefault.jpg"
+ },
+ "video:youtube:NJ-ZVkVvgrI": {
+  "url": "https://www.youtube.com/watch?v=NJ-ZVkVvgrI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NJ-ZVkVvgrI",
+  "title": "A Far Cry Performs Rzewski's \"Les Moutons de Panurge\"",
+  "author": "afarcrymusic",
+  "thumbnail": "https://i.ytimg.com/vi/NJ-ZVkVvgrI/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg/960px-Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg/960px-Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/b/bd/Kassel-beuys-7000-eichen-wegmann-v-o.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kassel-beuys-7000-eichen-wegmann-v-o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/7000_Eichen-Stelen_07_2015-06-13.jpg/960px-7000_Eichen-Stelen_07_2015-06-13.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/7000_Eichen-Stelen_07_2015-06-13.jpg/960px-7000_Eichen-Stelen_07_2015-06-13.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1972%2C_Umberto_Mariani%2C_Joseph_Beuys%2C_Jean_Pierre_Van_Tieghem%2C_Documenta_5%2C_Kassel.jpg/960px-1972%2C_Umberto_Mariani%2C_Joseph_Beuys%2C_Jean_Pierre_Van_Tieghem%2C_Documenta_5%2C_Kassel.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1972%2C_Umberto_Mariani%2C_Joseph_Beuys%2C_Jean_Pierre_Van_Tieghem%2C_Documenta_5%2C_Kassel.jpg/960px-1972%2C_Umberto_Mariani%2C_Joseph_Beuys%2C_Jean_Pierre_Van_Tieghem%2C_Documenta_5%2C_Kassel.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:D2nccQcd8xQ": {
+  "url": "https://www.youtube.com/watch?v=D2nccQcd8xQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "D2nccQcd8xQ",
+  "title": "Francis Alÿs Cuando la fe mueve montañas (When Faith Moves Mountains)",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/D2nccQcd8xQ/hqdefault.jpg"
+ },
+ "img:https://www.guggenheim.org/wp-content/uploads/2002/01/2002.59_ph_web-1.jpg": {
+  "url": "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.59_ph_web-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Q2CrQJz8uYc": {
+  "url": "https://www.youtube.com/watch?v=Q2CrQJz8uYc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Q2CrQJz8uYc",
+  "title": "Francis Alÿs Guards",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/Q2CrQJz8uYc/hqdefault.jpg"
+ },
+ "img:https://media.artangel.org.uk/images/2005sw_01.width-1200.jpg": {
+  "url": "https://media.artangel.org.uk/images/2005sw_01.width-1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:rPU7UEL5Dks": {
+  "url": "https://www.youtube.com/watch?v=rPU7UEL5Dks",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rPU7UEL5Dks",
+  "title": "Francis Alÿs Barrenderos",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/rPU7UEL5Dks/hqdefault.jpg"
+ },
+ "video:youtube:2wrVA7sH9-0": {
+  "url": "https://www.youtube.com/watch?v=2wrVA7sH9-0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2wrVA7sH9-0",
+  "title": "Francis Alÿs The Modern Procession",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/2wrVA7sH9-0/hqdefault.jpg"
+ },
+ "img:https://www.publicartfund.org/wp-content/uploads/2019/06/AlysF_0058_horizontal.jpg": {
+  "url": "https://www.publicartfund.org/wp-content/uploads/2019/06/AlysF_0058_horizontal.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:lSjs5O1VuNg": {
+  "url": "https://www.youtube.com/watch?v=lSjs5O1VuNg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "lSjs5O1VuNg",
+  "title": "Francis Alÿs Bridge (Puente)",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/lSjs5O1VuNg/hqdefault.jpg"
+ },
+ "video:youtube:zUXo-Butrf0": {
+  "url": "https://www.youtube.com/watch?v=zUXo-Butrf0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zUXo-Butrf0",
+  "title": "Francis Alÿs Don’t Cross the Bridge Before You Get to the River",
+  "author": "FrancisAlys",
+  "thumbnail": "https://i.ytimg.com/vi/zUXo-Butrf0/hqdefault.jpg"
+ },
+ "video:youtube:xTBkbseXfOQ": {
+  "url": "https://www.youtube.com/watch?v=xTBkbseXfOQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xTBkbseXfOQ",
+  "title": "Marina Abramovic on performing \"Rhythm 0\" (1974)",
+  "author": "Marina Abramović Institute",
+  "thumbnail": "https://i.ytimg.com/vi/xTBkbseXfOQ/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ArtistIsPresent.jpg/960px-ArtistIsPresent.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/ArtistIsPresent.jpg/960px-ArtistIsPresent.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Artist_is_present_-_MoMA_%284423713664%29.jpg/960px-The_Artist_is_present_-_MoMA_%284423713664%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Artist_is_present_-_MoMA_%284423713664%29.jpg/960px-The_Artist_is_present_-_MoMA_%284423713664%29.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "video:youtube:m5V2fHB2sFk": {
+  "url": "https://www.youtube.com/watch?v=m5V2fHB2sFk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "m5V2fHB2sFk",
+  "title": "Artist Talks: Tino Sehgal - about his work \"This Progress\"",
+  "author": "FondationBeyeler",
+  "thumbnail": "https://i.ytimg.com/vi/m5V2fHB2sFk/hqdefault.jpg"
+ },
+ "video:youtube:EiRGoKG5kIw": {
+  "url": "https://www.youtube.com/watch?v=EiRGoKG5kIw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EiRGoKG5kIw",
+  "title": "From \"Touch Sanitation\" to \"For  ⟶ forever....\": Two Works by Mierle Laderman Ukeles",
+  "author": "Queens Museum",
+  "thumbnail": "https://i.ytimg.com/vi/EiRGoKG5kIw/hqdefault.jpg"
+ },
+ "img:https://static1.squarespace.com/static/5fd14a8ad4328f0b6168fcaa/5fd156d29a9e5443ac6aa99d/5fd9260587ec920669422967/1762444542733/Ukeles%2C%2BTouch%2BSanitation%2BPerformance_%2B_Handshake%2Band%2BThanking%2BRitual_.jpg?format=1500w": {
+  "url": "https://static1.squarespace.com/static/5fd14a8ad4328f0b6168fcaa/5fd156d29a9e5443ac6aa99d/5fd9260587ec920669422967/1762444542733/Ukeles%2C%2BTouch%2BSanitation%2BPerformance_%2B_Handshake%2Band%2BThanking%2BRitual_.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://whitneymedia.org/assets/artwork/56140/2017_164a-b_cropped.jpg": {
+  "url": "https://whitneymedia.org/assets/artwork/56140/2017_164a-b_cropped.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:CThPLk-hR1w": {
+  "url": "https://www.youtube.com/watch?v=CThPLk-hR1w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CThPLk-hR1w",
+  "title": "Yo También Exijo – Tania Bruguera’s Tatlin’s Whisper #6 | TateShots",
+  "author": "Tate",
+  "thumbnail": "https://i.ytimg.com/vi/CThPLk-hR1w/hqdefault.jpg"
+ },
+ "img:https://taniabruguera.com/wp-content/uploads/oradorfcr11.jpg": {
+  "url": "https://taniabruguera.com/wp-content/uploads/oradorfcr11.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.guggenheim.org/wp-content/uploads/2009/01/2014.11_01_web-1.jpg": {
+  "url": "https://www.guggenheim.org/wp-content/uploads/2009/01/2014.11_01_web-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:x7L1s_GWn3o": {
+  "url": "https://www.youtube.com/watch?v=x7L1s_GWn3o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "x7L1s_GWn3o",
+  "title": "Tania Bruguera – Tatlin's Whisper #5 | TateShots",
+  "author": "Tate",
+  "thumbnail": "https://i.ytimg.com/vi/x7L1s_GWn3o/hqdefault.jpg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_LEMha4R.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_LEMha4R.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:9puLh5MCIqk": {
+  "url": "https://www.youtube.com/watch?v=9puLh5MCIqk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9puLh5MCIqk",
+  "title": "Tania Bruguera: \"Immigrant Movement International\" | Art21 \"Extended Play\"",
+  "author": "Art21",
+  "thumbnail": "https://i.ytimg.com/vi/9puLh5MCIqk/hqdefault.jpg"
+ },
+ "video:youtube:B1cYkK0cVEA": {
+  "url": "https://www.youtube.com/watch?v=B1cYkK0cVEA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "B1cYkK0cVEA",
+  "title": "Fairytale 《童话》",
+  "author": "Ai Weiwei",
+  "thumbnail": "https://i.ytimg.com/vi/B1cYkK0cVEA/hqdefault.jpg"
+ },
+ "img:https://slought.org/media/files/fairytale-3.jpg?w=828&h=485&c=1": {
+  "url": "https://slought.org/media/files/fairytale-3.jpg?w=828&h=485&c=1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.artangel.org.uk/images/2001tboo_02_863899d9.width-1200.jpg": {
+  "url": "https://media.artangel.org.uk/images/2001tboo_02_863899d9.width-1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_iE66Qp4.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_iE66Qp4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:199719532": {
+  "url": "https://vimeo.com/199719532",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "199719532",
+  "embeddable": true,
+  "title": "JEREMY DELLER - WE&#x27;RE HERE BECAUSE WE RE HERE",
+  "thumbnail": "https://i.vimeocdn.com/video/1638527968-770e4cc330a6f22afe4d09e67009deb1045b1e3cbaca23fdbb74ee16ad72cbc9-d?f=webp&amp;region=us"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/2/23/We%27re_Here_Because_We%27re_Here_-_Kings_Cross.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/We%27re_Here_Because_We%27re_Here_-_Kings_Cross.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg": {
+  "url": "https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_KZdenDd.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_KZdenDd.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static-assets.artlogic.net/w_1010,h_580,c_limit/exhibit-e/5576fee507a72c0678771e53/f36044447a144ab67d93d0d816faa5d8.jpeg": {
+  "url": "https://static-assets.artlogic.net/w_1010,h_580,c_limit/exhibit-e/5576fee507a72c0678771e53/f36044447a144ab67d93d0d816faa5d8.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:r42tfsD0DKY": {
+  "url": "https://www.youtube.com/watch?v=r42tfsD0DKY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "r42tfsD0DKY",
+  "title": "BABA ANTROPOFAGICA",
+  "author": "lygiaclark",
+  "thumbnail": "https://i.ytimg.com/vi/r42tfsD0DKY/hqdefault.jpg"
+ },
+ "img:https://portal.lygiaclark.org.br/public/upload/thumb/2021-10-21/816cfcd5d99dd68a28eee2286be107c8[1024x685].jpeg": {
+  "url": "https://portal.lygiaclark.org.br/public/upload/thumb/2021-10-21/816cfcd5d99dd68a28eee2286be107c8[1024x685].jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:3sP-uT5DQLM": {
+  "url": "https://www.youtube.com/watch?v=3sP-uT5DQLM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3sP-uT5DQLM",
+  "title": "Caminhando, 1964/2012",
+  "author": "Itaú Cultural",
+  "thumbnail": "https://i.ytimg.com/vi/3sP-uT5DQLM/hqdefault.jpg"
+ },
+ "img:http://www.bauhaus-imaginista.org/images/20243.jpg?w=2000&h=2000": {
+  "url": "http://www.bauhaus-imaginista.org/images/20243.jpg?w=2000&h=2000",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mam.rio/wp-content/uploads/2020/12/2016-65-16-687x1024.jpg": {
+  "url": "https://mam.rio/wp-content/uploads/2020/12/2016-65-16-687x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/ae/Gerardo_Mosquera_wearing_H%C3%A9lio_Oiticica%27s_parangol%C3%A9_Da_adversidade_vivemos.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gerardo_Mosquera_wearing_H%C3%A9lio_Oiticica%27s_parangol%C3%A9_Da_adversidade_vivemos.JPG",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Internationale_situationniste_n%C2%BA1.jpg/960px-Internationale_situationniste_n%C2%BA1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Internationale_situationniste_n%C2%BA1.jpg/960px-Internationale_situationniste_n%C2%BA1.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_Jeu_de_la_Guerre_board.svg/960px-Le_Jeu_de_la_Guerre_board.svg.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_Jeu_de_la_Guerre_board.svg/960px-Le_Jeu_de_la_Guerre_board.svg.png",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://walker-web.imgix.net/cms/cq272dpi.jpg": {
+  "url": "https://walker-web.imgix.net/cms/cq272dpi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_pZmNnxv.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_pZmNnxv.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:O5yyegM2u88": {
+  "url": "https://www.youtube.com/watch?v=O5yyegM2u88",
+  "ok": true,
+  "platform": "youtube",
+  "id": "O5yyegM2u88",
+  "title": "Thomas Hirschhorn: \"Gramsci Monument\" | Art21 \"Extended Play\"",
+  "author": "Art21",
+  "thumbnail": "https://i.ytimg.com/vi/O5yyegM2u88/hqdefault.jpg"
+ },
+ "img:https://www.diaart.org/media/w1050h700/webimages/hirschhorn-gramsci-monument-diamond.jpg": {
+  "url": "https://www.diaart.org/media/w1050h700/webimages/hirschhorn-gramsci-monument-diamond.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:VUcEDVZQigw": {
+  "url": "https://www.youtube.com/watch?v=VUcEDVZQigw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VUcEDVZQigw",
+  "title": "Lee Mingwei: The Moving Garden",
+  "author": "Brooklyn Museum",
+  "thumbnail": "https://i.ytimg.com/vi/VUcEDVZQigw/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Moving_Garden_%28Xe_Biennale_de_Lyon%29_%284104299446%29.jpg/960px-The_Moving_Garden_%28Xe_Biennale_de_Lyon%29_%284104299446%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Moving_Garden_%28Xe_Biennale_de_Lyon%29_%284104299446%29.jpg/960px-The_Moving_Garden_%28Xe_Biennale_de_Lyon%29_%284104299446%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.ngv.vic.gov.au/col-images/api/EXHI039447/1280": {
+  "url": "https://content.ngv.vic.gov.au/col-images/api/EXHI039447/1280",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:mj4y3pEEN4E": {
+  "url": "https://www.youtube.com/watch?v=mj4y3pEEN4E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mj4y3pEEN4E",
+  "title": "DISCOURSE IN MOTION. ART-GROUP COLLECTIVE ACTIONS.",
+  "author": "GARAGEMCA",
+  "thumbnail": "https://i.ytimg.com/vi/mj4y3pEEN4E/hqdefault.jpg"
+ },
+ "img:https://static.wixstatic.com/media/73e10e_c14f5ab94dd54961b7488215a8dcffc8~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/73e10e_c14f5ab94dd54961b7488215a8dcffc8~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://guernica.museoreinasofia.es/sites/default/files/styles/large/public/documento/FF-033%281%29.jpg?itok=4_Ta5ADH": {
+  "url": "https://guernica.museoreinasofia.es/sites/default/files/styles/large/public/documento/FF-033%281%29.jpg?itok=4_Ta5ADH",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://dataphys.org/list/images/uploads/2015/02/haacke1.jpg": {
+  "url": "http://dataphys.org/list/images/uploads/2015/02/haacke1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Kz8ma3oufcw": {
+  "url": "https://www.youtube.com/watch?v=Kz8ma3oufcw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Kz8ma3oufcw",
+  "title": "YBNY.COM video: Key to the City - Paul Ramirez Jonas",
+  "author": "YBNYdotCOM",
+  "thumbnail": "https://i.ytimg.com/vi/Kz8ma3oufcw/hqdefault.jpg"
+ },
+ "img:https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg": {
+  "url": "https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:6ieR8cCoGQY": {
+  "url": "https://www.youtube.com/watch?v=6ieR8cCoGQY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6ieR8cCoGQY",
+  "title": "Tom Marioni: The Act of Drinking Beer",
+  "author": "The University of Chicago",
+  "thumbnail": "https://i.ytimg.com/vi/6ieR8cCoGQY/hqdefault.jpg"
+ },
+ "img:https://fac.coloradocollege.edu/wp-content/uploads/2018/02/Beer-bottles.jpg": {
+  "url": "https://fac.coloradocollege.edu/wp-content/uploads/2018/02/Beer-bottles.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:qTpNxAjdo6w": {
+  "url": "https://www.youtube.com/watch?v=qTpNxAjdo6w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qTpNxAjdo6w",
+  "title": "Tap and Touch Cinema, 1968 - Valie Export",
+  "author": "ToProvoke",
+  "thumbnail": "https://i.ytimg.com/vi/qTpNxAjdo6w/hqdefault.jpg"
+ },
+ "img:https://foundation.generali.at/media/public/images/JPG23export_GF000.max-483x515.format-jpeg.jpegquality-80_SUdJyE2.jpg": {
+  "url": "https://foundation.generali.at/media/public/images/JPG23export_GF000.max-483x515.format-jpeg.jpegquality-80_SUdJyE2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:jwMj3PJDxuo": {
+  "url": "https://www.youtube.com/watch?v=jwMj3PJDxuo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jwMj3PJDxuo",
+  "title": "Frozen Grand Central",
+  "author": "Improv Everywhere",
+  "thumbnail": "https://i.ytimg.com/vi/jwMj3PJDxuo/hqdefault.jpg"
+ },
+ "img:https://improveverywhere.com/wp-content/uploads/2008/01/frozen_grand_central-copy.jpg": {
+  "url": "https://improveverywhere.com/wp-content/uploads/2008/01/frozen_grand_central-copy.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GFCfecGIsTQ": {
+  "url": "https://i.ytimg.com/vi/GFCfecGIsTQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:c4cgB4vJ2XY": {
+  "url": "https://i.ytimg.com/vi/c4cgB4vJ2XY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-Y7R7WmdyXI": {
+  "url": "https://i.ytimg.com/vi/-Y7R7WmdyXI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:yoAbXwr3qkg": {
+  "url": "https://i.ytimg.com/vi/yoAbXwr3qkg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:HBR8OAA-5p8": {
+  "url": "https://i.ytimg.com/vi/HBR8OAA-5p8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L1a1CpaBovQ": {
+  "url": "https://i.ytimg.com/vi/L1a1CpaBovQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:yV-kWU1Z5u8": {
+  "url": "https://i.ytimg.com/vi/yV-kWU1Z5u8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KgmGGbiYnDY": {
+  "url": "https://i.ytimg.com/vi/KgmGGbiYnDY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GEfo7DRg9TQ": {
+  "url": "https://i.ytimg.com/vi/GEfo7DRg9TQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:9fO_HbjkZrA": {
+  "url": "https://i.ytimg.com/vi/9fO_HbjkZrA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CudcmB4_OTw": {
+  "url": "https://i.ytimg.com/vi/CudcmB4_OTw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:9XPtMY-unCo": {
+  "url": "https://i.ytimg.com/vi/9XPtMY-unCo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wlxUpqsdlHM": {
+  "url": "https://i.ytimg.com/vi/wlxUpqsdlHM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:e_reft1hEJ4": {
+  "url": "https://i.ytimg.com/vi/e_reft1hEJ4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tJu4W45DyNo": {
+  "url": "https://i.ytimg.com/vi/tJu4W45DyNo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:oeCIvEjOMYg": {
+  "url": "https://i.ytimg.com/vi/oeCIvEjOMYg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:oGIlPBgUg9U": {
+  "url": "https://i.ytimg.com/vi/oGIlPBgUg9U/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:LDNU0nqw-Ow": {
+  "url": "https://i.ytimg.com/vi/LDNU0nqw-Ow/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:lmqvnIXnmyM": {
+  "url": "https://i.ytimg.com/vi/lmqvnIXnmyM/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:d-MSbtR-90M": {
+  "url": "https://i.ytimg.com/vi/d-MSbtR-90M/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:cPi0UyHB95U": {
+  "url": "https://i.ytimg.com/vi/cPi0UyHB95U/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1-6lpTPnK8c": {
+  "url": "https://i.ytimg.com/vi/1-6lpTPnK8c/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:6lgRJe7R8Hs": {
+  "url": "https://i.ytimg.com/vi/6lgRJe7R8Hs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5lNfOox76EY": {
+  "url": "https://i.ytimg.com/vi/5lNfOox76EY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:NJ-ZVkVvgrI": {
+  "url": "https://i.ytimg.com/vi/NJ-ZVkVvgrI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:D2nccQcd8xQ": {
+  "url": "https://i.ytimg.com/vi/D2nccQcd8xQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Q2CrQJz8uYc": {
+  "url": "https://i.ytimg.com/vi/Q2CrQJz8uYc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:rPU7UEL5Dks": {
+  "url": "https://i.ytimg.com/vi/rPU7UEL5Dks/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:2wrVA7sH9-0": {
+  "url": "https://i.ytimg.com/vi/2wrVA7sH9-0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:lSjs5O1VuNg": {
+  "url": "https://i.ytimg.com/vi/lSjs5O1VuNg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:zUXo-Butrf0": {
+  "url": "https://i.ytimg.com/vi/zUXo-Butrf0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xTBkbseXfOQ": {
+  "url": "https://i.ytimg.com/vi/xTBkbseXfOQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:m5V2fHB2sFk": {
+  "url": "https://i.ytimg.com/vi/m5V2fHB2sFk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EiRGoKG5kIw": {
+  "url": "https://i.ytimg.com/vi/EiRGoKG5kIw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CThPLk-hR1w": {
+  "url": "https://i.ytimg.com/vi/CThPLk-hR1w/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:x7L1s_GWn3o": {
+  "url": "https://i.ytimg.com/vi/x7L1s_GWn3o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9puLh5MCIqk": {
+  "url": "https://i.ytimg.com/vi/9puLh5MCIqk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:B1cYkK0cVEA": {
+  "url": "https://i.ytimg.com/vi/B1cYkK0cVEA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:r42tfsD0DKY": {
+  "url": "https://i.ytimg.com/vi/r42tfsD0DKY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:3sP-uT5DQLM": {
+  "url": "https://i.ytimg.com/vi/3sP-uT5DQLM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:O5yyegM2u88": {
+  "url": "https://i.ytimg.com/vi/O5yyegM2u88/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VUcEDVZQigw": {
+  "url": "https://i.ytimg.com/vi/VUcEDVZQigw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mj4y3pEEN4E": {
+  "url": "https://i.ytimg.com/vi/mj4y3pEEN4E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Kz8ma3oufcw": {
+  "url": "https://i.ytimg.com/vi/Kz8ma3oufcw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:6ieR8cCoGQY": {
+  "url": "https://i.ytimg.com/vi/6ieR8cCoGQY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qTpNxAjdo6w": {
+  "url": "https://i.ytimg.com/vi/qTpNxAjdo6w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jwMj3PJDxuo": {
+  "url": "https://i.ytimg.com/vi/jwMj3PJDxuo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

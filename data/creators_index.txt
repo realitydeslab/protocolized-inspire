@@ -1,43 +1,96 @@
 aaron-wright | Aaron Wright | 1 works
+ai-weiwei | Ai Weiwei | 1 works
 alexander-galloway | Alexander R. Galloway | 2 works
 alexis-andre | Alexis André | 1 works
+alison-knowles | Alison Knowles | 2 works
+allan-kaprow | Allan Kaprow | 5 works
 amy-whitaker | Amy Whitaker | 1 works
+anna-halprin | Anna Halprin | 1 works
 async-art | Async Art | 3 works
 basepaint | BasePaint | 1 works
 benjamin-buchloh | Benjamin H. D. Buchloh | 1 works
+benjamin-patterson | Benjamin Patterson | 1 works
 botao-amber-hu | Botao Amber Hu | 2 works
+brian-eno | Brian Eno | 1 works
+christian-marclay | Christian Marclay | 1 works
+christian-wolff | Christian Wolff | 1 works
 claire-bishop | Claire Bishop | 2 works
+collective-actions | Collective Actions | 1 works
+cornelius-cardew | Cornelius Cardew | 3 works
 damien-hirst | Damien Hirst | 1 works
 dandelion-wist-mane | Dandelion Wist Mané | 1 works
 dark-forest-team | Dark Forest team (Brian Gu, Alan Luo et al.) | 1 works
+david-horvitz | David Horvitz | 2 works
+david-katzive | David H. Katzive | 1 works
 dom-hofmann | Dom Hofmann | 2 works
+erwin-wurm | Erwin Wurm | 1 works
 eugene-thacker | Eugene Thacker | 1 works
+felix-gonzalez-torres | Felix Gonzalez-Torres | 3 works
 florian-cramer | Florian Cramer | 1 works
+francis-alys | Francis Alÿs | 6 works
+frederic-rzewski | Frederic Rzewski | 1 works
+george-brecht | George Brecht | 3 works
+george-maciunas | George Maciunas | 1 works
+gillian-wearing | Gillian Wearing | 1 works
 grant-kester | Grant Kester | 1 works
-hans-ulrich-obrist | Hans Ulrich Obrist | 1 works
+guy-debord | Guy Debord | 2 works
+hans-haacke | Hans Haacke | 1 works
+hans-ulrich-obrist | Hans Ulrich Obrist | 2 works
 harm-van-den-dorpel | Harm van den Dorpel | 1 works
+helio-oiticica | Hélio Oiticica | 1 works
+improv-everywhere | Improv Everywhere | 1 works
 jack-burnham | Jack Burnham | 2 works
 jack-butcher | Jack Butcher | 9 works
+jackson-mac-low | Jackson Mac Low | 1 works
 jacob-horne | Jacob Horne | 1 works
+jeremy-deller | Jeremy Deller | 2 works
+john-baldessari | John Baldessari | 1 works
+john-cage | John Cage | 5 works
+joseph-beuys | Joseph Beuys | 2 works
+karlheinz-stockhausen | Karlheinz Stockhausen | 1 works
 kei-kreutler | Kei Kreutler | 1 works
+la-monte-young | La Monte Young | 2 works
+laszlo-moholy-nagy | László Moholy-Nagy | 1 works
+lawrence-weiner | Lawrence Weiner | 1 works
+lee-mingwei | Lee Mingwei | 1 works
+lygia-clark | Lygia Clark | 2 works
 malte-rauch | Malte Rauch | 1 works
 marc-garrett | Marc Garrett | 1 works
+marcel-duchamp | Marcel Duchamp | 1 works
+marina-abramovic | Marina Abramović | 2 works
 mat-dryhurst | Mat Dryhurst | 1 works
 mathcastles | Mathcastles | 1 works
 matt-kane | Matt Kane | 2 works
+mieko-shiomi | Mieko Shiomi | 1 works
+mierle-laderman-ukeles | Mierle Laderman Ukeles | 2 works
 mitchell-f-chan | Mitchell F. Chan | 1 works
 nicolas-bourriaud | Nicolas Bourriaud | 1 works
 pak | Pak | 7 works
+paul-ramirez-jonas | Paul Ramírez Jonas | 1 works
+pauline-oliveros | Pauline Oliveros | 1 works
 penny-rafferty | Penny Rafferty | 1 works
+peter-schmidt | Peter Schmidt | 1 works
 primavera-de-filippi | Primavera De Filippi | 1 works
+raymond-queneau | Raymond Queneau | 1 works
 rhea-myers | Rhea Myers | 1 works
+rirkrit-tiravanija | Rirkrit Tiravanija | 1 works
+roman-ondak | Roman Ondák | 1 works
 roy-ascott | Roy Ascott | 1 works
 ruth-catlow | Ruth Catlow | 2 works
 sam-spratt | Sam Spratt | 2 works
-sol-lewitt | Sol LeWitt | 2 works
+simone-forti | Simone Forti | 1 works
+sol-lewitt | Sol LeWitt | 11 works
 summer-of-protocols | Summer of Protocols | 2 works
 suum-cuique-labs | Suum Cuique Labs | 1 works
+suzanne-lacy | Suzanne Lacy | 1 works
+tania-bruguera | Tania Bruguera | 3 works
+terry-riley | Terry Riley | 1 works
+thomas-hirschhorn | Thomas Hirschhorn | 1 works
+tino-sehgal | Tino Sehgal | 2 works
+tom-marioni | Tom Marioni | 1 works
 tom-sachs | Tom Sachs | 1 works
 tyler-hobbs | Tyler Hobbs | 1 works
+valie-export | VALIE EXPORT | 1 works
 venkatesh-rao | Venkatesh Rao | 2 works
 vera-list-center | Vera List Center for Art and Politics | 1 works
+yoko-ono | Yoko Ono | 7 works
