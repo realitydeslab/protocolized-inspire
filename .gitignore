@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+temp/
+*.pyc
+.claude/scheduled_tasks.lock
+.claude/settings.local.json

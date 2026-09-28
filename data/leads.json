@@ -1,0 +1,178 @@
+[
+ {
+  "name": "Fomo (Pak, 2021)",
+  "why": "Free mint with fixed supply and a 50% secondary fee framed as partnership; check whether the fee rule shaped holder behaviour.",
+  "link": "https://paragraph.com/@netic7/systems-as-art",
+  "found_via": "pak",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "ASH Chapter II: Metamorphosis (Pak, March 2022)",
+  "why": "Second ASH-only drop; mechanics not yet documented.",
+  "link": "https://twitter.com/muratpak/status/1506360961850089474",
+  "found_via": "pak",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "404: The Presence of Absence (Pak)",
+  "why": "Mentioned by collectors as a Pak project; date and rules unknown.",
+  "link": "https://paragraph.com/@netic7/the-silence",
+  "found_via": "pak",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "VV Editions: Humanity Check, 100 Meals (Jack Butcher, 2021)",
+  "why": "Early 'infinite editions' by Visualize Value; check whether supply rules were a declared part of the work.",
+  "link": "https://jack.art/vv-editions",
+  "found_via": "jack-butcher",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Hashmasks (Suum Cuique Labs, 2021)",
+  "why": "16,384 portraits whose names are set by holders by burning NCT tokens; collective naming as co-authorship.",
+  "link": "https://www.thehashmasks.com",
+  "found_via": "pak",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Sam Spratt, The Monument Game (2023)",
+  "why": "Holders of Spratt's works play a game that shapes the Luci narrative; possible co-authorship protocol.",
+  "link": "https://www.samspratt.com",
+  "found_via": "jack-butcher",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Sarah Meyohas, Bitchcoin (2015)",
+  "why": "Token backed by photographs, redeemable by burning; early supply/provenance work (check the provenance batch first).",
+  "link": "https://www.sarahmeyohas.com",
+  "found_via": "mitchell-f-chan",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Damien Hirst, other HENI NFT projects (2022–2023)",
+  "why": "Check whether later HENI releases reused The Currency's choice-and-burn rule.",
+  "link": "https://heni.com",
+  "found_via": "damien-hirst",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Kevin Abosch, Forever Rose / IAMA Coin (2018)",
+  "why": "A 1/1 split among 10 co-owners and a 10-million-token self-portrait; ownership rules, not yet researched.",
+  "link": "https://en.wikipedia.org/wiki/Kevin_Abosch",
+  "found_via": "mitchell-f-chan",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Alexis André, Friendship Bracelets (2022)",
+  "why": "Generative bracelets meant to be gifted; possible circulation protocol.",
+  "link": "https://www.artblocks.io",
+  "found_via": "jack-butcher",
+  "status": "open",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Jack Burnham, 'Real Time Systems' (Artforum, 1969)",
+  "why": "Companion essay to Systems Esthetics on art as information and real-time process.",
+  "link": "https://www.artforum.com/features/real-time-systems-210752/",
+  "found_via": "jack-burnham",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Roy Ascott, 'Behaviourist Art and the Cybernetic Vision' (Cybernetica, 1966–67)",
+  "why": "Earlier Ascott text defining art as a behavioural system with feedback from participants.",
+  "link": "https://en.wikipedia.org/wiki/Roy_Ascott",
+  "found_via": "roy-ascott",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Edward A. Shanken (ed.), Telematic Embrace (UC Press, 2003)",
+  "why": "Collected Ascott writings (the 1990 essay is reprinted as chapter 16, DOI 10.1525/9780520935372-019).",
+  "link": "https://www.ucpress.edu/books/telematic-embrace/paper",
+  "found_via": "roy-ascott",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Primavera De Filippi & Felix Beer, 'Protocol Art II' (Protocolized / Protocol Institute, 2025)",
+  "why": "Lecture on protocol art as rule systems executed and modified by communities; check for Protocol Art I and a video.",
+  "link": "https://protocolized.io/resources/protocol-art-ii",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Distributed Gallery / [aside] (Right Click Save interview 'The Aesthetic of a Protocol', 2024)",
+  "why": "Collective that explicitly calls its practice protocol art (Ready-Made Token, Chaos Machine, time-locked NFTs); belongs to onchain batch.",
+  "link": "https://www.rightclicksave.com/article/the-aesthetic-of-a-protocol",
+  "found_via": "malte-rauch",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Verse journal, 'Protocol Art, Museum Acquisitions, and Measuring Public Sentiment' (2024)",
+  "why": "Interview by Mimi Nguyen and Malte Rauch with Distributed Gallery defining protocol art.",
+  "link": "https://verse.works/journal/protocol-art-and-museum-acquisitions",
+  "found_via": "malte-rauch",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "World Computer Sculpture Garden (curated by 0xfff, 2024)",
+  "why": "A 'contract show' that exists only as an Ethereum contract (0x2a362fF002f7ce62D3468509dD2A4a9f5A8EBBb0); works by Rhea Myers, Sarah Friend and others. Onchain batch.",
+  "link": "https://worldcomputersculpture.garden/",
+  "found_via": "malte-rauch",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Outland, 'Breaking Protocol' (Ordinals art)",
+  "why": "Essay treating the Ordinals protocol as an artist-made protocol maintained by collective inscription.",
+  "link": "https://outland.art/ordinals-art/",
+  "found_via": "botao-amber-hu",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Kei Kreutler, 'Inventories, Not Identities' (2021)",
+  "why": "First essay in the same Gnosis Guild series, on collective composable identity via multisigs.",
+  "link": "https://medium.com/gnosis-pm/inventories-not-identities-7da9a4ec5a3e",
+  "found_via": "kei-kreutler",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Protocol Institute / Protocolized newsletter",
+  "why": "Successor to Summer of Protocols; hosts lectures on protocol art and design.",
+  "link": "https://protocolized.summerofprotocols.com/p/introducing-the-protocol-institute",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Shannon Jackson, Social Works (Routledge, 2011); Pablo Helguera, Education for Socially Engaged Art (2011); Tom Finkelpearl, What We Made (2013)",
+  "why": "Further participation-theory books not yet researched.",
+  "link": "",
+  "found_via": "claire-bishop",
+  "status": "open",
+  "batch": "theory"
+ },
+ {
+  "name": "Max Haiven, Art after Money, Money after Art (Pluto, 2018); MoneyLab Reader (INC, 2015)",
+  "why": "Texts on artist-made economies and currencies relevant to crypto-theory.",
+  "link": "",
+  "found_via": "ruth-catlow",
+  "status": "open",
+  "batch": "theory"
+ }
+]

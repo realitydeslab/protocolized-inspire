@@ -1,0 +1,250 @@
+{
+  "fields": [
+    {
+      "id": "score",
+      "en": "Scores & Instructions",
+      "zh": "乐谱与指令",
+      "desc_en": "The artist writes instructions; other people carry them out, and each execution is the work. From telephone paintings and Fluxus event scores to Sol LeWitt's wall drawings.",
+      "desc_zh": "艺术家写下指令，由别人去执行，每一次执行就是作品本身。从电话绘画、激浪派事件乐谱到索尔·勒维特的墙绘。",
+      "subs": [
+        {
+          "id": "execution",
+          "en": "Instructions for Execution",
+          "zh": "交由他人执行的指令",
+          "desc_en": "Works that exist as a set of instructions and are made, again and again, by assistants, owners or institutions.",
+          "desc_zh": "以一组指令的形式存在、由助手、藏家或机构一次次制作出来的作品。"
+        },
+        {
+          "id": "event-scores",
+          "en": "Event Scores & Fluxus",
+          "zh": "事件乐谱与激浪派",
+          "desc_en": "Short written scores for actions and events that anyone can perform.",
+          "desc_zh": "写给行动和事件的简短乐谱，任何人都可以表演。"
+        },
+        {
+          "id": "public-instructions",
+          "en": "Instructions for the Public",
+          "zh": "写给公众的指令",
+          "desc_en": "Instructions addressed to readers, visitors and strangers, who become the performers.",
+          "desc_zh": "写给读者、观众和陌生人的指令，他们因此成为表演者。"
+        },
+        {
+          "id": "constraints",
+          "en": "Constraints, Chance & Games",
+          "zh": "约束、偶然与游戏",
+          "desc_en": "Rule systems, constraints and chance procedures that generate outcomes the author does not control.",
+          "desc_zh": "生成作者无法控制之结果的规则系统、约束和偶然程序。"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "en": "Social Protocols & Economies",
+      "zh": "社会协议与另类经济",
+      "desc_en": "Rules for groups, exchanges and contracts in physical space: social sculpture, performance protocols, mail-art networks and artist-made economies.",
+      "desc_zh": "在物理空间中为群体、交换与契约设计的规则：社会雕塑、表演协议、邮件艺术网络，以及艺术家设计的经济。",
+      "subs": [
+        {
+          "id": "collective-action",
+          "en": "Social Sculpture & Collective Action",
+          "zh": "社会雕塑与集体行动",
+          "desc_en": "Works made by many people acting together under one rule: planting, walking, moving, gathering.",
+          "desc_zh": "由许多人在同一条规则下共同行动而完成的作品：种树、行走、搬运、聚集。"
+        },
+        {
+          "id": "performance",
+          "en": "Performance Protocols",
+          "zh": "表演协议",
+          "desc_en": "Performances where the audience's actions, bounded by the artist's rules, make the piece.",
+          "desc_zh": "观众在艺术家规则之内的行动构成作品的表演。"
+        },
+        {
+          "id": "correspondence",
+          "en": "Mail Art & Correspondence Networks",
+          "zh": "邮件艺术与通信网络",
+          "desc_en": "Artworks that travel through the post and grow as each recipient adds to them and sends them on.",
+          "desc_zh": "通过邮政流转、每个收件人添加内容再寄出而不断生长的作品。"
+        },
+        {
+          "id": "economies",
+          "en": "Contracts, Currencies & Exchange",
+          "zh": "契约、货币与交换",
+          "desc_en": "Artist-designed contracts, receipts, currencies and exchange rituals: the pre-blockchain ancestors of tokens and royalties.",
+          "desc_zh": "艺术家设计的契约、收据、货币与交换仪式：代币和版税在区块链出现之前的前身。"
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "en": "Network & Crowd Protocols",
+      "zh": "网络与群体协议",
+      "desc_en": "Rules posted to a network and played by thousands or millions of people: telematic art, crowdsourced works and collective online experiments.",
+      "desc_zh": "发布到网络上、由成千上万人参与的规则：远程通信艺术、众包作品和集体网络实验。",
+      "subs": [
+        {
+          "id": "telematic",
+          "en": "Telematic & Early Network Art",
+          "zh": "远程通信与早期网络艺术",
+          "desc_en": "Works for modems, bulletin boards, robots and the early web that let distant participants act together.",
+          "desc_zh": "为调制解调器、电子公告板、机器人和早期网络而作，让远方的参与者共同行动的作品。"
+        },
+        {
+          "id": "crowdsourced",
+          "en": "Crowdsourced Works",
+          "zh": "众包作品",
+          "desc_en": "An assignment or task sent to a crowd; the collected responses are the work.",
+          "desc_zh": "把一个任务派发给人群，收集到的回应就是作品。"
+        },
+        {
+          "id": "collective-games",
+          "en": "Collective Canvases & Games",
+          "zh": "集体画布与游戏",
+          "desc_en": "Shared canvases, buttons and games where one simple rule meets a very large crowd.",
+          "desc_zh": "共享画布、按钮和游戏：一条简单的规则遇上非常庞大的人群。"
+        },
+        {
+          "id": "open-infrastructure",
+          "en": "Open Infrastructure & Commons",
+          "zh": "开放基础设施与公地",
+          "desc_en": "Artist-built infrastructures, file drops and commons that strangers maintain and use.",
+          "desc_zh": "由艺术家搭建、由陌生人维护和使用的基础设施、文件投放点与公地。"
+        }
+      ]
+    },
+    {
+      "id": "onchain",
+      "en": "Smart-Contract Art",
+      "zh": "智能合约艺术",
+      "desc_en": "Artworks whose rules run in a smart contract: supply, burning, merging, transfer, taxes and co-authorship enforced on-chain, and shaped by what collectors do.",
+      "desc_zh": "规则运行在智能合约里的作品：供应、销毁、合并、转移、税费与共同创作都在链上执行，并由藏家的行为塑造。",
+      "subs": [
+        {
+          "id": "supply",
+          "en": "Supply, Burn & Merge",
+          "zh": "供应、销毁与合并",
+          "desc_en": "Open editions, burning, merging and composites: the final form is set by how many people buy, burn or combine.",
+          "desc_zh": "开放版数、销毁、合并与合成：最终形态取决于多少人购买、销毁或组合。"
+        },
+        {
+          "id": "ownership",
+          "en": "Ownership & Transfer Rules",
+          "zh": "所有权与转移规则",
+          "desc_en": "Contracts that change what owning means: always for sale, must be passed on, dies if held, changes with its owner.",
+          "desc_zh": "改变“拥有”含义的合约：永远在售、必须转手、持有即死亡、随持有者而改变。"
+        },
+        {
+          "id": "co-authored",
+          "en": "Programmable & Co-authored Works",
+          "zh": "可编程与共同创作的作品",
+          "desc_en": "Works whose layers, parameters or worlds are written by their holders and by the community that builds on them.",
+          "desc_zh": "图层、参数或世界由持有者和在其上继续创作的社区写成的作品。"
+        },
+        {
+          "id": "provenance",
+          "en": "Early Tokens & Provenance",
+          "zh": "早期代币与来源",
+          "desc_en": "The first crypto-art tokens, registries and claim mechanics, before the 2021 boom.",
+          "desc_zh": "2021 年热潮之前最早的加密艺术代币、登记簿和认领机制。"
+        }
+      ]
+    },
+    {
+      "id": "autonomous",
+      "en": "Autonomous Entities & DAOs",
+      "zh": "自治实体与 DAO",
+      "desc_en": "Artworks that own themselves, reproduce, or are governed by their community: self-owning forests, blockchain life forms, autonomous artists and art DAOs.",
+      "desc_zh": "拥有自己、自我繁殖或由社区治理的作品：自我拥有的森林、区块链生命形式、自治艺术家与艺术 DAO。",
+      "subs": [
+        {
+          "id": "self-owning",
+          "en": "Self-owning Life & Nature",
+          "zh": "自我拥有的生命与自然",
+          "desc_en": "Forests, plants and life forms that hold their own money, sell their own output and reproduce through contracts.",
+          "desc_zh": "持有自己的钱、出售自己的产出、通过合约繁殖的森林、植物与生命形式。"
+        },
+        {
+          "id": "autonomous-artists",
+          "en": "Autonomous & Collective Artists",
+          "zh": "自治与集体艺术家",
+          "desc_en": "Artist identities run by a machine and a voting community, or licensed to the public under community rules.",
+          "desc_zh": "由机器和投票社区运行、或在社区规则下向公众授权的艺术家身份。"
+        },
+        {
+          "id": "dao",
+          "en": "DAOs & Collective Governance",
+          "zh": "DAO 与集体治理",
+          "desc_en": "Art projects where token holders vote, fund and decide: daily auctions, artist careers run by shareholders, collective purchases.",
+          "desc_zh": "代币持有者投票、出资和决策的艺术项目：每日拍卖、由股东决定的艺术生涯、集体收购。"
+        }
+      ]
+    },
+    {
+      "id": "theory",
+      "en": "Theory & Texts",
+      "zh": "理论与文本",
+      "desc_en": "Books, essays and research programmes that define protocols, systems and participation in art.",
+      "desc_zh": "界定艺术中的协议、系统与参与的书籍、文章与研究计划。",
+      "subs": [
+        {
+          "id": "systems",
+          "en": "Systems & Protocol Theory",
+          "zh": "系统与协议理论",
+          "desc_en": "Texts on systems aesthetics, protocols and control in networks.",
+          "desc_zh": "关于系统美学、协议与网络中控制的文本。"
+        },
+        {
+          "id": "participation",
+          "en": "Participation & Relational Art",
+          "zh": "参与与关系艺术",
+          "desc_en": "Texts on participatory, relational and social practice art.",
+          "desc_zh": "关于参与式艺术、关系艺术和社会实践艺术的文本。"
+        },
+        {
+          "id": "crypto-theory",
+          "en": "Crypto Art & Protocol Research",
+          "zh": "加密艺术与协议研究",
+          "desc_en": "Books, anthologies and research programmes on blockchain art, DAOs and protocols.",
+          "desc_zh": "关于区块链艺术、DAO 与协议的书籍、文集和研究计划。"
+        }
+      ]
+    }
+  ],
+  "mechanisms": [
+    ["instruction", "Instruction & score", "指令与乐谱"],
+    ["participation", "Open participation", "开放参与"],
+    ["constraint", "Rules & constraints", "规则与约束"],
+    ["chance", "Chance & randomness", "偶然与随机"],
+    ["circulation", "Circulation & passing on", "流转与传递"],
+    ["exchange", "Market & exchange", "市场与交换"],
+    ["currency", "Currency & value", "货币与价值"],
+    ["contract", "Contract & certificate", "契约与证书"],
+    ["scarcity", "Supply & scarcity", "供应与稀缺"],
+    ["burn", "Burn & destruction", "销毁"],
+    ["merge", "Merge & composite", "合并与合成"],
+    ["co-authorship", "Co-authorship & derivatives", "共同创作与衍生"],
+    ["governance", "Voting & governance", "投票与治理"],
+    ["autonomy", "Self-ownership & autonomy", "自我拥有与自治"],
+    ["time", "Time, decay & death", "时间、衰变与死亡"]
+  ],
+  "substrates": [
+    ["text", "Text & paper", "文本与纸面"],
+    ["body", "Bodies & space", "身体与空间"],
+    ["post", "Post & mail", "邮政"],
+    ["network", "Internet & platforms", "互联网与平台"],
+    ["bitcoin", "Bitcoin & Counterparty", "比特币与 Counterparty"],
+    ["ethereum", "Ethereum & L2s", "以太坊与二层网络"],
+    ["tezos", "Tezos", "Tezos"],
+    ["other-chain", "Other chains", "其他链"],
+    ["ai", "AI & machine", "人工智能与机器"]
+  ],
+  "kinds": [
+    ["artwork", "Artwork", "艺术作品"],
+    ["score", "Score & instruction set", "乐谱与指令集"],
+    ["series", "Series & collection", "系列与合集"],
+    ["platform", "Platform & protocol", "平台与协议"],
+    ["game", "Game & experiment", "游戏与实验"],
+    ["organization", "DAO & organization", "DAO 与组织"],
+    ["publication", "Book & essay", "书与文章"]
+  ],
+  "collections": []
+}

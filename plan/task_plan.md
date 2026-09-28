@@ -1,0 +1,28 @@
+# Task plan — Protocolized Inspire
+
+Goal: a sibling of `../mth-inspire` for **protocol art**: works where an artist / designer authors a protocol,
+the protocol shapes what a group of people does, and that group behaviour is the work.
+Examples named by the user: Pak, terra0, Sol LeWitt; most recent works are smart-contract based.
+
+## Decisions
+- Same architecture as mth-inspire: `data/raw/*.json` batches → `tools/build_data.py` → `data/entries.js` + static site.
+- Replace `organisms` with `mechanisms` (1–3 protocol primitives) and add `substrate` (paper, body, post, internet, ethereum…).
+- Replace `method` with two protocol fields: `protocol` (the rules) and `collective` (what the group did).
+- Replace the Papers view with a Timeline view (the lineage from 1920s instructions to smart contracts).
+- Local only: no git remote, no publish, no domain until the user decides. Placeholder site URL `https://protocolized.reality.design`.
+
+## Phases
+- [x] P0 Scaffold: taxonomy, SCHEMA, RESEARCH_BRIEF, tools, site, README, /add-work command (empty build OK, JS/py syntax OK)
+- [ ] P0 Research batches (8 parallel agents): score, social, network, onchain-pak, onchain-rules, onchain-coauthor, autonomous, theory
+- [ ] P0 Validate + build + fix dropped media
+- [ ] P1 Local preview check (`./serve.sh`, port 8933)
+- [ ] P2 git init, remote, domain, publish (needs user decision)
+
+## Progress log
+- theory.json ✓ (28 works), onchain-pak.json ✓ (19 works). Interim build: 47 works, 0 dropped, 0 media problems.
+- Browser check (localhost:8933): atlas, timeline, player OK, no console errors. Added hashchange listener; collection chip row hidden until a collection has works.
+- Second-pass leads: Distributed Gallery, World Computer Sculpture Garden (0xfff 2024), De Filippi & Beer "Protocol Art II", Hashmasks, Sam Spratt, Pak Fomo / ASH Chapter II.
+- Possible duplicate: Pak "Clock" (onchain-pak) vs AssangeDAO (autonomous batch) — check with audit_titles.
+
+## Blockers
+- Bash auto-mode classifier returned "no verdict" repeatedly at start; scaffold written with Write.

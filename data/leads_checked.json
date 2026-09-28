@@ -1,0 +1,106 @@
+[
+ {
+  "name": "Archillect (Pak, 2014)",
+  "why": "AI image curator whose picks respond to audience engagement; followers give feedback but do not act under an authored rule, so it fails test 2–3.",
+  "link": "https://archillect.com",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "The Switch (Pak, 2021)",
+  "why": "1/1 whose owner can call a function once to change it; a single-owner mechanic, not collective behaviour.",
+  "link": "https://www.sothebys.com/en/articles/17-million-realized-in-sothebys-first-nft-sale-with-digital-creator-pak",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Hate (Pak, 2022)",
+  "why": "Tokens issued to critics and later moved to a burn address by Pak; the rule acts on individuals, not a group.",
+  "link": "https://paragraph.com/@netic7/systems-as-art",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "The Title (Pak, 2021)",
+  "why": "Identical NFTs sold under different titles and pricing; a comment on framing without collective rules.",
+  "link": "https://opensea.io/collection/the-title-by-pak",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Pak open editions on Nifty Gateway (Project X, 2020)",
+  "why": "Early time-limited open editions credited to Pak; context for The Fungible and Merge rather than a separate protocol work.",
+  "link": "https://en.wikipedia.org/wiki/Pak_(creator)",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Checks Elements (Jack Butcher, 2023)",
+  "why": "Monoprints paired with tokens; no collector mechanism.",
+  "link": "https://jack.art/checks-elements",
+  "found_via": "jack-butcher",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Gas Wars (Jack Butcher, 2025)",
+  "why": "Art Blocks release where price follows token number in a 500-second window; a mint mechanic, collective behaviour only predicted.",
+  "link": "https://jack.art/gas-wars",
+  "found_via": "jack-butcher",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Wrappers (Jack Butcher, 2026)",
+  "why": "80 images distributed by blind draw; holders have no rule to act on.",
+  "link": "https://jack.art/wrappers",
+  "found_via": "jack-butcher",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Mad Dog Jones, REPLICATOR (2021)",
+  "why": "A 1/1 that generates new editions over time; reproduction without a group rule.",
+  "link": "https://www.phillips.com",
+  "found_via": "pak",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Burnt Banksy (2021)",
+  "why": "A bought Banksy print burned and minted as an NFT by a company; no artist-authored protocol.",
+  "link": "https://en.wikipedia.org/wiki/Banksy",
+  "found_via": "damien-hirst",
+  "status": "off_topic",
+  "batch": "onchain-pak"
+ },
+ {
+  "name": "Wikipedia article 'Protocolar Art'",
+  "why": "Flagged on Wikipedia as possibly AI-generated (March 2026); promotes a single theorist's term. Not a reliable source.",
+  "link": "https://en.wikipedia.org/wiki/Protocolar_Art",
+  "found_via": "botao-amber-hu",
+  "status": "off_topic",
+  "batch": "theory"
+ },
+ {
+  "name": "terra0 whitepaper (Paul Seidler et al., 2016)",
+  "why": "Owned by the autonomous batch together with the terra0 work.",
+  "link": "https://terra0.org/",
+  "found_via": "primavera-de-filippi",
+  "status": "duplicate",
+  "batch": "theory"
+ },
+ {
+  "name": "Yoko Ono, Grapefruit (1964)",
+  "why": "Belongs to the score batch.",
+  "link": "",
+  "found_via": "sol-lewitt",
+  "status": "duplicate",
+  "batch": "theory"
+ }
+]
