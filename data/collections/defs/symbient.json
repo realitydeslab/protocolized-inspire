@@ -1,0 +1,11 @@
+[
+  {
+    "id": "symbient-life",
+    "type": "registry",
+    "en": "symbient.life — Symbients registry",
+    "zh": "symbient.life 共生体名录",
+    "desc_en": "Online registry run by the Symbient Research Unit (2025) of 'symbients': entities that emerge from the symbiosis of organic beings and synthetic systems and show operational and decisional autonomy. It lists ten symbients, from AARON and Plantoid to Botto and Truth Terminal, with the artists and researchers who tend them.",
+    "desc_zh": "由 Symbient Research Unit（2025）维护的在线名录，收录“共生体”：由有机生命与合成系统共生而生、具有运行与决策自主性的存在。名录列出十个共生体，从 AARON、Plantoid 到 Botto 和 Truth Terminal，以及照料它们的艺术家和研究者。",
+    "url": "https://symbient.life/"
+  }
+]

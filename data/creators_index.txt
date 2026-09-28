@@ -6,6 +6,7 @@ alexander-galloway | Alexander R. Galloway | 2 works
 alexis-andre | Alexis André | 1 works
 alison-knowles | Alison Knowles | 2 works
 allan-kaprow | Allan Kaprow | 5 works
+alternative-machine | Alternative Machine | 1 works
 amy-whitaker | Amy Whitaker | 1 works
 andy-ayrey | Andy Ayrey | 1 works
 anil-dash | Anil Dash | 1 works
@@ -56,23 +57,28 @@ gene-kogan | Gene Kogan | 1 works
 george-brecht | George Brecht | 4 works
 george-maciunas | George Maciunas | 1 works
 gillian-wearing | Gillian Wearing | 1 works
+goodbye-monkey | Goodbye Monkey | 1 works
 grant-kester | Grant Kester | 1 works
 guy-debord | Guy Debord | 2 works
 hans-haacke | Hans Haacke | 1 works
 hans-ulrich-obrist | Hans Ulrich Obrist | 2 works
 harm-van-den-dorpel | Harm van den Dorpel | 1 works
+harold-cohen | Harold Cohen | 1 works
 harrell-fletcher | Harrell Fletcher | 1 works
 heath-bunting | Heath Bunting | 1 works
 helio-oiticica | Hélio Oiticica | 1 works
+her-she-loves-data | HER: She Loves Data | 1 works
 holly-herndon | Holly Herndon | 10 works
 improv-everywhere | Improv Everywhere | 1 works
 jack-burnham | Jack Burnham | 2 works
 jack-butcher | Jack Butcher | 9 works
 jackson-mac-low | Jackson Mac Low | 1 works
 jacob-horne | Jacob Horne | 1 works
+james-greig | James Greig | 1 works
 janet-echelman | Janet Echelman | 1 works
 jeremy-deller | Jeremy Deller | 2 works
 joe-looney | Joe Looney | 1 works
+joel-simon | Joel Simon | 2 works
 john-baldessari | John Baldessari | 1 works
 john-cage | John Cage | 5 works
 jonah-brucker-cohen | Jonah Brucker-Cohen | 1 works
@@ -89,6 +95,7 @@ kevin-abosch | Kevin Abosch | 3 works
 kevin-macdonald | Kevin Macdonald | 1 works
 kevin-mccoy | Kevin McCoy | 2 works
 kit-galloway | Kit Galloway | 1 works
+kristi-coronado | Kristi Coronado | 1 works
 kyle-mcdonald | Kyle McDonald | 1 works
 la-monte-young | La Monte Young | 2 works
 larva-labs | Larva Labs | 2 works

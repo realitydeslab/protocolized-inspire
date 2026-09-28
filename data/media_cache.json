@@ -4357,5 +4357,200 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:cDzo98k8G7g": {
+  "url": "https://www.youtube.com/watch?v=cDzo98k8G7g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cDzo98k8G7g",
+  "title": "Sci-Fi Short Film \"S.A.N\" | DUST | Online Premiere",
+  "author": "DUST",
+  "thumbnail": "https://i.ytimg.com/vi/cDzo98k8G7g/hqdefault.jpg"
+ },
+ "img:https://symbient.life/assets/symbients/SAN-960.jpg": {
+  "url": "https://symbient.life/assets/symbients/SAN-960.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/67192165eaa24175e2a8a8c7/8c09ce73-cbc5-4638-990d-72520a6d610e/SAN+STILLS_1.1.72.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/67192165eaa24175e2a8a8c7/8c09ce73-cbc5-4638-990d-72520a6d610e/SAN+STILLS_1.1.72.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:7EqeGHA2h5E": {
+  "url": "https://www.youtube.com/watch?v=7EqeGHA2h5E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7EqeGHA2h5E",
+  "title": "wibwobworld - symbient not software - how will AIs and humans collaborate?",
+  "author": "James Greig",
+  "thumbnail": "https://i.ytimg.com/vi/7EqeGHA2h5E/hqdefault.jpg"
+ },
+ "img:https://symbient.life/assets/symbients/wibwob-960.png": {
+  "url": "https://symbient.life/assets/symbients/wibwob-960.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wibandwob.com/assets/work/emergence.png": {
+  "url": "https://wibandwob.com/assets/work/emergence.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://alternativemachine.co.jp/images/plantbot_ginza_01_delete.jpg": {
+  "url": "https://alternativemachine.co.jp/images/plantbot_ginza_01_delete.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://alternativemachine.co.jp/images/plantbot.jpg": {
+  "url": "https://alternativemachine.co.jp/images/plantbot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://alternativemachine.co.jp/images/plantbot_cg.jpg": {
+  "url": "https://alternativemachine.co.jp/images/plantbot_cg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:QLdJumN8rGs": {
+  "url": "https://www.youtube.com/watch?v=QLdJumN8rGs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "QLdJumN8rGs",
+  "title": "il respiro di pneumOS",
+  "author": "HER: She Loves Data",
+  "thumbnail": "https://i.ytimg.com/vi/QLdJumN8rGs/hqdefault.jpg"
+ },
+ "img:https://www.he-r.it/wp-content/uploads/2025/09/pneumOS_20250410_145838-scaled.jpg": {
+  "url": "https://www.he-r.it/wp-content/uploads/2025/09/pneumOS_20250410_145838-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.he-r.it/wp-content/uploads/2025/03/DSC00310-scaled.jpg": {
+  "url": "https://www.he-r.it/wp-content/uploads/2025/03/DSC00310-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.he-r.it/wp-content/uploads/2025/03/PNEUMOS-DEF.jpg": {
+  "url": "https://www.he-r.it/wp-content/uploads/2025/03/PNEUMOS-DEF.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:fn-ekC_fh0o": {
+  "url": "https://www.youtube.com/watch?v=fn-ekC_fh0o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "fn-ekC_fh0o",
+  "title": "AUTOMATA, Solienne, Paris Photo 2025",
+  "author": "cOntemporary Art TV",
+  "thumbnail": "https://i.ytimg.com/vi/fn-ekC_fh0o/hqdefault.jpg"
+ },
+ "img:https://www.solienne.ai/images/solienne-door-portrait-768.jpg": {
+  "url": "https://www.solienne.ai/images/solienne-door-portrait-768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ahrezthybqdziqe6.public.blob.vercel-storage.com/rented-gaze/curation/01-anchor-wetplate.jpeg": {
+  "url": "https://ahrezthybqdziqe6.public.blob.vercel-storage.com/rented-gaze/curation/01-anchor-wetplate.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.solienne.ai/images/paris-booth.jpeg": {
+  "url": "https://www.solienne.ai/images/paris-booth.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:uhxlFOKg17s": {
+  "url": "https://www.youtube.com/watch?v=uhxlFOKg17s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uhxlFOKg17s",
+  "title": "Harold Cohen: AARON | Plotter Demonstration",
+  "author": "Whitney Museum of American Art",
+  "thumbnail": "https://i.ytimg.com/vi/uhxlFOKg17s/hqdefault.jpg"
+ },
+ "img:https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg": {
+  "url": "https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg": {
+  "url": "https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://images.computerhistory.org/blog-media/harold_cohen_aaron_CohenTurtleca1979-copy.jpg": {
+  "url": "http://images.computerhistory.org/blog-media/harold_cohen_aaron_CohenTurtleca1979-copy.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.joelsimon.net/imgs/gangrid.jpg": {
+  "url": "https://www.joelsimon.net/imgs/gangrid.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.joelsimon.net/imgs/latent-lineages/e5d34030a7dd0ae2a2b0956edf7d_4096_neato_layout.jpeg": {
+  "url": "https://www.joelsimon.net/imgs/latent-lineages/e5d34030a7dd0ae2a2b0956edf7d_4096_neato_layout.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.joelsimon.net/imgs/fb-graffiti/10151261160446749.png": {
+  "url": "https://www.joelsimon.net/imgs/fb-graffiti/10151261160446749.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.joelsimon.net/imgs/fb-graffiti/10203951830421023.png": {
+  "url": "https://www.joelsimon.net/imgs/fb-graffiti/10203951830421023.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "ytmax:cDzo98k8G7g": {
+  "url": "https://i.ytimg.com/vi/cDzo98k8G7g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7EqeGHA2h5E": {
+  "url": "https://i.ytimg.com/vi/7EqeGHA2h5E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:QLdJumN8rGs": {
+  "url": "https://i.ytimg.com/vi/QLdJumN8rGs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:fn-ekC_fh0o": {
+  "url": "https://i.ytimg.com/vi/fn-ekC_fh0o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uhxlFOKg17s": {
+  "url": "https://i.ytimg.com/vi/uhxlFOKg17s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

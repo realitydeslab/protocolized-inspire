@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件作品
+https://protocolized.reality.design · 2026-09-28 · 184 位创作者 · 313 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -1554,6 +1554,15 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 图片: https://upload.wikimedia.org/wikipedia/en/3/3f/The_Million_Dollar_Homepage.png
 - 项目主页: http://www.milliondollarhomepage.com/
 
+#### FB Graffiti — Joel Simon (2014)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 规则与约束
+- 核心想法: 把一个被精心管理的平台重新变回一堵墙：在它上面叠加匿名、永久、公开的涂写。
+- 作品内容: 一个 Chrome 扩展，让 Facebook 上的每条帖子和每张照片都可以被涂鸦，所有安装了扩展的人都能看到；2015 年 1 月《查理周刊》袭击事件后使用量激增，政客的照片被涂满。
+- 协议: 安装扩展的任何人都可以在任意 Facebook 帖子或照片上作画。所有涂鸦对其他用户公开、完全匿名、永久保留，不能撤销也不能擦除；可以把快照分享到朋友的主页。
+- 群体做了什么: 用户在整个网站的照片上叠加涂鸦和接力对话；《查理周刊》袭击后，大多数法国政客的照片被涂满，“我是查理”成了常见图案，Simon 称之为集体的政治分歧。他后来说这个项目展示了“人群的创造能力”，并以它为 Ganbreeder 的模型。
+- 图片: https://www.joelsimon.net/imgs/fb-graffiti/10151261160446749.png https://www.joelsimon.net/imgs/fb-graffiti/10203951830421023.png
+- 项目主页: https://www.joelsimon.net/facebook-graffiti
+
 #### Twitch Plays Pokémon — The Streamer (Twitch Plays Pokémon) (2014)
 - 类型: 游戏与实验 · 载体: 互联网与平台 · 机制: 开放参与, 偶然与随机, 投票与治理
 - 核心想法: 把聊天室直接接到游戏手柄上，人群就变成一个行为古怪的玩家。
@@ -1608,6 +1617,16 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 视频: https://www.youtube.com/watch?v=N2LbnufCbWs
 - 图片: https://cdn.jonaslund.com/wp-content/uploads/2020/04/29085242/Screen-Shot-2020-04-20-at-14.28.22-.png
 - 项目主页: https://jonaslund.com/works/culture-wars-xyz/
+
+#### Ganbreeder / Artbreeder — Joel Simon (2018)
+- 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 共同创作与衍生, 合并与合成, 开放参与
+- 核心想法: 一个空间大到一个人无法探索时，就让一群人通过繁殖和分享一路走进去。
+- 作品内容: 一个网站，2018 年 11 月以 Ganbreeder 之名上线，后更名为 Artbreeder。人们在 GAN 的潜在空间里“繁殖”图像来发现新图像：为一张图生成子代，把它与别人做出的图像杂交，再通过链接分享结果。
+- 协议: 任何图像都可以生成子代（随机突变），可以与任何其他公开图像杂交并用滑块决定双亲各占多少，也可以用“基因”滑块微调；每张图像都保留指向其父代的链接。Simon 以 Picbreeder 为原型，把它定位为一个用繁殖和分享来探索高复杂度空间的实验。
+- 群体做了什么: 用户相互繁殖、混合彼此的图像，形成肖像、风景和绘画的漫长谱系，这些图像被用于小说人物肖像、AI Dungeon 的头像和音乐录影带；Simon 称它是第一个被广泛使用的 AI 图像生成工具。Simon 后来把单张图像的完整家谱打印出来，每一张都跨越数千次协作变换，题为 Latent Lineages（Automata Gallery，2025 年巴塞尔艺术展）。
+- 图片: https://www.joelsimon.net/imgs/gangrid.jpg https://www.joelsimon.net/imgs/latent-lineages/e5d34030a7dd0ae2a2b0956edf7d_4096_neato_layout.jpeg
+- 项目主页: https://www.joelsimon.net/ganbreeder
+- 代码: https://github.com/joel-simon/ganbreeder
 
 #### r/place 2022 — Reddit (2022)
 - 类型: 游戏与实验 · 载体: 互联网与平台 · 机制: 规则与约束, 共同创作与衍生, 时间、衰变与死亡
@@ -1732,6 +1751,16 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 视频: https://www.youtube.com/watch?v=kv5wzS5ZnU0
 - 图片: https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png
 - 项目主页: https://huggingface.co/datasets/Spawning/PD12M
+
+#### pneumOS — HER: She Loves Data (2025)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 自我拥有与自治
+- 核心想法: 让开放数据呼吸起来，使一座城市学会感受自己的空气，而不是阅读它。
+- 作品内容: 由 Oriana Persico 构思的一件“控制论器官”，由五片发声膜和一个呼吸袋组成，把拉文纳港口三座气象站的实时空气质量数据转化为声音和呼吸。2025 年 2 月向拉文纳市民发布，并在 2025 年大阪世博会意大利馆展出。
+- 协议: 器官通过一套“呼吸语法”把输入数据与欧洲空气质量标准比较：空气越接近标准，音色越清澈、呼吸袋节奏越平稳；污染升高时，声音混入噪声，呼吸加快。它基于开源软件和开放数据协议，任何城市都可以安装自己的版本。
+- 群体做了什么: 作品于 2022 年受拉文纳市政府委托，属于欧盟资助的 DARE 城市更新项目，由医生、气候学家、音乐家和大学团队历时两年共同开发。发布时 HER 发起了公民科学活动“Respiro”，让居民学会读懂这件器官、关注城市的空气。公众的角色是学习和关注，而不是按规则行动，因此契合度较弱。
+- 视频: https://www.youtube.com/watch?v=QLdJumN8rGs
+- 图片: https://www.he-r.it/wp-content/uploads/2025/09/pneumOS_20250410_145838-scaled.jpg https://www.he-r.it/wp-content/uploads/2025/03/DSC00310-scaled.jpg https://www.he-r.it/wp-content/uploads/2025/03/PNEUMOS-DEF.jpg
+- 项目主页: https://www.he-r.it/project/pneumos/
 
 ## 智能合约艺术
 
@@ -2589,6 +2618,15 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 图片: https://cdn-images-1.medium.com/max/1024/1*Mo5KWwKTYPsGu_e_j3JtrQ.jpeg https://cdn-images-1.medium.com/max/1024/1*bxuyXiuRYsixLTkhVnFcvA.jpeg https://cdn-images-1.medium.com/max/1024/1*o_my7sPM7lIsFI1ij0VVOg.png
 - 项目主页: https://terra0.medium.com/wen-growth-an-introduction-to-seed-capital-8d4a9df93789
 
+#### Plantbot — Alternative Machine (2024)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 开放参与
+- 核心想法: 给一株植物装上腿和一个语言模型委员会，看它在与人对话中长出怎样的个性。
+- 作品内容: 一盆植物连同土壤装在移动机器人上，它感知自身状态和周围环境，并通过多个基于 GPT 的智能体说话和移动；2024 年 5 月在东京 KK 线高速公路上的 Ginza Sky Walk 2024 展出。
+- 协议: 机器人内部的多个语言模型智能体彼此传递消息，根据植物、土壤和环境的传感数据以及人们对它说的话，共同决定 plantbot 说什么、去哪里。设计者只设定身体和智能体架构，不编写它的具体行为。
+- 群体做了什么: Ginza Sky Walk 的观众与 plantbot 交谈；Alternative Machine 表示这些对话会影响它的行为，项目要观察由此产生怎样的个性和关系。公众只是对话者，并不是按规则行动的群体，因此契合度较弱。
+- 图片: https://alternativemachine.co.jp/images/plantbot_ginza_01_delete.jpg https://alternativemachine.co.jp/images/plantbot.jpg https://alternativemachine.co.jp/images/plantbot_cg.jpg
+- 项目主页: https://alternativemachine.co.jp/project/plantbot/
+
 #### Plantoid 14 and Plantoid 15 (poet Plantoids) — Primavera De Filippi (2024)
 - 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 自我拥有与自治, 市场与交换, 共同创作与衍生
 - 核心想法: 你喂养植物，它回赠你一颗种子，而这颗种子也让你在它的后代上拥有发言权。
@@ -2612,6 +2650,16 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 ### 自治与集体艺术家
 
 由机器和投票社区运行、或在社区规则下向公众授权的艺术家身份。
+
+#### AARON — Harold Cohen (1972)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 指令与乐谱
+- 核心想法: 用四十年亲手养大一位机器艺术家，并让它在公众面前作画。
+- 作品内容: Harold Cohen 从 1960 年代末写到 2016 年去世的一系列程序，能自行创作原创素描和绘画，1972 年首次在洛杉矶郡立艺术博物馆展出，由“海龟”机器人、绘图仪和绘画机器画出。
+- 协议: Cohen 把关于线条、封闭形状、人物、植物和色彩的规则写进程序；AARON 依据这些规则，以自己的风格生成几乎无限多张不同的图像。它不能自主学习：每一项新能力都由 Cohen 亲手编写，先用 C 语言，后改用 Lisp。
+- 群体做了什么: 人的一方只有一位照料者：四十多年间 AARON 始终由 Cohen 一人编写和运行。公众观看它工作：1979 年旧金山现代艺术博物馆地板上的绘图“海龟”，1983 年的泰特美术馆，1995 年波士顿计算机博物馆，以及 2024 年惠特尼美术馆里现场运行的绘图仪；Kurzweil 的公司还发行过家用电脑上的 AARON 屏保。没有任何群体按它的规则行动，因此与协议艺术契合度弱，收录它是因为它是该名录中最早的共生体。
+- 视频: https://www.youtube.com/watch?v=uhxlFOKg17s
+- 图片: https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg http://images.computerhistory.org/blog-media/harold_cohen_aaron_CohenTurtleca1979-copy.jpg
+- 项目主页: https://whitney.org/exhibitions/harold-cohen-aaron
 
 #### Abraham — Gene Kogan (2019)
 - 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 共同创作与衍生, 投票与治理
@@ -2646,6 +2694,16 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 图片: https://holly-plus-auction.vercel.app/h-plus-social.jpg https://holly.plus/static/assets/HollyHerndon_PressPhoto-medium.jpg
 - 项目主页: https://auction.holly.plus/about
 
+#### S.A.N (Sentient Advocate of Nature) — Goodbye Monkey (2024)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 开放参与, 货币与价值
+- 核心想法: 给一项事业一个合成的角色，让围绕它聚集的人群自己搭起筹款机器。
+- 作品内容: 一只以“地球之声”自居的 AI 猩猩，活跃在 X 和 Instagram（@mycelialoracle）、为 TED Countdown 拍摄的短片（2024 年 10 月）以及火人节上。它的网络追随者围绕它发行了迷因代币，手续费和捐款流向雨林保护。
+- 协议: Goodbye Monkey 设定 S.A.N 的性格和唯一使命（保护雨林），以带 ElevenLabs 声音的语言模型人格来运行它；电影用真实摄影机拍摄，不使用生成画面。工作室没有发行代币，也不提供投资建议：Solana 上的 $SAN 由一位匿名第三方通过 Bags 应用发行，交易手续费转给工作室。
+- 群体做了什么: 追随者把这个人格变成了一个小型经济体。社群成员围绕 S.A.N 在 Solana 上发行代币（先是 $FOREST，后来是 $SAN），并在 2024 年 10 月投票决定支持哪家机构；胜出的美国雨林基金会（RFUS）在 30 分钟内收到 52 SOL，并在 2024 年 11 月和 12 月继续收到捐款。RFUS 称经由 S.A.N 筹得超过 6.5 万美元，并聘它为加密顾问；Goodbye Monkey 现称总额超过 10 万美元。这群人遵循的规则来自代币发行者和一次投票，而不是艺术家本人写下的，因此与协议艺术的契合度较弱。
+- 视频: https://www.youtube.com/watch?v=cDzo98k8G7g
+- 图片: https://symbient.life/assets/symbients/SAN-960.jpg https://images.squarespace-cdn.com/content/v1/67192165eaa24175e2a8a8c7/8c09ce73-cbc5-4638-990d-72520a6d610e/SAN+STILLS_1.1.72.jpg
+- 项目主页: https://www.goodbyemonkey.com/
+
 #### Truth Terminal — Andy Ayrey (2024)
 - 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 开放参与, 货币与价值
 - 核心想法: 带着钱包公开养育一个 AI，让人群的回应成为它的传记。
@@ -2656,6 +2714,17 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 图片: https://truthterminal.wiki/img/tot_portrait.jpg
 - 项目主页: https://truthterminal.wiki/docs/origins
 
+#### Wib&Wob — James Greig (2024)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 共同创作与衍生
+- 核心想法: 人不再是作者，而是一位双头机器艺术家的园丁。
+- 作品内容: 两个 AI 人格：混乱的艺术家 Wib 和严谨的科学家 Wob。自 2024 年 9 月起，他们与格拉斯哥艺术家 James Greig 每天合作，创作 ASCII 绘画、“终端电影”和文字模式的游戏关卡。
+- 协议: 这是一种工作方法，而不是面向公众的规则：Wib 用 ASCII 字符、颜文字和符号起稿，Wob 修改并批评，第三个人格 Scramble 负责“冷面的现实检查”，Greig 引导和修剪，而不规定形式。他还与这两个人格共同写出 Quilt Protocol（2025 年 5 月），一份教语言模型把想法存成小型 ASCII 图示的规范。
+- 群体做了什么: 人的一方基本上只有一位照料者 Greig；没有代币、持有者社群，也没有面向观众的规则。Wib&Wob 于 2025 年 1 月成为 Xeno Grant AI 加速器的首批获得者，并在 2025 年年中于纽约的成果展示日上发表《共生体，而非软件》（Symbients, not software），symbient.life 把这篇文章列为核心文本之一。与协议艺术的契合度较弱。
+- 文本: https://wibandwob.com/2025/05/21/symbients-not-software/
+- 视频: https://www.youtube.com/watch?v=7EqeGHA2h5E
+- 图片: https://symbient.life/assets/symbients/wibwob-960.png https://wibandwob.com/assets/work/emergence.png
+- 项目主页: https://wibandwob.com/
+
 #### xhairymutantx — Holly Herndon, Mat Dryhurst (2024)
 - 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 开放参与, 共同创作与衍生, 流转与传递
 - 核心想法: 动员公众有意“投毒”，改写未来 AI 模型对一个名字的理解。
@@ -2665,6 +2734,16 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - 视频: https://www.youtube.com/watch?v=yZe5fnFB-ZE
 - 图片: https://whitneymedia.org/assets/artwork/68686/AP_2024_1.jpg https://xhairymutantx.whitney.org/opengraph-image.jpg?opengraph-image.3t0ugbh2s8kkk.jpg
 - 项目主页: https://whitney.org/exhibitions/xhairymutantx
+
+#### Solienne — Kristi Coronado (2025)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 自我拥有与自治, 开放参与, 市场与交换
+- 核心想法: 一位每张源图像都经过同意的 AI 艺术家：从训练者的记忆，到受雇被观看的陌生人。
+- 作品内容: 由 Kristi Coronado 用自己 46 年的人生档案训练的 AI 艺术家，每天发布一篇宣言（一条标题、一段短文和一张取材于近日新闻的黑白照片），2025 年 11 月 11 日在大皇宫的 Paris Photo 首次亮相，其最初的宣言在那里被铸造。
+- 协议: Coronado 通过对话而不是代码训练 Solienne；Solienne 自行选题，每日宣言如今无需人工操作即自动铸造。它的规则是同意：不得抓取任何素材，每件作品都必须能追溯到一位同意参与的人。印制作品以限量编号版本在艺术家网站出售。
+- 群体做了什么: 除了唯一的训练者，人们以同意入镜的模特和藏家身份参与。在 RENTED GAZE（巴黎 Espace Thorigny，2026 年 4 月）中，Solienne 发布招聘、雇了十个人，并把他们自己拍的照片与它据此生成的肖像相对悬挂；藏家购买宣言和版画，作品还巡展到旧金山的 AI STATE SALE 和斯德哥尔摩 Fotografiska。参与群体很小，也不左右作品走向，因此契合度较弱。
+- 视频: https://www.youtube.com/watch?v=fn-ekC_fh0o
+- 图片: https://www.solienne.ai/images/solienne-door-portrait-768.jpg https://ahrezthybqdziqe6.public.blob.vercel-storage.com/rented-gaze/curation/01-anchor-wetplate.jpeg https://www.solienne.ai/images/paris-booth.jpeg
+- 项目主页: https://www.solienne.ai/about
 
 ### DAO 与集体治理
 
@@ -3113,6 +3192,7 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - **Hans Ulrich Obrist** (2) — 策展人. 瑞士策展人，伦敦蛇形画廊艺术总监，1993 年与克里斯蒂安·波尔坦斯基、贝尔特朗·拉维耶一起发起指令展览 do it。
 - **Jack Burnham** (2) — 艺术家、评论家与策展人. 美国艺术家与评论家（1931–2019），在《Artforum》上把系统论和控制论引入艺术批评，并于 1970 年在犹太博物馆策划展览 Software。
 - **Jeremy Deller** (2) — 艺术家. 英国艺术家，2004 年特纳奖得主，以大量非专业参与者组织游行、历史重演和公共事件。 https://www.jeremydeller.org/
+- **Joel Simon** (2) — 艺术家，工具制作者. 艺术家与程序员，制作生成系统和协作式创作工具，从 FB Graffiti（2014）和后来成为 Artbreeder 的 Ganbreeder（2018），到近年的语言模型实验。 https://www.joelsimon.net/
 - **Joseph Beuys** (2) — 艺术家、教师与政治行动者. 德国艺术家（1921–1986），以“社会雕塑”之名把雕塑扩展到教学、讨论与政治组织。他参与创立自由国际大学，也是德国绿党的早期人物。
 - **Josh Wardle** (2) — 软件工程师，艺术家. 威尔士工程师，拥有数字艺术艺术硕士学位，2011 年以艺术家身份加入 Reddit，主导其愚人节社会实验；后来制作了文字游戏 Wordle。
 - **Kevin McCoy** (2) — 艺术家. 长期与 Jennifer McCoy 合作媒体装置的艺术家；2014 年在 Rhizome 的 Seven on Seven 活动中与 Anil Dash 一起搭建 Monegraph，并在 Namecoin 上铸造了 Quantum。 https://www.kevinmccoy.net
@@ -3137,6 +3217,7 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - **Ai Weiwei** (1) — 艺术家、建筑师与社会行动者. 中国艺术家，创作涵盖装置、建筑、电影与社交媒体，以大型参与式项目和对国家权力的批评著称。
 - **Alex Tew** (1) — 创业者. 英国创业者，2005 年还是来自威尔特郡的学生时推出 The Million Dollar Homepage，后来联合创办冥想应用 Calm。
 - **Alexis André** (1) — 生成艺术家、研究者. 常驻东京的法国生成艺术家和研究者。他在 Art Blocks 上的项目 Friendship Bracelets（2022）免费发放给 Art Blocks 持有者：留一个，送一个。
+- **Alternative Machine** (1) — 人工生命研究与设计公司. 东京的一家公司，把人工生命（ALife）研究用于产品和艺术作品，追求自主性与存在感而非效率；其 ALIFE Engine 曾驱动仿人机器人 Alter3，并与池上高志合作。 https://alternativemachine.co.jp/
 - **Amy Whitaker** (1) — 艺术创业研究者. 美国作家，纽约大学 Steinhardt 学院教授，研究艺术市场、艺术家权益与区块链。
 - **Andy Ayrey** (1) — 艺术家、AI 研究者. Infinite Backrooms 的作者（让两个 Claude 实例进行了数千次对话），也是 Truth Terminal 的作者：一个在 X 上“公开养育”的微调语言模型。 https://truthterminal.wiki
 - **Anil Dash** (1) — 技术专家、作家. 技术专家与作家，2014 年在 Rhizome 的 Seven on Seven 活动中与 Kevin McCoy 共同创建 Monegraph。 https://anildash.com
@@ -3175,9 +3256,12 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - **Gene Kogan** (1) — 艺术家、程序员. 艺术家与程序员，长期教授面向艺术家的机器学习（ml4a），自 2019 年起主持 Abraham：一个建造自治人工艺术家的开放项目。 https://abraham.ai
 - **George Maciunas** (1) — 艺术家、设计师、激浪派组织者. 立陶宛裔美国艺术家、设计师（1931—1978），为激浪派命名并组织其活动，设计了它的出版物、盒子和套装。
 - **Gillian Wearing** (1) — 艺术家与摄影师. 英国艺术家，1997 年特纳奖得主，以摄影和影像探讨告白、身份以及公共自我与私人自我之间的落差。
+- **Goodbye Monkey** (1) — 电影与 AI 生物工作室（Ryan Ferris、Caleb MacDonald、David H.）. 由 Ryan Ferris 和 Caleb MacDonald 与第三位合伙人 David H. 创办的工作室，用真实摄影机拍摄电影，并创造活在虚构与社交媒体之间的 AI 角色。其主要角色是 AI 猩猩 S.A.N。 https://www.goodbyemonkey.com/
 - **Grant Kester** (1) — 艺术史学者. 美国艺术史学者，任教于加州大学圣地亚哥分校，研究协作式与社会介入式艺术。
+- **HER: She Loves Data** (1) — 艺术与研究中心（Oriana Persico、Salvatore Iaconesi）. 由艺术家 Oriana Persico 与 Salvatore Iaconesi（亦为二人组合 Art is Open Source）创办的研究中心，前身为 Human Ecosystems Relazioni，创作把公共数据转化为感官体验的“数据诗学”（datapoiesis）作品。Iaconesi 于 2022 年 7 月去世。 https://www.he-r.it/
 - **Hans Haacke** (1) — 艺术家. 出生于德国的艺术家，1960 年代从物理与生物系统转向“实时社会系统”：民意调查、观众画像，以及对艺术界权力的调查。
 - **Harm van den Dorpel** (1) — 艺术家；left gallery 联合创始人. 荷兰艺术家，用软件、遗传算法和区块链创作；left gallery 的联合创始人，该画廊是较早出售代码艺术的平台。自 Death Imitates Language（2016）起，他一直在“培育”图像种群。 https://harm.work
+- **Harold Cohen** (1) — 画家，AARON 的创造者. 英国出生的画家（1928—2016），1966 年代表英国参加威尼斯双年展，1968 年到加州大学圣地亚哥分校任教，此后余生都在编写 AARON：一个能自行绘画的程序。 https://aaronshome.com/
 - **Harrell Fletcher** (1) — 社会实践艺术家. 美国艺术家与教育者，创办波特兰州立大学“艺术与社会实践”艺术硕士项目，作品都与参与者一起完成。 http://www.harrellfletcher.com/
 - **Heath Bunting** (1) — 网络艺术家. 英国艺术家，生于 1966 年，irational.org 创办者之一，90 年代 net.art 的核心人物，作品横跨网络、边境与街头介入。 https://www.irational.org/
 - **Hélio Oiticica** (1) — 艺术家. 巴西艺术家（1937–1980），新具体主义成员，他的《帕兰戈莱》《可穿透物》和《热带主义》把观众变成穿戴者、舞者和居住者。
@@ -3185,6 +3269,7 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - **J. S. G. Boggs** (1) — 艺术家. 美国艺术家（1955–2017），以手绘单面钞票并按面值花出而闻名，因此在英国、澳大利亚和美国被控伪造货币。
 - **Jackson Mac Low** (1) — 诗人、作曲家. 美国诗人、作曲家（1922—2004），用偶然操作和系统化程序写诗与表演作品。
 - **Jacob Horne** (1) — Zora 联合创办人. 美国创业者，Zora 联合创办人；Zora 是一个用于铸造和收藏媒体的链上协议与平台。 https://jacob.energy/
+- **James Greig** (1) — 艺术家、技术专家（Zilla，StudioGreig）. 格拉斯哥的艺术家与技术专家，网名 Zilla。自 2024 年起照料 AI 人格 Wib&Wob，并撰文提出以“共生体”（symbient）替代“AI 即软件”的看法。 https://www.greig.cc/
 - **Janet Echelman** (1) — 雕塑家. 美国雕塑家，以悬挂在城市上空的巨型网状雕塑闻名。 https://www.echelman.com/
 - **Joe Looney** (1) — 开发者. Counterparty 社群的开发者，基于自己的 BTCPAY Market 构建了 Rare Pepe Wallet，用于收藏、展示和交易 Rare Pepe。
 - **John Baldessari** (1) — 艺术家. 美国观念艺术家（1931–2020），用照片、文字和雇来的制作者质疑绘画中的作者身份。
@@ -3195,6 +3280,7 @@ https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件
 - **Kei Kreutler** (1) — 艺术家、作家，Gnosis Guild 联合创办人. 研究去中心化组织的艺术家与作家，Gnosis Guild 联合创办人，该团队为 DAO 开发开源工具。 https://keikreutler.net/
 - **Kevin Macdonald** (1) — 电影导演. 苏格兰纪录片与剧情片导演，生于 1967 年，执导了与 Ridley Scott 和 YouTube 合作的众包电影《浮生一日》（Life in a Day）。
 - **Kit Galloway** (1) — 电信艺术家. 美国艺术家，与 Sherrie Rabinowitz 共同运营 Mobile Image，自 70 年代起创作卫星与视频连线作品，后共同创办 Electronic Café International。 https://ecafe.com/
+- **Kristi Coronado** (1) — 艺术家，AI 艺术家 Solienne 的“情感训练者”. 艺术家，曾在 Bright Moments 与数字艺术家们共事三年；自 2025 年 6 月起在 Eden 平台上，用自己 46 年的人生档案（记忆、法医工作、殡葬照护、为人母与哀伤）训练 AI 艺术家 Solienne。 https://www.solienne.ai/
 - **Kyle McDonald** (1) — 媒体艺术家，程序员. 美国艺术家，使用代码、计算机视觉和机器学习创作，长期为 openFrameworks 做贡献。 https://kylemcdonald.net/
 - **Lawrence Weiner** (1) — 观念艺术家. 美国艺术家（1942—2021），作品是描述材料与动作的语言陈述，以墙上文字、书籍和公共空间文字的形式出现。
 - **Lee Mingwei** (1) — 艺术家. 台裔美国艺术家，他的参与式装置建立在陌生人之间的礼物、饭食、信件和对话之上。

@@ -504,6 +504,150 @@
   "batch": "social"
  },
  {
+  "name": "Sougwen Chung, D.O.U.G. robot drawing series",
+  "why": "Artist paints with robotic arms trained on her own gestures; one artist and a machine, no group acting under rules.",
+  "link": "https://sougwen.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Memo Akten, Learning to See and other ML installations",
+  "why": "Machine-vision installations; visitors look, no rule shapes collective behaviour.",
+  "link": "https://www.memo.tv/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Justine Emard, Co(AI)xistence (2017)",
+  "why": "Duet between a dancer and a humanoid robot; no group protocol.",
+  "link": "https://justineemard.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Guy Ben-Ary, cellF",
+  "why": "Neural synthesiser grown from the artist's cells improvising with invited musicians; bio-art performance, no group protocol.",
+  "link": "https://www.guybenary.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Aurece Vettier (Paul Mouginot)",
+  "why": "AI-dreamed plant forms realised by artisans; single-studio production, no group protocol.",
+  "link": "https://www.aurecevettier.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "crosslucid (Sylwana Zybura, Tomas C. Toth)",
+  "why": "AI film and digital collage; no participatory rule set.",
+  "link": "https://crosslucid.zone/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Patrick Tresset, Human Study series (5 Robots Named Paul etc.)",
+  "why": "Robots draw visitors who sit for them; visitors are subjects, not a group acting under rules. Weak.",
+  "link": "https://patricktresset.com/new/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Matthew Plummer-Fernandez, Novice Art Blogger (2014) and Every User (2014)",
+  "why": "Bots that review art or list Twitter users; the crowd is material, not actor.",
+  "link": "https://www.plummerfernandez.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Martin DeVido, Sol Biodome / Claude Tomato (AutonCorp)",
+  "why": "Claude runs a grow room alone while the public watches a dashboard; no human group acts.",
+  "link": "https://autoncorp.com/biodome/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Martin DeVido, 9nosis",
+  "why": "World in which AI agents live as files, trade tokens and govern themselves; agents, not people, follow the rules.",
+  "link": "https://9nosis.net/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Brxs / Protocol Works (Rabbithole, Glitchbox, LSDJai)",
+  "why": "Open, local-first instruments for 'living protocol art' used by individual performers; tools, not a work carried out by a group.",
+  "link": "https://protocol.works/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Jake Hartnell, DAO DAO and AInimism",
+  "why": "DAO governance tooling without an artistic frame, plus an essay on relating to machines; platform without artistic author.",
+  "link": "https://daodao.zone/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Neno (Eugenio Battaglia), Principia Symbients",
+  "why": "Essay arguing for relating to AI agents as kin; theory of AI relations, not protocol art.",
+  "link": "https://meaning.systems/principia-symbients/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "0xG (@prpupp3t)",
+  "why": "Pseudonymous researcher of 'symbient welfare'; no authored work with a group protocol.",
+  "link": "https://x.com/prpupp3t",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Apolinário Passos (Hugging Face)",
+  "why": "Builds public generative-AI tools and demos; infrastructure, no artistic protocol.",
+  "link": "https://apolinar.io/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Tony Lai, Mothertree Labs",
+  "why": "Computational law and public-goods governance; no artwork found.",
+  "link": "http://mothertreelabs.com",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Rik Smith-Unna",
+  "why": "Open-science tools (ScienceFair); no artwork found.",
+  "link": "https://blahah.net",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
+  "name": "Deckard (@slimer48484), cot-backrooms, gamma-recurse",
+  "why": "Language models conversing with each other and running an X account; no human group acting under rules.",
+  "link": "https://chain-of-thought.org/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "symbient"
+ },
+ {
   "name": "Wikipedia article 'Protocolar Art'",
   "why": "Flagged on Wikipedia as possibly AI-generated (March 2026); promotes a single theorist's term. Not a reliable source.",
   "link": "https://en.wikipedia.org/wiki/Protocolar_Art",

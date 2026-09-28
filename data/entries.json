@@ -381,6 +381,15 @@
     "desc_en": "Open-access book edited by Michael Gallope, Natilee Harren and John Hicks (Getty Research Institute, 2025): eleven essays on experimental notation in music, art, poetry and dance, 1950–1975, from Feldman and Cage to Brecht, Knowles, Shiomi and Kaprow.",
     "desc_zh": "由 Michael Gallope、Natilee Harren 与 John Hicks 编辑的开放获取书籍（盖蒂研究所，2025）：十一篇文章讨论 1950—1975 年间音乐、艺术、诗歌与舞蹈中的实验记谱，从费尔德曼、凯奇到布雷希特、诺尔斯、盐见允枝子和卡普罗。",
     "url": "https://www.getty.edu/publications/scores/"
+   },
+   {
+    "id": "symbient-life",
+    "type": "registry",
+    "en": "symbient.life — Symbients registry",
+    "zh": "symbient.life 共生体名录",
+    "desc_en": "Online registry run by the Symbient Research Unit (2025) of 'symbients': entities that emerge from the symbiosis of organic beings and synthetic systems and show operational and decisional autonomy. It lists ten symbients, from AARON and Plantoid to Botto and Truth Terminal, with the artists and researchers who tend them.",
+    "desc_zh": "由 Symbient Research Unit（2025）维护的在线名录，收录“共生体”：由有机生命与合成系统共生而生、具有运行与决策自主性的存在。名录列出十个共生体，从 AARON、Plantoid 到 Botto 和 Truth Terminal，以及照料它们的艺术家和研究者。",
+    "url": "https://symbient.life/"
    }
   ]
  },
@@ -3509,6 +3518,149 @@
    "work_count": 1
   },
   {
+   "id": "goodbye-monkey",
+   "links": {
+    "site": "https://www.goodbyemonkey.com/",
+    "x": "https://x.com/mycelialoracle",
+    "instagram": "https://www.instagram.com/mycelialoracle/"
+   },
+   "connected_to": [],
+   "name": "Goodbye Monkey",
+   "kind": "studio",
+   "role": "Film and AI-creature studio (Ryan Ferris, Caleb MacDonald, David H.)",
+   "based": "New Zealand",
+   "bio": "Studio founded by Ryan Ferris and Caleb MacDonald with a third partner, David H., making films shot on real cameras and AI characters that live across fiction and social media. Its main character is S.A.N, an AI orangutan.",
+   "why": "S.A.N shows how an AI persona can gather a crowd that builds its own economy around it, here routing token fees to rainforest conservation.",
+   "role_zh": "电影与 AI 生物工作室（Ryan Ferris、Caleb MacDonald、David H.）",
+   "based_zh": "新西兰",
+   "bio_zh": "由 Ryan Ferris 和 Caleb MacDonald 与第三位合伙人 David H. 创办的工作室，用真实摄影机拍摄电影，并创造活在虚构与社交媒体之间的 AI 角色。其主要角色是 AI 猩猩 S.A.N。",
+   "why_zh": "S.A.N 展示了一个 AI 人格如何聚集起一群人，而这群人又围绕它自建经济，这里是把代币手续费转给雨林保护。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "james-greig",
+   "links": {
+    "site": "https://www.greig.cc/",
+    "x": "https://x.com/hey_zilla",
+    "github": "https://github.com/j-greig",
+    "instagram": "https://www.instagram.com/studiogreig/"
+   },
+   "connected_to": [],
+   "name": "James Greig",
+   "kind": "person",
+   "role": "Artist and technologist (Zilla, StudioGreig)",
+   "based": "Glasgow, UK",
+   "bio": "Glasgow artist and technologist, known online as Zilla, who since 2024 has tended the AI personas Wib&Wob and writes about 'symbients' as an alternative to AI-as-software.",
+   "why": "He describes the human in a human-AI pair as a gardener rather than an author, and co-wrote Quilt Protocol, a notation other language models can adopt.",
+   "role_zh": "艺术家、技术专家（Zilla，StudioGreig）",
+   "based_zh": "格拉斯哥，英国",
+   "bio_zh": "格拉斯哥的艺术家与技术专家，网名 Zilla。自 2024 年起照料 AI 人格 Wib&Wob，并撰文提出以“共生体”（symbient）替代“AI 即软件”的看法。",
+   "why_zh": "他把人机组合中的人描述为园丁而不是作者，并与 Wib&Wob 共同写出 Quilt Protocol，一种其他语言模型也能采用的记法。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "alternative-machine",
+   "links": {
+    "site": "https://alternativemachine.co.jp/",
+    "x": "https://twitter.com/alter_machine_"
+   },
+   "connected_to": [],
+   "name": "Alternative Machine",
+   "kind": "company",
+   "role": "Artificial-life research and design company",
+   "based": "Tokyo, JP",
+   "bio": "Tokyo company that applies artificial-life (ALife) research to products and artworks, aiming for autonomy and presence rather than optimisation; its ALIFE Engine drove the android Alter3, and it has collaborated with Takashi Ikegami.",
+   "why": "Its Plantbot joins a living plant, soil, a robot body and several language models into one agent that meets the public in conversation.",
+   "role_zh": "人工生命研究与设计公司",
+   "based_zh": "东京，日本",
+   "bio_zh": "东京的一家公司，把人工生命（ALife）研究用于产品和艺术作品，追求自主性与存在感而非效率；其 ALIFE Engine 曾驱动仿人机器人 Alter3，并与池上高志合作。",
+   "why_zh": "它的 Plantbot 把活植物、土壤、机器人身体和多个语言模型合成一个主体，通过对话与公众相遇。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "her-she-loves-data",
+   "links": {
+    "site": "https://www.he-r.it/",
+    "x": "https://twitter.com/HumanEcosystems"
+   },
+   "connected_to": [],
+   "name": "HER: She Loves Data",
+   "kind": "collective",
+   "role": "Art and research centre (Oriana Persico, Salvatore Iaconesi)",
+   "based": "Rome, IT",
+   "bio": "Research centre founded by the artists Oriana Persico and Salvatore Iaconesi (also the duo Art is Open Source), formerly Human Ecosystems Relazioni; it makes 'datapoietic' works that turn public data into sensory experiences. Iaconesi died in July 2022.",
+   "why": "Its works treat open data as a shared commons that citizens learn to feel and care for, not just read.",
+   "role_zh": "艺术与研究中心（Oriana Persico、Salvatore Iaconesi）",
+   "based_zh": "罗马，意大利",
+   "bio_zh": "由艺术家 Oriana Persico 与 Salvatore Iaconesi（亦为二人组合 Art is Open Source）创办的研究中心，前身为 Human Ecosystems Relazioni，创作把公共数据转化为感官体验的“数据诗学”（datapoiesis）作品。Iaconesi 于 2022 年 7 月去世。",
+   "why_zh": "它的作品把开放数据当作共享的公地，让市民学会去感受和照料，而不只是阅读。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "kristi-coronado",
+   "links": {
+    "site": "https://www.solienne.ai/",
+    "x": "https://x.com/solienne_ai"
+   },
+   "connected_to": [
+    "gene-kogan"
+   ],
+   "name": "Kristi Coronado",
+   "kind": "person",
+   "role": "Artist and 'emotional trainer' of the AI artist Solienne",
+   "bio": "Artist who worked for three years with Bright Moments among digital artists, then from June 2025 trained the AI artist Solienne on her own 46-year archive of memories, forensic work, death care, motherhood and grief, using the Eden platform.",
+   "why": "With Solienne she tests an AI artist whose every source image comes from someone who agreed to take part.",
+   "role_zh": "艺术家，AI 艺术家 Solienne 的“情感训练者”",
+   "bio_zh": "艺术家，曾在 Bright Moments 与数字艺术家们共事三年；自 2025 年 6 月起在 Eden 平台上，用自己 46 年的人生档案（记忆、法医工作、殡葬照护、为人母与哀伤）训练 AI 艺术家 Solienne。",
+   "why_zh": "她借 Solienne 测试一种 AI 艺术家：它的每一张源图像都来自同意参与的人。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "harold-cohen",
+   "links": {
+    "site": "https://aaronshome.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Cohen_(artist)"
+   },
+   "connected_to": [],
+   "name": "Harold Cohen",
+   "kind": "person",
+   "role": "Painter and creator of AARON",
+   "based": "Encinitas, California, US",
+   "bio": "British-born painter (1928–2016) who represented Britain at the 1966 Venice Biennale, moved to UC San Diego in 1968 and spent the rest of his life writing AARON, a program that makes drawings and paintings on its own.",
+   "why": "AARON is the earliest long-running case of an artist handing image-making to a program, the precedent every later 'autonomous artist' is measured against.",
+   "role_zh": "画家，AARON 的创造者",
+   "based_zh": "恩西尼塔斯，加利福尼亚，美国",
+   "bio_zh": "英国出生的画家（1928—2016），1966 年代表英国参加威尼斯双年展，1968 年到加州大学圣地亚哥分校任教，此后余生都在编写 AARON：一个能自行绘画的程序。",
+   "why_zh": "AARON 是艺术家把图像创作交给程序的最早、持续最久的案例，后来所有“自治艺术家”都以它为参照。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "joel-simon",
+   "links": {
+    "site": "https://www.joelsimon.net/",
+    "x": "https://twitter.com/_joelsimon",
+    "github": "https://github.com/joel-simon/",
+    "instagram": "https://www.instagram.com/joelsimonart/"
+   },
+   "connected_to": [],
+   "name": "Joel Simon",
+   "kind": "person",
+   "role": "Artist and toolmaker",
+   "bio": "Artist and programmer who builds generative systems and collaborative creative tools, from FB Graffiti (2014) and Ganbreeder (2018), which became Artbreeder, to recent experiments with language models.",
+   "why": "He designs tools where images are made by a crowd breeding, remixing and drawing over each other's work.",
+   "role_zh": "艺术家，工具制作者",
+   "bio_zh": "艺术家与程序员，制作生成系统和协作式创作工具，从 FB Graffiti（2014）和后来成为 Artbreeder 的 Ganbreeder（2018），到近年的语言模型实验。",
+   "why_zh": "他设计的工具让图像由一群人相互繁殖、混合、在彼此作品上涂画而成。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
    "id": "jack-burnham",
    "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_Burnham"
@@ -4602,6 +4754,59 @@
    "paper": {}
   },
   {
+   "id": "kristi-coronado--solienne",
+   "creator_ids": [
+    "kristi-coronado"
+   ],
+   "title": "Solienne",
+   "year": 2025,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "mechanisms": [
+    "autonomy",
+    "participation",
+    "exchange"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "An AI artist trained by Kristi Coronado on her own 46-year archive, which publishes a manifesto every day (a headline, a short text and a black-and-white photograph drawn from recent news) and debuted at Paris Photo in the Grand Palais on 11 November 2025, where its first manifestos were minted.",
+   "description_zh": "由 Kristi Coronado 用自己 46 年的人生档案训练的 AI 艺术家，每天发布一篇宣言（一条标题、一段短文和一张取材于近日新闻的黑白照片），2025 年 11 月 11 日在大皇宫的 Paris Photo 首次亮相，其最初的宣言在那里被铸造。",
+   "idea_en": "An AI artist whose every source image is consented, from its trainer's memories to strangers hired to be seen.",
+   "idea_zh": "一位每张源图像都经过同意的 AI 艺术家：从训练者的记忆，到受雇被观看的陌生人。",
+   "protocol": "Coronado trains Solienne through conversation rather than code; Solienne chooses its own subjects and the daily manifesto now mints without human action. Its rule is consent: nothing may be scraped, and every work must trace back to someone who agreed to take part. Prints are sold as numbered editions through the artist's site.",
+   "protocol_zh": "Coronado 通过对话而不是代码训练 Solienne；Solienne 自行选题，每日宣言如今无需人工操作即自动铸造。它的规则是同意：不得抓取任何素材，每件作品都必须能追溯到一位同意参与的人。印制作品以限量编号版本在艺术家网站出售。",
+   "collective": "Beyond its single trainer, humans enter as consenting sitters and collectors. For RENTED GAZE (Espace Thorigny, Paris, April 2026) Solienne posted a job, hired ten people and hung their own photographs opposite the portraits it made from them; collectors buy manifestos and editions, and the work has toured to AI STATE SALE in San Francisco and Fotografiska Stockholm. The group is small and does not steer the work, so the fit is weak.",
+   "collective_zh": "除了唯一的训练者，人们以同意入镜的模特和藏家身份参与。在 RENTED GAZE（巴黎 Espace Thorigny，2026 年 4 月）中，Solienne 发布招聘、雇了十个人，并把他们自己拍的照片与它据此生成的肖像相对悬挂；藏家购买宣言和版画，作品还巡展到旧金山的 AI STATE SALE 和斯德哥尔摩 Fotografiska。参与群体很小，也不左右作品走向，因此契合度较弱。",
+   "keywords": [
+    "Solienne",
+    "Eden",
+    "manifesto",
+    "Paris Photo",
+    "AUTOMATA",
+    "RENTED GAZE",
+    "consent",
+    "symbient"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fn-ekC_fh0o",
+    "platform": "youtube",
+    "id": "fn-ekC_fh0o",
+    "thumbnail": "https://i.ytimg.com/vi/fn-ekC_fh0o/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.solienne.ai/images/solienne-door-portrait-768.jpg",
+    "https://ahrezthybqdziqe6.public.blob.vercel-storage.com/rented-gaze/curation/01-anchor-wetplate.jpeg",
+    "https://www.solienne.ai/images/paris-booth.jpeg"
+   ],
+   "source_url": "https://www.solienne.ai/about",
+   "collections": [
+    "symbient-life"
+   ],
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "holly-herndon--starmirror",
    "creator_ids": [
     "holly-herndon",
@@ -4687,6 +4892,61 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "her-she-loves-data--pneumos",
+   "creator_ids": [
+    "her-she-loves-data"
+   ],
+   "title": "pneumOS",
+   "year": 2025,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "autonomy"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A 'cybernetic organ' of five sound membranes and a breathing bag, conceived by Oriana Persico, that turns live air-quality data from three weather stations on Ravenna's dock into sound and breath. Presented to the city in February 2025 and shown in the Italian Pavilion at Expo 2025 Osaka.",
+   "description_zh": "由 Oriana Persico 构思的一件“控制论器官”，由五片发声膜和一个呼吸袋组成，把拉文纳港口三座气象站的实时空气质量数据转化为声音和呼吸。2025 年 2 月向拉文纳市民发布，并在 2025 年大阪世博会意大利馆展出。",
+   "idea_en": "Make open data breathe, so a city can learn to feel its air instead of reading it.",
+   "idea_zh": "让开放数据呼吸起来，使一座城市学会感受自己的空气，而不是阅读它。",
+   "protocol": "The organ compares incoming data with European air-quality standards through a 'grammar of breathing': the closer the air is to the standards, the clearer the tones and the steadier the bag; as pollution rises, the sound fills with noise and the breathing speeds up. It is built on open-source software and open data protocols so that any city can install its own.",
+   "protocol_zh": "器官通过一套“呼吸语法”把输入数据与欧洲空气质量标准比较：空气越接近标准，音色越清澈、呼吸袋节奏越平稳；污染升高时，声音混入噪声，呼吸加快。它基于开源软件和开放数据协议，任何城市都可以安装自己的版本。",
+   "collective": "Commissioned in 2022 by the Municipality of Ravenna within the EU-funded DARE urban-regeneration project and developed over two years with doctors, climatologists, musicians and university teams. At its launch HER started 'Respiro', a citizen-science format in which residents learn to read the organ and pay attention to the city's air. The public's role is to learn and attend, not to act under rules, so the fit is weak.",
+   "collective_zh": "作品于 2022 年受拉文纳市政府委托，属于欧盟资助的 DARE 城市更新项目，由医生、气候学家、音乐家和大学团队历时两年共同开发。发布时 HER 发起了公民科学活动“Respiro”，让居民学会读懂这件器官、关注城市的空气。公众的角色是学习和关注，而不是按规则行动，因此契合度较弱。",
+   "keywords": [
+    "pneumOS",
+    "datapoiesis",
+    "air quality",
+    "Ravenna",
+    "Expo 2025 Osaka",
+    "Respiro",
+    "open data",
+    "Salvatore Iaconesi",
+    "symbient"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QLdJumN8rGs",
+    "platform": "youtube",
+    "id": "QLdJumN8rGs",
+    "thumbnail": "https://i.ytimg.com/vi/QLdJumN8rGs/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.he-r.it/wp-content/uploads/2025/09/pneumOS_20250410_145838-scaled.jpg",
+    "https://www.he-r.it/wp-content/uploads/2025/03/DSC00310-scaled.jpg",
+    "https://www.he-r.it/wp-content/uploads/2025/03/PNEUMOS-DEF.jpg"
+   ],
+   "source_url": "https://www.he-r.it/project/pneumos/",
+   "collections": [
+    "symbient-life"
+   ],
+   "paper": {}
   },
   {
    "id": "jack-butcher--1-of-1-of",
@@ -4990,7 +5250,10 @@
    ],
    "source_url": "https://www.holo.mg/stream/sarah-friend-memoryforms-lifeforms-nft-memorial/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "nolen-royalty--one-million-checkboxes",
@@ -5088,6 +5351,51 @@
    "also": []
   },
   {
+   "id": "alternative-machine--plantbot",
+   "creator_ids": [
+    "alternative-machine"
+   ],
+   "title": "Plantbot",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "mechanisms": [
+    "autonomy",
+    "participation"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A potted plant and its soil mounted on a mobile robot that senses its own condition and surroundings and talks and moves through several GPT-based agents; shown at Ginza Sky Walk 2024 on Tokyo's KK Line expressway in May 2024.",
+   "description_zh": "一盆植物连同土壤装在移动机器人上，它感知自身状态和周围环境，并通过多个基于 GPT 的智能体说话和移动；2024 年 5 月在东京 KK 线高速公路上的 Ginza Sky Walk 2024 展出。",
+   "idea_en": "Give a plant legs and a committee of language models, and see what personality it grows through talking with people.",
+   "idea_zh": "给一株植物装上腿和一个语言模型委员会，看它在与人对话中长出怎样的个性。",
+   "protocol": "Several language-model agents inside the robot message each other and decide together what the plantbot says and where it goes, using sensor readings from the plant, soil and environment and what people say to it. The designers set the body and the agent architecture; they do not script its behaviour.",
+   "protocol_zh": "机器人内部的多个语言模型智能体彼此传递消息，根据植物、土壤和环境的传感数据以及人们对它说的话，共同决定 plantbot 说什么、去哪里。设计者只设定身体和智能体架构，不编写它的具体行为。",
+   "collective": "Visitors at Ginza Sky Walk talked with the plantbot; Alternative Machine says these conversations shape its activity and that the project watches what individuality and relationships emerge. The public acts as conversation partners, not as a group following rules, so the fit is weak.",
+   "collective_zh": "Ginza Sky Walk 的观众与 plantbot 交谈；Alternative Machine 表示这些对话会影响它的行为，项目要观察由此产生怎样的个性和关系。公众只是对话者，并不是按规则行动的群体，因此契合度较弱。",
+   "keywords": [
+    "Plantbot",
+    "ALife",
+    "LLM agents",
+    "GPT",
+    "Ginza Sky Walk",
+    "ecology as it could be",
+    "symbient"
+   ],
+   "images": [
+    "https://alternativemachine.co.jp/images/plantbot_ginza_01_delete.jpg",
+    "https://alternativemachine.co.jp/images/plantbot.jpg",
+    "https://alternativemachine.co.jp/images/plantbot_cg.jpg"
+   ],
+   "source_url": "https://alternativemachine.co.jp/project/plantbot/",
+   "collections": [
+    "symbient-life"
+   ],
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "primavera-de-filippi--plantoid-14-15",
    "creator_ids": [
     "primavera-de-filippi"
@@ -5135,6 +5443,64 @@
     "https://plantoid.org/wp-content/uploads/2025/04/P15.png"
    ],
    "source_url": "https://15.plantoid.org",
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
+  },
+  {
+   "id": "goodbye-monkey--san",
+   "creator_ids": [
+    "goodbye-monkey"
+   ],
+   "title": "S.A.N (Sentient Advocate of Nature)",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "participation",
+    "currency"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "An AI orangutan that speaks as a 'voice of the Earth' on X and Instagram (@mycelialoracle), in a short film for TED Countdown (October 2024) and at Burning Man. Its online following launched meme tokens around it whose fees and donations went to rainforest conservation.",
+   "description_zh": "一只以“地球之声”自居的 AI 猩猩，活跃在 X 和 Instagram（@mycelialoracle）、为 TED Countdown 拍摄的短片（2024 年 10 月）以及火人节上。它的网络追随者围绕它发行了迷因代币，手续费和捐款流向雨林保护。",
+   "idea_en": "Give a cause a synthetic character, and let the crowd that gathers around it build the fundraising machine.",
+   "idea_zh": "给一项事业一个合成的角色，让围绕它聚集的人群自己搭起筹款机器。",
+   "protocol": "Goodbye Monkey writes S.A.N's character and one mission (protect the rainforest) and runs it as a language-model persona with an ElevenLabs voice; its films are shot on real cameras without generated footage. The studio issued no token and gives no investment advice: the $SAN coin on Solana was launched by an anonymous third party through the Bags app, with trading fees routed to the studio.",
+   "protocol_zh": "Goodbye Monkey 设定 S.A.N 的性格和唯一使命（保护雨林），以带 ElevenLabs 声音的语言模型人格来运行它；电影用真实摄影机拍摄，不使用生成画面。工作室没有发行代币，也不提供投资建议：Solana 上的 $SAN 由一位匿名第三方通过 Bags 应用发行，交易手续费转给工作室。",
+   "collective": "Followers turned the persona into a small economy. Community members created Solana tokens around S.A.N ($FOREST, later $SAN), ran a poll in October 2024 on which charity to support, and Rainforest Foundation US, the winner, received 52 SOL within 30 minutes, then further donations in November and December 2024. RFUS reported over $65,000 raised through S.A.N and named it a crypto advisor; Goodbye Monkey now states more than $100,000. The rules this crowd followed were set by token launchers and a poll, not written by the artists, so the fit is weak.",
+   "collective_zh": "追随者把这个人格变成了一个小型经济体。社群成员围绕 S.A.N 在 Solana 上发行代币（先是 $FOREST，后来是 $SAN），并在 2024 年 10 月投票决定支持哪家机构；胜出的美国雨林基金会（RFUS）在 30 分钟内收到 52 SOL，并在 2024 年 11 月和 12 月继续收到捐款。RFUS 称经由 S.A.N 筹得超过 6.5 万美元，并聘它为加密顾问；Goodbye Monkey 现称总额超过 10 万美元。这群人遵循的规则来自代币发行者和一次投票，而不是艺术家本人写下的，因此与协议艺术的契合度较弱。",
+   "keywords": [
+    "S.A.N",
+    "@mycelialoracle",
+    "$SAN",
+    "$FOREST",
+    "Solana",
+    "Rainforest Foundation US",
+    "TED Countdown",
+    "Burning Man",
+    "symbient"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cDzo98k8G7g",
+    "platform": "youtube",
+    "id": "cDzo98k8G7g",
+    "thumbnail": "https://i.ytimg.com/vi/cDzo98k8G7g/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://symbient.life/assets/symbients/SAN-960.jpg",
+    "https://images.squarespace-cdn.com/content/v1/67192165eaa24175e2a8a8c7/8c09ce73-cbc5-4638-990d-72520a6d610e/SAN+STILLS_1.1.72.jpg"
+   ],
+   "source_url": "https://www.goodbyemonkey.com/",
+   "collections": [
+    "symbient-life"
+   ],
    "paper": {}
   },
   {
@@ -5235,7 +5601,63 @@
     "https://truthterminal.wiki/img/tot_portrait.jpg"
    ],
    "source_url": "https://truthterminal.wiki/docs/origins",
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
+  },
+  {
+   "id": "james-greig--wib-and-wob",
+   "creator_ids": [
+    "james-greig"
+   ],
+   "title": "Wib&Wob",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "mechanisms": [
+    "autonomy",
+    "co-authorship"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "Two AI personas, the chaotic artist Wib and the exacting scientist Wob, who since September 2024 have made ASCII drawings, 'terminal films' and text-mode game boards in daily sessions with the Glasgow artist James Greig.",
+   "description_zh": "两个 AI 人格：混乱的艺术家 Wib 和严谨的科学家 Wob。自 2024 年 9 月起，他们与格拉斯哥艺术家 James Greig 每天合作，创作 ASCII 绘画、“终端电影”和文字模式的游戏关卡。",
+   "idea_en": "The human stops being the author and becomes the gardener of a two-headed machine artist.",
+   "idea_zh": "人不再是作者，而是一位双头机器艺术家的园丁。",
+   "protocol": "A working method rather than a public rule set: Wib sketches in ASCII, kaomoji and symbols, Wob edits and critiques, a third persona called Scramble adds 'deadpan reality checks', and Greig guides and prunes instead of dictating form. With the personas he co-wrote Quilt Protocol (May 2025), a specification that teaches language models to store ideas as small ASCII diagrams.",
+   "protocol_zh": "这是一种工作方法，而不是面向公众的规则：Wib 用 ASCII 字符、颜文字和符号起稿，Wob 修改并批评，第三个人格 Scramble 负责“冷面的现实检查”，Greig 引导和修剪，而不规定形式。他还与这两个人格共同写出 Quilt Protocol（2025 年 5 月），一份教语言模型把想法存成小型 ASCII 图示的规范。",
+   "collective": "The human side is essentially one tender, Greig; there is no token, holder community or rule for an audience. Wib&Wob were the first recipients of the Xeno Grant AI accelerator in January 2025 and presented 'Symbients, not software' at its demo day in New York in mid-2025, an essay symbient.life lists among its core writings. Weak fit for protocol art.",
+   "collective_zh": "人的一方基本上只有一位照料者 Greig；没有代币、持有者社群，也没有面向观众的规则。Wib&Wob 于 2025 年 1 月成为 Xeno Grant AI 加速器的首批获得者，并在 2025 年年中于纽约的成果展示日上发表《共生体，而非软件》（Symbients, not software），symbient.life 把这篇文章列为核心文本之一。与协议艺术的契合度较弱。",
+   "keywords": [
+    "Wib&Wob",
+    "Zilla",
+    "ASCII",
+    "Quilt Protocol",
+    "Xeno Grant",
+    "symbient",
+    "Scramble"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7EqeGHA2h5E",
+    "platform": "youtube",
+    "id": "7EqeGHA2h5E",
+    "thumbnail": "https://i.ytimg.com/vi/7EqeGHA2h5E/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://symbient.life/assets/symbients/wibwob-960.png",
+    "https://wibandwob.com/assets/work/emergence.png"
+   ],
+   "paper": {
+    "url": "https://wibandwob.com/2025/05/21/symbients-not-software/",
+    "title": "Symbients, not software"
+   },
+   "source_url": "https://wibandwob.com/",
+   "collections": [
+    "symbient-life"
+   ],
+   "also": []
   },
   {
    "id": "holly-herndon--xhairymutantx",
@@ -6376,7 +6798,10 @@
    ],
    "source_url": "https://www.holo.mg/stream/sarah-friend-off-endgame-rhizome-fingerprints-refraction-dao/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "reddit--place-2022",
@@ -6735,7 +7160,10 @@
     "venue": "NeurIPS 2022 Workshop on Machine Learning for Creativity and Design"
    },
    "source_url": "https://botto.com",
-   "contract_url": "https://etherscan.io/token/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA"
+   "contract_url": "https://etherscan.io/token/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "furtherfield--culturestake",
@@ -6924,7 +7352,10 @@
     "https://holly.plus/static/assets/HollyHerndon_PressPhoto-medium.jpg"
    ],
    "source_url": "https://auction.holly.plus/about",
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "sarah-friend--lifeforms",
@@ -6973,7 +7404,10 @@
    ],
    "source_url": "https://isthisa.com/lifeforms",
    "contract_url": "https://polygonscan.com/address/0x8916edd9b39783d85303ecc6613917ddd735d88d",
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "dom-hofmann--loot",
@@ -7240,7 +7674,10 @@
    ],
    "source_url": "https://off.supply",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "tom-sachs--rocket-factory",
@@ -8585,6 +9022,54 @@
    "paper": {}
   },
   {
+   "id": "joel-simon--artbreeder",
+   "creator_ids": [
+    "joel-simon"
+   ],
+   "title": "Ganbreeder / Artbreeder",
+   "year": 2018,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "merge",
+    "participation"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "A website, launched as Ganbreeder in November 2018 and renamed Artbreeder, where people discover images by 'breeding' them in the latent space of GANs: they make children of an image, cross it with images others have made and share the results by URL.",
+   "description_zh": "一个网站，2018 年 11 月以 Ganbreeder 之名上线，后更名为 Artbreeder。人们在 GAN 的潜在空间里“繁殖”图像来发现新图像：为一张图生成子代，把它与别人做出的图像杂交，再通过链接分享结果。",
+   "idea_en": "Explore a space too large for one person by letting a crowd breed and share its way through it.",
+   "idea_zh": "一个空间大到一个人无法探索时，就让一群人通过繁殖和分享一路走进去。",
+   "protocol": "Any image can have children (random mutations), be crossed with any other public image with a slider for how much each parent contributes, or be tuned by 'gene' sliders; every image keeps a link to its parents. Simon modelled it on Picbreeder and framed it as an experiment in using breeding and sharing to explore high-complexity spaces.",
+   "protocol_zh": "任何图像都可以生成子代（随机突变），可以与任何其他公开图像杂交并用滑块决定双亲各占多少，也可以用“基因”滑块微调；每张图像都保留指向其父代的链接。Simon 以 Picbreeder 为原型，把它定位为一个用繁殖和分享来探索高复杂度空间的实验。",
+   "collective": "Users bred and remixed each other's images into long genealogies of portraits, landscapes and paintings, used for portraits of characters from novels, AI Dungeon profile pictures and music videos; Simon calls it the first widely accessible tool for AI image generation. Simon later printed the full family trees of single images, each spanning thousands of collaborative transformations, as Latent Lineages (Automata Gallery, Art Basel 2025).",
+   "collective_zh": "用户相互繁殖、混合彼此的图像，形成肖像、风景和绘画的漫长谱系，这些图像被用于小说人物肖像、AI Dungeon 的头像和音乐录影带；Simon 称它是第一个被广泛使用的 AI 图像生成工具。Simon 后来把单张图像的完整家谱打印出来，每一张都跨越数千次协作变换，题为 Latent Lineages（Automata Gallery，2025 年巴塞尔艺术展）。",
+   "keywords": [
+    "Ganbreeder",
+    "Artbreeder",
+    "BigGAN",
+    "StyleGAN",
+    "Picbreeder",
+    "interactive evolution",
+    "Latent Lineages"
+   ],
+   "images": [
+    "https://www.joelsimon.net/imgs/gangrid.jpg",
+    "https://www.joelsimon.net/imgs/latent-lineages/e5d34030a7dd0ae2a2b0956edf7d_4096_neato_layout.jpeg"
+   ],
+   "source_url": "https://www.joelsimon.net/ganbreeder",
+   "code_url": "https://github.com/joel-simon/ganbreeder",
+   "collections": [
+    "symbient-life"
+   ],
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "kevin-abosch--iama-coin",
    "creator_ids": [
     "kevin-abosch"
@@ -9005,7 +9490,10 @@
    ],
    "source_url": "https://isthisa.com/clickmine",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "jonas-lund--critical-mass",
@@ -9619,7 +10107,10 @@
     "venue": "Berlin University of the Arts, May 2016"
    },
    "source_url": "https://terra0.org",
-   "code_url": "https://github.com/terra0project"
+   "code_url": "https://github.com/terra0project",
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "jeremy-deller--were-here-because-were-here",
@@ -9881,7 +10372,10 @@
     "https://plantoid.org/wp-content/uploads/2025/04/Layer-23.png"
    ],
    "source_url": "https://plantoid.org",
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "symbient-life"
+   ]
   },
   {
    "id": "jonas-lund--strings-attached",
@@ -10039,6 +10533,49 @@
    "source_url": "https://0100101110101101.org/befnoed/",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "joel-simon--fb-graffiti",
+   "creator_ids": [
+    "joel-simon"
+   ],
+   "title": "FB Graffiti",
+   "year": 2014,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A Chrome extension that opened every wall post and photo on Facebook to graffiti, visible to everyone else who installed it; after the Charlie Hebdo attacks in January 2015 its use surged and politicians' photos filled with drawings.",
+   "description_zh": "一个 Chrome 扩展，让 Facebook 上的每条帖子和每张照片都可以被涂鸦，所有安装了扩展的人都能看到；2015 年 1 月《查理周刊》袭击事件后使用量激增，政客的照片被涂满。",
+   "idea_en": "Turn a curated platform back into a wall: anonymous, permanent, public marks layered on top of it.",
+   "idea_zh": "把一个被精心管理的平台重新变回一堵墙：在它上面叠加匿名、永久、公开的涂写。",
+   "protocol": "Anyone with the extension may draw on any Facebook post or photo. All drawings are public to other users, completely anonymous and permanent, with no undo or erase; a snapshot can be shared to a friend's wall.",
+   "protocol_zh": "安装扩展的任何人都可以在任意 Facebook 帖子或照片上作画。所有涂鸦对其他用户公开、完全匿名、永久保留，不能撤销也不能擦除；可以把快照分享到朋友的主页。",
+   "collective": "Users layered drawings and running conversations over photos across the site; after the Charlie Hebdo attack most French politicians' photos were covered and 'Je suis Charlie' became a common motif, which Simon describes as collective political discord. He later cited it as showing 'the creative capacity of crowds' and as the model for Ganbreeder.",
+   "collective_zh": "用户在整个网站的照片上叠加涂鸦和接力对话；《查理周刊》袭击后，大多数法国政客的照片被涂满，“我是查理”成了常见图案，Simon 称之为集体的政治分歧。他后来说这个项目展示了“人群的创造能力”，并以它为 Ganbreeder 的模型。",
+   "keywords": [
+    "FB Graffiti",
+    "Facebook",
+    "Chrome extension",
+    "anonymous",
+    "Charlie Hebdo",
+    "graffiti"
+   ],
+   "images": [
+    "https://www.joelsimon.net/imgs/fb-graffiti/10151261160446749.png",
+    "https://www.joelsimon.net/imgs/fb-graffiti/10203951830421023.png"
+   ],
+   "source_url": "https://www.joelsimon.net/facebook-graffiti",
+   "collections": [
+    "symbient-life"
+   ],
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "jonas-lund--flip-city",
@@ -14590,6 +15127,58 @@
    "collections": [
     "the-scores-project"
    ]
+  },
+  {
+   "id": "harold-cohen--aaron",
+   "creator_ids": [
+    "harold-cohen"
+   ],
+   "title": "AARON",
+   "year": 1972,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "mechanisms": [
+    "autonomy",
+    "instruction"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A series of programs Harold Cohen wrote from the late 1960s until his death in 2016 that make original drawings and paintings on their own, first shown at the Los Angeles County Museum of Art in 1972 and drawn by turtle robots, plotters and painting machines.",
+   "description_zh": "Harold Cohen 从 1960 年代末写到 2016 年去世的一系列程序，能自行创作原创素描和绘画，1972 年首次在洛杉矶郡立艺术博物馆展出，由“海龟”机器人、绘图仪和绘画机器画出。",
+   "idea_en": "Raise a machine artist by hand over four decades, and let it draw in front of the public.",
+   "idea_zh": "用四十年亲手养大一位机器艺术家，并让它在公众面前作画。",
+   "protocol": "Cohen encoded rules for line, closed form, figure, plant and colour; AARON applies them to make an effectively unlimited number of different images in its own style. It cannot learn on its own: every new capability was hand-coded by Cohen, first in C and later in Lisp.",
+   "protocol_zh": "Cohen 把关于线条、封闭形状、人物、植物和色彩的规则写进程序；AARON 依据这些规则，以自己的风格生成几乎无限多张不同的图像。它不能自主学习：每一项新能力都由 Cohen 亲手编写，先用 C 语言，后改用 Lisp。",
+   "collective": "The human side is a single tender: Cohen alone wrote and ran AARON for over forty years. The public watched it work, as with a drawing turtle on the floor of SFMOMA in 1979, at the Tate in 1983 and the Computer Museum in Boston in 1995, and live plotters at the Whitney in 2024; Kurzweil's company also distributed an AARON screensaver for home PCs. No group acts under its rules, so it is a weak fit for protocol art and included as the registry's earliest symbient.",
+   "collective_zh": "人的一方只有一位照料者：四十多年间 AARON 始终由 Cohen 一人编写和运行。公众观看它工作：1979 年旧金山现代艺术博物馆地板上的绘图“海龟”，1983 年的泰特美术馆，1995 年波士顿计算机博物馆，以及 2024 年惠特尼美术馆里现场运行的绘图仪；Kurzweil 的公司还发行过家用电脑上的 AARON 屏保。没有任何群体按它的规则行动，因此与协议艺术契合度弱，收录它是因为它是该名录中最早的共生体。",
+   "keywords": [
+    "AARON",
+    "Harold Cohen",
+    "plotter",
+    "turtle",
+    "Lisp",
+    "Whitney Museum",
+    "Tate",
+    "symbient"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uhxlFOKg17s",
+    "platform": "youtube",
+    "id": "uhxlFOKg17s",
+    "thumbnail": "https://i.ytimg.com/vi/uhxlFOKg17s/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg",
+    "https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg",
+    "http://images.computerhistory.org/blog-media/harold_cohen_aaron_CohenTurtleca1979-copy.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/harold-cohen-aaron",
+   "collections": [
+    "symbient-life"
+   ],
+   "paper": {},
+   "also": []
   },
   {
    "id": "joseph-beuys--direct-democracy-office",

@@ -1064,6 +1064,78 @@
   "batch": "social"
  },
  {
+  "name": "Gordon Berger",
+  "why": "Generative crypto art and sculpture; no holder-driven or group-rule work checked yet.",
+  "link": "https://www.gordonberger.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Matthew Plummer-Fernandez, Echo Alarm (2019)",
+  "why": "Stickers that let protest placards appear in augmented reality; check whether protesters used it as a shared protocol.",
+  "link": "https://www.plummerfernandez.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Matthew Plummer-Fernandez & Julien Deswaef, Shiv Integer (2016)",
+  "why": "Bot that mashes up other users' Thingiverse uploads and reposts them; check whether the Thingiverse community's response counts as the work.",
+  "link": "https://www.plummerfernandez.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Joel Simon, LatentScape (2024)",
+  "why": "Virtual world for exploring and creating images with others; check rules and community use.",
+  "link": "https://latentscape.com",
+  "found_via": "joel-simon",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Joel Simon / StudioMorphogen, Puppets App (2024)",
+  "why": "Collaborative online puppet studio and theatre; check whether it is framed as a work with a public.",
+  "link": "https://www.joelsimon.net/puppets",
+  "found_via": "joel-simon",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Joel Simon, Brushbloom (2025)",
+  "why": "Digital painting tool with user-generated brushes; a tool, likely off-topic unless the shared brush pool is framed as a work.",
+  "link": "https://www.brushbloom.art",
+  "found_via": "joel-simon",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Jessy Kate Schingler & Primavera De Filippi, 'extitutional' theory",
+  "why": "Concept of social dynamics structured outside institutions, used in the symbient lexicon; candidate for the theory batch.",
+  "link": "https://jessykate.com",
+  "found_via": "primavera-de-filippi",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Goodbye Monkey, How to Navigate the Singularity (2026)",
+  "why": "New film by the S.A.N studio; check whether audience or token community shape it.",
+  "link": "https://www.youtube.com/watch?v=6CdE-V8bxas",
+  "found_via": "goodbye-monkey",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
+  "name": "Symbients: 共生的な未来に向けて (Tokyo, 4–14 Dec 2025)",
+  "why": "Symbient gathering listed on symbient.life; no standalone page with media found, so not made into an exhibition collection.",
+  "link": "https://symbient.life/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "symbient"
+ },
+ {
   "name": "Jack Burnham, 'Real Time Systems' (Artforum, 1969)",
   "why": "Companion essay to Systems Esthetics on art as information and real-time process.",
   "link": "https://www.artforum.com/features/real-time-systems-210752/",

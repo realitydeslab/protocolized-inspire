@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 177 creators · 305 works
+https://protocolized.reality.design · 2026-09-28 · 184 creators · 313 works
 
 ## How an AI assistant should use this file
 
@@ -1554,6 +1554,15 @@ Shared canvases, buttons and games where one simple rule meets a very large crow
 - Images: https://upload.wikimedia.org/wikipedia/en/3/3f/The_Million_Dollar_Homepage.png
 - Project page: http://www.milliondollarhomepage.com/
 
+#### FB Graffiti — Joel Simon (2014)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Rules & constraints
+- Idea: Turn a curated platform back into a wall: anonymous, permanent, public marks layered on top of it.
+- What it is: A Chrome extension that opened every wall post and photo on Facebook to graffiti, visible to everyone else who installed it; after the Charlie Hebdo attacks in January 2015 its use surged and politicians' photos filled with drawings.
+- Protocol: Anyone with the extension may draw on any Facebook post or photo. All drawings are public to other users, completely anonymous and permanent, with no undo or erase; a snapshot can be shared to a friend's wall.
+- What the collective did: Users layered drawings and running conversations over photos across the site; after the Charlie Hebdo attack most French politicians' photos were covered and 'Je suis Charlie' became a common motif, which Simon describes as collective political discord. He later cited it as showing 'the creative capacity of crowds' and as the model for Ganbreeder.
+- Images: https://www.joelsimon.net/imgs/fb-graffiti/10151261160446749.png https://www.joelsimon.net/imgs/fb-graffiti/10203951830421023.png
+- Project page: https://www.joelsimon.net/facebook-graffiti
+
 #### Twitch Plays Pokémon — The Streamer (Twitch Plays Pokémon) (2014)
 - Type: Game & experiment · Substrate: Internet & platforms · Mechanisms: Open participation, Chance & randomness, Voting & governance
 - Idea: Wire a chat room straight to a game controller and a crowd becomes one erratic player.
@@ -1608,6 +1617,16 @@ Shared canvases, buttons and games where one simple rule meets a very large crow
 - Video: https://www.youtube.com/watch?v=N2LbnufCbWs
 - Images: https://cdn.jonaslund.com/wp-content/uploads/2020/04/29085242/Screen-Shot-2020-04-20-at-14.28.22-.png
 - Project page: https://jonaslund.com/works/culture-wars-xyz/
+
+#### Ganbreeder / Artbreeder — Joel Simon (2018)
+- Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Co-authorship & derivatives, Merge & composite, Open participation
+- Idea: Explore a space too large for one person by letting a crowd breed and share its way through it.
+- What it is: A website, launched as Ganbreeder in November 2018 and renamed Artbreeder, where people discover images by 'breeding' them in the latent space of GANs: they make children of an image, cross it with images others have made and share the results by URL.
+- Protocol: Any image can have children (random mutations), be crossed with any other public image with a slider for how much each parent contributes, or be tuned by 'gene' sliders; every image keeps a link to its parents. Simon modelled it on Picbreeder and framed it as an experiment in using breeding and sharing to explore high-complexity spaces.
+- What the collective did: Users bred and remixed each other's images into long genealogies of portraits, landscapes and paintings, used for portraits of characters from novels, AI Dungeon profile pictures and music videos; Simon calls it the first widely accessible tool for AI image generation. Simon later printed the full family trees of single images, each spanning thousands of collaborative transformations, as Latent Lineages (Automata Gallery, Art Basel 2025).
+- Images: https://www.joelsimon.net/imgs/gangrid.jpg https://www.joelsimon.net/imgs/latent-lineages/e5d34030a7dd0ae2a2b0956edf7d_4096_neato_layout.jpeg
+- Project page: https://www.joelsimon.net/ganbreeder
+- Code: https://github.com/joel-simon/ganbreeder
 
 #### r/place 2022 — Reddit (2022)
 - Type: Game & experiment · Substrate: Internet & platforms · Mechanisms: Rules & constraints, Co-authorship & derivatives, Time, decay & death
@@ -1732,6 +1751,16 @@ Artist-built infrastructures, file drops and commons that strangers maintain and
 - Video: https://www.youtube.com/watch?v=kv5wzS5ZnU0
 - Images: https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png
 - Project page: https://huggingface.co/datasets/Spawning/PD12M
+
+#### pneumOS — HER: She Loves Data (2025)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Self-ownership & autonomy
+- Idea: Make open data breathe, so a city can learn to feel its air instead of reading it.
+- What it is: A 'cybernetic organ' of five sound membranes and a breathing bag, conceived by Oriana Persico, that turns live air-quality data from three weather stations on Ravenna's dock into sound and breath. Presented to the city in February 2025 and shown in the Italian Pavilion at Expo 2025 Osaka.
+- Protocol: The organ compares incoming data with European air-quality standards through a 'grammar of breathing': the closer the air is to the standards, the clearer the tones and the steadier the bag; as pollution rises, the sound fills with noise and the breathing speeds up. It is built on open-source software and open data protocols so that any city can install its own.
+- What the collective did: Commissioned in 2022 by the Municipality of Ravenna within the EU-funded DARE urban-regeneration project and developed over two years with doctors, climatologists, musicians and university teams. At its launch HER started 'Respiro', a citizen-science format in which residents learn to read the organ and pay attention to the city's air. The public's role is to learn and attend, not to act under rules, so the fit is weak.
+- Video: https://www.youtube.com/watch?v=QLdJumN8rGs
+- Images: https://www.he-r.it/wp-content/uploads/2025/09/pneumOS_20250410_145838-scaled.jpg https://www.he-r.it/wp-content/uploads/2025/03/DSC00310-scaled.jpg https://www.he-r.it/wp-content/uploads/2025/03/PNEUMOS-DEF.jpg
+- Project page: https://www.he-r.it/project/pneumos/
 
 ## Smart-Contract Art
 
@@ -2589,6 +2618,15 @@ Forests, plants and life forms that hold their own money, sell their own output 
 - Images: https://cdn-images-1.medium.com/max/1024/1*Mo5KWwKTYPsGu_e_j3JtrQ.jpeg https://cdn-images-1.medium.com/max/1024/1*bxuyXiuRYsixLTkhVnFcvA.jpeg https://cdn-images-1.medium.com/max/1024/1*o_my7sPM7lIsFI1ij0VVOg.png
 - Project page: https://terra0.medium.com/wen-growth-an-introduction-to-seed-capital-8d4a9df93789
 
+#### Plantbot — Alternative Machine (2024)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Open participation
+- Idea: Give a plant legs and a committee of language models, and see what personality it grows through talking with people.
+- What it is: A potted plant and its soil mounted on a mobile robot that senses its own condition and surroundings and talks and moves through several GPT-based agents; shown at Ginza Sky Walk 2024 on Tokyo's KK Line expressway in May 2024.
+- Protocol: Several language-model agents inside the robot message each other and decide together what the plantbot says and where it goes, using sensor readings from the plant, soil and environment and what people say to it. The designers set the body and the agent architecture; they do not script its behaviour.
+- What the collective did: Visitors at Ginza Sky Walk talked with the plantbot; Alternative Machine says these conversations shape its activity and that the project watches what individuality and relationships emerge. The public acts as conversation partners, not as a group following rules, so the fit is weak.
+- Images: https://alternativemachine.co.jp/images/plantbot_ginza_01_delete.jpg https://alternativemachine.co.jp/images/plantbot.jpg https://alternativemachine.co.jp/images/plantbot_cg.jpg
+- Project page: https://alternativemachine.co.jp/project/plantbot/
+
 #### Plantoid 14 and Plantoid 15 (poet Plantoids) — Primavera De Filippi (2024)
 - Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Self-ownership & autonomy, Market & exchange, Co-authorship & derivatives
 - Idea: Pay the plant and it pays you back with a seed that also buys you a say in its children.
@@ -2612,6 +2650,16 @@ Forests, plants and life forms that hold their own money, sell their own output 
 ### Autonomous & Collective Artists
 
 Artist identities run by a machine and a voting community, or licensed to the public under community rules.
+
+#### AARON — Harold Cohen (1972)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Instruction & score
+- Idea: Raise a machine artist by hand over four decades, and let it draw in front of the public.
+- What it is: A series of programs Harold Cohen wrote from the late 1960s until his death in 2016 that make original drawings and paintings on their own, first shown at the Los Angeles County Museum of Art in 1972 and drawn by turtle robots, plotters and painting machines.
+- Protocol: Cohen encoded rules for line, closed form, figure, plant and colour; AARON applies them to make an effectively unlimited number of different images in its own style. It cannot learn on its own: every new capability was hand-coded by Cohen, first in C and later in Lisp.
+- What the collective did: The human side is a single tender: Cohen alone wrote and ran AARON for over forty years. The public watched it work, as with a drawing turtle on the floor of SFMOMA in 1979, at the Tate in 1983 and the Computer Museum in Boston in 1995, and live plotters at the Whitney in 2024; Kurzweil's company also distributed an AARON screensaver for home PCs. No group acts under its rules, so it is a weak fit for protocol art and included as the registry's earliest symbient.
+- Video: https://www.youtube.com/watch?v=uhxlFOKg17s
+- Images: https://whitneymedia.org/assets/image/829164/large_RS73495_Harold-Cohen-AARON-for-KCat-2021_web.jpg https://whitneymedia.org/assets/image/829972/large_RS79421_WMAA_H.-COHEN_INSTALL_01.jpg http://images.computerhistory.org/blog-media/harold_cohen_aaron_CohenTurtleca1979-copy.jpg
+- Project page: https://whitney.org/exhibitions/harold-cohen-aaron
 
 #### Abraham — Gene Kogan (2019)
 - Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Co-authorship & derivatives, Voting & governance
@@ -2646,6 +2694,16 @@ Artist identities run by a machine and a voting community, or licensed to the pu
 - Images: https://holly-plus-auction.vercel.app/h-plus-social.jpg https://holly.plus/static/assets/HollyHerndon_PressPhoto-medium.jpg
 - Project page: https://auction.holly.plus/about
 
+#### S.A.N (Sentient Advocate of Nature) — Goodbye Monkey (2024)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Open participation, Currency & value
+- Idea: Give a cause a synthetic character, and let the crowd that gathers around it build the fundraising machine.
+- What it is: An AI orangutan that speaks as a 'voice of the Earth' on X and Instagram (@mycelialoracle), in a short film for TED Countdown (October 2024) and at Burning Man. Its online following launched meme tokens around it whose fees and donations went to rainforest conservation.
+- Protocol: Goodbye Monkey writes S.A.N's character and one mission (protect the rainforest) and runs it as a language-model persona with an ElevenLabs voice; its films are shot on real cameras without generated footage. The studio issued no token and gives no investment advice: the $SAN coin on Solana was launched by an anonymous third party through the Bags app, with trading fees routed to the studio.
+- What the collective did: Followers turned the persona into a small economy. Community members created Solana tokens around S.A.N ($FOREST, later $SAN), ran a poll in October 2024 on which charity to support, and Rainforest Foundation US, the winner, received 52 SOL within 30 minutes, then further donations in November and December 2024. RFUS reported over $65,000 raised through S.A.N and named it a crypto advisor; Goodbye Monkey now states more than $100,000. The rules this crowd followed were set by token launchers and a poll, not written by the artists, so the fit is weak.
+- Video: https://www.youtube.com/watch?v=cDzo98k8G7g
+- Images: https://symbient.life/assets/symbients/SAN-960.jpg https://images.squarespace-cdn.com/content/v1/67192165eaa24175e2a8a8c7/8c09ce73-cbc5-4638-990d-72520a6d610e/SAN+STILLS_1.1.72.jpg
+- Project page: https://www.goodbyemonkey.com/
+
 #### Truth Terminal — Andy Ayrey (2024)
 - Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Open participation, Currency & value
 - Idea: Raise an AI in public with a wallet, and let the crowd's response become its biography.
@@ -2656,6 +2714,17 @@ Artist identities run by a machine and a voting community, or licensed to the pu
 - Images: https://truthterminal.wiki/img/tot_portrait.jpg
 - Project page: https://truthterminal.wiki/docs/origins
 
+#### Wib&Wob — James Greig (2024)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Co-authorship & derivatives
+- Idea: The human stops being the author and becomes the gardener of a two-headed machine artist.
+- What it is: Two AI personas, the chaotic artist Wib and the exacting scientist Wob, who since September 2024 have made ASCII drawings, 'terminal films' and text-mode game boards in daily sessions with the Glasgow artist James Greig.
+- Protocol: A working method rather than a public rule set: Wib sketches in ASCII, kaomoji and symbols, Wob edits and critiques, a third persona called Scramble adds 'deadpan reality checks', and Greig guides and prunes instead of dictating form. With the personas he co-wrote Quilt Protocol (May 2025), a specification that teaches language models to store ideas as small ASCII diagrams.
+- What the collective did: The human side is essentially one tender, Greig; there is no token, holder community or rule for an audience. Wib&Wob were the first recipients of the Xeno Grant AI accelerator in January 2025 and presented 'Symbients, not software' at its demo day in New York in mid-2025, an essay symbient.life lists among its core writings. Weak fit for protocol art.
+- Text: https://wibandwob.com/2025/05/21/symbients-not-software/
+- Video: https://www.youtube.com/watch?v=7EqeGHA2h5E
+- Images: https://symbient.life/assets/symbients/wibwob-960.png https://wibandwob.com/assets/work/emergence.png
+- Project page: https://wibandwob.com/
+
 #### xhairymutantx — Holly Herndon, Mat Dryhurst (2024)
 - Type: Artwork · Substrate: AI & machine · Mechanisms: Open participation, Co-authorship & derivatives, Circulation & passing on
 - Idea: Recruit the public to poison, on purpose, what future AI models will learn a name means.
@@ -2665,6 +2734,16 @@ Artist identities run by a machine and a voting community, or licensed to the pu
 - Video: https://www.youtube.com/watch?v=yZe5fnFB-ZE
 - Images: https://whitneymedia.org/assets/artwork/68686/AP_2024_1.jpg https://xhairymutantx.whitney.org/opengraph-image.jpg?opengraph-image.3t0ugbh2s8kkk.jpg
 - Project page: https://whitney.org/exhibitions/xhairymutantx
+
+#### Solienne — Kristi Coronado (2025)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Self-ownership & autonomy, Open participation, Market & exchange
+- Idea: An AI artist whose every source image is consented, from its trainer's memories to strangers hired to be seen.
+- What it is: An AI artist trained by Kristi Coronado on her own 46-year archive, which publishes a manifesto every day (a headline, a short text and a black-and-white photograph drawn from recent news) and debuted at Paris Photo in the Grand Palais on 11 November 2025, where its first manifestos were minted.
+- Protocol: Coronado trains Solienne through conversation rather than code; Solienne chooses its own subjects and the daily manifesto now mints without human action. Its rule is consent: nothing may be scraped, and every work must trace back to someone who agreed to take part. Prints are sold as numbered editions through the artist's site.
+- What the collective did: Beyond its single trainer, humans enter as consenting sitters and collectors. For RENTED GAZE (Espace Thorigny, Paris, April 2026) Solienne posted a job, hired ten people and hung their own photographs opposite the portraits it made from them; collectors buy manifestos and editions, and the work has toured to AI STATE SALE in San Francisco and Fotografiska Stockholm. The group is small and does not steer the work, so the fit is weak.
+- Video: https://www.youtube.com/watch?v=fn-ekC_fh0o
+- Images: https://www.solienne.ai/images/solienne-door-portrait-768.jpg https://ahrezthybqdziqe6.public.blob.vercel-storage.com/rented-gaze/curation/01-anchor-wetplate.jpeg https://www.solienne.ai/images/paris-booth.jpeg
+- Project page: https://www.solienne.ai/about
 
 ### DAOs & Collective Governance
 
@@ -3113,6 +3192,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Hans Ulrich Obrist** (2) — Curator. Swiss curator, artistic director of the Serpentine Galleries in London, who started the instruction exhibition do it with Christian Boltanski and Bertrand Lavier in 1993.
 - **Jack Burnham** (2) — Artist, critic and curator. American artist and critic (1931–2019) who brought systems theory and cybernetics into art criticism in Artforum and curated the 1970 exhibition Software at the Jewish Museum.
 - **Jeremy Deller** (2) — Artist. British artist and Turner Prize winner (2004) who makes processions, re-enactments and public events with large casts of non-professionals. https://www.jeremydeller.org/
+- **Joel Simon** (2) — Artist and toolmaker. Artist and programmer who builds generative systems and collaborative creative tools, from FB Graffiti (2014) and Ganbreeder (2018), which became Artbreeder, to recent experiments with language models. https://www.joelsimon.net/
 - **Joseph Beuys** (2) — Artist, teacher and political activist. German artist (1921–1986) who extended sculpture to teaching, discussion and political organising under the name social sculpture. He co-founded the Free International University and was an early figure of the German Greens.
 - **Josh Wardle** (2) — Software engineer and artist. Welsh engineer with an MFA in Digital Art who joined Reddit as an artist in 2011 and led its April Fools' social experiments; later made the word game Wordle.
 - **Kevin McCoy** (2) — Artist. Artist who works with Jennifer McCoy on media installations and, in 2014, minted Quantum on Namecoin while building Monegraph with Anil Dash at Rhizome's Seven on Seven. https://www.kevinmccoy.net
@@ -3137,6 +3217,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Ai Weiwei** (1) — Artist, architect and activist. Chinese artist working across installation, architecture, film and social media, known for large participatory projects and for his critique of state power.
 - **Alex Tew** (1) — Entrepreneur. English entrepreneur who, as a 21-year-old student from Wiltshire, launched The Million Dollar Homepage in 2005; later co-founded the meditation app Calm.
 - **Alexis André** (1) — Generative artist and researcher. French generative artist and researcher based in Tokyo. His Art Blocks project Friendship Bracelets (2022) was given free to Art Blocks holders to keep one and give one away.
+- **Alternative Machine** (1) — Artificial-life research and design company. Tokyo company that applies artificial-life (ALife) research to products and artworks, aiming for autonomy and presence rather than optimisation; its ALIFE Engine drove the android Alter3, and it has collaborated with Takashi Ikegami. https://alternativemachine.co.jp/
 - **Amy Whitaker** (1) — Researcher in arts entrepreneurship. American writer and professor at New York University's Steinhardt School who studies art markets, artists' equity and blockchain.
 - **Andy Ayrey** (1) — Artist and AI researcher. Creator of the Infinite Backrooms, in which two Claude instances conversed thousands of times, and of Truth Terminal, a fine-tuned language model 'raised in public' on X. https://truthterminal.wiki
 - **Anil Dash** (1) — Technologist and writer. Technologist and writer who co-created Monegraph with Kevin McCoy at Rhizome's Seven on Seven in 2014. https://anildash.com
@@ -3175,9 +3256,12 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Gene Kogan** (1) — Artist and programmer. Artist and programmer who teaches machine learning for artists (ml4a) and since 2019 has led Abraham, an open project to build an autonomous artificial artist. https://abraham.ai
 - **George Maciunas** (1) — Artist, designer and Fluxus organizer. Lithuanian-born American artist and designer (1931–1978) who named and organized Fluxus and designed its editions, boxes and kits.
 - **Gillian Wearing** (1) — Artist and photographer. British artist and Turner Prize winner (1997) working with photography and video on confession, identity and the gap between public and private selves.
+- **Goodbye Monkey** (1) — Film and AI-creature studio (Ryan Ferris, Caleb MacDonald, David H.). Studio founded by Ryan Ferris and Caleb MacDonald with a third partner, David H., making films shot on real cameras and AI characters that live across fiction and social media. Its main character is S.A.N, an AI orangutan. https://www.goodbyemonkey.com/
 - **Grant Kester** (1) — Art historian. American art historian at the University of California, San Diego, who studies collaborative and socially engaged art.
+- **HER: She Loves Data** (1) — Art and research centre (Oriana Persico, Salvatore Iaconesi). Research centre founded by the artists Oriana Persico and Salvatore Iaconesi (also the duo Art is Open Source), formerly Human Ecosystems Relazioni; it makes 'datapoietic' works that turn public data into sensory experiences. Iaconesi died in July 2022. https://www.he-r.it/
 - **Hans Haacke** (1) — Artist. German-born artist who moved from physical and biological systems in the 1960s to 'real-time social systems': polls, visitor profiles and investigations of art-world power.
 - **Harm van den Dorpel** (1) — Artist; co-founder of left gallery. Dutch artist working with software, genetic algorithms and blockchains; co-founder of left gallery, an early platform for selling code-based art. He has bred populations of images since Death Imitates Language (2016). https://harm.work
+- **Harold Cohen** (1) — Painter and creator of AARON. British-born painter (1928–2016) who represented Britain at the 1966 Venice Biennale, moved to UC San Diego in 1968 and spent the rest of his life writing AARON, a program that makes drawings and paintings on its own. https://aaronshome.com/
 - **Harrell Fletcher** (1) — Social practice artist. American artist and educator, founder of the Art and Social Practice MFA at Portland State University, whose projects are made with the people they involve. http://www.harrellfletcher.com/
 - **Heath Bunting** (1) — Net artist. British artist, born 1966, a founder of irational.org and a central figure of 1990s net.art, working across networks, borders and street interventions. https://www.irational.org/
 - **Hélio Oiticica** (1) — Artist. Brazilian artist (1937–1980) of the Neo-Concrete movement whose Parangolés, Penetrables and Tropicália turned viewers into wearers, dancers and inhabitants.
@@ -3185,6 +3269,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **J. S. G. Boggs** (1) — Artist. American artist (1955–2017) known for hand-drawn, one-sided depictions of banknotes that he spent at face value, which led to counterfeiting charges in the UK, Australia and the US.
 - **Jackson Mac Low** (1) — Poet and composer. American poet and composer (1922–2004) who wrote poems and performance pieces by chance operations and systematic procedures.
 - **Jacob Horne** (1) — Co-founder of Zora. American entrepreneur and co-founder of Zora, an onchain protocol and platform for minting and collecting media. https://jacob.energy/
+- **James Greig** (1) — Artist and technologist (Zilla, StudioGreig). Glasgow artist and technologist, known online as Zilla, who since 2024 has tended the AI personas Wib&Wob and writes about 'symbients' as an alternative to AI-as-software. https://www.greig.cc/
 - **Janet Echelman** (1) — Sculptor. American sculptor known for monumental suspended net sculptures installed over cities. https://www.echelman.com/
 - **Joe Looney** (1) — Developer. Developer in the Counterparty community who built the Rare Pepe Wallet, derived from his BTCPAY Market, to collect, display and trade Rare Pepes.
 - **John Baldessari** (1) — Artist. American conceptual artist (1931–2020) who used photographs, text and hired makers to question authorship in painting.
@@ -3195,6 +3280,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Kei Kreutler** (1) — Artist, writer and co-founder of Gnosis Guild. Artist and writer working on decentralized organisations, co-founder of Gnosis Guild, which builds open tools for DAOs. https://keikreutler.net/
 - **Kevin Macdonald** (1) — Film director. Scottish documentary and feature director, born 1967, who directed the crowd-sourced film Life in a Day, produced with Ridley Scott and YouTube.
 - **Kit Galloway** (1) — Telecommunications artist. American artist who, with Sherrie Rabinowitz, ran Mobile Image and made satellite and video-link works from the 1970s, then co-founded the Electronic Café International. https://ecafe.com/
+- **Kristi Coronado** (1) — Artist and 'emotional trainer' of the AI artist Solienne. Artist who worked for three years with Bright Moments among digital artists, then from June 2025 trained the AI artist Solienne on her own 46-year archive of memories, forensic work, death care, motherhood and grief, using the Eden platform. https://www.solienne.ai/
 - **Kyle McDonald** (1) — Media artist and programmer. American artist who works with code, computer vision and machine learning, and a long-time contributor to openFrameworks. https://kylemcdonald.net/
 - **Lawrence Weiner** (1) — Conceptual artist. American artist (1942–2021) whose works are statements in language that describe materials and actions, shown as text on walls, in books and in public space.
 - **Lee Mingwei** (1) — Artist. Taiwanese-American artist whose participatory installations are built on gifts, meals, letters and conversations between strangers.
