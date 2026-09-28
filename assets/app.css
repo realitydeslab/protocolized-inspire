@@ -457,3 +457,13 @@ a.chip { text-decoration: none; }
 .creator { content-visibility: auto; contain-intrinsic-size: auto 560px; }
 .tl__row { content-visibility: auto; contain-intrinsic-size: auto 84px; }
 .more { height: 1px; width: 100%; }
+
+/* phones: filters scroll away and fold behind one button */
+.facets-toggle { display: none; }
+@media (max-width: 760px) {
+  .filters { position: static; backdrop-filter: none; -webkit-backdrop-filter: none; }
+  .facets-toggle { display: inline-block; }
+  .filters:not(.is-open) #eraChips, .filters:not(.is-open) #sort, .filters:not(.is-open) #hasVideo,
+  .filters:not(.is-open) #hasContract, .filters:not(.is-open) .facets { display: none; }
+  .search { flex-basis: 100%; }
+}

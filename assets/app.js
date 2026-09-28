@@ -164,7 +164,9 @@
       return n || cur.has(k) ? `<button class="chip" data-${attr}="${esc(k)}" aria-pressed="${cur.has(k)}">${esc(text)}<small>${n}</small></button>` : "";
     }).join("")}</div></div>`;
   }
+  const activeFilters = () => [state.mechs, state.subs, state.cols, state.fields, state.kinds].reduce((n, x) => n + x.size, 0) + (state.era ? 1 : 0) + (state.video ? 1 : 0) + (state.contract ? 1 : 0);
   function renderChips() {
+    $("#toggleFacets").textContent = S().filters(activeFilters());
     $("#facetChips").innerHTML =
       chipRow(S().f_field, FIELDS.map((f) => [f.id, nm(f), (w) => inField(w, f.id)]), state.fields, "field", "f") +
       chipRow(S().f_mechanism, MECHS.map(([k]) => [k, mechName(k), (w) => (w.mechanisms || []).includes(k)]), state.mechs, "mech", "m") +
@@ -519,6 +521,7 @@
     if ("clearCreator" in d) { state.creator = ""; return render(); }
     if (t.classList.contains("card")) return openWork(d.id);
   });
+  $("#toggleFacets").addEventListener("click", (e) => { const open = $("#filters").classList.toggle("is-open"); e.currentTarget.setAttribute("aria-expanded", open); });
   $("#clear").addEventListener("click", () => { Object.assign(state, EMPTY_FILTERS()); render(); });
   $("#hasVideo").addEventListener("click", () => { state.video = !state.video; render(); });
   $("#hasContract").addEventListener("click", () => { state.contract = !state.contract; render(); });
