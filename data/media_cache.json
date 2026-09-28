@@ -1753,8 +1753,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/We%27re_Here_Because_We%27re_Here_-_Kings_Cross.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg": {
   "url": "https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg",
@@ -1832,8 +1831,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_Jeu_de_la_Guerre_board.svg/960px-Le_Jeu_de_la_Guerre_board.svg.png",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/webp"
  },
  "img:https://walker-web.imgix.net/cms/cq272dpi.jpg": {
   "url": "https://walker-web.imgix.net/cms/cq272dpi.jpg",
@@ -4065,8 +4063,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg": {
   "url": "https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg",
