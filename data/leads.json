@@ -128,6 +128,54 @@
   "batch": "autonomous"
  },
  {
+  "name": "Holly Herndon & Mat Dryhurst, Infinite Images and the Latent Camera (essay, 2022)",
+  "why": "Essay on generative media and latent space that underpins Readyweights and xhairymutantx; possible theory entry, not about protocols or participation directly.",
+  "link": "https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Strange Rules, Palazzo Diedo, Venice (4 May - 22 Nov 2026)",
+  "why": "Protocol Art exhibition curated by Dryhurst, Herndon and Hans Ulrich Obrist with Adriana Rispoli (terra0, Primavera De Filippi, Ken Stanley, Citarella & New Models, Agnieszka Kurant and others); candidate exhibition collection, with a planned Protocol Art book.",
+  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Ken Stanley, Picbreeder (2007)",
+  "why": "Online collective image-evolution site where users branch and evolve each other's images; shown in Strange Rules; check inclusion under network / collective-games.",
+  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Joshua Citarella & New Models, Marketplace of Ideas (2026)",
+  "why": "New commission in Strange Rules; check whether it runs a participatory protocol.",
+  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Okayama Art Summit (2025)",
+  "why": "Studio lists participation; work not identified.",
+  "link": "https://herndondryhurst.studio/projects/okayama",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, MoMA x Feral File edition, Minnesang, I'M HERE 17122022 5:44 (2022-2023)",
+  "why": "Editions and single works listed on the studio site with no documentation; not researched.",
+  "link": "https://herndondryhurst.studio",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "herndon-dryhurst"
+ },
+ {
   "name": "Stelarc — Fractal Flesh (1995)",
   "why": "Audiences in Paris, Helsinki and Amsterdam remotely actuated Stelarc's body via a web interface; a stronger crowd case than Ping Body.",
   "link": "http://www.medienkunstnetz.de/works/ping-body/",

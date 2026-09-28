@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件作品
+https://protocolized.reality.design · 2026-09-28 · 177 位创作者 · 305 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -549,6 +549,15 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - 群体做了什么: 在每个场馆，例如 2024 年的泰特现代美术馆和波尔图的塞拉尔维斯，观众一点点把白色房间变成布满留言的密集蓝色表面；最终状态每次都不一样。
 - 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg
 - 项目主页: https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide
+
+#### Starmirror — Holly Herndon, Mat Dryhurst (2025)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 开放参与, 指令与乐谱, 共同创作与衍生
+- 核心想法: 把展厅变成可读可写的空间：公众唱出数据集，房间再把模型唱回来。
+- 作品内容: 一个被搭建成录音室和聆听空间的展览，先在柏林 KW 当代艺术中心展出（2025 年 10 月 31 日至 2026 年 1 月 18 日），再到杜塞尔多夫 K21（2026 年 6 月 27 日至 10 月 11 日）：观众按歌本演唱，他们的录音训练出一个 AI 合唱团，并在同一空间里唱回来。
+- 协议: 展期内，观众受邀与本地社区合唱团一起参加公开的人声录音，由一个声乐团体带领，并由房间里的智能体提示。所有人都按照为项目创作的歌本演唱，歌本取材自 Hildegard von Bingen 12 世纪的《Ordo Virtutum》。这些录音构成 AI 合唱团的数据集；K21 还安排了定期的“训练表演”。
+- 群体做了什么: 观众和本地合唱团在与建筑事务所 sub 合作设计的装置里一起演唱歌本；用这些录音训练出的模型让空间把歌声唱回来。Dryhurst 说柏林展有成千上万人到访。这件作品延续了 The Call 的方法，获德国联邦文化基金会“艺术与 AI”项目资助。
+- 图片: https://www.sleek-mag.com/wp-content/uploads/2026/06/2025-10-28_KW_Herndon-Dryhurst_0679-bea_Frank_Sperling_LQ.jpg https://www.kunstsammlung.de/media/Starmirror_004_%C2%A9_Achim_Kukulies.jpg https://www.kunstsammlung.de/media/Starmirror_008a_%C2%A9_Achim_Kukulies.jpg
+- 项目主页: https://www.kunstsammlung.de/en/exhibitions/holly-herndon-mat-dryhurst-en
 
 ### 约束、偶然与游戏
 
@@ -1694,6 +1703,36 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - 图片: https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1024x683.jpg https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_03-1024x683.jpg
 - 项目主页: https://arambartholl.com/keepalive/
 
+#### Have I Been Trained? and the Do Not Train registry — Spawning, Mat Dryhurst, Holly Herndon (2022)
+- 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 开放参与, 契约与证书, 投票与治理
+- 核心想法: 把数以百万计的个人拒绝汇成一份业界不得不读取的登记库。
+- 作品内容: 一个公开网站：任何人都可以在 LAION-5B 图像数据集中搜索自己的作品并加以标记；这些标记进入共享的 Do Not Train 登记库，与 Spawning 合作的 AI 公司在训练前把它们剔除。
+- 协议: 任何人都可以用文字、图片或网址搜索数据集，把图像（2023 年 3 月起也可以是整个域名）标记为退出训练。Spawning 维护这份登记库，并提供 API 和 Python 工具包，让模型训练方在训练时剔除被退出的内容；Stability AI 和 Hugging Face 等合作方承诺遵守。Spawning 之后又推出 ai.txt，网站可以用这个文件声明自己对 AI 训练的许可。
+- 群体做了什么: 艺术家和权利人大规模使用了这个网站：到 2023 年 3 月，他们已从 Stable Diffusion 3 的训练集中移除 8000 万件作品；到 2023 年 4 月底，退出数量超过 10 亿，登记的域名约 3 万个（据 TechCrunch）。这份登记库成为平台和政策团体援引的参照。
+- 视频: https://www.youtube.com/watch?v=H--42zhgJXc
+- 图片: https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png
+- 项目主页: https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/
+
+#### Kudurru — Spawning, Mat Dryhurst, Holly Herndon (2023)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 开放参与, 规则与约束
+- 核心想法: 让许多小网站一起守住同一条边界，并给无视它的机器喂垃圾。
+- 作品内容: 一个免费插件和防御网络：在 AI 爬虫下载图像时识别它们，让每个加入的网站屏蔽爬虫，或者回传一张别的图片，比如一根竖起的中指。
+- 协议: Spawning 运行一个由 1000 多个网站组成的“蜜罐”网络，托管 LAION-5B 中列出的图像，记录抓取它们的 IP 地址，并实时更新一份共享黑名单。安装 Kudurru WordPress 插件的艺术家可以选择屏蔽名单上的爬虫，或者回传一张自选图片来“投毒”。名称来自美索不达米亚的界石。
+- 群体做了什么: 2023 年 10 月以测试版上线。据 WIRED 报道，2023 年 7 月内部测试时，这个网络让所有正在下载 LAION-5B 的人停了大约两个小时；Spawning 的设想是加入的网站越多，黑名单就越有力。
+- 图片: https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg
+- 项目主页: https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/
+
+#### PD12M / Source.Plus / Public Diffusion — Spawning, Mat Dryhurst, Holly Herndon (2024)
+- 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 开放参与, 投票与治理, 共同创作与衍生
+- 核心想法: 用本就属于所有人的东西搭建训练公地，并让公众来维持它的干净。
+- 作品内容: 一个只由公有领域和 CC0 图像组成、共 1240 万张图的数据集，在 Source.Plus 平台上整理，由社区举报机制保持干净；并在其上训练了文生图模型 Public Diffusion。
+- 协议: 只有公有领域或 CC0 图像可以进入；图像经过重新标注、过滤并另行托管，避免链接失效，以 CDLA-Permissive-2.0 许可发布，任何人都可以用来训练。任何人发现侵权或不当内容，都可以在 Source.Plus 上举报，审核流程会将其移除并找到替代图像。Source.Plus 也被设计为一个“主动加入”的素材库，由权利人按自己的条件提供作品。
+- 群体做了什么: 2024 年 10 月在 Hugging Face 发布，开发者下载并用它训练；论文把举报与替换流程称为社区驱动的数据集治理。Herndon 与 Dryhurst 把 PD12M 和 Public Diffusion 与他们的展览并列，视为工作室作品。
+- 文本: https://arxiv.org/abs/2410.23144 (arXiv, 2024)
+- 视频: https://www.youtube.com/watch?v=kv5wzS5ZnU0
+- 图片: https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png
+- 项目主页: https://huggingface.co/datasets/Spawning/PD12M
+
 ## 智能合约艺术
 
 规则运行在智能合约里的作品：供应、销毁、合并、转移、税费与共同创作都在链上执行，并由藏家的行为塑造。
@@ -2718,6 +2757,16 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - 项目主页: https://lilnouns.wtf
 - 合约: https://etherscan.io/address/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B
 
+#### Attention Guild — Holly Herndon, Mat Dryhurst (2026)
+- 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 开放参与, 市场与交换, 投票与治理
+- 核心想法: 一个行会：人贡献语境，智能体贡献算力，共同服务一项使命。
+- 作品内容: 在威尼斯 Palazzo Diedo 为展览“Strange Rules”（2026 年 5 月 4 日至 11 月 22 日）与建筑工作室 sub 合作搭建的双层议会：人们在底层交谈，上层的 AI 智能体就听到的内容展开辩论，构成一个镜像议会。
+- 协议: 空间里说出的一切都被匿名记录，作为语境输入给智能体，这些智能体被赋予与工作室工作相关的四项使命。艺术家计划把它作为一个真实运行的协议发布：任何人都可以把自己的智能体分配给某项使命；这些智能体在空闲时贡献算力，作为回报，它们可以获取工作室积累的语境，例如几个月来的相关对话。
+- 群体做了什么: 威尼斯观众的交谈成为智能体辩论和使命的材料；Dryhurst 把“以算力换语境”描述为一种礼物经济，更接近 BitTorrent 追踪器或汉萨同盟，而不是市场。2026 年 5 月，这一协议正在测试，准备公开发布。
+- 视频: https://www.youtube.com/watch?v=AyYOQCk6is0
+- 图片: https://images.squarespace-cdn.com/content/v1/54faf78ce4b04da0abdfbde8/2255563b-a7cb-477a-bac4-69fd446f69db/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w https://berggruenarts.org/images/Strange_Rules_2026/Installation%20view/STRANGE%20RULES_SUB%20GLOBAL%20CStefanoMattea-5.jpg
+- 项目主页: https://www.coeval-magazine.com/coeval/strange-rules-mat-dryhurst-and-holly-herndon-at-palazzo-diedo-venice
+
 ## 理论与文本
 
 界定艺术中的协议、系统与参与的书籍、文章与研究计划。
@@ -2974,6 +3023,17 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_intricate_flowchart_where_symbols_morph_and_transform_1cccf476-f315-4f8f-881a-dd323482c3b4-jpg.webp
 - 项目主页: https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web
 
+#### All Media Is Training Data — Holly Herndon, Mat Dryhurst (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 共同创作与衍生, 投票与治理
+- 核心想法: 把每件作品都当作未来的训练数据，并设计它被使用的规则。
+- 作品内容: Herndon 与 Dryhurst 的书，由 Eva Jäger 和 Caroline Busta 编辑，2024 年 12 月由蛇形画廊与 König Books 出版，回顾两人的作品，并阐明他们对 AI 与艺术的立场。
+- 协议: 全书围绕六条公理展开：一切媒介都是训练数据、压缩即创造、创造是集体的、消费即生产、媒介将是无限的、身份游戏是新的知识产权。书中还收录 Benjamin Bratton、Primavera De Filippi、Francesca Bria、Ryan Murdock、Liz Pelly 和 Kei Kreutler 的文章。
+- 群体做了什么: 它为 Holly+、Spawning、xhairymutantx 和 The Call 提供理论依据：这些作品的结果取决于公众在艺术家设定的规则下做了什么。工作室还通过公开的 MCP 服务器，让 AI 智能体可以检索全书内容。
+- 文本: https://shop.serpentinegalleries.org/collections/frontpage/products/holly-herndon-mat-dryhurst-all-media-is-training-data (Serpentine / König Books, 2024)
+- 视频: https://www.youtube.com/watch?v=bBv4Y562KlQ
+- 图片: https://shop.serpentinegalleries.org/cdn/shop/files/Screenshot_241.png?v=1786980154&width=2048
+- 项目主页: https://herndondryhurst.studio/projects/all-media
+
 #### Computation in the Expanded Field — Malte Rauch (2024)
 - 类型: 书与文章 · 载体: 文本与纸面 · 机制: 契约与证书, 规则与约束, 时间、衰变与死亡
 - 核心想法: 区块链不是图像的发行渠道，而是材料本身：一组为艺术所采用的约束。
@@ -3015,7 +3075,9 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 
 - **Rhea Myers** (15) — 艺术家、作家、黑客. 艺术家、黑客与作家，自 2011 年起创作区块链艺术，包括早期的智能合约作品以及关于价值与所有权的观念作品。 https://rhea.art/
 - **Jonas Lund** (11) — 艺术家. 瑞典艺术家（1984 年生），创作关于权力、优化与艺术市场的系统、契约和游戏，从装有 GPS 追踪器的画作，到让股东投票决定他艺术生涯的代币。 https://jonaslund.com
+- **Mat Dryhurst** (11) — 艺术家、音乐人、研究者. 艺术家与研究者，与 Holly Herndon 合作 Holly+ 等 AI 与声音项目，并联合创办 Spawning，为 AI 训练数据开发授权同意工具。
 - **Sol LeWitt** (11) — 观念艺术家. 美国艺术家（1928—2007），观念艺术的奠基者之一。自 1968 年起创作约 1350 件墙绘，它们以文字指令和示意图的形式存在，由他人画到墙上。 https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description
+- **Holly Herndon** (10) — 作曲家、艺术家. 常驻柏林的美国作曲家与艺术家，毕业于斯坦福大学 CCRMA（博士）。她与 Mat Dryhurst 合作关于 AI、声音和集体训练数据的作品，包括 PROTO、Holly+、xhairymutantx 和 The Call。 https://holly.plus
 - **Jack Butcher** (9) — 观念艺术家，Visualize Value 创始人. 艺术家，Visualize Value 创始人，作品常由简单符号构成（对勾、收据、商标符号）。自 2023 年起，他常与开发者 Jalil Wahdatehagh 合作，做出一系列由藏家改变图像与供应量的版数作品。 https://jack.art
 - **terra0** (8) — 艺术与研究小组（Paul Seidler、Paul Kolling、Max Hampshire）. 2015–2016 年由 Paul Seidler 与 Paul Kolling 在柏林艺术大学 Joachim Sauter 的新媒体课上创立，之后 Max Hampshire 加入。小组用智能合约、传感器和法律结构，让森林和植物成为经济主体。 https://terra0.org
 - **Pak** (7) — 匿名数字艺术家、系统设计者. 匿名数字创作者，2014 年做过图像策展机器人 Archillect。2020 至 2022 年间，Pak 在 Nifty Gateway、苏富比和自建网站上接连推出一系列发售与合约：开放版数、ASH 销毁代币、Lost Poets、Merge 和 Censored。
@@ -3025,10 +3087,8 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - **Simon de la Rouviere** (6) — 艺术家、作家、机制设计者. 软件开发者、小说作者和艺术家，参与过早期以太坊代币标准，提出了代币联合曲线（bonding curve）与策展市场。通过 Untitled Frontier 发表配有链上艺术的故事。 https://home.simondlr.com
 - **Allan Kaprow** (5) — 艺术家、教师. 美国艺术家（1927–2006），1959 年提出“偶发艺术”（happening）一词，后来转向为两人或小组编写的小规模“活动”乐谱。
 - **John Cage** (5) — 作曲家. 美国作曲家（1912—1992），借助偶然程序、不确定记谱和沉默，把决定权交给演奏者、听众和环境。 https://johncage.org
-- **Mat Dryhurst** (5) — 艺术家、音乐人、研究者. 艺术家与研究者，与 Holly Herndon 合作 Holly+ 等 AI 与声音项目，并联合创办 Spawning，为 AI 训练数据开发授权同意工具。
 - **Sarah Friend** (5) — 艺术家、研究者、软件开发者. 加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。 https://isthisa.com
 - **George Brecht** (4) — 艺术家. 美国艺术家（1926—2008），原为化学家，在约翰·凯奇的课上发明了“事件乐谱”，后定居德国。
-- **Holly Herndon** (4) — 作曲家、艺术家. 常驻柏林的美国作曲家与艺术家，毕业于斯坦福大学 CCRMA（博士）。她与 Mat Dryhurst 合作关于 AI、声音和集体训练数据的作品，包括 PROTO、Holly+、xhairymutantx 和 The Call。 https://holly.plus
 - **Ken Goldberg** (4) — 艺术家，机器人学教授. 艺术家、加州大学伯克利分校机器人学者，自 1994 年的 Mercury Project 起，搭建了最早一批可通过网页操控的机器人。 https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — 艺术家、策展人，Furtherfield 联合创办人. 英国艺术家与策展人，Furtherfield 联合创办人及联合艺术总监，是区块链、DAO 与艺术领域的重要研究者。 https://ruthcatlow.net/
 - **Superflex** (4) — 艺术家团体. 丹麦艺术团体，1993 年由雅各布·芬格、拉斯穆斯·罗森格伦·尼尔森和比约恩斯蒂尔内·克里斯蒂安森创立，关注经济系统、复制、自组织与跨物种设计。 https://superflex.net/
@@ -3039,6 +3099,7 @@ https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件
 - **Furtherfield** (3) — 艺术画廊、实验室与线上社群. 1996 年由 Ruth Catlow 与 Marc Garrett 创立的艺术机构，在伦敦芬斯伯里公园设有画廊和公地实验室，运营去中心化艺术实验室 DECAL，并长期开展关于 DAO、投票与跨物种治理的项目。 https://www.furtherfield.org
 - **Kevin Abosch** (3) — 观念艺术家. 爱尔兰观念艺术家，创作涉及摄影、区块链、雕塑与人工智能；现居巴黎，任教于维也纳应用艺术大学。 https://kevinabosch.com
 - **Primavera De Filippi** (3) — 法学学者、艺术家. 巴黎法国国家科学研究中心（CNRS）研究员、哈佛 Berkman Klein 中心研究员，研究区块链治理，并创作了基于区块链的机械花 Plantoid 等作品。
+- **Spawning** (3) — AI 数据授权公司. 由 Mat Dryhurst 与 Jordan Meyer 联合创办、Holly Herndon 与 Patrick Hoepner 共同参与的公司，为 AI 训练开发授权与数据治理工具：Have I Been Trained?、Do Not Train 登记库、ai.txt、Kudurru、Source.Plus 以及 PD12M 数据集。 https://spawning.ai
 - **Tania Bruguera** (3) — 艺术家与社会行动者. 古巴艺术家，她的“行为艺术”（arte de conducta）与“有用的艺术”（arte útil）把观众置于政治情境之中，并建立持续运作的社会机构。 https://taniabruguera.com/
 - **Tino Sehgal** (3) — 艺术家. 英德籍艺术家，创作“建构情境”：由受过训练的诠释者与观众交谈或共同行动来完成的作品，没有实物，也不允许拍照记录。
 - **Alexander R. Galloway** (2) — 媒介理论家、程序员. 美国媒介理论家，任教于纽约大学，软件艺术团体 RSG（Radical Software Group）的创始成员。 http://cultureandcommunication.org/galloway/

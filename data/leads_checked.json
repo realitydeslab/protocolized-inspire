@@ -104,6 +104,78 @@
   "batch": "autonomous"
  },
  {
+  "name": "Holly Herndon & Mat Dryhurst, Deep Belief training ceremony (Martin Gropius Bau, March 2019)",
+  "why": "A named instance of the PROTO training ceremonies already in holly-herndon--proto-live-training (a cast led audience members through sung and spoken exercises to train Spawn); NVIDIA page could add an image via data/media.",
+  "link": "https://www.nvidia.com/en-us/research/ai-art-gallery/artists/holly-herndon/",
+  "found_via": "holly-herndon",
+  "status": "duplicate",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Kinder Scout (Art Basel Miami Beach, 2025)",
+  "why": "Agents trained by the artists search a diffusion model's latent space for uncommon images; no outside group acts under the rules.",
+  "link": "https://www.youtube.com/watch?v=wJlhAB5TAJo",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Readyweights (2024)",
+  "why": "CC0 release of an embedding, LoRA and training data for a sculpture so anyone can respawn it; an invitation to reuse, but no rule shaping group behaviour and no documented collective output.",
+  "link": "https://paragraph.com/@herndondryhurst/readyweights-minting-concepts",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, CLASSIFIED (Foundation, 2021)",
+  "why": "NFT collection of embedding portraits of 'Holly Herndon' in OpenAI's CLIP; made by the artists, no group protocol.",
+  "link": "https://foundation.app/collection/clsfd",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Crossing the Interface (Foundation, 2021)",
+  "why": "NFT collection; no group protocol found.",
+  "link": "https://foundation.app/@hollyherndon/foundation/40471",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Mat Dryhurst, Saga (2013-2015)",
+  "why": "Embed tool framed as an artwork: the artist can change each hosted copy of a work per site; the hosting sites are bound by it but the performance is the artist's own and no group use is documented.",
+  "link": "http://dismagazine.com/discussion/73345/mathew-dryhurst-data-sagacity-and-site-specificity/",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Holy See Pavilion contribution (Venice Biennale 2026)",
+  "why": "Sound contribution to 'The Ear Is the Eye of the Soul'; no protocol or participation found.",
+  "link": "https://www.finestresullarte.info/en/contemporary-art/holy-see-pavilion-at-venice-biennale-2026-will-be-inspired-by-hildegard-of-bingen",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Interdependence (podcast)",
+  "why": "Podcast and research series; not a rule-based work.",
+  "link": "https://interdependence.fm",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
+  "name": "Holly Herndon, Platform (2015) and Movement (2012) albums",
+  "why": "Albums; no group protocol.",
+  "link": "https://en.wikipedia.org/wiki/Platform_(album)",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "herndon-dryhurst"
+ },
+ {
   "name": "Stelarc — Ping Body (1996)",
   "why": "Muscles actuated by internet ping times; the body is moved by network data, not by participants acting under a rule.",
   "link": "https://v2.nl/works/ping-body/",

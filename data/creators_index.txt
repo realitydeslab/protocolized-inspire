@@ -64,7 +64,7 @@ harm-van-den-dorpel | Harm van den Dorpel | 1 works
 harrell-fletcher | Harrell Fletcher | 1 works
 heath-bunting | Heath Bunting | 1 works
 helio-oiticica | Hélio Oiticica | 1 works
-holly-herndon | Holly Herndon | 4 works
+holly-herndon | Holly Herndon | 10 works
 improv-everywhere | Improv Everywhere | 1 works
 jack-burnham | Jack Burnham | 2 works
 jack-butcher | Jack Butcher | 9 works
@@ -104,7 +104,7 @@ marcel-duchamp | Marcel Duchamp | 2 works
 marina-abramovic | Marina Abramović | 2 works
 mario-klingemann | Mario Klingemann | 1 works
 mark-napier | Mark Napier | 1 works
-mat-dryhurst | Mat Dryhurst | 5 works
+mat-dryhurst | Mat Dryhurst | 11 works
 mathcastles | Mathcastles | 1 works
 matt-kane | Matt Kane | 2 works
 mieko-shiomi | Mieko Shiomi | 1 works
@@ -152,6 +152,7 @@ sherrie-rabinowitz | Sherrie Rabinowitz | 1 works
 simon-de-la-rouviere | Simon de la Rouviere | 6 works
 simone-forti | Simone Forti | 1 works
 sol-lewitt | Sol LeWitt | 11 works
+spawning | Spawning | 3 works
 summer-of-protocols | Summer of Protocols | 2 works
 superflex | Superflex | 4 works
 suum-cuique-labs | Suum Cuique Labs | 1 works

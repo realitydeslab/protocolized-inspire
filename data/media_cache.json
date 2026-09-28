@@ -4229,5 +4229,133 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:H--42zhgJXc": {
+  "url": "https://www.youtube.com/watch?v=H--42zhgJXc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "H--42zhgJXc",
+  "title": "Creating a consent layer for AI systems | Holly Herndon + Mat Dryhurst | Serpentine",
+  "author": "Serpentine",
+  "thumbnail": "https://i.ytimg.com/vi/H--42zhgJXc/hqdefault.jpg"
+ },
+ "img:https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png": {
+  "url": "https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg": {
+  "url": "https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:kv5wzS5ZnU0": {
+  "url": "https://www.youtube.com/watch?v=kv5wzS5ZnU0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kv5wzS5ZnU0",
+  "title": "Cruelty Free AI w/ Mat Dryhurst of Spawning | Ep. 53",
+  "author": "Seed Club ",
+  "thumbnail": "https://i.ytimg.com/vi/kv5wzS5ZnU0/hqdefault.jpg"
+ },
+ "img:https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg": {
+  "url": "https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png": {
+  "url": "https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "arxiv:2410.23144": {
+  "arxiv": "2410.23144",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Public Domain 12M: A Highly Aesthetic Image-Text Dataset with Novel Governance Mechanisms",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2410.23144"
+ },
+ "img:https://www.sleek-mag.com/wp-content/uploads/2026/06/2025-10-28_KW_Herndon-Dryhurst_0679-bea_Frank_Sperling_LQ.jpg": {
+  "url": "https://www.sleek-mag.com/wp-content/uploads/2026/06/2025-10-28_KW_Herndon-Dryhurst_0679-bea_Frank_Sperling_LQ.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.kunstsammlung.de/media/Starmirror_004_%C2%A9_Achim_Kukulies.jpg": {
+  "url": "https://www.kunstsammlung.de/media/Starmirror_004_%C2%A9_Achim_Kukulies.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.kunstsammlung.de/media/Starmirror_008a_%C2%A9_Achim_Kukulies.jpg": {
+  "url": "https://www.kunstsammlung.de/media/Starmirror_008a_%C2%A9_Achim_Kukulies.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:AyYOQCk6is0": {
+  "url": "https://www.youtube.com/watch?v=AyYOQCk6is0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AyYOQCk6is0",
+  "title": "Mat Dryhurst & Holly Herndon on “Strange Rules” | Protocol Art at Palazzo Diedo",
+  "author": "Berggruen Arts & Culture - Palazzo Diedo",
+  "thumbnail": "https://i.ytimg.com/vi/AyYOQCk6is0/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54faf78ce4b04da0abdfbde8/2255563b-a7cb-477a-bac4-69fd446f69db/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54faf78ce4b04da0abdfbde8/2255563b-a7cb-477a-bac4-69fd446f69db/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://berggruenarts.org/images/Strange_Rules_2026/Installation%20view/STRANGE%20RULES_SUB%20GLOBAL%20CStefanoMattea-5.jpg": {
+  "url": "https://berggruenarts.org/images/Strange_Rules_2026/Installation%20view/STRANGE%20RULES_SUB%20GLOBAL%20CStefanoMattea-5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:bBv4Y562KlQ": {
+  "url": "https://www.youtube.com/watch?v=bBv4Y562KlQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bBv4Y562KlQ",
+  "title": "Preview | Artists Holly Herndon & Mat Dryhurst on a new paradigm of artmaking (NM86)",
+  "author": "NEW MODELS",
+  "thumbnail": "https://i.ytimg.com/vi/bBv4Y562KlQ/hqdefault.jpg"
+ },
+ "img:https://shop.serpentinegalleries.org/cdn/shop/files/Screenshot_241.png?v=1786980154&width=2048": {
+  "url": "https://shop.serpentinegalleries.org/cdn/shop/files/Screenshot_241.png?v=1786980154&width=2048",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "ytmax:H--42zhgJXc": {
+  "url": "https://i.ytimg.com/vi/H--42zhgJXc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kv5wzS5ZnU0": {
+  "url": "https://i.ytimg.com/vi/kv5wzS5ZnU0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:AyYOQCk6is0": {
+  "url": "https://i.ytimg.com/vi/AyYOQCk6is0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bBv4Y562KlQ": {
+  "url": "https://i.ytimg.com/vi/bBv4Y562KlQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

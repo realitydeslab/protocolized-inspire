@@ -507,7 +507,7 @@
    "why_zh": "她把自己的声音和形象变成共享的协议：由一个 DAO 决定她的数字分身如何被使用，合唱团则共同拥有用他们歌声训练的模型。",
    "based_zh": "柏林，德国",
    "discovered_via": "seed",
-   "work_count": 4
+   "work_count": 10
   },
   {
    "id": "nounders",
@@ -647,6 +647,28 @@
    "why_zh": "他的 Abraham 提案定义了“自治人工艺术家”：其数据、代码、策展与治理全部众包，Botto 和后来的 AI 代理都沿用了这一模式。",
    "discovered_via": "botto",
    "work_count": 1
+  },
+  {
+   "id": "spawning",
+   "links": {
+    "site": "https://spawning.ai"
+   },
+   "connected_to": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "name": "Spawning",
+   "kind": "company",
+   "role": "AI data-consent company",
+   "based": "Berlin, DE / United States",
+   "bio": "Company co-founded by Mat Dryhurst and Jordan Meyer, with Holly Herndon and Patrick Hoepner, that builds consent and data-governance tools for AI training: Have I Been Trained?, the Do Not Train registry, ai.txt, Kudurru, Source.Plus and the PD12M dataset.",
+   "why": "It grew out of Herndon and Dryhurst's art practice and turns artists' consent into shared infrastructure that AI trainers, platforms and website owners act on.",
+   "role_zh": "AI 数据授权公司",
+   "bio_zh": "由 Mat Dryhurst 与 Jordan Meyer 联合创办、Holly Herndon 与 Patrick Hoepner 共同参与的公司，为 AI 训练开发授权与数据治理工具：Have I Been Trained?、Do Not Train 登记库、ai.txt、Kudurru、Source.Plus 以及 PD12M 数据集。",
+   "why_zh": "它脱胎于 Herndon 与 Dryhurst 的艺术实践，把艺术家的“同意”变成 AI 训练方、平台和网站主都会据此行动的共享基础设施。",
+   "based_zh": "柏林，德国 / 美国",
+   "discovered_via": "mat-dryhurst",
+   "work_count": 3
   },
   {
    "id": "kit-galloway",
@@ -3908,7 +3930,7 @@
    "why_zh": "他主张艺术家应当直接设计协议，作为“可执行的批判”，而不是在平台内部做作品。",
    "based_zh": "柏林，德国",
    "discovered_via": "seed",
-   "work_count": 5
+   "work_count": 11
   },
   {
    "id": "vera-list-center",
@@ -3932,6 +3954,58 @@
   }
  ],
  "works": [
+  {
+   "id": "holly-herndon--attention-guild",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "Attention Guild",
+   "year": 2026,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "exchange",
+    "governance"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A two-level parliament at Palazzo Diedo, Venice, built with the architecture studio sub for the exhibition 'Strange Rules' (4 May to 22 November 2026): people talk on the ground floor while AI agents above them debate what they hear, as a mirror assembly.",
+   "description_zh": "在威尼斯 Palazzo Diedo 为展览“Strange Rules”（2026 年 5 月 4 日至 11 月 22 日）与建筑工作室 sub 合作搭建的双层议会：人们在底层交谈，上层的 AI 智能体就听到的内容展开辩论，构成一个镜像议会。",
+   "idea_en": "A guild where people contribute context and agents contribute compute to a shared mission.",
+   "idea_zh": "一个行会：人贡献语境，智能体贡献算力，共同服务一项使命。",
+   "protocol": "Everything said in the space is captured anonymously and fed as context to agents that have four missions tied to the studio's work. The artists plan to release it as a live protocol: anyone can assign their own agents to a mission; in idle hours those agents contribute compute, and in return they get access to the studio's accumulated context, such as months of relevant conversations.",
+   "protocol_zh": "空间里说出的一切都被匿名记录，作为语境输入给智能体，这些智能体被赋予与工作室工作相关的四项使命。艺术家计划把它作为一个真实运行的协议发布：任何人都可以把自己的智能体分配给某项使命；这些智能体在空闲时贡献算力，作为回报，它们可以获取工作室积累的语境，例如几个月来的相关对话。",
+   "collective": "Visitors' conversations in Venice feed the agents' debate and missions; Dryhurst describes the exchange of compute for context as a gift economy closer to BitTorrent trackers or the Hanseatic League than to a market. In May 2026 the protocol was in testing ahead of public release.",
+   "collective_zh": "威尼斯观众的交谈成为智能体辩论和使命的材料；Dryhurst 把“以算力换语境”描述为一种礼物经济，更接近 BitTorrent 追踪器或汉萨同盟，而不是市场。2026 年 5 月，这一协议正在测试，准备公开发布。",
+   "keywords": [
+    "Strange Rules",
+    "Palazzo Diedo",
+    "agents",
+    "parliament",
+    "compute",
+    "context",
+    "guild",
+    "sub"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AyYOQCk6is0",
+    "platform": "youtube",
+    "id": "AyYOQCk6is0",
+    "thumbnail": "https://i.ytimg.com/vi/AyYOQCk6is0/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54faf78ce4b04da0abdfbde8/2255563b-a7cb-477a-bac4-69fd446f69db/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w",
+    "https://berggruenarts.org/images/Strange_Rules_2026/Installation%20view/STRANGE%20RULES_SUB%20GLOBAL%20CStefanoMattea-5.jpg"
+   ],
+   "source_url": "https://www.coeval-magazine.com/coeval/strange-rules-mat-dryhurst-and-holly-herndon-at-palazzo-diedo-venice",
+   "paper": {}
+  },
   {
    "id": "jack-butcher--credits",
    "creator_ids": [
@@ -4528,6 +4602,53 @@
    "paper": {}
   },
   {
+   "id": "holly-herndon--starmirror",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "Starmirror",
+   "year": 2025,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "An exhibition built as a recording studio and listening room, first at KW Institute for Contemporary Art, Berlin (31 October 2025 to 18 January 2026), then at K21, Düsseldorf (27 June to 11 October 2026), where visitors sing from a songbook and their recordings train an AI choir that sings back in the space.",
+   "description_zh": "一个被搭建成录音室和聆听空间的展览，先在柏林 KW 当代艺术中心展出（2025 年 10 月 31 日至 2026 年 1 月 18 日），再到杜塞尔多夫 K21（2026 年 6 月 27 日至 10 月 11 日）：观众按歌本演唱，他们的录音训练出一个 AI 合唱团，并在同一空间里唱回来。",
+   "idea_en": "Make the gallery a read-write space: the public sings the dataset, and the room sings the model back.",
+   "idea_zh": "把展厅变成可读可写的空间：公众唱出数据集，房间再把模型唱回来。",
+   "protocol": "Throughout the show visitors are invited to join public vocal recording sessions alongside local community choirs, guided by a vocal ensemble and prompted by an agent in the room. Everyone sings from a songbook written for the project after Hildegard von Bingen's 12th-century 'Ordo Virtutum'. The recordings form the dataset for an AI choir; K21 adds scheduled 'Training Performances'.",
+   "protocol_zh": "展期内，观众受邀与本地社区合唱团一起参加公开的人声录音，由一个声乐团体带领，并由房间里的智能体提示。所有人都按照为项目创作的歌本演唱，歌本取材自 Hildegard von Bingen 12 世纪的《Ordo Virtutum》。这些录音构成 AI 合唱团的数据集；K21 还安排了定期的“训练表演”。",
+   "collective": "Visitors and local choirs sang the songbook together in the installation designed with the architecture office sub; models trained on these sessions let the space sing back. Dryhurst says thousands of people came through the Berlin show. The work continues the method of The Call and is supported by the Kulturstiftung des Bundes 'Art & AI' fund.",
+   "collective_zh": "观众和本地合唱团在与建筑事务所 sub 合作设计的装置里一起演唱歌本；用这些录音训练出的模型让空间把歌声唱回来。Dryhurst 说柏林展有成千上万人到访。这件作品延续了 The Call 的方法，获德国联邦文化基金会“艺术与 AI”项目资助。",
+   "keywords": [
+    "KW Berlin",
+    "K21",
+    "AI choir",
+    "songbook",
+    "Hildegard von Bingen",
+    "Ordo Virtutum",
+    "read-write space",
+    "training data"
+   ],
+   "images": [
+    "https://www.sleek-mag.com/wp-content/uploads/2026/06/2025-10-28_KW_Herndon-Dryhurst_0679-bea_Frank_Sperling_LQ.jpg",
+    "https://www.kunstsammlung.de/media/Starmirror_004_%C2%A9_Achim_Kukulies.jpg",
+    "https://www.kunstsammlung.de/media/Starmirror_008a_%C2%A9_Achim_Kukulies.jpg"
+   ],
+   "source_url": "https://www.kunstsammlung.de/en/exhibitions/holly-herndon-mat-dryhurst-en",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "murilo-matsubara--wplace",
    "creator_ids": [
     "murilo-matsubara"
@@ -4651,6 +4772,56 @@
     "embeddable": true
    },
    "paper": {}
+  },
+  {
+   "id": "holly-herndon--all-media-is-training-data",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "All Media Is Training Data",
+   "year": 2024,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "mechanisms": [
+    "co-authorship",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Book by Herndon and Dryhurst, edited by Eva Jäger and Caroline Busta and published by Serpentine and König Books in December 2024, that surveys their work and sets out their position on AI and art.",
+   "description_zh": "Herndon 与 Dryhurst 的书，由 Eva Jäger 和 Caroline Busta 编辑，2024 年 12 月由蛇形画廊与 König Books 出版，回顾两人的作品，并阐明他们对 AI 与艺术的立场。",
+   "idea_en": "Treat every work as future training data, and design the rules for how it is used.",
+   "idea_zh": "把每件作品都当作未来的训练数据，并设计它被使用的规则。",
+   "protocol": "The book is organised around six axioms: All Media Is Training Data, Compression Is Creation, Creation Is Collective, Consumption Is Production, Media Will Be Infinite, and Identity Play Is The New IP. It adds essays by Benjamin Bratton, Primavera De Filippi, Francesca Bria, Ryan Murdock, Liz Pelly and Kei Kreutler.",
+   "protocol_zh": "全书围绕六条公理展开：一切媒介都是训练数据、压缩即创造、创造是集体的、消费即生产、媒介将是无限的、身份游戏是新的知识产权。书中还收录 Benjamin Bratton、Primavera De Filippi、Francesca Bria、Ryan Murdock、Liz Pelly 和 Kei Kreutler 的文章。",
+   "collective": "It gives the theory behind Holly+, Spawning, xhairymutantx and The Call: works whose outcome depends on what a public does under rules the artists set. The studio has made the full text searchable for AI agents through its public MCP server.",
+   "collective_zh": "它为 Holly+、Spawning、xhairymutantx 和 The Call 提供理论依据：这些作品的结果取决于公众在艺术家设定的规则下做了什么。工作室还通过公开的 MCP 服务器，让 AI 智能体可以检索全书内容。",
+   "keywords": [
+    "book",
+    "Serpentine",
+    "König Books",
+    "axioms",
+    "identity play",
+    "training data"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bBv4Y562KlQ",
+    "platform": "youtube",
+    "id": "bBv4Y562KlQ",
+    "thumbnail": "https://i.ytimg.com/vi/bBv4Y562KlQ/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://shop.serpentinegalleries.org/cdn/shop/files/Screenshot_241.png?v=1786980154&width=2048"
+   ],
+   "paper": {
+    "url": "https://shop.serpentinegalleries.org/collections/frontpage/products/holly-herndon-mat-dryhurst-all-media-is-training-data",
+    "venue": "Serpentine / König Books, 2024",
+    "title": "All Media Is Training Data"
+   },
+   "source_url": "https://herndondryhurst.studio/projects/all-media",
+   "also": []
   },
   {
    "id": "malte-rauch--computation-expanded-field",
@@ -4859,6 +5030,61 @@
    "source_url": "https://eieio.games/blog/one-million-checkboxes/",
    "video": {},
    "paper": {},
+   "also": []
+  },
+  {
+   "id": "spawning--pd12m-source-plus",
+   "creator_ids": [
+    "spawning",
+    "mat-dryhurst",
+    "holly-herndon"
+   ],
+   "title": "PD12M / Source.Plus / Public Diffusion",
+   "year": 2024,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "mechanisms": [
+    "participation",
+    "governance",
+    "co-authorship"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "A 12.4-million-image dataset made only of public-domain and CC0 images, curated on the Source.Plus platform, with community flagging to keep it clean, and a text-to-image model, Public Diffusion, trained on it.",
+   "description_zh": "一个只由公有领域和 CC0 图像组成、共 1240 万张图的数据集，在 Source.Plus 平台上整理，由社区举报机制保持干净；并在其上训练了文生图模型 Public Diffusion。",
+   "idea_en": "Build the training commons from what everyone already owns, and let the public keep it honest.",
+   "idea_zh": "用本就属于所有人的东西搭建训练公地，并让公众来维持它的干净。",
+   "protocol": "Only public-domain or CC0 images enter; they are recaptioned, filtered and re-hosted so links do not decay, and released under CDLA-Permissive-2.0 for anyone to train on. Anyone who finds infringing or objectionable material can flag it on Source.Plus, where a review process removes it and finds a replacement. Source.Plus is also meant as an opt-in library where rights holders offer media on their own terms.",
+   "protocol_zh": "只有公有领域或 CC0 图像可以进入；图像经过重新标注、过滤并另行托管，避免链接失效，以 CDLA-Permissive-2.0 许可发布，任何人都可以用来训练。任何人发现侵权或不当内容，都可以在 Source.Plus 上举报，审核流程会将其移除并找到替代图像。Source.Plus 也被设计为一个“主动加入”的素材库，由权利人按自己的条件提供作品。",
+   "collective": "Released in October 2024 on Hugging Face, where developers download and train on it; the paper describes the flagging and replacement process as community-driven dataset governance. Herndon and Dryhurst present PD12M and Public Diffusion as a studio work alongside their exhibitions.",
+   "collective_zh": "2024 年 10 月在 Hugging Face 发布，开发者下载并用它训练；论文把举报与替换流程称为社区驱动的数据集治理。Herndon 与 Dryhurst 把 PD12M 和 Public Diffusion 与他们的展览并列，视为工作室作品。",
+   "keywords": [
+    "Spawning",
+    "public domain",
+    "CC0",
+    "dataset",
+    "Hugging Face",
+    "Public Diffusion",
+    "governance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kv5wzS5ZnU0",
+    "platform": "youtube",
+    "id": "kv5wzS5ZnU0",
+    "thumbnail": "https://i.ytimg.com/vi/kv5wzS5ZnU0/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg",
+    "https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2410.23144",
+    "arxiv": "2410.23144",
+    "venue": "arXiv, 2024",
+    "title": "Public Domain 12M: A Highly Aesthetic Image-Text Dataset with Novel Governance Mechanisms"
+   },
+   "source_url": "https://huggingface.co/datasets/Spawning/PD12M",
    "also": []
   },
   {
@@ -5186,6 +5412,47 @@
    "source_url": "https://rhea.art/is-art-editions/",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "spawning--kudurru",
+   "creator_ids": [
+    "spawning",
+    "mat-dryhurst",
+    "holly-herndon"
+   ],
+   "title": "Kudurru",
+   "year": 2023,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "A free plug-in and defence network that spots AI scrapers as they download images and lets each participating site block them or send back a different image, such as a middle finger.",
+   "description_zh": "一个免费插件和防御网络：在 AI 爬虫下载图像时识别它们，让每个加入的网站屏蔽爬虫，或者回传一张别的图片，比如一根竖起的中指。",
+   "idea_en": "Let many small websites defend one boundary together, and feed junk to the machine that ignores it.",
+   "idea_zh": "让许多小网站一起守住同一条边界，并给无视它的机器喂垃圾。",
+   "protocol": "Spawning runs a honeypot network of more than 1,000 websites hosting images listed in LAION-5B and records the IP addresses that scrape them, updating a shared blocklist in real time. Artists who install the Kudurru WordPress plug-in choose either to block listed scrapers or to 'poison' them by returning an image of their choice. The name refers to Mesopotamian boundary stones.",
+   "protocol_zh": "Spawning 运行一个由 1000 多个网站组成的“蜜罐”网络，托管 LAION-5B 中列出的图像，记录抓取它们的 IP 地址，并实时更新一份共享黑名单。安装 Kudurru WordPress 插件的艺术家可以选择屏蔽名单上的爬虫，或者回传一张自选图片来“投毒”。名称来自美索不达米亚的界石。",
+   "collective": "Launched in beta in October 2023. In internal tests in July 2023 the network stopped everyone downloading LAION-5B for about two hours (WIRED); Spawning's premise is that the blocklist grows stronger the more sites join.",
+   "collective_zh": "2023 年 10 月以测试版上线。据 WIRED 报道，2023 年 7 月内部测试时，这个网络让所有正在下载 LAION-5B 的人停了大约两个小时；Spawning 的设想是加入的网站越多，黑名单就越有力。",
+   "keywords": [
+    "Spawning",
+    "scraping",
+    "data poisoning",
+    "LAION-5B",
+    "blocklist",
+    "WordPress"
+   ],
+   "images": [
+    "https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg"
+   ],
+   "source_url": "https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/",
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "sam-spratt--the-monument-game",
@@ -5661,6 +5928,58 @@
    ],
    "source_url": "https://whitehotmagazine.com/articles/nfts-with-diy-phygital-component/5567",
    "contract_url": "https://etherscan.io/address/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
+   "paper": {}
+  },
+  {
+   "id": "spawning--have-i-been-trained",
+   "creator_ids": [
+    "spawning",
+    "mat-dryhurst",
+    "holly-herndon"
+   ],
+   "title": "Have I Been Trained? and the Do Not Train registry",
+   "year": 2022,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "contract",
+    "governance"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "A public website where anyone can search the LAION-5B image dataset for their own work and flag it; the flags go into a shared Do Not Train registry that AI companies partnered with Spawning filter out of their training data.",
+   "description_zh": "一个公开网站：任何人都可以在 LAION-5B 图像数据集中搜索自己的作品并加以标记；这些标记进入共享的 Do Not Train 登记库，与 Spawning 合作的 AI 公司在训练前把它们剔除。",
+   "idea_en": "Turn millions of individual refusals into one registry that the industry has to read.",
+   "idea_zh": "把数以百万计的个人拒绝汇成一份业界不得不读取的登记库。",
+   "protocol": "Anyone may search the dataset by text, image or URL and mark images, or from March 2023 whole domains, as opted out. Spawning keeps the registry and offers an API and Python package so model trainers can drop opted-out items at training time; partners such as Stability AI and Hugging Face agreed to honour it. Spawning later added ai.txt, a file with which a website states its AI-training permissions.",
+   "protocol_zh": "任何人都可以用文字、图片或网址搜索数据集，把图像（2023 年 3 月起也可以是整个域名）标记为退出训练。Spawning 维护这份登记库，并提供 API 和 Python 工具包，让模型训练方在训练时剔除被退出的内容；Stability AI 和 Hugging Face 等合作方承诺遵守。Spawning 之后又推出 ai.txt，网站可以用这个文件声明自己对 AI 训练的许可。",
+   "collective": "Artists and rights holders used the site at scale: by March 2023 they had removed 80 million artworks from the Stable Diffusion 3 training set, by late April 2023 opt-outs had passed 1 billion, and about 30,000 domains had been registered (TechCrunch). The registry became a reference point that platforms and policy groups point to.",
+   "collective_zh": "艺术家和权利人大规模使用了这个网站：到 2023 年 3 月，他们已从 Stable Diffusion 3 的训练集中移除 8000 万件作品；到 2023 年 4 月底，退出数量超过 10 亿，登记的域名约 3 万个（据 TechCrunch）。这份登记库成为平台和政策团体援引的参照。",
+   "keywords": [
+    "Spawning",
+    "opt-out",
+    "consent",
+    "LAION-5B",
+    "Stability AI",
+    "Hugging Face",
+    "ai.txt",
+    "Do Not Train"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=H--42zhgJXc",
+    "platform": "youtube",
+    "id": "H--42zhgJXc",
+    "thumbnail": "https://i.ytimg.com/vi/H--42zhgJXc/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png"
+   ],
+   "source_url": "https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/",
    "paper": {}
   },
   {

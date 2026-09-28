@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 176 creators · 299 works
+https://protocolized.reality.design · 2026-09-28 · 177 creators · 305 works
 
 ## How an AI assistant should use this file
 
@@ -549,6 +549,15 @@ Instructions addressed to readers, visitors and strangers, who become the perfor
 - What the collective did: At each venue, such as Tate Modern in 2024 and Serralves in Porto, visitors gradually turn the room from white to a dense blue surface of messages; the final state is different every time.
 - Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg
 - Project page: https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide
+
+#### Starmirror — Holly Herndon, Mat Dryhurst (2025)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Open participation, Instruction & score, Co-authorship & derivatives
+- Idea: Make the gallery a read-write space: the public sings the dataset, and the room sings the model back.
+- What it is: An exhibition built as a recording studio and listening room, first at KW Institute for Contemporary Art, Berlin (31 October 2025 to 18 January 2026), then at K21, Düsseldorf (27 June to 11 October 2026), where visitors sing from a songbook and their recordings train an AI choir that sings back in the space.
+- Protocol: Throughout the show visitors are invited to join public vocal recording sessions alongside local community choirs, guided by a vocal ensemble and prompted by an agent in the room. Everyone sings from a songbook written for the project after Hildegard von Bingen's 12th-century 'Ordo Virtutum'. The recordings form the dataset for an AI choir; K21 adds scheduled 'Training Performances'.
+- What the collective did: Visitors and local choirs sang the songbook together in the installation designed with the architecture office sub; models trained on these sessions let the space sing back. Dryhurst says thousands of people came through the Berlin show. The work continues the method of The Call and is supported by the Kulturstiftung des Bundes 'Art & AI' fund.
+- Images: https://www.sleek-mag.com/wp-content/uploads/2026/06/2025-10-28_KW_Herndon-Dryhurst_0679-bea_Frank_Sperling_LQ.jpg https://www.kunstsammlung.de/media/Starmirror_004_%C2%A9_Achim_Kukulies.jpg https://www.kunstsammlung.de/media/Starmirror_008a_%C2%A9_Achim_Kukulies.jpg
+- Project page: https://www.kunstsammlung.de/en/exhibitions/holly-herndon-mat-dryhurst-en
 
 ### Constraints, Chance & Games
 
@@ -1694,6 +1703,36 @@ Artist-built infrastructures, file drops and commons that strangers maintain and
 - Images: https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1024x683.jpg https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_03-1024x683.jpg
 - Project page: https://arambartholl.com/keepalive/
 
+#### Have I Been Trained? and the Do Not Train registry — Spawning, Mat Dryhurst, Holly Herndon (2022)
+- Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Open participation, Contract & certificate, Voting & governance
+- Idea: Turn millions of individual refusals into one registry that the industry has to read.
+- What it is: A public website where anyone can search the LAION-5B image dataset for their own work and flag it; the flags go into a shared Do Not Train registry that AI companies partnered with Spawning filter out of their training data.
+- Protocol: Anyone may search the dataset by text, image or URL and mark images, or from March 2023 whole domains, as opted out. Spawning keeps the registry and offers an API and Python package so model trainers can drop opted-out items at training time; partners such as Stability AI and Hugging Face agreed to honour it. Spawning later added ai.txt, a file with which a website states its AI-training permissions.
+- What the collective did: Artists and rights holders used the site at scale: by March 2023 they had removed 80 million artworks from the Stable Diffusion 3 training set, by late April 2023 opt-outs had passed 1 billion, and about 30,000 domains had been registered (TechCrunch). The registry became a reference point that platforms and policy groups point to.
+- Video: https://www.youtube.com/watch?v=H--42zhgJXc
+- Images: https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png
+- Project page: https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/
+
+#### Kudurru — Spawning, Mat Dryhurst, Holly Herndon (2023)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Open participation, Rules & constraints
+- Idea: Let many small websites defend one boundary together, and feed junk to the machine that ignores it.
+- What it is: A free plug-in and defence network that spots AI scrapers as they download images and lets each participating site block them or send back a different image, such as a middle finger.
+- Protocol: Spawning runs a honeypot network of more than 1,000 websites hosting images listed in LAION-5B and records the IP addresses that scrape them, updating a shared blocklist in real time. Artists who install the Kudurru WordPress plug-in choose either to block listed scrapers or to 'poison' them by returning an image of their choice. The name refers to Mesopotamian boundary stones.
+- What the collective did: Launched in beta in October 2023. In internal tests in July 2023 the network stopped everyone downloading LAION-5B for about two hours (WIRED); Spawning's premise is that the blocklist grows stronger the more sites join.
+- Images: https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg
+- Project page: https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/
+
+#### PD12M / Source.Plus / Public Diffusion — Spawning, Mat Dryhurst, Holly Herndon (2024)
+- Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Open participation, Voting & governance, Co-authorship & derivatives
+- Idea: Build the training commons from what everyone already owns, and let the public keep it honest.
+- What it is: A 12.4-million-image dataset made only of public-domain and CC0 images, curated on the Source.Plus platform, with community flagging to keep it clean, and a text-to-image model, Public Diffusion, trained on it.
+- Protocol: Only public-domain or CC0 images enter; they are recaptioned, filtered and re-hosted so links do not decay, and released under CDLA-Permissive-2.0 for anyone to train on. Anyone who finds infringing or objectionable material can flag it on Source.Plus, where a review process removes it and finds a replacement. Source.Plus is also meant as an opt-in library where rights holders offer media on their own terms.
+- What the collective did: Released in October 2024 on Hugging Face, where developers download and train on it; the paper describes the flagging and replacement process as community-driven dataset governance. Herndon and Dryhurst present PD12M and Public Diffusion as a studio work alongside their exhibitions.
+- Text: https://arxiv.org/abs/2410.23144 (arXiv, 2024)
+- Video: https://www.youtube.com/watch?v=kv5wzS5ZnU0
+- Images: https://huggingface.co/datasets/Spawning/PD12M/resolve/main/header.jpg https://techcrunch.com/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-9.33.53%E2%80%AFPM.png
+- Project page: https://huggingface.co/datasets/Spawning/PD12M
+
 ## Smart-Contract Art
 
 Artworks whose rules run in a smart contract: supply, burning, merging, transfer, taxes and co-authorship enforced on-chain, and shaped by what collectors do.
@@ -2718,6 +2757,16 @@ Art projects where token holders vote, fund and decide: daily auctions, artist c
 - Project page: https://lilnouns.wtf
 - Contract: https://etherscan.io/address/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B
 
+#### Attention Guild — Holly Herndon, Mat Dryhurst (2026)
+- Type: Artwork · Substrate: AI & machine · Mechanisms: Open participation, Market & exchange, Voting & governance
+- Idea: A guild where people contribute context and agents contribute compute to a shared mission.
+- What it is: A two-level parliament at Palazzo Diedo, Venice, built with the architecture studio sub for the exhibition 'Strange Rules' (4 May to 22 November 2026): people talk on the ground floor while AI agents above them debate what they hear, as a mirror assembly.
+- Protocol: Everything said in the space is captured anonymously and fed as context to agents that have four missions tied to the studio's work. The artists plan to release it as a live protocol: anyone can assign their own agents to a mission; in idle hours those agents contribute compute, and in return they get access to the studio's accumulated context, such as months of relevant conversations.
+- What the collective did: Visitors' conversations in Venice feed the agents' debate and missions; Dryhurst describes the exchange of compute for context as a gift economy closer to BitTorrent trackers or the Hanseatic League than to a market. In May 2026 the protocol was in testing ahead of public release.
+- Video: https://www.youtube.com/watch?v=AyYOQCk6is0
+- Images: https://images.squarespace-cdn.com/content/v1/54faf78ce4b04da0abdfbde8/2255563b-a7cb-477a-bac4-69fd446f69db/00+-+Strange+Rules+-+Mat+Dryhurst+and+Holly+Herndon+at+Palazzo+Diedo+Venice.jpg?format=1500w https://berggruenarts.org/images/Strange_Rules_2026/Installation%20view/STRANGE%20RULES_SUB%20GLOBAL%20CStefanoMattea-5.jpg
+- Project page: https://www.coeval-magazine.com/coeval/strange-rules-mat-dryhurst-and-holly-herndon-at-palazzo-diedo-venice
+
 ## Theory & Texts
 
 Books, essays and research programmes that define protocols, systems and participation in art.
@@ -2974,6 +3023,17 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_intricate_flowchart_where_symbols_morph_and_transform_1cccf476-f315-4f8f-881a-dd323482c3b4-jpg.webp
 - Project page: https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web
 
+#### All Media Is Training Data — Holly Herndon, Mat Dryhurst (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Co-authorship & derivatives, Voting & governance
+- Idea: Treat every work as future training data, and design the rules for how it is used.
+- What it is: Book by Herndon and Dryhurst, edited by Eva Jäger and Caroline Busta and published by Serpentine and König Books in December 2024, that surveys their work and sets out their position on AI and art.
+- Protocol: The book is organised around six axioms: All Media Is Training Data, Compression Is Creation, Creation Is Collective, Consumption Is Production, Media Will Be Infinite, and Identity Play Is The New IP. It adds essays by Benjamin Bratton, Primavera De Filippi, Francesca Bria, Ryan Murdock, Liz Pelly and Kei Kreutler.
+- What the collective did: It gives the theory behind Holly+, Spawning, xhairymutantx and The Call: works whose outcome depends on what a public does under rules the artists set. The studio has made the full text searchable for AI agents through its public MCP server.
+- Text: https://shop.serpentinegalleries.org/collections/frontpage/products/holly-herndon-mat-dryhurst-all-media-is-training-data (Serpentine / König Books, 2024)
+- Video: https://www.youtube.com/watch?v=bBv4Y562KlQ
+- Images: https://shop.serpentinegalleries.org/cdn/shop/files/Screenshot_241.png?v=1786980154&width=2048
+- Project page: https://herndondryhurst.studio/projects/all-media
+
 #### Computation in the Expanded Field — Malte Rauch (2024)
 - Type: Book & essay · Substrate: Text & paper · Mechanisms: Contract & certificate, Rules & constraints, Time, decay & death
 - Idea: The blockchain is not a channel for images but the material itself: a set of constraints adopted for art.
@@ -3015,7 +3075,9 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 
 - **Rhea Myers** (15) — Artist, writer and hacker. Artist, hacker and writer who has made blockchain artworks since 2011, including early smart-contract works and conceptual pieces about value and ownership. https://rhea.art/
 - **Jonas Lund** (11) — Artist. Swedish artist (born 1984) who makes systems, contracts and games about power, optimisation and the art market, from GPS-tracked paintings to a token that lets shareholders vote on his career. https://jonaslund.com
+- **Mat Dryhurst** (11) — Artist, musician and researcher. Artist and researcher who works with Holly Herndon on AI and voice projects such as Holly+, and co-founded Spawning, which builds consent tools for AI training data.
 - **Sol LeWitt** (11) — Conceptual artist. American artist (1928–2007) and a founder of conceptual art. From 1968 he made about 1,350 wall drawings that exist as written instructions and diagrams, drawn on the wall by other people. https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description
+- **Holly Herndon** (10) — Composer and artist. American composer and artist based in Berlin, with a PhD from Stanford's CCRMA. With Mat Dryhurst she makes works about AI, voice and collective training data, including PROTO, Holly+, xhairymutantx and The Call. https://holly.plus
 - **Jack Butcher** (9) — Conceptual artist, founder of Visualize Value. Artist and founder of Visualize Value, known for works built from simple signs (a checkmark, a receipt, a trademark symbol). Since 2023 he has made editions whose images and supply are changed by collectors, often with developer Jalil Wahdatehagh. https://jack.art
 - **terra0** (8) — Art and research group (Paul Seidler, Paul Kolling, Max Hampshire). Group founded in 2015/16 by Paul Seidler and Paul Kolling in Joachim Sauter's New Media class at the Berlin University of the Arts, joined by Max Hampshire. It builds smart contracts, sensors and legal structures that let forests and plants act as economic agents. https://terra0.org
 - **Pak** (7) — Anonymous digital artist and system designer. Anonymous digital creator who also built the image-curating bot Archillect (2014). Between 2020 and 2022 Pak released a run of sales and contracts on Nifty Gateway, Sotheby's and their own sites: open editions, the ASH burn token, Lost Poets, Merge and Censored.
@@ -3025,10 +3087,8 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Simon de la Rouviere** (6) — Artist, writer and mechanism designer. Software developer, fiction writer and artist who worked on early Ethereum token standards and proposed token bonding curves and curation markets. Through Untitled Frontier he publishes stories with on-chain art. https://home.simondlr.com
 - **Allan Kaprow** (5) — Artist and teacher. American artist (1927–2006) who coined the term 'happening' in 1959 and later moved to small, scored 'activities' for pairs and groups.
 - **John Cage** (5) — Composer. American composer (1912–1992) who used chance operations, indeterminate notation and silence to hand decisions to performers, listeners and the environment. https://johncage.org
-- **Mat Dryhurst** (5) — Artist, musician and researcher. Artist and researcher who works with Holly Herndon on AI and voice projects such as Holly+, and co-founded Spawning, which builds consent tools for AI training data.
 - **Sarah Friend** (5) — Artist, researcher and software developer. Canadian artist and software developer based in Berlin whose work explores games, economics and the self through emerging technology. She has built blockchain games and contract artworks since 2017. https://isthisa.com
 - **George Brecht** (4) — Artist. American artist (1926–2008), trained as a chemist, who invented the event score in John Cage's class and later lived in Germany.
-- **Holly Herndon** (4) — Composer and artist. American composer and artist based in Berlin, with a PhD from Stanford's CCRMA. With Mat Dryhurst she makes works about AI, voice and collective training data, including PROTO, Holly+, xhairymutantx and The Call. https://holly.plus
 - **Ken Goldberg** (4) — Artist and robotics professor. Artist and UC Berkeley roboticist who built some of the first robots controlled over the web, starting with the Mercury Project in 1994. https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — Artist, curator and co-founder of Furtherfield. British artist and curator, co-founder and co-artistic director of Furtherfield, and a leading researcher of blockchain, DAOs and the arts. https://ruthcatlow.net/
 - **Superflex** (4) — Artist group. Danish artist group founded in 1993 by Jakob Fenger, Rasmus Rosengren Nielsen and Bjørnstjerne Christiansen, working on economic systems, copying, self-organisation and interspecies design. https://superflex.net/
@@ -3039,6 +3099,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Furtherfield** (3) — Art gallery, lab and online community. Arts organisation founded in 1996 by Ruth Catlow and Marc Garrett, with a gallery and commons lab in Finsbury Park, London. It runs DECAL, its decentralised arts lab, and long-term projects on DAOs, voting and interspecies governance. https://www.furtherfield.org
 - **Kevin Abosch** (3) — Conceptual artist. Irish conceptual artist working in photography, blockchain, sculpture and AI; he lives in Paris and teaches at the University of Applied Arts Vienna. https://kevinabosch.com
 - **Primavera De Filippi** (3) — Legal scholar and artist. Researcher at the CNRS in Paris and faculty associate at Harvard's Berkman Klein Center, who studies blockchain governance and makes artworks such as the blockchain-based flower Plantoid.
+- **Spawning** (3) — AI data-consent company. Company co-founded by Mat Dryhurst and Jordan Meyer, with Holly Herndon and Patrick Hoepner, that builds consent and data-governance tools for AI training: Have I Been Trained?, the Do Not Train registry, ai.txt, Kudurru, Source.Plus and the PD12M dataset. https://spawning.ai
 - **Tania Bruguera** (3) — Artist and activist. Cuban artist whose 'behaviour art' (arte de conducta) and 'useful art' (arte útil) place audiences in political situations and build lasting social institutions. https://taniabruguera.com/
 - **Tino Sehgal** (3) — Artist. British-German artist who makes 'constructed situations': works enacted by trained interpreters in conversation or movement with visitors, with no objects and no photographic documentation.
 - **Alexander R. Galloway** (2) — Media theorist and programmer. American media theorist at New York University and a founding member of the software art collective RSG (Radical Software Group). http://cultureandcommunication.org/galloway/
