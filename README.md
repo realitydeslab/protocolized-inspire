@@ -27,6 +27,7 @@ Every work records its **protocol** (the rules) and its **collective** (what peo
 - **Timeline**: every work in order, from 1919 to today; the filters apply.
 - **All works**: filter by field, mechanism (instruction, chance, burn, merge, governance…), substrate (text, bodies, post, internet, Ethereum, Tezos…), type and era; full-text search.
 - **Creators**: people, collectives, studios and DAOs, with bios and all their works.
+- **Resources**: a directory of every artist and collective, plus the institutions (museums, prizes, festivals, labs, platforms) and websites (archives, timelines, publications, tools) around protocol art, linked to the works they commissioned, showed or document.
 - **Starred**: star works in your browser, export them as `SKILL.md`, `README.md` or a reading list.
 
 ## For AI assistants
@@ -68,6 +69,7 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 | `data/taxonomy.json` | Fields and sub-categories, mechanisms, substrates, work types, collections |
 | `data/raw/*.json` | Research batches: creators, works, leads |
 | `data/collections/*.json` | Extra members of a collection (lists of work ids) |
+| `data/resources/*.json` | Institutions and websites for the Resources tab (people come from the creator records) |
 | `data/overrides.json` | Optional manual curation: merge creators, drop or patch works |
 | `data/entries.json`, `data/entries.js` | Built dataset used by the site |
 | `data/media_cache.json` | Link-check results |
@@ -89,6 +91,7 @@ Images and videos are linked from the artists, museums, platforms and publishers
 - **总览**：六个领域及其子类，以及按机制浏览。
 - **时间线**：按年份排列的全部作品，可叠加筛选。
 - **全部作品**：按领域、机制、载体、类型和年代筛选，支持全文搜索。
+- **资源**：全部艺术家与团体的名录，以及相关的机构（博物馆、奖项、艺术节、实验室、平台）和网站（档案、时间线、出版物、工具）。
 - **创作者**、**收藏**（可导出 `SKILL.md`、`README.md` 或阅读清单）。
 
 在 Claude Code 中打开本仓库，输入 `/add-work <名字或链接>` 即可让 AI 调研并添加新作品。本地运行：`./serve.sh`。

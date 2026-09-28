@@ -33,5 +33,8 @@ Examples named by the user: Pak, terra0, Sol LeWitt; most recent works are smart
 - Open questions to user: "Proof of War" (which work?), rename to "protocolized-reality-inspire" (title / repo / domain / folder?).
 - Next-pass leads: Distributed Gallery, World Computer Sculpture Garden (0xfff), De Filippi & Beer "Protocol Art II", Strange Rules (Venice 2026) collection, Eve Sussman 89 Seconds Atomized, Blast Theory, Stelarc Fractal Flesh, Yvonne Rainer, Picbreeder.
 
+- 6fb00db: added Egor Kraft, Hashd0x | Proof of War (user clarified to the onchain-rules agent directly).
+- Resources tab (user request relayed by onchain-rules agent): People auto from creators; institutions/websites from data/resources/*.json (tools/resources.py, validated in validate --all, rendered in catalog.md). UI done locally, not yet published; agent compiling data/resources/core.json.
+
 ## Blockers
 - Bash auto-mode classifier returned "no verdict" repeatedly at start; scaffold written with Write.

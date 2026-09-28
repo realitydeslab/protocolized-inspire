@@ -22,6 +22,7 @@ T = {
         "creators": "Creators", "idea": "Idea", "what": "What it is", "protocol": "Protocol", "collective": "What the collective did",
         "paper": "Text", "video": "Video", "images": "Images", "page": "Project page", "contract": "Contract", "code": "Code",
         "mechanisms": "Mechanisms", "substrate": "Substrate", "kind": "Type",
+        "institutions": "Institutions", "websites": "Websites & archives",
     },
     "zh": {
         "title": "Protocolized Inspire — 作品目录",
@@ -38,6 +39,7 @@ T = {
         "creators": "创作者", "idea": "核心想法", "what": "作品内容", "protocol": "协议", "collective": "群体做了什么",
         "paper": "文本", "video": "视频", "images": "图片", "page": "项目主页", "contract": "合约", "code": "代码",
         "mechanisms": "机制", "substrate": "载体", "kind": "类型",
+        "institutions": "机构", "websites": "网站与档案",
     },
 }
 
@@ -95,6 +97,11 @@ def catalog_md(data: dict, lang: str) -> str:
         bio = c.get("bio_zh" if zh else "bio", "")
         site = (c.get("links") or {}).get("site", "")
         out.append(f"- **{c['name']}** ({c.get('work_count', 0)}) — {role}. {bio}" + (f" {site}" if site else ""))
+    res = data.get("resources") or {}
+    for group in ("institutions", "websites"):
+        if res.get(group):
+            out += ["", f"## {s[group]}", ""]
+            out += [f"- **{r['name']}** ({r.get('kind', '')}) — {r.get('desc_zh' if zh else 'desc_en', '')} {r['url']}" for r in res[group]]
     return "\n".join(out).rstrip() + "\n"
 
 

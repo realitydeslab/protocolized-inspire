@@ -17819,5 +17819,1335 @@
    "video": {},
    "paper": {}
   }
- ]
+ ],
+ "resources": {
+  "institutions": [
+   {
+    "id": "ars-electronica",
+    "name": "Ars Electronica",
+    "kind": "festival",
+    "based": "Linz, Austria",
+    "based_zh": "林茨，奥地利",
+    "url": "https://ars.electronica.art",
+    "desc_en": "Festival and centre that hosted Robert Adrian's The World in 24 Hours (1982) and Ken Goldberg's Telegarden in its lobby from 1996.",
+    "desc_zh": "艺术节与中心：1982 年举办 Robert Adrian 的 The World in 24 Hours，1996 年起在大厅运行 Ken Goldberg 的 Telegarden。",
+    "work_ids": [
+     "robert-adrian--the-world-in-24-hours",
+     "ken-goldberg--telegarden",
+     "primavera-de-filippi--plantoid"
+    ]
+   },
+   {
+    "id": "art-basel",
+    "name": "Art Basel",
+    "kind": "organization",
+    "based": "Basel, Switzerland",
+    "based_zh": "巴塞尔，瑞士",
+    "url": "https://www.artbasel.com",
+    "desc_en": "Art fair whose editions hosted participatory protocol works such as Jack Butcher's Self Checkout and Work, Luck, Play and the poet Plantoids.",
+    "desc_zh": "艺术博览会，其各站展出过 Jack Butcher 的 Self Checkout、Work, Luck, Play 以及会写诗的 Plantoid 等参与式协议作品。",
+    "work_ids": [
+     "jack-butcher--self-checkout",
+     "jack-butcher--work-luck-play",
+     "primavera-de-filippi--plantoid-14-15",
+     "joel-simon--artbreeder"
+    ]
+   },
+   {
+    "id": "art-blocks",
+    "name": "Art Blocks",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://www.artblocks.io",
+    "desc_en": "On-chain generative art platform; its founder Snowfro co-conceived Friendship Bracelets, which gave every Art Blocks holder bracelets to keep and to gift.",
+    "desc_zh": "链上生成艺术平台；创始人 Snowfro 参与构思 Friendship Bracelets，让每位 Art Blocks 持有者领取手链，一条自留、一条赠人。",
+    "work_ids": [
+     "alexis-andre--friendship-bracelets"
+    ]
+   },
+   {
+    "id": "art-institute-of-chicago",
+    "name": "Art Institute of Chicago",
+    "kind": "museum",
+    "based": "Chicago, US",
+    "based_zh": "芝加哥，美国",
+    "url": "https://www.artic.edu",
+    "desc_en": "Owns Felix Gonzalez-Torres' candy spill \"Untitled\" (Portrait of Ross in L.A.), which visitors deplete and staff replenish, and LeWitt's Wall Drawing #118.",
+    "desc_zh": "收藏 Felix Gonzalez-Torres 的糖果堆 \"Untitled\" (Portrait of Ross in L.A.)（观众取走、馆方补充）以及勒维特的 Wall Drawing #118。",
+    "work_ids": [
+     "felix-gonzalez-torres--portrait-of-ross-in-la",
+     "sol-lewitt--wall-drawing-118"
+    ]
+   },
+   {
+    "id": "artangel",
+    "name": "Artangel",
+    "kind": "organization",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.artangel.org.uk",
+    "desc_en": "Commissioned Jeremy Deller's re-enactment The Battle of Orgreave (2001) and Francis Alÿs' Guards, both staged with hundreds of participants.",
+    "desc_zh": "委托 Jeremy Deller 的重演作品 The Battle of Orgreave（2001）与 Francis Alÿs 的 Guards，两者都由数百名参与者完成。",
+    "work_ids": [
+     "jeremy-deller--the-battle-of-orgreave",
+     "francis-alys--guards"
+    ]
+   },
+   {
+    "id": "berggruen-arts-culture",
+    "name": "Berggruen Arts & Culture (Palazzo Diedo)",
+    "kind": "organization",
+    "based": "Venice, Italy",
+    "based_zh": "威尼斯，意大利",
+    "url": "https://berggruenarts.org",
+    "desc_en": "Presented Herndon and Dryhurst's Attention Guild in the 2026 exhibition Strange Rules at Palazzo Diedo.",
+    "desc_zh": "在 Palazzo Diedo 的 2026 年展览 Strange Rules 中展出 Herndon 与 Dryhurst 的 Attention Guild。",
+    "work_ids": [
+     "holly-herndon--attention-guild"
+    ]
+   },
+   {
+    "id": "carnegie-museum-of-art",
+    "name": "Carnegie Museum of Art",
+    "kind": "museum",
+    "based": "Pittsburgh, US",
+    "based_zh": "匹兹堡，美国",
+    "url": "https://carnegieart.org",
+    "desc_en": "Its 58th Carnegie International (2022) included terra0's A tree; a corporation; a person., a tree set up to hold legal and financial agency.",
+    "desc_zh": "第 58 届 Carnegie International（2022）展出 terra0 为其创作的 A tree; a corporation; a person.，一棵被设定为拥有法律与财务能动性的树。",
+    "work_ids": [
+     "terra0--a-tree-a-corporation-a-person"
+    ]
+   },
+   {
+    "id": "centre-pompidou",
+    "name": "Centre Pompidou",
+    "kind": "museum",
+    "based": "Paris, France",
+    "based_zh": "巴黎，法国",
+    "url": "https://www.centrepompidou.fr",
+    "desc_en": "Acquired blockchain works in 2023, including two Bitchcoins, CryptoPunks and Autoglyphs.",
+    "desc_zh": "2023 年收藏区块链作品，包括两枚 Bitchcoin、CryptoPunks 与 Autoglyphs。",
+    "work_ids": [
+     "sarah-meyohas--bitchcoin",
+     "larva-labs--cryptopunks",
+     "larva-labs--autoglyphs"
+    ]
+   },
+   {
+    "id": "christies",
+    "name": "Christie's",
+    "kind": "auction",
+    "based": "London, UK and New York, US",
+    "based_zh": "伦敦，英国；纽约，美国",
+    "url": "https://www.christies.com",
+    "desc_en": "Auction house that sold a complete Curio Cards set, including the misprint 17b, for 393 ETH in October 2021 and featured Async Art's programmable works.",
+    "desc_zh": "拍卖行，2021 年 10 月以 393 ETH 拍出含错版 17b 的整套 Curio Cards，并展示过 Async Art 的可编程作品。",
+    "work_ids": [
+     "curio-cards--curio-cards",
+     "async-art--async-art"
+    ]
+   },
+   {
+    "id": "creative-time",
+    "name": "Creative Time",
+    "kind": "organization",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://creativetime.org",
+    "desc_en": "Public-art commissioner that co-produced Tania Bruguera's Immigrant Movement International and Paul Ramírez Jonas' Key to the City.",
+    "desc_zh": "公共艺术委托机构，联合制作 Tania Bruguera 的 Immigrant Movement International 与 Paul Ramírez Jonas 的 Key to the City。",
+    "work_ids": [
+     "tania-bruguera--immigrant-movement-international",
+     "paul-ramirez-jonas--key-to-the-city"
+    ]
+   },
+   {
+    "id": "dia-art-foundation",
+    "name": "Dia Art Foundation",
+    "kind": "organization",
+    "based": "New York and Beacon, US",
+    "based_zh": "纽约与比肯，美国",
+    "url": "https://www.diaart.org",
+    "desc_en": "Commissioned Thomas Hirschhorn's Gramsci Monument (2013) with residents of the Bronx and carries on Beuys' 7000 Oaks with trees planted in New York.",
+    "desc_zh": "委托 Thomas Hirschhorn 与布朗克斯居民共同完成 Gramsci Monument（2013），并在纽约种树延续博伊斯的 7000 Oaks。",
+    "work_ids": [
+     "thomas-hirschhorn--gramsci-monument",
+     "joseph-beuys--7000-eichen"
+    ]
+   },
+   {
+    "id": "documenta",
+    "name": "documenta",
+    "kind": "festival",
+    "based": "Kassel, Germany",
+    "based_zh": "卡塞尔，德国",
+    "url": "https://www.documenta.de",
+    "desc_en": "Five-yearly exhibition where Beuys ran his Office for Direct Democracy (1972) and began 7000 Oaks (1982), and Ai Weiwei brought 1,001 Chinese visitors for Fairytale (2007).",
+    "desc_zh": "每五年举办一次的大展：博伊斯在此开设直接民主办公室（1972）、启动 7000 Oaks（1982），艾未未为《童话》带来 1001 位中国访客（2007）。",
+    "work_ids": [
+     "joseph-beuys--direct-democracy-office",
+     "joseph-beuys--7000-eichen",
+     "ai-weiwei--fairytale"
+    ]
+   },
+   {
+    "id": "e-flux",
+    "name": "e-flux",
+    "kind": "platform",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.e-flux.com",
+    "desc_en": "Art publishing and announcement platform that launched Time/Bank, where artists and curators trade hours of work instead of money.",
+    "desc_zh": "艺术出版与公告平台，发起 Time/Bank，让艺术家和策展人以工作时数而非金钱进行交换。",
+    "work_ids": [
+     "julieta-aranda--time-bank"
+    ]
+   },
+   {
+    "id": "ethereum-foundation",
+    "name": "Ethereum Foundation",
+    "kind": "organization",
+    "based": "Zug, Switzerland",
+    "based_zh": "楚格，瑞士",
+    "url": "https://ethereum.foundation",
+    "desc_en": "Commissioned Summer of Protocols (2023–25), the research programme that funded artists and researchers to study protocols.",
+    "desc_zh": "委托 Summer of Protocols（2023–25），资助艺术家与研究者研究协议的项目。",
+    "work_ids": [
+     "summer-of-protocols--program",
+     "venkatesh-rao--unreasonable-sufficiency"
+    ]
+   },
+   {
+    "id": "eyebeam",
+    "name": "Eyebeam",
+    "kind": "lab",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.eyebeam.org",
+    "desc_en": "Non-profit art and technology centre whose residencies have supported artists building open-source and networked works since the late 1990s.",
+    "desc_zh": "非营利艺术与技术中心，自 1990 年代末起通过驻留项目支持艺术家创作开源与网络作品。",
+    "work_ids": []
+   },
+   {
+    "id": "fact-liverpool",
+    "name": "FACT (Foundation for Art and Creative Technology)",
+    "kind": "organization",
+    "based": "Liverpool, UK",
+    "based_zh": "利物浦，英国",
+    "url": "https://www.fact.co.uk",
+    "desc_en": "Co-published Artists Re:Thinking the Blockchain (2017) with Torque Editions and Furtherfield.",
+    "desc_zh": "与 Torque Editions、Furtherfield 共同出版 Artists Re:Thinking the Blockchain（2017）。",
+    "work_ids": [
+     "ruth-catlow--artists-rethinking-the-blockchain"
+    ]
+   },
+   {
+    "id": "feral-file",
+    "name": "Feral File",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://feralfile.com",
+    "desc_en": "Curated platform for digital art exhibitions co-founded by Casey Reas, where shows are released as sets of on-chain editions.",
+    "desc_zh": "由 Casey Reas 联合创办的数字艺术策展平台，展览以一组链上版本的形式发布。",
+    "work_ids": []
+   },
+   {
+    "id": "fingerprints-dao",
+    "name": "Fingerprints DAO",
+    "kind": "dao",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://fingerprintsdao.xyz",
+    "desc_en": "Collector DAO focused on blockchain art that showed terra0's Seed Capital at Art Dubai 2022 and co-commissioned Sarah Friend's Off: Endgame.",
+    "desc_zh": "专注区块链艺术的藏家 DAO，2022 年在 Art Dubai 展出 terra0 的 Seed Capital，并联合委托 Sarah Friend 的 Off: Endgame。",
+    "work_ids": [
+     "terra0--seed-capital",
+     "sarah-friend--wildcards"
+    ]
+   },
+   {
+    "id": "furtherfield",
+    "name": "Furtherfield (and DECAL)",
+    "kind": "organization",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.furtherfield.org",
+    "desc_en": "Gallery and lab in Finsbury Park that commissioned Sarah Friend's ClickMine and Rhea Myers' Balloon Dog, and through its DECAL lab ran DAOWO and CultureStake.",
+    "desc_zh": "位于芬斯伯里公园的画廊与实验室，委托了 Sarah Friend 的 ClickMine 和 Rhea Myers 的 Balloon Dog，并通过 DECAL 实验室开展 DAOWO 与 CultureStake。",
+    "work_ids": [
+     "sarah-friend--clickmine",
+     "rhea-myers--shareable-readymades",
+     "furtherfield--daowo",
+     "furtherfield--culturestake",
+     "furtherfield--treaty-of-finsbury-park",
+     "ruth-catlow--artists-rethinking-the-blockchain",
+     "ruth-catlow--radical-friends"
+    ]
+   },
+   {
+    "id": "galerie-nagel-draxler",
+    "name": "Galerie Nagel Draxler",
+    "kind": "gallery",
+    "based": "Berlin and Cologne, Germany",
+    "based_zh": "柏林与科隆，德国",
+    "url": "https://nagel-draxler.de",
+    "desc_en": "Gallery with a Crypto Kiosk programme for blockchain art; Rhea Myers directs enquiries about Is Art (Editions) to it.",
+    "desc_zh": "设有 Crypto Kiosk 区块链艺术项目的画廊；Rhea Myers 将 Is Art (Editions) 的收藏咨询指向这里。",
+    "work_ids": [
+     "rhea-myers--is-art-editions"
+    ]
+   },
+   {
+    "id": "getty-research-institute",
+    "name": "Getty Research Institute",
+    "kind": "organization",
+    "based": "Los Angeles, US",
+    "based_zh": "洛杉矶，美国",
+    "url": "https://www.getty.edu/research/",
+    "desc_en": "Research centre whose archives hold scores by Cage, Brecht, Knowles, Kaprow and others, published in 2025 as the open-access digital book The Scores Project.",
+    "desc_zh": "研究机构，其档案收藏 Cage、Brecht、Knowles、Kaprow 等人的乐谱，并于 2025 年以开放获取的数字出版物 The Scores Project 发布。",
+    "work_ids": [
+     "john-cage--concert-for-piano-and-orchestra",
+     "benjamin-patterson--paper-piece",
+     "la-monte-young--an-anthology-of-chance-operations",
+     "george-brecht--motor-vehicle-sundown",
+     "george-brecht--drip-music",
+     "alison-knowles--identical-lunch",
+     "mieko-shiomi--spatial-poem",
+     "allan-kaprow--routine"
+    ]
+   },
+   {
+    "id": "gray-area",
+    "name": "Gray Area",
+    "kind": "organization",
+    "based": "San Francisco, US",
+    "based_zh": "旧金山，美国",
+    "url": "https://grayarea.org",
+    "desc_en": "Art and technology non-profit whose 2018 exhibition Distributed Systems showed Rhea Myers' SchellingFlags.",
+    "desc_zh": "艺术与技术非营利机构，2018 年展览 Distributed Systems 展出 Rhea Myers 的 SchellingFlags。",
+    "work_ids": [
+     "rhea-myers--schellingflags"
+    ]
+   },
+   {
+    "id": "hek",
+    "name": "HEK (Haus der Elektronischen Künste)",
+    "kind": "museum",
+    "based": "Basel, Switzerland",
+    "based_zh": "巴塞尔，瑞士",
+    "url": "https://www.hek.ch",
+    "desc_en": "Swiss museum for digital art whose 2023 exhibition Exploring the Decentralized Web – Art on the Blockchain showed Rhea Myers' Is Art (Editions).",
+    "desc_zh": "瑞士数字艺术博物馆，2023 年展览 Exploring the Decentralized Web – Art on the Blockchain 展出 Rhea Myers 的 Is Art (Editions)。",
+    "work_ids": [
+     "rhea-myers--is-art-editions"
+    ]
+   },
+   {
+    "id": "independent-curators-international",
+    "name": "Independent Curators International (ICI)",
+    "kind": "organization",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://curatorsintl.org",
+    "desc_en": "Toured Hans Ulrich Obrist's do it, an exhibition made only of artists' instructions, to at least 50 venues and published do it: the compendium (2013).",
+    "desc_zh": "将 Hans Ulrich Obrist 仅由艺术家指令构成的展览 do it 巡回到至少 50 个地点，并出版 do it: the compendium（2013）。",
+    "work_ids": [
+     "hans-ulrich-obrist--do-it",
+     "hans-ulrich-obrist--do-it-compendium"
+    ]
+   },
+   {
+    "id": "ica-london",
+    "name": "Institute of Contemporary Arts (ICA)",
+    "kind": "gallery",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.ica.art",
+    "desc_en": "Hosted the 1962 Festival of Misfits, where Alison Knowles' Proposition (Make a Salad) was first performed.",
+    "desc_zh": "1962 年举办 Festival of Misfits，Alison Knowles 的 Proposition (Make a Salad) 在此首演。",
+    "work_ids": [
+     "alison-knowles--make-a-salad"
+    ]
+   },
+   {
+    "id": "institute-of-network-cultures",
+    "name": "Institute of Network Cultures (MoneyLab)",
+    "kind": "lab",
+    "based": "Amsterdam, Netherlands",
+    "based_zh": "阿姆斯特丹，荷兰",
+    "url": "https://networkcultures.org",
+    "desc_en": "Research institute whose MoneyLab network studies alternative economies and presented the Black Swan DAO model.",
+    "desc_zh": "研究机构，其 MoneyLab 网络研究另类经济，并展示了 Black Swan DAO 模型。",
+    "work_ids": [
+     "black-swan-dao--black-swan"
+    ]
+   },
+   {
+    "id": "kadist",
+    "name": "KADIST",
+    "kind": "organization",
+    "based": "Paris, France and San Francisco, US",
+    "based_zh": "巴黎，法国；旧金山，美国",
+    "url": "https://kadist.org",
+    "desc_en": "Collection that acquired terra0's Conditional Power and accepted the obligations its oracle contract places on the owner.",
+    "desc_zh": "收藏 terra0 的 Conditional Power，并接受其预言机合约对藏家施加的义务。",
+    "work_ids": [
+     "terra0--conditional-power"
+    ]
+   },
+   {
+    "id": "kunsthalle-zurich",
+    "name": "Kunsthalle Zürich",
+    "kind": "museum",
+    "based": "Zürich, Switzerland",
+    "based_zh": "苏黎世，瑞士",
+    "url": "https://www.kunsthallezurich.ch",
+    "desc_en": "Its 2022 exhibition DYOR (Do Your Own Research) surveyed art on the blockchain and presented Black Swan among its 'seeders'.",
+    "desc_zh": "2022 年展览 DYOR（Do Your Own Research）梳理区块链上的艺术，并将 Black Swan 列为“播种者”之一展出。",
+    "work_ids": [
+     "black-swan-dao--black-swan"
+    ]
+   },
+   {
+    "id": "kunstsammlung-nrw",
+    "name": "Kunstsammlung Nordrhein-Westfalen (K21)",
+    "kind": "museum",
+    "based": "Düsseldorf, Germany",
+    "based_zh": "杜塞尔多夫，德国",
+    "url": "https://www.kunstsammlung.de",
+    "desc_en": "Showed Starmirror at K21 in 2026 and added scheduled 'Training Performances' to it.",
+    "desc_zh": "2026 年在 K21 展出 Starmirror，并增加了定时举行的“训练演出”。",
+    "work_ids": [
+     "holly-herndon--starmirror"
+    ]
+   },
+   {
+    "id": "kw-institute",
+    "name": "KW Institute for Contemporary Art",
+    "kind": "gallery",
+    "based": "Berlin, Germany",
+    "based_zh": "柏林，德国",
+    "url": "https://www.kw-berlin.de",
+    "desc_en": "First venue of Herndon and Dryhurst's Starmirror (2025–26), where visitors sang from a songbook to train an AI choir.",
+    "desc_zh": "Herndon 与 Dryhurst 的 Starmirror（2025–26）首站：观众按歌本演唱，用录音训练一支 AI 合唱团。",
+    "work_ids": [
+     "holly-herndon--starmirror"
+    ]
+   },
+   {
+    "id": "las-art-foundation",
+    "name": "LAS Art Foundation",
+    "kind": "organization",
+    "based": "Berlin, Germany",
+    "based_zh": "柏林，德国",
+    "url": "https://www.las-art.foundation",
+    "desc_en": "Berlin non-profit for art, technology and science that launched terra0's Autonomous Forest, a forest managed by a DAO, in 2025.",
+    "desc_zh": "关注艺术、技术与科学的柏林非营利机构，2025 年发起 terra0 的 Autonomous Forest，一片由 DAO 管理的森林。",
+    "work_ids": [
+     "terra0--autonomous-forest"
+    ]
+   },
+   {
+    "id": "li-ma",
+    "name": "LI-MA (Living Media Art)",
+    "kind": "organization",
+    "based": "Amsterdam, Netherlands",
+    "based_zh": "阿姆斯特丹，荷兰",
+    "url": "https://li-ma.nl",
+    "desc_en": "Platform for the preservation, distribution and research of media art, including software and net-based works.",
+    "desc_zh": "致力于媒体艺术保存、发行与研究的平台，涵盖软件与网络作品。",
+    "work_ids": []
+   },
+   {
+    "id": "lacma",
+    "name": "Los Angeles County Museum of Art (LACMA)",
+    "kind": "museum",
+    "based": "Los Angeles, US",
+    "based_zh": "洛杉矶，美国",
+    "url": "https://www.lacma.org",
+    "desc_en": "Coordinated a city-wide reinvention of Kaprow's Fluids in 2008, joined Tom Sachs' Rocket Factory launches, and collects CryptoPunks.",
+    "desc_zh": "2008 年在洛杉矶全城重新演绎 Kaprow 的 Fluids，参与 Tom Sachs 的 Rocket Factory 发射，并收藏 CryptoPunks。",
+    "work_ids": [
+     "allan-kaprow--fluids",
+     "tom-sachs--rocket-factory",
+     "larva-labs--cryptopunks"
+    ]
+   },
+   {
+    "id": "mass-moca",
+    "name": "MASS MoCA",
+    "kind": "museum",
+    "based": "North Adams, Massachusetts, US",
+    "based_zh": "马萨诸塞州北亚当斯，美国",
+    "url": "https://massmoca.org",
+    "desc_en": "Hosts Sol LeWitt: A Wall Drawing Retrospective (opened 2008), where teams of drafters re-executed 105 wall drawings from LeWitt's written instructions.",
+    "desc_zh": "长期展出 Sol LeWitt: A Wall Drawing Retrospective（2008 年开幕），由绘图员团队按照勒维特的书面指令重新绘制墙绘。",
+    "work_ids": [
+     "sol-lewitt--wall-drawing-retrospective",
+     "sol-lewitt--wall-drawing-797",
+     "sol-lewitt--wall-drawing-289",
+     "sol-lewitt--wall-drawing-11"
+    ]
+   },
+   {
+    "id": "neon-digital-arts",
+    "name": "NEoN Digital Arts",
+    "kind": "festival",
+    "based": "Dundee, UK",
+    "based_zh": "邓迪，英国",
+    "url": "https://neondigitalarts.com",
+    "desc_en": "Scottish digital arts festival that showed Sarah Friend's ClickMine, a clicker game in which every click is a paid Ethereum transaction.",
+    "desc_zh": "苏格兰数字艺术节，展出 Sarah Friend 的 ClickMine：每次点击都是一笔需付费的以太坊交易。",
+    "work_ids": [
+     "sarah-friend--clickmine"
+    ]
+   },
+   {
+    "id": "new-museum",
+    "name": "New Museum",
+    "kind": "museum",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.newmuseum.org",
+    "desc_en": "Rhizome's host institution, which premiered the Net Art Anthology exhibition The Art Happens Here (2019) and staged David Horvitz's Let us keep our own noon.",
+    "desc_zh": "Rhizome 的依托机构，2019 年首展 Net Art Anthology 展览 The Art Happens Here，并上演 David Horvitz 的 Let us keep our own noon。",
+    "work_ids": [
+     "david-horvitz--let-us-keep-our-own-noon"
+    ]
+   },
+   {
+    "id": "nifty-gateway",
+    "name": "Nifty Gateway",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://www.niftygateway.com",
+    "desc_en": "Marketplace that hosted Pak's open-edition protocols The Fungible (with Sotheby's) and Merge; it closed on 23 April 2026.",
+    "desc_zh": "曾承载 Pak 的开放版本协议作品 The Fungible（与苏富比合作）和 Merge 的交易平台，已于 2026 年 4 月 23 日关闭。",
+    "work_ids": [
+     "pak--the-fungible",
+     "pak--merge"
+    ]
+   },
+   {
+    "id": "node-foundation",
+    "name": "NODE Foundation",
+    "kind": "organization",
+    "based": "Palo Alto, California, US",
+    "based_zh": "加利福尼亚州帕洛阿尔托，美国",
+    "url": "https://www.nodefoundation.com",
+    "desc_en": "Digital-art non-profit that acquired the CryptoPunks intellectual property from Yuga Labs in 2025 to preserve the collection.",
+    "desc_zh": "数字艺术非营利机构，2025 年从 Yuga Labs 手中取得 CryptoPunks 的知识产权，以保存这一系列。",
+    "work_ids": [
+     "larva-labs--cryptopunks"
+    ]
+   },
+   {
+    "id": "phillips",
+    "name": "Phillips",
+    "kind": "auction",
+    "based": "New York, US and London, UK",
+    "based_zh": "纽约，美国；伦敦，英国",
+    "url": "https://www.phillips.com",
+    "desc_en": "Offered Sarah Meyohas' re-issued Bitchcoin tokens in May 2021.",
+    "desc_zh": "2021 年 5 月拍卖 Sarah Meyohas 重新发行的 Bitchcoin 代币。",
+    "work_ids": [
+     "sarah-meyohas--bitchcoin"
+    ]
+   },
+   {
+    "id": "primary-information",
+    "name": "Primary Information",
+    "kind": "organization",
+    "based": "Brooklyn, New York, US",
+    "based_zh": "纽约布鲁克林，美国",
+    "url": "https://primaryinformation.org",
+    "desc_en": "Non-profit publisher that reissues out-of-print artists' books and writings, a key source for re-reading scores and conceptual instructions.",
+    "desc_zh": "非营利出版社，重印绝版的艺术家书与艺术家文字，是重读乐谱与观念指令的重要来源。",
+    "work_ids": []
+   },
+   {
+    "id": "queens-museum",
+    "name": "Queens Museum",
+    "kind": "museum",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://queensmuseum.org",
+    "desc_en": "Partnered with Creative Time on Tania Bruguera's Immigrant Movement International, a community space in Corona, Queens, from 2011 to 2015.",
+    "desc_zh": "与 Creative Time 合作支持 Tania Bruguera 的 Immigrant Movement International，2011 至 2015 年在皇后区 Corona 运营社区空间。",
+    "work_ids": [
+     "tania-bruguera--immigrant-movement-international"
+    ]
+   },
+   {
+    "id": "rhizome",
+    "name": "Rhizome",
+    "kind": "organization",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://rhizome.org",
+    "desc_en": "Born-digital art organisation whose Seven on Seven (2014) produced Monegraph, which co-commissioned Sarah Friend's Off: Endgame, and which runs the ArtBase and Net Art Anthology.",
+    "desc_zh": "专注数字原生艺术的机构：2014 年 Seven on Seven 催生了 Monegraph，联合委托 Sarah Friend 的 Off: Endgame，并运营 ArtBase 与 Net Art Anthology。",
+    "work_ids": [
+     "kevin-mccoy--monegraph",
+     "sarah-friend--wildcards",
+     "peter-edmunds--swarmsketch",
+     "robert-adrian--the-world-in-24-hours",
+     "wolfgang-staehle--the-thing",
+     "antoni-muntadas--the-file-room"
+    ]
+   },
+   {
+    "id": "starts-prize",
+    "name": "S+T+ARTS Prize",
+    "kind": "prize",
+    "based": "Linz, Austria",
+    "based_zh": "林茨，奥地利",
+    "url": "https://ars.electronica.art/starts-prize/",
+    "desc_en": "European Commission prize for art, science and technology, run by Ars Electronica, that awarded Holly+ in 2022 and features Hashd0x, Botto and The Call.",
+    "desc_zh": "由 Ars Electronica 运营的欧盟艺术、科学与技术奖，2022 年授奖 Holly+，并收录 Hashd0x、Botto 与 The Call。",
+    "work_ids": [
+     "holly-herndon--holly-plus",
+     "egor-kraft--hashd0x-proof-of-war",
+     "botto--decentralized-autonomous-artist",
+     "holly-herndon--the-call"
+    ]
+   },
+   {
+    "id": "sfmoma",
+    "name": "San Francisco Museum of Modern Art (SFMOMA)",
+    "kind": "museum",
+    "based": "San Francisco, US",
+    "based_zh": "旧金山，美国",
+    "url": "https://www.sfmoma.org",
+    "desc_en": "Owns LeWitt's Wall Drawing #1 and #273 and Learning to Love You More, and showed Harold Cohen's AARON drawing live in 1979.",
+    "desc_zh": "收藏勒维特的 Wall Drawing #1、#273 与 Learning to Love You More，并于 1979 年现场展示 Harold Cohen 的 AARON 作画。",
+    "work_ids": [
+     "sol-lewitt--wall-drawing-1",
+     "sol-lewitt--wall-drawing-273",
+     "miranda-july--learning-to-love-you-more",
+     "tom-marioni--act-of-drinking-beer",
+     "harold-cohen--aaron"
+    ]
+   },
+   {
+    "id": "serpentine",
+    "name": "Serpentine",
+    "kind": "gallery",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.serpentinegalleries.org",
+    "desc_en": "Its technology programme co-produced Herndon and Dryhurst's The Call and its data trust, published All Media Is Training Data, and partnered on DAOWO.",
+    "desc_zh": "其艺术与技术项目联合制作 Herndon 与 Dryhurst 的 The Call 及其数据信托，出版 All Media Is Training Data，并参与 DAOWO。",
+    "work_ids": [
+     "holly-herndon--the-call",
+     "holly-herndon--all-media-is-training-data",
+     "furtherfield--daowo",
+     "black-swan-dao--black-swan"
+    ]
+   },
+   {
+    "id": "serralves",
+    "name": "Serralves Museum of Contemporary Art",
+    "kind": "museum",
+    "based": "Porto, Portugal",
+    "based_zh": "波尔图，葡萄牙",
+    "url": "https://www.serralves.pt",
+    "desc_en": "Staged Yoko Ono's Add Colour (Refugee Boat), in which visitors gradually cover a white room and boat with blue marks.",
+    "desc_zh": "展出小野洋子的 Add Colour (Refugee Boat)：观众逐渐用蓝色笔迹覆盖白色房间与船。",
+    "work_ids": [
+     "yoko-ono--add-colour-refugee-boat"
+    ]
+   },
+   {
+    "id": "guggenheim",
+    "name": "Solomon R. Guggenheim Museum",
+    "kind": "museum",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.guggenheim.org",
+    "desc_en": "Commissioned Mark Napier's net.flag, acquired Tino Sehgal's This Progress as its first live work, and holds works by Tania Bruguera and Francis Alÿs.",
+    "desc_zh": "委托 Mark Napier 创作 net.flag，将 Tino Sehgal 的 This Progress 作为首件现场作品收藏，并收藏 Tania Bruguera 与 Francis Alÿs 的作品。",
+    "work_ids": [
+     "mark-napier--net-flag",
+     "tino-sehgal--this-progress",
+     "tania-bruguera--tatlins-whisper-6",
+     "francis-alys--when-faith-moves-mountains"
+    ]
+   },
+   {
+    "id": "sothebys",
+    "name": "Sotheby's",
+    "kind": "auction",
+    "based": "London, UK and New York, US",
+    "based_zh": "伦敦，英国；纽约，美国",
+    "url": "https://www.sothebys.com",
+    "desc_en": "Ran Pak's The Fungible and the 2021 sale Natively Digital, which included Quantum, Secret Artwork and terra0's Two Degrees.",
+    "desc_zh": "举办 Pak 的 The Fungible 以及 2021 年的 Natively Digital 专场，后者包括 Quantum、Secret Artwork 与 terra0 的 Two Degrees。",
+    "work_ids": [
+     "pak--the-fungible",
+     "kevin-mccoy--quantum",
+     "rhea-myers--secret-artwork",
+     "terra0--two-degrees",
+     "jack-butcher--1-of-1-of"
+    ]
+   },
+   {
+    "id": "superrare",
+    "name": "SuperRare",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://superrare.com",
+    "desc_en": "Curated marketplace where Botto's community-selected image is auctioned each week.",
+    "desc_zh": "策展式交易平台，Botto 每周由社群投票选出的图像在此拍卖。",
+    "work_ids": [
+     "botto--decentralized-autonomous-artist"
+    ]
+   },
+   {
+    "id": "tate",
+    "name": "Tate (Tate Modern)",
+    "kind": "museum",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.tate.org.uk",
+    "desc_en": "Staged participatory commissions in Tate Modern's Turbine Hall, such as Sehgal's These Associations and Bruguera's Tatlin's Whisper #5, and collects the archives of works like The Battle of Orgreave and The Crystal Quilt.",
+    "desc_zh": "在泰特现代美术馆涡轮大厅上演 Sehgal 的 These Associations、Bruguera 的 Tatlin's Whisper #5 等参与式委托，并收藏 The Battle of Orgreave、The Crystal Quilt 等作品的档案。",
+    "work_ids": [
+     "tino-sehgal--these-associations",
+     "tania-bruguera--tatlins-whisper-5",
+     "aaron-koblin--this-exquisite-forest",
+     "yoko-ono--add-colour-refugee-boat",
+     "yoko-ono--instruction-paintings",
+     "yoko-ono--wish-tree",
+     "sol-lewitt--wall-drawing-1136",
+     "jeremy-deller--the-battle-of-orgreave",
+     "suzanne-lacy--the-crystal-quilt",
+     "allan-kaprow--fluids",
+     "alison-knowles--make-a-salad",
+     "erwin-wurm--one-minute-sculptures",
+     "gillian-wearing--signs",
+     "cildo-meireles--insertions-into-ideological-circuits",
+     "roman-ondak--measuring-the-universe"
+    ]
+   },
+   {
+    "id": "teia",
+    "name": "Teia",
+    "kind": "dao",
+    "based": "Online (Tezos)",
+    "based_zh": "线上（Tezos）",
+    "url": "https://teia.art",
+    "desc_en": "Community-run DAO that has kept the Hic et Nunc contracts and marketplace running on Tezos since the founder shut the original site in 2021.",
+    "desc_zh": "社群运营的 DAO，自 2021 年创始人关闭原网站以来一直维持 Hic et Nunc 合约与市场在 Tezos 上运行。",
+    "work_ids": [
+     "rafael-lima--hic-et-nunc",
+     "teia-community--teia"
+    ]
+   },
+   {
+    "id": "moma",
+    "name": "The Museum of Modern Art (MoMA)",
+    "kind": "museum",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.moma.org",
+    "desc_en": "Holds the Gilbert and Lila Silverman Fluxus Collection and many instruction-based works in the gallery, from Fluxkit and Water Yam to Simone Forti's Dance Constructions, and staged Haacke's MoMA Poll and Abramović's The Artist Is Present.",
+    "desc_zh": "收藏 Gilbert and Lila Silverman 激浪派收藏以及本站许多指令型作品（从 Fluxkit、Water Yam 到 Simone Forti 的 Dance Constructions），并上演过 Haacke 的 MoMA Poll 与 Abramović 的 The Artist Is Present。",
+    "work_ids": [
+     "hans-haacke--moma-poll",
+     "marina-abramovic--the-artist-is-present",
+     "simone-forti--dance-constructions",
+     "george-maciunas--fluxkit",
+     "george-brecht--water-yam",
+     "yoko-ono--grapefruit",
+     "la-monte-young--compositions-1960",
+     "allan-kaprow--18-happenings-in-6-parts",
+     "laszlo-moholy-nagy--telephone-pictures",
+     "sol-lewitt--wall-drawing-260",
+     "felix-gonzalez-torres--placebo",
+     "felix-gonzalez-torres--death-by-gun",
+     "tino-sehgal--kiss",
+     "rirkrit-tiravanija--untitled-free",
+     "christian-marclay--graffiti-composition",
+     "yoko-ono--wish-tree",
+     "francis-alys--the-modern-procession",
+     "lygia-clark--caminhando",
+     "roman-ondak--measuring-the-universe",
+     "larva-labs--cryptopunks"
+    ]
+   },
+   {
+    "id": "transmediale",
+    "name": "transmediale",
+    "kind": "festival",
+    "based": "Berlin, Germany",
+    "based_zh": "柏林，德国",
+    "url": "https://transmediale.de",
+    "desc_en": "Festival for art and digital culture where terra0's self-owning forest proposal circulated in 2017 and Artists Re:Thinking the Blockchain launched in 2018.",
+    "desc_zh": "艺术与数字文化节：terra0 的自有森林提案于 2017 年在此传播，Artists Re:Thinking the Blockchain 于 2018 年在此发布。",
+    "work_ids": [
+     "terra0--self-owning-forest",
+     "ruth-catlow--artists-rethinking-the-blockchain"
+    ]
+   },
+   {
+    "id": "v2",
+    "name": "V2_ Lab for the Unstable Media",
+    "kind": "lab",
+    "based": "Rotterdam, Netherlands",
+    "based_zh": "鹿特丹，荷兰",
+    "url": "https://v2.nl",
+    "desc_en": "Interdisciplinary centre for art and technology that has produced and archived networked and interactive art since the 1980s.",
+    "desc_zh": "跨学科艺术与技术中心，自 1980 年代起制作并存档网络与互动艺术。",
+    "work_ids": []
+   },
+   {
+    "id": "van-abbemuseum",
+    "name": "Van Abbemuseum",
+    "kind": "museum",
+    "based": "Eindhoven, Netherlands",
+    "based_zh": "埃因霍温，荷兰",
+    "url": "https://vanabbemuseum.nl",
+    "desc_en": "Hosted SUPERFLEX's Free Sol LeWitt (2010), a workshop that copied a LeWitt sculpture in the museum and gave the replicas away by lottery.",
+    "desc_zh": "2010 年展出 SUPERFLEX 的 Free Sol LeWitt：在馆内作坊复制勒维特的雕塑，再以抽签方式把复制品送出。",
+    "work_ids": [
+     "superflex--free-sol-lewitt"
+    ]
+   },
+   {
+    "id": "vera-list-center",
+    "name": "Vera List Center for Art and Politics",
+    "kind": "organization",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://www.veralistcenter.org",
+    "desc_en": "Research centre at The New School whose multi-year focus theme on protocols produced the open-access book As for Protocols (2025).",
+    "desc_zh": "The New School 下属研究中心，其以“协议”为主题的多年项目产出了开放获取图书 As for Protocols（2025）。",
+    "work_ids": [
+     "vera-list-center--as-for-protocols"
+    ]
+   },
+   {
+    "id": "verse",
+    "name": "Verse",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://verse.works",
+    "desc_en": "Curated platform for collecting digital art that released Rhea Myers' 10K Drop, locked until Ether reaches ten thousand dollars.",
+    "desc_zh": "策展式数字艺术收藏平台，发布了 Rhea Myers 的 10K Drop，该作品在以太币涨到一万美元前一直锁定。",
+    "work_ids": [
+     "rhea-myers--10k-drop"
+    ]
+   },
+   {
+    "id": "walker-art-center",
+    "name": "Walker Art Center",
+    "kind": "museum",
+    "based": "Minneapolis, US",
+    "based_zh": "明尼阿波利斯，美国",
+    "url": "https://walkerart.org",
+    "desc_en": "Organised the 1993 touring exhibition and catalogue In the Spirit of Fluxus, a standard reference for Fluxus scores and events.",
+    "desc_zh": "1993 年策划巡回展及同名图录 In the Spirit of Fluxus，是研究激浪派乐谱与事件的常用参考。",
+    "work_ids": []
+   },
+   {
+    "id": "whitechapel-gallery",
+    "name": "Whitechapel Gallery",
+    "kind": "gallery",
+    "based": "London, UK",
+    "based_zh": "伦敦，英国",
+    "url": "https://www.whitechapelgallery.org",
+    "desc_en": "Co-publishes the Documents of Contemporary Art series, including Claire Bishop's anthology Participation (2006), and staged Yoko Ono's Mend Piece for London (2021).",
+    "desc_zh": "与 MIT Press 合作出版 Documents of Contemporary Art 丛书（包括 Claire Bishop 编的 Participation，2006），并展出小野洋子的 Mend Piece for London（2021）。",
+    "work_ids": [
+     "claire-bishop--participation",
+     "yoko-ono--mend-piece"
+    ]
+   },
+   {
+    "id": "whitney",
+    "name": "Whitney Museum of American Art",
+    "kind": "museum",
+    "based": "New York, US",
+    "based_zh": "纽约，美国",
+    "url": "https://whitney.org",
+    "desc_en": "Commissions net art through artport, holds an Autoglyph and early participatory web works, and hosted the McCoys' Public Key/Private Key (2019), built on Monegraph.",
+    "desc_zh": "通过 artport 委托网络艺术，收藏 Autoglyph 与早期参与式网络作品，并于 2019 年展出 McCoy 夫妇基于 Monegraph 的 Public Key/Private Key。",
+    "work_ids": [
+     "holly-herndon--xhairymutantx",
+     "larva-labs--autoglyphs",
+     "kevin-mccoy--monegraph",
+     "jonah-brucker-cohen--bumplist",
+     "douglas-davis--worlds-first-collaborative-sentence",
+     "ken-goldberg--ouija-2000",
+     "mierle-laderman-ukeles--maintenance-art-one-hour",
+     "sol-lewitt--wall-drawing-289",
+     "harold-cohen--aaron",
+     "ray-johnson--new-york-correspondance-school"
+    ]
+   },
+   {
+    "id": "yale-university-art-gallery",
+    "name": "Yale University Art Gallery",
+    "kind": "museum",
+    "based": "New Haven, Connecticut, US",
+    "based_zh": "康涅狄格州纽黑文，美国",
+    "url": "https://artgallery.yale.edu",
+    "desc_en": "Co-organised the MASS MoCA LeWitt retrospective with the Williams College Museum of Art, supplies the instructions and diagrams its drafters follow, and owns Wall Drawing #11.",
+    "desc_zh": "与 Williams College Museum of Art 共同策划 MASS MoCA 的勒维特回顾展，提供绘图员所依据的指令与图示，并收藏 Wall Drawing #11。",
+    "work_ids": [
+     "sol-lewitt--wall-drawing-retrospective",
+     "sol-lewitt--wall-drawing-11"
+    ]
+   },
+   {
+    "id": "zkm",
+    "name": "ZKM | Center for Art and Media",
+    "kind": "museum",
+    "based": "Karlsruhe, Germany",
+    "based_zh": "卡尔斯鲁厄，德国",
+    "url": "https://zkm.de",
+    "desc_en": "Media art museum and research centre that, with the Goethe-Institut, commissioned the Media Art Net archive of network and participatory works.",
+    "desc_zh": "媒体艺术博物馆与研究中心，与歌德学院共同委托建立收录网络艺术与参与式作品的 Media Art Net 档案。",
+    "work_ids": []
+   },
+   {
+    "id": "zora",
+    "name": "Zora",
+    "kind": "platform",
+    "based": "Online",
+    "based_zh": "线上",
+    "url": "https://zora.co",
+    "desc_en": "On-chain protocol and platform whose design drew on the idea of hyperstructures, and where the Holly+ DAO auctioned approved works.",
+    "desc_zh": "链上协议与平台，其设计借鉴“超结构”理念；Holly+ DAO 在此拍卖经批准的作品。",
+    "work_ids": [
+     "jacob-horne--hyperstructures",
+     "holly-herndon--holly-plus"
+    ]
+   }
+  ],
+  "websites": [
+   {
+    "id": "ada-archive-of-digital-art",
+    "name": "ADA – Archive of Digital Art",
+    "kind": "archive",
+    "url": "https://digitalartarchive.at",
+    "desc_en": "Research database of digital art run by the University for Continuing Education Krems, documenting artists, works and exhibitions.",
+    "desc_zh": "由克雷姆斯继续教育大学运营的数字艺术研究数据库，记录艺术家、作品与展览。",
+    "work_ids": []
+   },
+   {
+    "id": "ars-electronica-archive",
+    "name": "Ars Electronica Archive",
+    "kind": "archive",
+    "url": "https://ars.electronica.art/archive/en/",
+    "desc_en": "Archive of Ars Electronica festivals, Prix entries and catalogues since 1979, a primary source for telematic and network art.",
+    "desc_zh": "Ars Electronica 自 1979 年以来的艺术节、Prix 参赛作品与图录档案，是远程通信艺术与网络艺术的一手资料来源。",
+    "work_ids": []
+   },
+   {
+    "id": "artforum",
+    "name": "Artforum",
+    "kind": "publication",
+    "url": "https://www.artforum.com",
+    "desc_en": "Art magazine that first published Sol LeWitt's Paragraphs on Conceptual Art (1967) and Jack Burnham's Systems Esthetics (1968).",
+    "desc_zh": "艺术杂志，首次刊发 Sol LeWitt 的 Paragraphs on Conceptual Art（1967）与 Jack Burnham 的 Systems Esthetics（1968）。",
+    "work_ids": [
+     "sol-lewitt--paragraphs-on-conceptual-art",
+     "jack-burnham--systems-esthetics"
+    ]
+   },
+   {
+    "id": "whitney-artport",
+    "name": "artport (Whitney Museum)",
+    "kind": "archive",
+    "url": "https://whitney.org/artport",
+    "desc_en": "The Whitney's portal for net art commissions, hosting works such as xhairymutantx, BumpList and The World's First Collaborative Sentence.",
+    "desc_zh": "惠特尼美术馆的网络艺术委托门户，收录 xhairymutantx、BumpList 与 The World's First Collaborative Sentence 等作品。",
+    "work_ids": [
+     "holly-herndon--xhairymutantx",
+     "jonah-brucker-cohen--bumplist",
+     "douglas-davis--worlds-first-collaborative-sentence"
+    ]
+   },
+   {
+    "id": "blockscout",
+    "name": "Blockscout",
+    "kind": "tool",
+    "url": "https://eth.blockscout.com",
+    "desc_en": "Open-source block explorer for Ethereum and many other chains, useful for checking contract names and deployment dates.",
+    "desc_zh": "适用于以太坊及多条链的开源区块浏览器，可用于核对合约名称与部署日期。",
+    "work_ids": []
+   },
+   {
+    "id": "carrier-bag",
+    "name": "Carrier Bag",
+    "kind": "publication",
+    "url": "https://carrier-bag.net",
+    "desc_en": "Platform for critique of generative media that published Mat Dryhurst's 2025 lecture Protocol Art.",
+    "desc_zh": "生成式媒体批评平台，发布了 Mat Dryhurst 2025 年的讲座 Protocol Art。",
+    "work_ids": [
+     "mat-dryhurst--protocol-art"
+    ]
+   },
+   {
+    "id": "cryptoart-io",
+    "name": "CryptoArt.io",
+    "kind": "database",
+    "url": "https://cryptoart.io",
+    "desc_en": "Sales database of crypto art across platforms such as Art Blocks, SuperRare, Async Art and Hic et Nunc, ranked by artist and artwork.",
+    "desc_zh": "跨平台的加密艺术销售数据库，覆盖 Art Blocks、SuperRare、Async Art、Hic et Nunc 等，按艺术家与作品排序。",
+    "work_ids": []
+   },
+   {
+    "id": "e-flux-journal",
+    "name": "e-flux journal",
+    "kind": "publication",
+    "url": "https://www.e-flux.com/journal/",
+    "desc_en": "Free online art journal whose essays often address participation, networks, labour and alternative economies in art.",
+    "desc_zh": "免费在线艺术期刊，常刊登关于艺术中的参与、网络、劳动与另类经济的文章。",
+    "work_ids": []
+   },
+   {
+    "id": "etherscan",
+    "name": "Etherscan",
+    "kind": "tool",
+    "url": "https://etherscan.io",
+    "desc_en": "Ethereum block explorer for reading the verified source code, transactions and holders of smart-contract artworks.",
+    "desc_zh": "以太坊区块浏览器，可查看智能合约作品经验证的源代码、交易记录与持有者。",
+    "work_ids": [
+     "sam-spratt--masquerade",
+     "jack-butcher--checks",
+     "sam-spratt--the-monument-game",
+     "jack-butcher--opepen-edition",
+     "pak--censored",
+     "pak--clock",
+     "alexis-andre--friendship-bracelets",
+     "lil-nounders--lil-nouns",
+     "tyler-hobbs--qql",
+     "moxie-marlinspike--at-my-whim",
+     "moxie-marlinspike--autonomous-art",
+     "dom-hofmann--blitmap",
+     "botto--decentralized-autonomous-artist",
+     "suum-cuique-labs--hashmasks",
+     "dom-hofmann--loot",
+     "pak--lost-poets",
+     "pak--merge",
+     "harm-van-den-dorpel--mutant-garden-seeder",
+     "nounders--nouns",
+     "mathcastles--terraforms",
+     "pak--the-fungible",
+     "terra0--two-degrees",
+     "pak--burn-art-ash",
+     "async-art--async-art",
+     "async-art--first-supper",
+     "matt-kane--right-place-right-time",
+     "larva-labs--autoglyphs",
+     "simon-de-la-rouviere--this-artwork-is-always-on-sale",
+     "terra0--flowertokens",
+     "jonas-lund--jonas-lund-token",
+     "william-entriken--su-squares",
+     "sarah-friend--clickmine",
+     "dapper-labs--cryptokitties",
+     "larva-labs--cryptopunks",
+     "curio-cards--curio-cards",
+     "mitchell-f-chan--digital-zones",
+     "peter-porobov--million-ether-homepage"
+    ]
+   },
+   {
+    "id": "fluxus-portal",
+    "name": "Fluxus Portal (fluxus.org)",
+    "kind": "community",
+    "url": "https://www.fluxus.org",
+    "desc_en": "Long-running gateway site linking Fluxus art history with artists who continue to work in the Fluxus spirit.",
+    "desc_zh": "长期运营的门户网站，把激浪派艺术史与仍以激浪派精神创作的艺术家连接起来。",
+    "work_ids": []
+   },
+   {
+    "id": "hen-timeline",
+    "name": "Hic et Nunc / Teia timeline (crcdng)",
+    "kind": "timeline",
+    "url": "https://github.com/crcdng/hen-timeline/blob/main/timeline.md",
+    "desc_en": "Community-written, dated history of Hic et Nunc from its 2021 launch through the shutdown and the founding of Teia.",
+    "desc_zh": "社群编写、按日期排列的 Hic et Nunc 历史，从 2021 年上线到关闭，再到 Teia 的成立。",
+    "work_ids": [
+     "rafael-lima--hic-et-nunc",
+     "teia-community--teia"
+    ]
+   },
+   {
+    "id": "mlo-history-of-crypto-art",
+    "name": "History of Crypto Art (Martin Lukas Ostachowski)",
+    "kind": "timeline",
+    "url": "https://mlo.art/research/history-of-crypto-art/",
+    "desc_en": "Dated timeline of crypto art from 2013 onward, covering early blockchain works, platforms and communities.",
+    "desc_zh": "从 2013 年起按时间排列的加密艺术编年表，涵盖早期区块链作品、平台与社群。",
+    "work_ids": []
+   },
+   {
+    "id": "holo",
+    "name": "HOLO",
+    "kind": "publication",
+    "url": "https://www.holo.mg/stream/",
+    "desc_en": "Magazine on art, science and technology whose Stream section reports on artists building with smart contracts, such as Sarah Friend.",
+    "desc_zh": "关于艺术、科学与技术的杂志，其 Stream 栏目报道 Sarah Friend 等以智能合约创作的艺术家。",
+    "work_ids": [
+     "sarah-friend--off",
+     "sarah-friend--wildcards",
+     "sarah-friend--lifeforms",
+     "sarah-friend--memoryforms"
+    ]
+   },
+   {
+    "id": "wayback-machine",
+    "name": "Internet Archive Wayback Machine",
+    "kind": "tool",
+    "url": "https://web.archive.org",
+    "desc_en": "Web archive used to recover the original pages of defunct protocol works such as Monegraph, SwarmSketch and the Hic et Nunc site.",
+    "desc_zh": "网页存档工具，用于找回 Monegraph、SwarmSketch 与 Hic et Nunc 网站等已下线协议作品的原始页面。",
+    "work_ids": [
+     "kevin-mccoy--monegraph",
+     "peter-edmunds--swarmsketch",
+     "rafael-lima--hic-et-nunc"
+    ]
+   },
+   {
+    "id": "media-art-net",
+    "name": "Media Art Net / Medien Kunst Netz",
+    "kind": "archive",
+    "url": "http://www.mediaartnet.org",
+    "desc_en": "Bilingual German-English online survey of media art made for ZKM and the Goethe-Institut, with entries on works such as Push and Pull, The File Room and The Thing.",
+    "desc_zh": "为 ZKM 与歌德学院制作的德英双语媒体艺术在线综述，收录 Push and Pull、The File Room、The Thing 等作品条目。",
+    "work_ids": [
+     "allan-kaprow--push-and-pull",
+     "jonah-brucker-cohen--bumplist",
+     "antoni-muntadas--the-file-room",
+     "wolfgang-staehle--the-thing"
+    ]
+   },
+   {
+    "id": "monoskop",
+    "name": "Monoskop",
+    "kind": "archive",
+    "url": "https://monoskop.org",
+    "desc_en": "Wiki for arts and studies founded by Dušan Barok in 2004, hosting scans of key texts and catalogues such as Burnham's Software and LeWitt's Sentences on Conceptual Art.",
+    "desc_zh": "Dušan Barok 于 2004 年创办的艺术与研究维基，收录 Burnham 的 Software 图录、勒维特的 Sentences on Conceptual Art 等关键文本扫描。",
+    "work_ids": [
+     "jack-burnham--software",
+     "sol-lewitt--sentences-on-conceptual-art"
+    ]
+   },
+   {
+    "id": "monoskop-fluxus",
+    "name": "Monoskop: Fluxus",
+    "kind": "archive",
+    "url": "https://monoskop.org/Fluxus",
+    "desc_en": "Long bibliography page on Fluxus with scanned catalogues, anthologies of scores and links to collections such as Silverman, Bonotto and Sohm.",
+    "desc_zh": "关于激浪派的长篇书目页面，附扫描的展览图录、乐谱选集，以及 Silverman、Bonotto、Sohm 等收藏的链接。",
+    "work_ids": [
+     "george-brecht--water-yam",
+     "george-maciunas--fluxkit",
+     "la-monte-young--an-anthology-of-chance-operations",
+     "yoko-ono--grapefruit",
+     "mieko-shiomi--spatial-poem",
+     "robert-filliou--eternal-network"
+    ]
+   },
+   {
+    "id": "net-art-anthology",
+    "name": "Net Art Anthology (Rhizome)",
+    "kind": "archive",
+    "url": "https://anthology.rhizome.org",
+    "desc_en": "Rhizome's restored and annotated history of net art in 100 works, including The World in 24 Hours, The Thing and The File Room.",
+    "desc_zh": "Rhizome 以 100 件作品重建并注释的网络艺术史，包括 The World in 24 Hours、The Thing 与 The File Room。",
+    "work_ids": [
+     "robert-adrian--the-world-in-24-hours",
+     "wolfgang-staehle--the-thing",
+     "antoni-muntadas--the-file-room"
+    ]
+   },
+   {
+    "id": "nouns-center",
+    "name": "Nouns Center",
+    "kind": "community",
+    "url": "https://nouns.center",
+    "desc_en": "Community knowledge hub for Nouns DAO, explaining the daily auction, the treasury and how to get proposals funded.",
+    "desc_zh": "Nouns DAO 的社群知识中心，介绍每日拍卖、金库以及如何让提案获得资助。",
+    "work_ids": [
+     "nounders--nouns"
+    ]
+   },
+   {
+    "id": "polygonscan",
+    "name": "PolygonScan",
+    "kind": "tool",
+    "url": "https://polygonscan.com",
+    "desc_en": "Block explorer for Polygon, where contracts such as Sarah Friend's Lifeforms live.",
+    "desc_zh": "Polygon 链的区块浏览器，Sarah Friend 的 Lifeforms 等合约部署在该链上。",
+    "work_ids": [
+     "sarah-friend--lifeforms"
+    ]
+   },
+   {
+    "id": "rhizome-artbase",
+    "name": "Rhizome ArtBase",
+    "kind": "archive",
+    "url": "https://artbase.rhizome.org",
+    "desc_en": "Rhizome's archive of born-digital artworks since 1999, which preserves participatory web works such as SwarmSketch.",
+    "desc_zh": "Rhizome 自 1999 年起建立的数字原生艺术档案，保存 SwarmSketch 等参与式网络作品。",
+    "work_ids": [
+     "peter-edmunds--swarmsketch"
+    ]
+   },
+   {
+    "id": "right-click-save",
+    "name": "Right Click Save",
+    "kind": "publication",
+    "url": "https://www.rightclicksave.com",
+    "desc_en": "Online magazine of interviews, essays and histories of digital and NFT art.",
+    "desc_zh": "刊登数字艺术与 NFT 艺术访谈、评论与历史的在线杂志。",
+    "work_ids": []
+   },
+   {
+    "id": "sol-lewitt-wall-drawings-catalogue",
+    "name": "Sol LeWitt Wall Drawings Catalogue Raisonné",
+    "kind": "database",
+    "url": "https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description",
+    "desc_en": "Cahiers d'Art Institute's catalogue of LeWitt's wall drawings, recording each drawing's instructions, certificates and installations.",
+    "desc_zh": "Cahiers d'Art Institute 编制的勒维特墙绘全集，记录每件墙绘的指令、证书与历次安装。",
+    "work_ids": [
+     "sol-lewitt--wall-drawing-1",
+     "sol-lewitt--wall-drawing-118",
+     "sol-lewitt--wall-drawing-retrospective"
+    ]
+   },
+   {
+    "id": "summer-of-protocols",
+    "name": "Summer of Protocols",
+    "kind": "publication",
+    "url": "https://summerofprotocols.com",
+    "desc_en": "Site of the Ethereum Foundation–funded research programme, publishing its essays, the Protocol Reader and other studies of protocols.",
+    "desc_zh": "由以太坊基金会资助的研究项目网站，发布其论文、Protocol Reader 等协议研究成果。",
+    "work_ids": [
+     "summer-of-protocols--program",
+     "venkatesh-rao--unreasonable-sufficiency"
+    ]
+   },
+   {
+    "id": "symbient-registry",
+    "name": "symbient.life registry",
+    "kind": "database",
+    "url": "https://symbient.life/registry",
+    "desc_en": "Registry of 'symbients', entities formed by organic beings and synthetic systems acting with autonomy, from Plantoid and terra0 to Botto and Truth Terminal.",
+    "desc_zh": "“共生体”登记册，收录由有机生命与合成系统共同构成、具有自主性的实体，从 Plantoid、terra0 到 Botto、Truth Terminal。",
+    "work_ids": [
+     "primavera-de-filippi--plantoid",
+     "terra0--self-owning-forest",
+     "botto--decentralized-autonomous-artist",
+     "andy-ayrey--truth-terminal",
+     "goodbye-monkey--san",
+     "james-greig--wib-and-wob",
+     "alternative-machine--plantbot",
+     "her-she-loves-data--pneumos",
+     "kristi-coronado--solienne",
+     "harold-cohen--aaron",
+     "holly-herndon--holly-plus"
+    ]
+   },
+   {
+    "id": "teia-docs",
+    "name": "Teia docs wiki",
+    "kind": "archive",
+    "url": "https://github.com/teia-community/teia-docs/wiki",
+    "desc_en": "Teia's documentation of its governance, fees, tokens and contract addresses.",
+    "desc_zh": "Teia 关于治理、费用、代币与合约地址的文档。",
+    "work_ids": [
+     "teia-community--teia"
+    ]
+   },
+   {
+    "id": "fluxus-performance-workbook",
+    "name": "The Fluxus Performance Workbook (2002)",
+    "kind": "archive",
+    "url": "https://monoskop.org/images/d/d4/Friedman_Smith_Sawchyn_eds_The_Fluxus_Performance_Workbook.pdf",
+    "desc_en": "Free PDF, edited by Ken Friedman, Owen Smith and Lauren Sawchyn, that collects the texts of hundreds of Fluxus event scores ready to perform.",
+    "desc_zh": "由 Ken Friedman、Owen Smith 与 Lauren Sawchyn 编辑的免费 PDF，收录数百条可直接表演的激浪派事件乐谱原文。",
+    "work_ids": [
+     "george-brecht--drip-music",
+     "mieko-shiomi--spatial-poem",
+     "alison-knowles--make-a-salad"
+    ]
+   },
+   {
+    "id": "getty-scores-project",
+    "name": "The Scores Project (Getty)",
+    "kind": "archive",
+    "url": "https://www.getty.edu/publications/scores/",
+    "desc_en": "Open-access digital publication that reproduces and annotates midcentury experimental scores by Cage, Brecht, Knowles, Kaprow, Shiomi and others.",
+    "desc_zh": "开放获取的数字出版物，复制并注释 Cage、Brecht、Knowles、Kaprow、Shiomi 等人的战后实验乐谱。",
+    "work_ids": [
+     "john-cage--concert-for-piano-and-orchestra",
+     "benjamin-patterson--paper-piece",
+     "la-monte-young--an-anthology-of-chance-operations",
+     "george-brecht--motor-vehicle-sundown",
+     "george-brecht--drip-music",
+     "alison-knowles--identical-lunch",
+     "mieko-shiomi--spatial-poem",
+     "allan-kaprow--routine"
+    ]
+   },
+   {
+    "id": "torque-editions",
+    "name": "Torque Editions",
+    "kind": "publication",
+    "url": "https://torquetorque.net",
+    "desc_en": "Itinerant publisher founded in 2014 by Nathan Jones and Sam Skinner that published Artists Re:Thinking the Blockchain and Radical Friends.",
+    "desc_zh": "Nathan Jones 与 Sam Skinner 于 2014 年创立的流动出版社，出版了 Artists Re:Thinking the Blockchain 与 Radical Friends。",
+    "work_ids": [
+     "ruth-catlow--artists-rethinking-the-blockchain",
+     "ruth-catlow--radical-friends"
+    ]
+   },
+   {
+    "id": "tzkt",
+    "name": "TzKT",
+    "kind": "tool",
+    "url": "https://tzkt.io",
+    "desc_en": "Tezos block explorer for inspecting the Hic et Nunc and Teia contracts, OBJKT tokens and DAO activity.",
+    "desc_zh": "Tezos 区块浏览器，可查看 Hic et Nunc 与 Teia 的合约、OBJKT 代币及 DAO 活动。",
+    "work_ids": [
+     "rafael-lima--hic-et-nunc",
+     "teia-community--teia"
+    ]
+   },
+   {
+    "id": "ubuweb",
+    "name": "UbuWeb",
+    "kind": "archive",
+    "url": "https://ubu.com",
+    "desc_en": "Kenneth Goldsmith's archive of avant-garde film, sound and text, including the Fluxfilm Anthology and Fluxus recordings; it paused in 2024 and resumed in 2025.",
+    "desc_zh": "Kenneth Goldsmith 创办的前卫影像、声音与文本档案，包括 Fluxfilm Anthology 和激浪派录音；2024 年曾暂停，2025 年恢复更新。",
+    "work_ids": []
+   },
+   {
+    "id": "world-computer-sculpture-garden",
+    "name": "World Computer Sculpture Garden",
+    "kind": "publication",
+    "url": "https://worldcomputersculpture.garden",
+    "desc_en": "Contract-based exhibition on Ethereum curated by 0xfff, with Malte Rauch's essay defining protocol art as art that works with the rules of a computing environment.",
+    "desc_zh": "由 0xfff 策划、以合约形式存在于以太坊上的展览，附有 Malte Rauch 把协议艺术定义为“处理计算环境规则的艺术”的文章。",
+    "work_ids": [
+     "malte-rauch--computation-expanded-field"
+    ]
+   }
+  ]
+ }
 }

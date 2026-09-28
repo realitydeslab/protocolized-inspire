@@ -3347,3 +3347,104 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **William Entriken** (1) — 开发者. 开发者，ERC-721 标准的主要作者，2018 年推出 Su Squares：以太坊上可个性化的 10,000 个方格。 https://tenthousandsu.com
 - **Wolfgang Staehle** (1) — 艺术家，The Thing 创办者. 德国出生、居于纽约的艺术家，生于 1950 年，1991 年创办 The Thing，后来创作长时段的网络摄像头直播作品。 https://the.thing.net/
 - **Yves Klein** (1) — 艺术家. 法国艺术家（1928–1962），新现实主义成员，以国际克莱因蓝、《人体测量》和出售“非物质”区域著称。
+
+## 机构
+
+- **Ars Electronica** (festival) — 艺术节与中心：1982 年举办 Robert Adrian 的 The World in 24 Hours，1996 年起在大厅运行 Ken Goldberg 的 Telegarden。 https://ars.electronica.art
+- **Art Basel** (organization) — 艺术博览会，其各站展出过 Jack Butcher 的 Self Checkout、Work, Luck, Play 以及会写诗的 Plantoid 等参与式协议作品。 https://www.artbasel.com
+- **Art Blocks** (platform) — 链上生成艺术平台；创始人 Snowfro 参与构思 Friendship Bracelets，让每位 Art Blocks 持有者领取手链，一条自留、一条赠人。 https://www.artblocks.io
+- **Art Institute of Chicago** (museum) — 收藏 Felix Gonzalez-Torres 的糖果堆 "Untitled" (Portrait of Ross in L.A.)（观众取走、馆方补充）以及勒维特的 Wall Drawing #118。 https://www.artic.edu
+- **Artangel** (organization) — 委托 Jeremy Deller 的重演作品 The Battle of Orgreave（2001）与 Francis Alÿs 的 Guards，两者都由数百名参与者完成。 https://www.artangel.org.uk
+- **Berggruen Arts & Culture (Palazzo Diedo)** (organization) — 在 Palazzo Diedo 的 2026 年展览 Strange Rules 中展出 Herndon 与 Dryhurst 的 Attention Guild。 https://berggruenarts.org
+- **Carnegie Museum of Art** (museum) — 第 58 届 Carnegie International（2022）展出 terra0 为其创作的 A tree; a corporation; a person.，一棵被设定为拥有法律与财务能动性的树。 https://carnegieart.org
+- **Centre Pompidou** (museum) — 2023 年收藏区块链作品，包括两枚 Bitchcoin、CryptoPunks 与 Autoglyphs。 https://www.centrepompidou.fr
+- **Christie's** (auction) — 拍卖行，2021 年 10 月以 393 ETH 拍出含错版 17b 的整套 Curio Cards，并展示过 Async Art 的可编程作品。 https://www.christies.com
+- **Creative Time** (organization) — 公共艺术委托机构，联合制作 Tania Bruguera 的 Immigrant Movement International 与 Paul Ramírez Jonas 的 Key to the City。 https://creativetime.org
+- **Dia Art Foundation** (organization) — 委托 Thomas Hirschhorn 与布朗克斯居民共同完成 Gramsci Monument（2013），并在纽约种树延续博伊斯的 7000 Oaks。 https://www.diaart.org
+- **documenta** (festival) — 每五年举办一次的大展：博伊斯在此开设直接民主办公室（1972）、启动 7000 Oaks（1982），艾未未为《童话》带来 1001 位中国访客（2007）。 https://www.documenta.de
+- **e-flux** (platform) — 艺术出版与公告平台，发起 Time/Bank，让艺术家和策展人以工作时数而非金钱进行交换。 https://www.e-flux.com
+- **Ethereum Foundation** (organization) — 委托 Summer of Protocols（2023–25），资助艺术家与研究者研究协议的项目。 https://ethereum.foundation
+- **Eyebeam** (lab) — 非营利艺术与技术中心，自 1990 年代末起通过驻留项目支持艺术家创作开源与网络作品。 https://www.eyebeam.org
+- **FACT (Foundation for Art and Creative Technology)** (organization) — 与 Torque Editions、Furtherfield 共同出版 Artists Re:Thinking the Blockchain（2017）。 https://www.fact.co.uk
+- **Feral File** (platform) — 由 Casey Reas 联合创办的数字艺术策展平台，展览以一组链上版本的形式发布。 https://feralfile.com
+- **Fingerprints DAO** (dao) — 专注区块链艺术的藏家 DAO，2022 年在 Art Dubai 展出 terra0 的 Seed Capital，并联合委托 Sarah Friend 的 Off: Endgame。 https://fingerprintsdao.xyz
+- **Furtherfield (and DECAL)** (organization) — 位于芬斯伯里公园的画廊与实验室，委托了 Sarah Friend 的 ClickMine 和 Rhea Myers 的 Balloon Dog，并通过 DECAL 实验室开展 DAOWO 与 CultureStake。 https://www.furtherfield.org
+- **Galerie Nagel Draxler** (gallery) — 设有 Crypto Kiosk 区块链艺术项目的画廊；Rhea Myers 将 Is Art (Editions) 的收藏咨询指向这里。 https://nagel-draxler.de
+- **Getty Research Institute** (organization) — 研究机构，其档案收藏 Cage、Brecht、Knowles、Kaprow 等人的乐谱，并于 2025 年以开放获取的数字出版物 The Scores Project 发布。 https://www.getty.edu/research/
+- **Gray Area** (organization) — 艺术与技术非营利机构，2018 年展览 Distributed Systems 展出 Rhea Myers 的 SchellingFlags。 https://grayarea.org
+- **HEK (Haus der Elektronischen Künste)** (museum) — 瑞士数字艺术博物馆，2023 年展览 Exploring the Decentralized Web – Art on the Blockchain 展出 Rhea Myers 的 Is Art (Editions)。 https://www.hek.ch
+- **Independent Curators International (ICI)** (organization) — 将 Hans Ulrich Obrist 仅由艺术家指令构成的展览 do it 巡回到至少 50 个地点，并出版 do it: the compendium（2013）。 https://curatorsintl.org
+- **Institute of Contemporary Arts (ICA)** (gallery) — 1962 年举办 Festival of Misfits，Alison Knowles 的 Proposition (Make a Salad) 在此首演。 https://www.ica.art
+- **Institute of Network Cultures (MoneyLab)** (lab) — 研究机构，其 MoneyLab 网络研究另类经济，并展示了 Black Swan DAO 模型。 https://networkcultures.org
+- **KADIST** (organization) — 收藏 terra0 的 Conditional Power，并接受其预言机合约对藏家施加的义务。 https://kadist.org
+- **Kunsthalle Zürich** (museum) — 2022 年展览 DYOR（Do Your Own Research）梳理区块链上的艺术，并将 Black Swan 列为“播种者”之一展出。 https://www.kunsthallezurich.ch
+- **Kunstsammlung Nordrhein-Westfalen (K21)** (museum) — 2026 年在 K21 展出 Starmirror，并增加了定时举行的“训练演出”。 https://www.kunstsammlung.de
+- **KW Institute for Contemporary Art** (gallery) — Herndon 与 Dryhurst 的 Starmirror（2025–26）首站：观众按歌本演唱，用录音训练一支 AI 合唱团。 https://www.kw-berlin.de
+- **LAS Art Foundation** (organization) — 关注艺术、技术与科学的柏林非营利机构，2025 年发起 terra0 的 Autonomous Forest，一片由 DAO 管理的森林。 https://www.las-art.foundation
+- **LI-MA (Living Media Art)** (organization) — 致力于媒体艺术保存、发行与研究的平台，涵盖软件与网络作品。 https://li-ma.nl
+- **Los Angeles County Museum of Art (LACMA)** (museum) — 2008 年在洛杉矶全城重新演绎 Kaprow 的 Fluids，参与 Tom Sachs 的 Rocket Factory 发射，并收藏 CryptoPunks。 https://www.lacma.org
+- **MASS MoCA** (museum) — 长期展出 Sol LeWitt: A Wall Drawing Retrospective（2008 年开幕），由绘图员团队按照勒维特的书面指令重新绘制墙绘。 https://massmoca.org
+- **NEoN Digital Arts** (festival) — 苏格兰数字艺术节，展出 Sarah Friend 的 ClickMine：每次点击都是一笔需付费的以太坊交易。 https://neondigitalarts.com
+- **New Museum** (museum) — Rhizome 的依托机构，2019 年首展 Net Art Anthology 展览 The Art Happens Here，并上演 David Horvitz 的 Let us keep our own noon。 https://www.newmuseum.org
+- **Nifty Gateway** (platform) — 曾承载 Pak 的开放版本协议作品 The Fungible（与苏富比合作）和 Merge 的交易平台，已于 2026 年 4 月 23 日关闭。 https://www.niftygateway.com
+- **NODE Foundation** (organization) — 数字艺术非营利机构，2025 年从 Yuga Labs 手中取得 CryptoPunks 的知识产权，以保存这一系列。 https://www.nodefoundation.com
+- **Phillips** (auction) — 2021 年 5 月拍卖 Sarah Meyohas 重新发行的 Bitchcoin 代币。 https://www.phillips.com
+- **Primary Information** (organization) — 非营利出版社，重印绝版的艺术家书与艺术家文字，是重读乐谱与观念指令的重要来源。 https://primaryinformation.org
+- **Queens Museum** (museum) — 与 Creative Time 合作支持 Tania Bruguera 的 Immigrant Movement International，2011 至 2015 年在皇后区 Corona 运营社区空间。 https://queensmuseum.org
+- **Rhizome** (organization) — 专注数字原生艺术的机构：2014 年 Seven on Seven 催生了 Monegraph，联合委托 Sarah Friend 的 Off: Endgame，并运营 ArtBase 与 Net Art Anthology。 https://rhizome.org
+- **S+T+ARTS Prize** (prize) — 由 Ars Electronica 运营的欧盟艺术、科学与技术奖，2022 年授奖 Holly+，并收录 Hashd0x、Botto 与 The Call。 https://ars.electronica.art/starts-prize/
+- **San Francisco Museum of Modern Art (SFMOMA)** (museum) — 收藏勒维特的 Wall Drawing #1、#273 与 Learning to Love You More，并于 1979 年现场展示 Harold Cohen 的 AARON 作画。 https://www.sfmoma.org
+- **Serpentine** (gallery) — 其艺术与技术项目联合制作 Herndon 与 Dryhurst 的 The Call 及其数据信托，出版 All Media Is Training Data，并参与 DAOWO。 https://www.serpentinegalleries.org
+- **Serralves Museum of Contemporary Art** (museum) — 展出小野洋子的 Add Colour (Refugee Boat)：观众逐渐用蓝色笔迹覆盖白色房间与船。 https://www.serralves.pt
+- **Solomon R. Guggenheim Museum** (museum) — 委托 Mark Napier 创作 net.flag，将 Tino Sehgal 的 This Progress 作为首件现场作品收藏，并收藏 Tania Bruguera 与 Francis Alÿs 的作品。 https://www.guggenheim.org
+- **Sotheby's** (auction) — 举办 Pak 的 The Fungible 以及 2021 年的 Natively Digital 专场，后者包括 Quantum、Secret Artwork 与 terra0 的 Two Degrees。 https://www.sothebys.com
+- **SuperRare** (platform) — 策展式交易平台，Botto 每周由社群投票选出的图像在此拍卖。 https://superrare.com
+- **Tate (Tate Modern)** (museum) — 在泰特现代美术馆涡轮大厅上演 Sehgal 的 These Associations、Bruguera 的 Tatlin's Whisper #5 等参与式委托，并收藏 The Battle of Orgreave、The Crystal Quilt 等作品的档案。 https://www.tate.org.uk
+- **Teia** (dao) — 社群运营的 DAO，自 2021 年创始人关闭原网站以来一直维持 Hic et Nunc 合约与市场在 Tezos 上运行。 https://teia.art
+- **The Museum of Modern Art (MoMA)** (museum) — 收藏 Gilbert and Lila Silverman 激浪派收藏以及本站许多指令型作品（从 Fluxkit、Water Yam 到 Simone Forti 的 Dance Constructions），并上演过 Haacke 的 MoMA Poll 与 Abramović 的 The Artist Is Present。 https://www.moma.org
+- **transmediale** (festival) — 艺术与数字文化节：terra0 的自有森林提案于 2017 年在此传播，Artists Re:Thinking the Blockchain 于 2018 年在此发布。 https://transmediale.de
+- **V2_ Lab for the Unstable Media** (lab) — 跨学科艺术与技术中心，自 1980 年代起制作并存档网络与互动艺术。 https://v2.nl
+- **Van Abbemuseum** (museum) — 2010 年展出 SUPERFLEX 的 Free Sol LeWitt：在馆内作坊复制勒维特的雕塑，再以抽签方式把复制品送出。 https://vanabbemuseum.nl
+- **Vera List Center for Art and Politics** (organization) — The New School 下属研究中心，其以“协议”为主题的多年项目产出了开放获取图书 As for Protocols（2025）。 https://www.veralistcenter.org
+- **Verse** (platform) — 策展式数字艺术收藏平台，发布了 Rhea Myers 的 10K Drop，该作品在以太币涨到一万美元前一直锁定。 https://verse.works
+- **Walker Art Center** (museum) — 1993 年策划巡回展及同名图录 In the Spirit of Fluxus，是研究激浪派乐谱与事件的常用参考。 https://walkerart.org
+- **Whitechapel Gallery** (gallery) — 与 MIT Press 合作出版 Documents of Contemporary Art 丛书（包括 Claire Bishop 编的 Participation，2006），并展出小野洋子的 Mend Piece for London（2021）。 https://www.whitechapelgallery.org
+- **Whitney Museum of American Art** (museum) — 通过 artport 委托网络艺术，收藏 Autoglyph 与早期参与式网络作品，并于 2019 年展出 McCoy 夫妇基于 Monegraph 的 Public Key/Private Key。 https://whitney.org
+- **Yale University Art Gallery** (museum) — 与 Williams College Museum of Art 共同策划 MASS MoCA 的勒维特回顾展，提供绘图员所依据的指令与图示，并收藏 Wall Drawing #11。 https://artgallery.yale.edu
+- **ZKM | Center for Art and Media** (museum) — 媒体艺术博物馆与研究中心，与歌德学院共同委托建立收录网络艺术与参与式作品的 Media Art Net 档案。 https://zkm.de
+- **Zora** (platform) — 链上协议与平台，其设计借鉴“超结构”理念；Holly+ DAO 在此拍卖经批准的作品。 https://zora.co
+
+## 网站与档案
+
+- **ADA – Archive of Digital Art** (archive) — 由克雷姆斯继续教育大学运营的数字艺术研究数据库，记录艺术家、作品与展览。 https://digitalartarchive.at
+- **Ars Electronica Archive** (archive) — Ars Electronica 自 1979 年以来的艺术节、Prix 参赛作品与图录档案，是远程通信艺术与网络艺术的一手资料来源。 https://ars.electronica.art/archive/en/
+- **Artforum** (publication) — 艺术杂志，首次刊发 Sol LeWitt 的 Paragraphs on Conceptual Art（1967）与 Jack Burnham 的 Systems Esthetics（1968）。 https://www.artforum.com
+- **artport (Whitney Museum)** (archive) — 惠特尼美术馆的网络艺术委托门户，收录 xhairymutantx、BumpList 与 The World's First Collaborative Sentence 等作品。 https://whitney.org/artport
+- **Blockscout** (tool) — 适用于以太坊及多条链的开源区块浏览器，可用于核对合约名称与部署日期。 https://eth.blockscout.com
+- **Carrier Bag** (publication) — 生成式媒体批评平台，发布了 Mat Dryhurst 2025 年的讲座 Protocol Art。 https://carrier-bag.net
+- **CryptoArt.io** (database) — 跨平台的加密艺术销售数据库，覆盖 Art Blocks、SuperRare、Async Art、Hic et Nunc 等，按艺术家与作品排序。 https://cryptoart.io
+- **e-flux journal** (publication) — 免费在线艺术期刊，常刊登关于艺术中的参与、网络、劳动与另类经济的文章。 https://www.e-flux.com/journal/
+- **Etherscan** (tool) — 以太坊区块浏览器，可查看智能合约作品经验证的源代码、交易记录与持有者。 https://etherscan.io
+- **Fluxus Portal (fluxus.org)** (community) — 长期运营的门户网站，把激浪派艺术史与仍以激浪派精神创作的艺术家连接起来。 https://www.fluxus.org
+- **Hic et Nunc / Teia timeline (crcdng)** (timeline) — 社群编写、按日期排列的 Hic et Nunc 历史，从 2021 年上线到关闭，再到 Teia 的成立。 https://github.com/crcdng/hen-timeline/blob/main/timeline.md
+- **History of Crypto Art (Martin Lukas Ostachowski)** (timeline) — 从 2013 年起按时间排列的加密艺术编年表，涵盖早期区块链作品、平台与社群。 https://mlo.art/research/history-of-crypto-art/
+- **HOLO** (publication) — 关于艺术、科学与技术的杂志，其 Stream 栏目报道 Sarah Friend 等以智能合约创作的艺术家。 https://www.holo.mg/stream/
+- **Internet Archive Wayback Machine** (tool) — 网页存档工具，用于找回 Monegraph、SwarmSketch 与 Hic et Nunc 网站等已下线协议作品的原始页面。 https://web.archive.org
+- **Media Art Net / Medien Kunst Netz** (archive) — 为 ZKM 与歌德学院制作的德英双语媒体艺术在线综述，收录 Push and Pull、The File Room、The Thing 等作品条目。 http://www.mediaartnet.org
+- **Monoskop** (archive) — Dušan Barok 于 2004 年创办的艺术与研究维基，收录 Burnham 的 Software 图录、勒维特的 Sentences on Conceptual Art 等关键文本扫描。 https://monoskop.org
+- **Monoskop: Fluxus** (archive) — 关于激浪派的长篇书目页面，附扫描的展览图录、乐谱选集，以及 Silverman、Bonotto、Sohm 等收藏的链接。 https://monoskop.org/Fluxus
+- **Net Art Anthology (Rhizome)** (archive) — Rhizome 以 100 件作品重建并注释的网络艺术史，包括 The World in 24 Hours、The Thing 与 The File Room。 https://anthology.rhizome.org
+- **Nouns Center** (community) — Nouns DAO 的社群知识中心，介绍每日拍卖、金库以及如何让提案获得资助。 https://nouns.center
+- **PolygonScan** (tool) — Polygon 链的区块浏览器，Sarah Friend 的 Lifeforms 等合约部署在该链上。 https://polygonscan.com
+- **Rhizome ArtBase** (archive) — Rhizome 自 1999 年起建立的数字原生艺术档案，保存 SwarmSketch 等参与式网络作品。 https://artbase.rhizome.org
+- **Right Click Save** (publication) — 刊登数字艺术与 NFT 艺术访谈、评论与历史的在线杂志。 https://www.rightclicksave.com
+- **Sol LeWitt Wall Drawings Catalogue Raisonné** (database) — Cahiers d'Art Institute 编制的勒维特墙绘全集，记录每件墙绘的指令、证书与历次安装。 https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description
+- **Summer of Protocols** (publication) — 由以太坊基金会资助的研究项目网站，发布其论文、Protocol Reader 等协议研究成果。 https://summerofprotocols.com
+- **symbient.life registry** (database) — “共生体”登记册，收录由有机生命与合成系统共同构成、具有自主性的实体，从 Plantoid、terra0 到 Botto、Truth Terminal。 https://symbient.life/registry
+- **Teia docs wiki** (archive) — Teia 关于治理、费用、代币与合约地址的文档。 https://github.com/teia-community/teia-docs/wiki
+- **The Fluxus Performance Workbook (2002)** (archive) — 由 Ken Friedman、Owen Smith 与 Lauren Sawchyn 编辑的免费 PDF，收录数百条可直接表演的激浪派事件乐谱原文。 https://monoskop.org/images/d/d4/Friedman_Smith_Sawchyn_eds_The_Fluxus_Performance_Workbook.pdf
+- **The Scores Project (Getty)** (archive) — 开放获取的数字出版物，复制并注释 Cage、Brecht、Knowles、Kaprow、Shiomi 等人的战后实验乐谱。 https://www.getty.edu/publications/scores/
+- **Torque Editions** (publication) — Nathan Jones 与 Sam Skinner 于 2014 年创立的流动出版社，出版了 Artists Re:Thinking the Blockchain 与 Radical Friends。 https://torquetorque.net
+- **TzKT** (tool) — Tezos 区块浏览器，可查看 Hic et Nunc 与 Teia 的合约、OBJKT 代币及 DAO 活动。 https://tzkt.io
+- **UbuWeb** (archive) — Kenneth Goldsmith 创办的前卫影像、声音与文本档案，包括 Fluxfilm Anthology 和激浪派录音；2024 年曾暂停，2025 年恢复更新。 https://ubu.com
+- **World Computer Sculpture Garden** (publication) — 由 0xfff 策划、以合约形式存在于以太坊上的展览，附有 Malte Rauch 把协议艺术定义为“处理计算环境规则的艺术”的文章。 https://worldcomputersculpture.garden

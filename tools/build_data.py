@@ -356,9 +356,12 @@ def main() -> None:
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
     open_leads, checked_leads = classify_leads(leads, creators)
 
-    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept}
+    from resources import load_resources  # noqa: PLC0415
+    res = load_resources({w["id"] for w in kept})
+    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "resources": res}
     write_outputs(data, open_leads, checked_leads, dropped, problems)
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
+    logger.info("resources: %d institutions, %d websites", len(res["institutions"]), len(res["websites"]))
     logger.info("creators=%d works=%d dropped=%d media_problems=%d open_leads=%d | %s | video=%d images=%d paper=%d contract=%d",
                 len(out_creators), len(kept), len(dropped), len(problems), len(open_leads),
                 " ".join(f"{k}={v}" for k, v in by_field.items()),

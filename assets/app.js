@@ -11,7 +11,7 @@
   const MECHS = TAX.mechanisms || [];
   const SUBSTRATES = TAX.substrates || [];
   const ERAS = [["1959", 0, 1959, "≤1959"], ["1960", 1960, 1979, "1960–79"], ["1980", 1980, 1999, "1980–99"], ["2000", 2000, 2014, "2000–14"], ["2015", 2015, 2020, "2015–20"], ["2021", 2021, 2030, "2021–"]];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "timeline", "collections", "works", "creators", "starred"];
+  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "timeline", "collections", "works", "creators", "resources", "starred"];
   const FILTERED = ["works", "timeline", "creators"];
   const EMPTY_FILTERS = () => ({ q: "", mechs: new Set(), subs: new Set(), cols: new Set(), fields: new Set(), kinds: new Set(), era: "", creator: "", video: false, contract: false });
 
@@ -263,6 +263,36 @@
     }).join("");
     return rows.length;
   }
+  function renderResources() {
+    currentList = [];
+    const R = DATA.resources || { institutions: [], websites: [] };
+    const kindLabel = (k) => S().res_kinds[k] || k;
+    const related = (r) => { const ws = (r.work_ids || []).map((id) => worksById[id]).filter(Boolean);
+      const more = ws.length > 8 ? `<span class="mono">+${ws.length - 8}</span>` : "";
+      return ws.length ? `<div class="res__works"><span class="mono">${esc(S().res_related)}</span> ${ws.slice(0, 8).map((w) => `<button class="tag tag--col" data-open="${esc(w.id)}">${esc(w.title)}</button>`).join("")}${more}</div>` : ""; };
+    const card = (r) => `<article class="res"><div class="res__head"><a class="res__name" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.name)} ↗</a>
+        <span class="res__kind mono">${esc(kindLabel(r.kind))}${r.based ? " · " + esc(zh() ? r.based_zh || r.based : r.based) : ""}</span></div>
+        <p class="res__desc">${esc(zh() ? r.desc_zh : r.desc_en)}</p>${related(r)}</article>`;
+    const grouped = (list, order) => order.map((k) => [k, list.filter((r) => r.kind === k)]).filter(([, rs]) => rs.length)
+      .map(([k, rs]) => `<h4 class="res__group mono">${esc(kindLabel(k))} <small>${rs.length}</small></h4><div class="res__grid">${rs.map(card).join("")}</div>`).join("");
+    const people = [...DATA.creators].sort((a, b) => (b.work_count || 0) - (a.work_count || 0) || a.name.localeCompare(b.name)).map((c) => {
+      const t = TX.creator(c, lang);
+      const links = Object.entries(c.links || {}).filter(([, u]) => u).map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(k)}</a>`).join(" · ");
+      return `<li class="person"><button class="person__name" data-creator="${esc(c.id)}">${esc(c.name)}</button><span class="person__n mono">${c.work_count || 0}</span>
+        <span class="person__role">${esc([c.kind ? S()["kind_" + c.kind] : "", t.role, t.based].filter(Boolean).join(" · "))}</span><span class="person__links mono">${links}</span></li>`;
+    }).join("");
+    const section = (id, title, lede, n, body) => `<section class="scat" id="res-${id}"><div class="scat__head"><h3 class="scat__title">${esc(title)}</h3><span class="scat__n mono">${n}</span></div>
+      <p class="scat__desc">${esc(lede)}</p>${body}</section>`;
+    const jump = (id, label, n) => `<a class="chip" href="#res-${id}" data-jump="res-${id}">${esc(label)}<small>${n}</small></a>`;
+    $("#resourceList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().res_title)}</h2><p class="starred__lede">${esc(S().res_lede)}</p>
+        <div class="chips">${jump("people", S().res_people, DATA.creators.length)}${jump("institutions", S().res_institutions, R.institutions.length)}${jump("websites", S().res_websites, R.websites.length)}</div></div>` +
+      section("people", S().res_people, S().res_people_lede, DATA.creators.length, `<ol class="people">${people}</ol>`) +
+      section("institutions", S().res_institutions, S().res_institutions_lede, R.institutions.length,
+        R.institutions.length ? grouped(R.institutions, ["museum", "prize", "festival", "organization", "lab", "gallery", "auction", "platform", "dao"]) : `<p class="count mono">${esc(S().res_empty)}</p>`) +
+      section("websites", S().res_websites, S().res_websites_lede, R.websites.length,
+        R.websites.length ? grouped(R.websites, ["archive", "timeline", "database", "publication", "community", "course", "tool"]) : `<p class="count mono">${esc(S().res_empty)}</p>`);
+    return 1;
+  }
   function renderStarred() {
     const list = DATA.works.filter((w) => stars.has(w.id));
     currentList = list;
@@ -291,7 +321,7 @@
     $("#hasContract").setAttribute("aria-pressed", state.contract);
     $("#starCount").textContent = stars.size ? stars.size : "";
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, timeline: renderTimeline, collections: renderCollections, works: renderWorks, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, timeline: renderTimeline, collections: renderCollections, works: renderWorks, creators: renderCreators, resources: renderResources, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();
@@ -424,6 +454,8 @@
   function go(view, sub = "") { state.view = view; state.sub = sub; closeWork(); render(); window.scrollTo({ top: $("#tabs").offsetTop, behavior: "smooth" }); }
   function goFiltered(patch) { Object.assign(state, EMPTY_FILTERS(), patch); go("works"); }
   document.addEventListener("click", (e) => {
+    const j = e.target.closest("[data-jump]");
+    if (j) { e.preventDefault(); document.getElementById(j.dataset.jump)?.scrollIntoView({ behavior: "smooth" }); return; }
     const t = e.target.closest("button");
     if (!t) return;
     const d = t.dataset;

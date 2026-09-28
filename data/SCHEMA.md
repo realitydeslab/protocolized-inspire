@@ -101,3 +101,33 @@ people, collectives, contracts, platforms — stay in the original).
 English fields: description, idea_en, protocol, collective, role, bio, why, based.
 Chinese fields: description_zh, idea_zh, protocol_zh, collective_zh, role_zh, bio_zh, why_zh, based_zh.
 Run `python3 tools/validate.py data/raw/<file>.json` before building.
+
+## Resources (`data/resources/<name>.json`)
+Institutions and websites around protocol art, shown in the Resources tab next to an automatic directory of all creators (people).
+```json
+{
+  "institutions": [
+    {
+      "id": "rhizome",                         // kebab-case, unique across resource files
+      "name": "Rhizome",
+      "kind": "organization",                  // museum | gallery | prize | festival | organization | lab | platform | dao | auction
+      "based": "New York, US", "based_zh": "纽约，美国",
+      "url": "https://rhizome.org",
+      "desc_en": "One sentence: what it is and why it matters for protocol art.",
+      "desc_zh": "一句中文。",
+      "work_ids": ["kevin-mccoy--monegraph"]   // optional: gallery works it commissioned, showed, collected or awarded
+    }
+  ],
+  "websites": [
+    {
+      "id": "mlo-history-of-crypto-art",
+      "name": "History of Crypto Art (Martin Lukas Ostachowski)",
+      "kind": "timeline",                      // archive | publication | timeline | database | tool | community | course
+      "url": "https://mlo.art/research/history-of-crypto-art/",
+      "desc_en": "…", "desc_zh": "…",
+      "work_ids": []
+    }
+  ]
+}
+```
+Rules: every URL must answer (check with `curl -sIL -o /dev/null -w "%{http_code}" <url>`, 2xx/3xx, or 403 from bot-blocking sites that open in a browser). Bilingual `desc_*`; `work_ids` must exist in `data/raw/`.

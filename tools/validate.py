@@ -173,6 +173,16 @@ def main() -> int:
                 print(f"   … and {len(errs) - 40} more")
         else:
             print(f"✓ {f.name} ({summary})")
+    if args == ["--all"]:
+        from resources import validate_resources  # noqa: PLC0415
+        rerrs = validate_resources()
+        if rerrs:
+            bad += 1
+            print(f"✗ data/resources — {len(rerrs)} problem(s):")
+            for e in rerrs[:40]:
+                print(f"   - {e}")
+        else:
+            print("✓ data/resources")
     return 1 if bad else 0
 
 

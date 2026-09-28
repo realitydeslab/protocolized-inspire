@@ -3347,3 +3347,104 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **William Entriken** (1) — Developer. Developer and lead author of the ERC-721 standard who launched Su Squares, 10,000 personalizable squares on Ethereum, in 2018. https://tenthousandsu.com
 - **Wolfgang Staehle** (1) — Artist and founder of The Thing. German-born artist, born 1950, based in New York, who founded The Thing in 1991 and later made long-duration live webcam works. https://the.thing.net/
 - **Yves Klein** (1) — Artist. French artist (1928–1962) of Nouveau Réalisme, known for International Klein Blue, the Anthropometries and his sales of 'immaterial' zones.
+
+## Institutions
+
+- **Ars Electronica** (festival) — Festival and centre that hosted Robert Adrian's The World in 24 Hours (1982) and Ken Goldberg's Telegarden in its lobby from 1996. https://ars.electronica.art
+- **Art Basel** (organization) — Art fair whose editions hosted participatory protocol works such as Jack Butcher's Self Checkout and Work, Luck, Play and the poet Plantoids. https://www.artbasel.com
+- **Art Blocks** (platform) — On-chain generative art platform; its founder Snowfro co-conceived Friendship Bracelets, which gave every Art Blocks holder bracelets to keep and to gift. https://www.artblocks.io
+- **Art Institute of Chicago** (museum) — Owns Felix Gonzalez-Torres' candy spill "Untitled" (Portrait of Ross in L.A.), which visitors deplete and staff replenish, and LeWitt's Wall Drawing #118. https://www.artic.edu
+- **Artangel** (organization) — Commissioned Jeremy Deller's re-enactment The Battle of Orgreave (2001) and Francis Alÿs' Guards, both staged with hundreds of participants. https://www.artangel.org.uk
+- **Berggruen Arts & Culture (Palazzo Diedo)** (organization) — Presented Herndon and Dryhurst's Attention Guild in the 2026 exhibition Strange Rules at Palazzo Diedo. https://berggruenarts.org
+- **Carnegie Museum of Art** (museum) — Its 58th Carnegie International (2022) included terra0's A tree; a corporation; a person., a tree set up to hold legal and financial agency. https://carnegieart.org
+- **Centre Pompidou** (museum) — Acquired blockchain works in 2023, including two Bitchcoins, CryptoPunks and Autoglyphs. https://www.centrepompidou.fr
+- **Christie's** (auction) — Auction house that sold a complete Curio Cards set, including the misprint 17b, for 393 ETH in October 2021 and featured Async Art's programmable works. https://www.christies.com
+- **Creative Time** (organization) — Public-art commissioner that co-produced Tania Bruguera's Immigrant Movement International and Paul Ramírez Jonas' Key to the City. https://creativetime.org
+- **Dia Art Foundation** (organization) — Commissioned Thomas Hirschhorn's Gramsci Monument (2013) with residents of the Bronx and carries on Beuys' 7000 Oaks with trees planted in New York. https://www.diaart.org
+- **documenta** (festival) — Five-yearly exhibition where Beuys ran his Office for Direct Democracy (1972) and began 7000 Oaks (1982), and Ai Weiwei brought 1,001 Chinese visitors for Fairytale (2007). https://www.documenta.de
+- **e-flux** (platform) — Art publishing and announcement platform that launched Time/Bank, where artists and curators trade hours of work instead of money. https://www.e-flux.com
+- **Ethereum Foundation** (organization) — Commissioned Summer of Protocols (2023–25), the research programme that funded artists and researchers to study protocols. https://ethereum.foundation
+- **Eyebeam** (lab) — Non-profit art and technology centre whose residencies have supported artists building open-source and networked works since the late 1990s. https://www.eyebeam.org
+- **FACT (Foundation for Art and Creative Technology)** (organization) — Co-published Artists Re:Thinking the Blockchain (2017) with Torque Editions and Furtherfield. https://www.fact.co.uk
+- **Feral File** (platform) — Curated platform for digital art exhibitions co-founded by Casey Reas, where shows are released as sets of on-chain editions. https://feralfile.com
+- **Fingerprints DAO** (dao) — Collector DAO focused on blockchain art that showed terra0's Seed Capital at Art Dubai 2022 and co-commissioned Sarah Friend's Off: Endgame. https://fingerprintsdao.xyz
+- **Furtherfield (and DECAL)** (organization) — Gallery and lab in Finsbury Park that commissioned Sarah Friend's ClickMine and Rhea Myers' Balloon Dog, and through its DECAL lab ran DAOWO and CultureStake. https://www.furtherfield.org
+- **Galerie Nagel Draxler** (gallery) — Gallery with a Crypto Kiosk programme for blockchain art; Rhea Myers directs enquiries about Is Art (Editions) to it. https://nagel-draxler.de
+- **Getty Research Institute** (organization) — Research centre whose archives hold scores by Cage, Brecht, Knowles, Kaprow and others, published in 2025 as the open-access digital book The Scores Project. https://www.getty.edu/research/
+- **Gray Area** (organization) — Art and technology non-profit whose 2018 exhibition Distributed Systems showed Rhea Myers' SchellingFlags. https://grayarea.org
+- **HEK (Haus der Elektronischen Künste)** (museum) — Swiss museum for digital art whose 2023 exhibition Exploring the Decentralized Web – Art on the Blockchain showed Rhea Myers' Is Art (Editions). https://www.hek.ch
+- **Independent Curators International (ICI)** (organization) — Toured Hans Ulrich Obrist's do it, an exhibition made only of artists' instructions, to at least 50 venues and published do it: the compendium (2013). https://curatorsintl.org
+- **Institute of Contemporary Arts (ICA)** (gallery) — Hosted the 1962 Festival of Misfits, where Alison Knowles' Proposition (Make a Salad) was first performed. https://www.ica.art
+- **Institute of Network Cultures (MoneyLab)** (lab) — Research institute whose MoneyLab network studies alternative economies and presented the Black Swan DAO model. https://networkcultures.org
+- **KADIST** (organization) — Collection that acquired terra0's Conditional Power and accepted the obligations its oracle contract places on the owner. https://kadist.org
+- **Kunsthalle Zürich** (museum) — Its 2022 exhibition DYOR (Do Your Own Research) surveyed art on the blockchain and presented Black Swan among its 'seeders'. https://www.kunsthallezurich.ch
+- **Kunstsammlung Nordrhein-Westfalen (K21)** (museum) — Showed Starmirror at K21 in 2026 and added scheduled 'Training Performances' to it. https://www.kunstsammlung.de
+- **KW Institute for Contemporary Art** (gallery) — First venue of Herndon and Dryhurst's Starmirror (2025–26), where visitors sang from a songbook to train an AI choir. https://www.kw-berlin.de
+- **LAS Art Foundation** (organization) — Berlin non-profit for art, technology and science that launched terra0's Autonomous Forest, a forest managed by a DAO, in 2025. https://www.las-art.foundation
+- **LI-MA (Living Media Art)** (organization) — Platform for the preservation, distribution and research of media art, including software and net-based works. https://li-ma.nl
+- **Los Angeles County Museum of Art (LACMA)** (museum) — Coordinated a city-wide reinvention of Kaprow's Fluids in 2008, joined Tom Sachs' Rocket Factory launches, and collects CryptoPunks. https://www.lacma.org
+- **MASS MoCA** (museum) — Hosts Sol LeWitt: A Wall Drawing Retrospective (opened 2008), where teams of drafters re-executed 105 wall drawings from LeWitt's written instructions. https://massmoca.org
+- **NEoN Digital Arts** (festival) — Scottish digital arts festival that showed Sarah Friend's ClickMine, a clicker game in which every click is a paid Ethereum transaction. https://neondigitalarts.com
+- **New Museum** (museum) — Rhizome's host institution, which premiered the Net Art Anthology exhibition The Art Happens Here (2019) and staged David Horvitz's Let us keep our own noon. https://www.newmuseum.org
+- **Nifty Gateway** (platform) — Marketplace that hosted Pak's open-edition protocols The Fungible (with Sotheby's) and Merge; it closed on 23 April 2026. https://www.niftygateway.com
+- **NODE Foundation** (organization) — Digital-art non-profit that acquired the CryptoPunks intellectual property from Yuga Labs in 2025 to preserve the collection. https://www.nodefoundation.com
+- **Phillips** (auction) — Offered Sarah Meyohas' re-issued Bitchcoin tokens in May 2021. https://www.phillips.com
+- **Primary Information** (organization) — Non-profit publisher that reissues out-of-print artists' books and writings, a key source for re-reading scores and conceptual instructions. https://primaryinformation.org
+- **Queens Museum** (museum) — Partnered with Creative Time on Tania Bruguera's Immigrant Movement International, a community space in Corona, Queens, from 2011 to 2015. https://queensmuseum.org
+- **Rhizome** (organization) — Born-digital art organisation whose Seven on Seven (2014) produced Monegraph, which co-commissioned Sarah Friend's Off: Endgame, and which runs the ArtBase and Net Art Anthology. https://rhizome.org
+- **S+T+ARTS Prize** (prize) — European Commission prize for art, science and technology, run by Ars Electronica, that awarded Holly+ in 2022 and features Hashd0x, Botto and The Call. https://ars.electronica.art/starts-prize/
+- **San Francisco Museum of Modern Art (SFMOMA)** (museum) — Owns LeWitt's Wall Drawing #1 and #273 and Learning to Love You More, and showed Harold Cohen's AARON drawing live in 1979. https://www.sfmoma.org
+- **Serpentine** (gallery) — Its technology programme co-produced Herndon and Dryhurst's The Call and its data trust, published All Media Is Training Data, and partnered on DAOWO. https://www.serpentinegalleries.org
+- **Serralves Museum of Contemporary Art** (museum) — Staged Yoko Ono's Add Colour (Refugee Boat), in which visitors gradually cover a white room and boat with blue marks. https://www.serralves.pt
+- **Solomon R. Guggenheim Museum** (museum) — Commissioned Mark Napier's net.flag, acquired Tino Sehgal's This Progress as its first live work, and holds works by Tania Bruguera and Francis Alÿs. https://www.guggenheim.org
+- **Sotheby's** (auction) — Ran Pak's The Fungible and the 2021 sale Natively Digital, which included Quantum, Secret Artwork and terra0's Two Degrees. https://www.sothebys.com
+- **SuperRare** (platform) — Curated marketplace where Botto's community-selected image is auctioned each week. https://superrare.com
+- **Tate (Tate Modern)** (museum) — Staged participatory commissions in Tate Modern's Turbine Hall, such as Sehgal's These Associations and Bruguera's Tatlin's Whisper #5, and collects the archives of works like The Battle of Orgreave and The Crystal Quilt. https://www.tate.org.uk
+- **Teia** (dao) — Community-run DAO that has kept the Hic et Nunc contracts and marketplace running on Tezos since the founder shut the original site in 2021. https://teia.art
+- **The Museum of Modern Art (MoMA)** (museum) — Holds the Gilbert and Lila Silverman Fluxus Collection and many instruction-based works in the gallery, from Fluxkit and Water Yam to Simone Forti's Dance Constructions, and staged Haacke's MoMA Poll and Abramović's The Artist Is Present. https://www.moma.org
+- **transmediale** (festival) — Festival for art and digital culture where terra0's self-owning forest proposal circulated in 2017 and Artists Re:Thinking the Blockchain launched in 2018. https://transmediale.de
+- **V2_ Lab for the Unstable Media** (lab) — Interdisciplinary centre for art and technology that has produced and archived networked and interactive art since the 1980s. https://v2.nl
+- **Van Abbemuseum** (museum) — Hosted SUPERFLEX's Free Sol LeWitt (2010), a workshop that copied a LeWitt sculpture in the museum and gave the replicas away by lottery. https://vanabbemuseum.nl
+- **Vera List Center for Art and Politics** (organization) — Research centre at The New School whose multi-year focus theme on protocols produced the open-access book As for Protocols (2025). https://www.veralistcenter.org
+- **Verse** (platform) — Curated platform for collecting digital art that released Rhea Myers' 10K Drop, locked until Ether reaches ten thousand dollars. https://verse.works
+- **Walker Art Center** (museum) — Organised the 1993 touring exhibition and catalogue In the Spirit of Fluxus, a standard reference for Fluxus scores and events. https://walkerart.org
+- **Whitechapel Gallery** (gallery) — Co-publishes the Documents of Contemporary Art series, including Claire Bishop's anthology Participation (2006), and staged Yoko Ono's Mend Piece for London (2021). https://www.whitechapelgallery.org
+- **Whitney Museum of American Art** (museum) — Commissions net art through artport, holds an Autoglyph and early participatory web works, and hosted the McCoys' Public Key/Private Key (2019), built on Monegraph. https://whitney.org
+- **Yale University Art Gallery** (museum) — Co-organised the MASS MoCA LeWitt retrospective with the Williams College Museum of Art, supplies the instructions and diagrams its drafters follow, and owns Wall Drawing #11. https://artgallery.yale.edu
+- **ZKM | Center for Art and Media** (museum) — Media art museum and research centre that, with the Goethe-Institut, commissioned the Media Art Net archive of network and participatory works. https://zkm.de
+- **Zora** (platform) — On-chain protocol and platform whose design drew on the idea of hyperstructures, and where the Holly+ DAO auctioned approved works. https://zora.co
+
+## Websites & archives
+
+- **ADA – Archive of Digital Art** (archive) — Research database of digital art run by the University for Continuing Education Krems, documenting artists, works and exhibitions. https://digitalartarchive.at
+- **Ars Electronica Archive** (archive) — Archive of Ars Electronica festivals, Prix entries and catalogues since 1979, a primary source for telematic and network art. https://ars.electronica.art/archive/en/
+- **Artforum** (publication) — Art magazine that first published Sol LeWitt's Paragraphs on Conceptual Art (1967) and Jack Burnham's Systems Esthetics (1968). https://www.artforum.com
+- **artport (Whitney Museum)** (archive) — The Whitney's portal for net art commissions, hosting works such as xhairymutantx, BumpList and The World's First Collaborative Sentence. https://whitney.org/artport
+- **Blockscout** (tool) — Open-source block explorer for Ethereum and many other chains, useful for checking contract names and deployment dates. https://eth.blockscout.com
+- **Carrier Bag** (publication) — Platform for critique of generative media that published Mat Dryhurst's 2025 lecture Protocol Art. https://carrier-bag.net
+- **CryptoArt.io** (database) — Sales database of crypto art across platforms such as Art Blocks, SuperRare, Async Art and Hic et Nunc, ranked by artist and artwork. https://cryptoart.io
+- **e-flux journal** (publication) — Free online art journal whose essays often address participation, networks, labour and alternative economies in art. https://www.e-flux.com/journal/
+- **Etherscan** (tool) — Ethereum block explorer for reading the verified source code, transactions and holders of smart-contract artworks. https://etherscan.io
+- **Fluxus Portal (fluxus.org)** (community) — Long-running gateway site linking Fluxus art history with artists who continue to work in the Fluxus spirit. https://www.fluxus.org
+- **Hic et Nunc / Teia timeline (crcdng)** (timeline) — Community-written, dated history of Hic et Nunc from its 2021 launch through the shutdown and the founding of Teia. https://github.com/crcdng/hen-timeline/blob/main/timeline.md
+- **History of Crypto Art (Martin Lukas Ostachowski)** (timeline) — Dated timeline of crypto art from 2013 onward, covering early blockchain works, platforms and communities. https://mlo.art/research/history-of-crypto-art/
+- **HOLO** (publication) — Magazine on art, science and technology whose Stream section reports on artists building with smart contracts, such as Sarah Friend. https://www.holo.mg/stream/
+- **Internet Archive Wayback Machine** (tool) — Web archive used to recover the original pages of defunct protocol works such as Monegraph, SwarmSketch and the Hic et Nunc site. https://web.archive.org
+- **Media Art Net / Medien Kunst Netz** (archive) — Bilingual German-English online survey of media art made for ZKM and the Goethe-Institut, with entries on works such as Push and Pull, The File Room and The Thing. http://www.mediaartnet.org
+- **Monoskop** (archive) — Wiki for arts and studies founded by Dušan Barok in 2004, hosting scans of key texts and catalogues such as Burnham's Software and LeWitt's Sentences on Conceptual Art. https://monoskop.org
+- **Monoskop: Fluxus** (archive) — Long bibliography page on Fluxus with scanned catalogues, anthologies of scores and links to collections such as Silverman, Bonotto and Sohm. https://monoskop.org/Fluxus
+- **Net Art Anthology (Rhizome)** (archive) — Rhizome's restored and annotated history of net art in 100 works, including The World in 24 Hours, The Thing and The File Room. https://anthology.rhizome.org
+- **Nouns Center** (community) — Community knowledge hub for Nouns DAO, explaining the daily auction, the treasury and how to get proposals funded. https://nouns.center
+- **PolygonScan** (tool) — Block explorer for Polygon, where contracts such as Sarah Friend's Lifeforms live. https://polygonscan.com
+- **Rhizome ArtBase** (archive) — Rhizome's archive of born-digital artworks since 1999, which preserves participatory web works such as SwarmSketch. https://artbase.rhizome.org
+- **Right Click Save** (publication) — Online magazine of interviews, essays and histories of digital and NFT art. https://www.rightclicksave.com
+- **Sol LeWitt Wall Drawings Catalogue Raisonné** (database) — Cahiers d'Art Institute's catalogue of LeWitt's wall drawings, recording each drawing's instructions, certificates and installations. https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description
+- **Summer of Protocols** (publication) — Site of the Ethereum Foundation–funded research programme, publishing its essays, the Protocol Reader and other studies of protocols. https://summerofprotocols.com
+- **symbient.life registry** (database) — Registry of 'symbients', entities formed by organic beings and synthetic systems acting with autonomy, from Plantoid and terra0 to Botto and Truth Terminal. https://symbient.life/registry
+- **Teia docs wiki** (archive) — Teia's documentation of its governance, fees, tokens and contract addresses. https://github.com/teia-community/teia-docs/wiki
+- **The Fluxus Performance Workbook (2002)** (archive) — Free PDF, edited by Ken Friedman, Owen Smith and Lauren Sawchyn, that collects the texts of hundreds of Fluxus event scores ready to perform. https://monoskop.org/images/d/d4/Friedman_Smith_Sawchyn_eds_The_Fluxus_Performance_Workbook.pdf
+- **The Scores Project (Getty)** (archive) — Open-access digital publication that reproduces and annotates midcentury experimental scores by Cage, Brecht, Knowles, Kaprow, Shiomi and others. https://www.getty.edu/publications/scores/
+- **Torque Editions** (publication) — Itinerant publisher founded in 2014 by Nathan Jones and Sam Skinner that published Artists Re:Thinking the Blockchain and Radical Friends. https://torquetorque.net
+- **TzKT** (tool) — Tezos block explorer for inspecting the Hic et Nunc and Teia contracts, OBJKT tokens and DAO activity. https://tzkt.io
+- **UbuWeb** (archive) — Kenneth Goldsmith's archive of avant-garde film, sound and text, including the Fluxfilm Anthology and Fluxus recordings; it paused in 2024 and resumed in 2025. https://ubu.com
+- **World Computer Sculpture Garden** (publication) — Contract-based exhibition on Ethereum curated by 0xfff, with Malte Rauch's essay defining protocol art as art that works with the rules of a computing environment. https://worldcomputersculpture.garden
