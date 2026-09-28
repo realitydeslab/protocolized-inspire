@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 184 creators · 313 works
+https://protocolized.reality.design · 2026-09-28 · 185 creators · 314 works
 
 ## How an AI assistant should use this file
 
@@ -1722,6 +1722,16 @@ Artist-built infrastructures, file drops and commons that strangers maintain and
 - Images: https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1024x683.jpg https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_03-1024x683.jpg
 - Project page: https://arambartholl.com/keepalive/
 
+#### Hashd0x | Proof of War — Egor Kraft (2022)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Open participation, Contract & certificate
+- Idea: In an age of synthetic images, build tools that let a crowd compute truth, not only fiction.
+- What it is: Open-source software and hardware prototypes, made in response to the war in Ukraine, that register tamper-proof 'hashmarks' of photos and videos on public blockchains, shown with installations including a 3D rendering of a house in Bucha.
+- Protocol: A dedicated camera (Raspberry Pi with telephoto lens) or a mobile app records an image and, at the same moment, writes a hashmark (content hash, metadata, timestamp and the attestant's signature) through smart contracts to public blockchains, with files kept on decentralised storage (Ethereum Swarm). Anyone can later check an image's provenance against its hashmark.
+- What the collective did: The protocol is meant to be used by citizen journalists and open-source investigators, who build a trust network by attesting and validating each other's imagery. Companion works extend the series: Decentralised Embargo mines Ethereum on Gazprom Germania electricity and sends the coins to Ukraine's official crypto wallet, and Uncensorship Architecture stores banned journalistic archives across thousands of nodes. It received an Honorary Mention in the 2023 S+T+ARTS Prize.
+- Images: https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_EK_Lies-Half-Truths-Propaganda_2022_6-c-Trevor-Good..jpg https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_Uncensorship_Architecture_E.Kraft_3-c-Trevor-Good..jpg
+- Project page: https://ars.electronica.art/starts-prize/en/hashd0x-proof-of-war/
+- Code: https://github.com/Hashd0x/
+
 #### Have I Been Trained? and the Do Not Train registry — Spawning, Mat Dryhurst, Holly Herndon (2022)
 - Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Open participation, Contract & certificate, Voting & governance
 - Idea: Turn millions of individual refusals into one registry that the industry has to read.
@@ -3246,6 +3256,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **David H. Katzive** (1) — Curator. Curator at the Museum of Contemporary Art Chicago who organised Art by Telephone in 1969, under director Jan van der Marck.
 - **Douglas Davis** (1) — Artist and critic. American artist and critic (1933–2014) who worked with live television, satellite broadcasts and the early web to make interactive, participatory pieces.
 - **Eduardo Kac** (1) — Telepresence and bio artist. Brazilian-American artist, born 1962, known for telepresence, holopoetry and bio art, including the fluorescent rabbit GFP Bunny. https://www.ekac.org/
+- **Egor Kraft** (1) — Artist and researcher. Artist born in St. Petersburg and raised in Sweden who lives in Vienna and Tokyo; his practice draws on media theory, computer science, critical design and film. http://kraft.studio/
 - **ElevenYellow** (1) — Software collective. Software collective that co-developed Botto with Mario Klingemann and built its token, voting and auction infrastructure.
 - **Eric Whitacre** (1) — Composer and conductor. American composer and conductor, born 1970, known for choral music and for the Virtual Choir series begun in 2010. https://ericwhitacre.com/
 - **Erwin Wurm** (1) — Artist. Austrian sculptor whose One Minute Sculptures (1997–) are drawn or written instructions that visitors perform with everyday objects for sixty seconds. https://www.erwinwurm.at/

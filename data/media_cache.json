@@ -4552,5 +4552,17 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_EK_Lies-Half-Truths-Propaganda_2022_6-c-Trevor-Good..jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_EK_Lies-Half-Truths-Propaganda_2022_6-c-Trevor-Good..jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_Uncensorship_Architecture_E.Kraft_3-c-Trevor-Good..jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_Uncensorship_Architecture_E.Kraft_3-c-Trevor-Good..jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
  }
 }

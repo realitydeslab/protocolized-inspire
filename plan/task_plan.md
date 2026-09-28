@@ -29,5 +29,9 @@ Examples named by the user: Pak, terra0, Sol LeWitt; most recent works are smart
 - User requests in flight: (1) all of Holly Herndon & Mat Dryhurst's works → batch herndon-dryhurst; (2) symbient.life registry → batch symbient + collection `symbient-life` (type registry, added to UI).
 - Still running: network, onchain-rules (files already valid and published), herndon-dryhurst, symbient.
 
+- All batches done and published (c091bbb): 313 works / 184 creators; collections: the-scores-project (9), symbient-life (19). audit_titles: 4 groups, all distinct.
+- Open questions to user: "Proof of War" (which work?), rename to "protocolized-reality-inspire" (title / repo / domain / folder?).
+- Next-pass leads: Distributed Gallery, World Computer Sculpture Garden (0xfff), De Filippi & Beer "Protocol Art II", Strange Rules (Venice 2026) collection, Eve Sussman 89 Seconds Atomized, Blast Theory, Stelarc Fractal Flesh, Yvonne Rainer, Picbreeder.
+
 ## Blockers
 - Bash auto-mode classifier returned "no verdict" repeatedly at start; scaffold written with Write.

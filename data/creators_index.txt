@@ -43,6 +43,7 @@ david-katzive | David H. Katzive | 1 works
 dom-hofmann | Dom Hofmann | 2 works
 douglas-davis | Douglas Davis | 1 works
 eduardo-kac | Eduardo Kac | 1 works
+egor-kraft | Egor Kraft | 1 works
 elevenyellow | ElevenYellow | 1 works
 eric-whitacre | Eric Whitacre | 1 works
 erwin-wurm | Erwin Wurm | 1 works

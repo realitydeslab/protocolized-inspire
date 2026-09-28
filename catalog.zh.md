@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 184 位创作者 · 313 件作品
+https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -1722,6 +1722,16 @@ https://protocolized.reality.design · 2026-09-28 · 184 位创作者 · 313 件
 - 图片: https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1024x683.jpg https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_03-1024x683.jpg
 - 项目主页: https://arambartholl.com/keepalive/
 
+#### Hashd0x | Proof of War — Egor Kraft (2022)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 开放参与, 契约与证书
+- 核心想法: 在合成图像的时代，打造让群体能够“计算真相”、而不只是计算虚构的工具。
+- 作品内容: 为回应乌克兰战争而做的开源软硬件原型：把照片和视频的防篡改“哈希标记”登记到公共区块链上，并配合装置展出，其中包括布查镇一栋房屋的三维渲染。
+- 协议: 专用相机（配长焦镜头的 Raspberry Pi）或手机应用在拍摄的同时，通过智能合约把哈希标记（内容哈希、元数据、时间戳和见证者签名）写入公共区块链，文件存放在去中心化存储（Ethereum Swarm）上。之后任何人都可以用哈希标记核验图像来源。
+- 群体做了什么: 该协议面向公民记者和开源调查者，他们通过相互见证和验证图像建立信任网络。系列中的其他作品延伸了这一思路：Decentralised Embargo 用 Gazprom Germania 供应的电力挖以太坊，并把币直接转入乌克兰官方加密钱包；Uncensorship Architecture 把被封禁的新闻档案分布存储在数千个节点上。作品获 2023 年 S+T+ARTS 奖荣誉提名。
+- 图片: https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_EK_Lies-Half-Truths-Propaganda_2022_6-c-Trevor-Good..jpg https://ars.electronica.art/starts-prize/files/2023/06/Hashd0x_Uncensorship_Architecture_E.Kraft_3-c-Trevor-Good..jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/hashd0x-proof-of-war/
+- 代码: https://github.com/Hashd0x/
+
 #### Have I Been Trained? and the Do Not Train registry — Spawning, Mat Dryhurst, Holly Herndon (2022)
 - 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 开放参与, 契约与证书, 投票与治理
 - 核心想法: 把数以百万计的个人拒绝汇成一份业界不得不读取的登记库。
@@ -3246,6 +3256,7 @@ https://protocolized.reality.design · 2026-09-28 · 184 位创作者 · 313 件
 - **David H. Katzive** (1) — 策展人. 芝加哥当代艺术博物馆策展人，1969 年在馆长扬·范德马克任内组织了“电话艺术”展。
 - **Douglas Davis** (1) — 艺术家，评论家. 美国艺术家与评论家（1933–2014），用电视直播、卫星转播和早期网络制作互动与参与式作品。
 - **Eduardo Kac** (1) — 远程临场与生物艺术家. 巴西裔美国艺术家，生于 1962 年，以远程临场、全息诗和生物艺术闻名，代表作包括荧光兔 GFP Bunny。 https://www.ekac.org/
+- **Egor Kraft** (1) — 艺术家、研究者. 生于圣彼得堡、在瑞典长大的艺术家，现居维也纳和东京；创作融合媒介理论、计算机科学、批判设计与电影。 http://kraft.studio/
 - **ElevenYellow** (1) — 软件团体. 与 Mario Klingemann 共同开发 Botto 的软件团体，搭建了它的代币、投票与拍卖基础设施。
 - **Eric Whitacre** (1) — 作曲家，指挥家. 美国作曲家与指挥家，生于 1970 年，以合唱作品和 2010 年开始的“虚拟合唱团”系列闻名。 https://ericwhitacre.com/
 - **Erwin Wurm** (1) — 艺术家. 奥地利雕塑家，他的《一分钟雕塑》（1997–）是一些画出或写出的指令，观众用日常物品照着做六十秒。 https://www.erwinwurm.at/
