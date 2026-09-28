@@ -649,6 +649,321 @@
    "work_count": 1
   },
   {
+   "id": "kit-galloway",
+   "links": {
+    "site": "https://ecafe.com/"
+   },
+   "connected_to": [
+    "sherrie-rabinowitz"
+   ],
+   "name": "Kit Galloway",
+   "kind": "person",
+   "role": "Telecommunications artist",
+   "based": "Los Angeles, US",
+   "bio": "American artist who, with Sherrie Rabinowitz, ran Mobile Image and made satellite and video-link works from the 1970s, then co-founded the Electronic Café International.",
+   "why": "Co-author of public telecommunication pieces where passers-by, not performers, made the work.",
+   "role_zh": "电信艺术家",
+   "bio_zh": "美国艺术家，与 Sherrie Rabinowitz 共同运营 Mobile Image，自 70 年代起创作卫星与视频连线作品，后共同创办 Electronic Café International。",
+   "why_zh": "公共电信作品的共同作者，在这些作品里，完成作品的是路人而非表演者。",
+   "based_zh": "洛杉矶，美国",
+   "discovered_via": "roy-ascott",
+   "work_count": 1
+  },
+  {
+   "id": "sherrie-rabinowitz",
+   "links": {
+    "site": "https://ecafe.com/"
+   },
+   "connected_to": [
+    "kit-galloway"
+   ],
+   "name": "Sherrie Rabinowitz",
+   "kind": "person",
+   "role": "Telecommunications artist",
+   "based": "Los Angeles, US",
+   "bio": "American artist (1950–2013) who, with Kit Galloway, pioneered artistic uses of satellite and video links and co-founded the Electronic Café International.",
+   "why": "Co-author of Hole-In-Space, an early open portal between two cities' streets.",
+   "role_zh": "电信艺术家",
+   "bio_zh": "美国艺术家（1950–2013），与 Kit Galloway 一起开创了卫星与视频连线的艺术用法，并共同创办 Electronic Café International。",
+   "why_zh": "Hole-In-Space 的共同作者，这是两座城市街头之间最早的开放通道之一。",
+   "based_zh": "洛杉矶，美国",
+   "discovered_via": "kit-galloway",
+   "work_count": 1
+  },
+  {
+   "id": "robert-adrian",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Adrian"
+   },
+   "connected_to": [
+    "roy-ascott"
+   ],
+   "name": "Robert Adrian X",
+   "kind": "person",
+   "role": "Radio and telecommunications artist",
+   "based": "Vienna, AT",
+   "bio": "Canadian artist (1935–2015) based in Vienna from 1972, who organised telecommunication art projects using phone, fax, slow-scan TV and the ARTEX computer network.",
+   "why": "His 1982 project gave each city an hour and a phone line, making a whole day of global exchange into one work.",
+   "role_zh": "广播与电信艺术家",
+   "bio_zh": "加拿大艺术家（1935–2015），1972 年起定居维也纳，组织过多个使用电话、传真、慢扫描电视和 ARTEX 计算机网络的电信艺术项目。",
+   "why_zh": "他 1982 年的项目给每座城市一小时和一条电话线，把一整天的全球交流变成一件作品。",
+   "based_zh": "维也纳，奥地利",
+   "discovered_via": "roy-ascott",
+   "work_count": 1
+  },
+  {
+   "id": "wolfgang-staehle",
+   "links": {
+    "site": "https://the.thing.net/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Staehle"
+   },
+   "connected_to": [],
+   "name": "Wolfgang Staehle",
+   "kind": "person",
+   "role": "Artist and founder of The Thing",
+   "based": "New York, US",
+   "bio": "German-born artist, born 1950, based in New York, who founded The Thing in 1991 and later made long-duration live webcam works.",
+   "why": "He built an online community for artists as a form of social sculpture.",
+   "role_zh": "艺术家，The Thing 创办者",
+   "bio_zh": "德国出生、居于纽约的艺术家，生于 1950 年，1991 年创办 The Thing，后来创作长时段的网络摄像头直播作品。",
+   "why_zh": "他把为艺术家搭建的网络社区当作一种社会雕塑。",
+   "based_zh": "纽约，美国",
+   "discovered_via": "heath-bunting",
+   "work_count": 1
+  },
+  {
+   "id": "antoni-muntadas",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoni_Muntadas"
+   },
+   "connected_to": [],
+   "name": "Antoni Muntadas",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "New York, US / Barcelona, ES",
+   "bio": "Spanish artist, born 1942, whose work since the 1970s examines media, public space and censorship.",
+   "why": "His File Room turned a censorship archive into an artwork that grows by public submission.",
+   "role_zh": "媒体艺术家",
+   "bio_zh": "西班牙艺术家，生于 1942 年，自 70 年代起研究媒体、公共空间与审查。",
+   "why_zh": "他的 File Room 把一个审查档案变成靠公众投稿不断增长的作品。",
+   "based_zh": "纽约，美国 / 巴塞罗那，西班牙",
+   "discovered_via": "douglas-davis",
+   "work_count": 1
+  },
+  {
+   "id": "eduardo-kac",
+   "links": {
+    "site": "https://www.ekac.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Kac"
+   },
+   "connected_to": [],
+   "name": "Eduardo Kac",
+   "kind": "person",
+   "role": "Telepresence and bio artist",
+   "based": "Chicago, US",
+   "bio": "Brazilian-American artist, born 1962, known for telepresence, holopoetry and bio art, including the fluorescent rabbit GFP Bunny.",
+   "why": "His telematic installations make a remote public jointly responsible for a living thing.",
+   "role_zh": "远程临场与生物艺术家",
+   "bio_zh": "巴西裔美国艺术家，生于 1962 年，以远程临场、全息诗和生物艺术闻名，代表作包括荧光兔 GFP Bunny。",
+   "why_zh": "他的远程通信装置让远方的公众共同为一个生命负责。",
+   "based_zh": "芝加哥，美国",
+   "discovered_via": "ken-goldberg",
+   "work_count": 1
+  },
+  {
+   "id": "rafael-lozano-hemmer",
+   "links": {
+    "site": "https://www.lozano-hemmer.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer"
+   },
+   "connected_to": [],
+   "name": "Rafael Lozano-Hemmer",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Montreal, CA",
+   "bio": "Mexican-Canadian artist, born 1967, who makes large interactive installations in public space; he calls a series of them 'relational architecture'.",
+   "why": "His Vectorial Elevation let anyone online write in light over a city square.",
+   "role_zh": "媒体艺术家",
+   "bio_zh": "墨西哥裔加拿大艺术家，生于 1967 年，在公共空间制作大型互动装置，并把其中一个系列称为“关系建筑”。",
+   "why_zh": "他的 Vectorial Elevation 让任何网民都能在城市广场上空用光书写。",
+   "based_zh": "蒙特利尔，加拿大",
+   "discovered_via": "ken-goldberg",
+   "work_count": 1
+  },
+  {
+   "id": "olia-lialina",
+   "links": {
+    "site": "https://art.teleportacia.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olia_Lialina"
+   },
+   "connected_to": [],
+   "name": "Olia Lialina",
+   "kind": "person",
+   "role": "Net artist and theorist",
+   "based": "Stuttgart, DE",
+   "bio": "Russian net artist and theorist, born 1971 in Moscow, a pioneer of 1990s net.art who teaches at Merz Akademie in Stuttgart and co-runs the One Terabyte of Kilobyte Age archive.",
+   "why": "She opened her own work to remakes and collects them, making a museum out of other people's versions.",
+   "role_zh": "网络艺术家，理论家",
+   "bio_zh": "俄罗斯网络艺术家与理论家，1971 年生于莫斯科，90 年代 net.art 的先驱，任教于斯图加特 Merz Akademie，并共同运营 One Terabyte of Kilobyte Age 档案。",
+   "why_zh": "她把自己的作品开放给他人重做并加以收藏，用别人的版本建起一座博物馆。",
+   "based_zh": "斯图加特，德国",
+   "discovered_via": "heath-bunting",
+   "work_count": 1
+  },
+  {
+   "id": "mark-napier",
+   "links": {
+    "site": "https://www.marknapier.com/"
+   },
+   "connected_to": [],
+   "name": "Mark Napier",
+   "kind": "person",
+   "role": "Net artist",
+   "based": "New York, US",
+   "bio": "American artist and programmer who since the mid-1990s has made browser-based works about ownership and control of online space, such as Shredder and net.flag.",
+   "why": "His net.flag is a permanent public tool whose image is decided by whoever used it last.",
+   "role_zh": "网络艺术家",
+   "bio_zh": "美国艺术家、程序员，自 90 年代中期起创作以浏览器为载体、探讨网络空间归属与控制的作品，如 Shredder 和 net.flag。",
+   "why_zh": "他的 net.flag 是一个永久公开的工具，它的图像由最后一位使用者决定。",
+   "based_zh": "纽约，美国",
+   "discovered_via": "douglas-davis",
+   "work_count": 1
+  },
+  {
+   "id": "jonah-brucker-cohen",
+   "links": {
+    "site": "https://www.coin-operated.com/"
+   },
+   "connected_to": [],
+   "name": "Jonah Brucker-Cohen",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "New York, US",
+   "bio": "American artist and professor at Lehman College, CUNY, whose works rewrite the rules of everyday network tools, such as mailing lists and Wi-Fi.",
+   "why": "His BumpList shows how one membership rule changes the whole behaviour of an online community.",
+   "role_zh": "艺术家，研究者",
+   "bio_zh": "美国艺术家，纽约城市大学莱曼学院教授，作品改写邮件列表、Wi-Fi 等日常网络工具的规则。",
+   "why_zh": "他的 BumpList 展示了一条会员规则如何改变整个网络社群的行为。",
+   "based_zh": "纽约，美国",
+   "discovered_via": "douglas-davis",
+   "work_count": 1
+  },
+  {
+   "id": "peter-edmunds",
+   "links": {},
+   "connected_to": [],
+   "name": "Peter Edmunds",
+   "kind": "person",
+   "role": "Designer and developer",
+   "based": "Canberra, AU",
+   "bio": "Designer who built SwarmSketch as an honours project at the University of Canberra in 2005.",
+   "why": "His collective canvas limited each person to one short line and let the crowd vote on every line's weight.",
+   "role_zh": "设计师，开发者",
+   "bio_zh": "设计师，2005 年在堪培拉大学的荣誉学位项目中制作了 SwarmSketch。",
+   "why_zh": "他的集体画布限定每人只画一小段线，并让人群投票决定每条线的深浅。",
+   "based_zh": "堪培拉，澳大利亚",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
+   "id": "perry-bard",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Perry_Bard"
+   },
+   "connected_to": [],
+   "name": "Perry Bard",
+   "kind": "person",
+   "role": "Interdisciplinary artist",
+   "based": "New York, US",
+   "bio": "Canadian artist (1944–2025) who worked with film, public art and the internet, often through collaborations with the public.",
+   "why": "She broke a classic film into shots and invited the world to reshoot them.",
+   "role_zh": "跨学科艺术家",
+   "bio_zh": "加拿大艺术家（1944–2025），创作涉及电影、公共艺术和互联网，常与公众合作。",
+   "why_zh": "她把一部经典电影拆成镜头，邀请全世界重新拍摄。",
+   "based_zh": "纽约，美国",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
+   "id": "casey-pugh",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Star_Wars_Uncut"
+   },
+   "connected_to": [],
+   "name": "Casey Pugh",
+   "kind": "person",
+   "role": "Developer and filmmaker",
+   "based": "US",
+   "bio": "American web developer and filmmaker who produced and edited Star Wars Uncut, which won a 2010 Emmy for interactive media.",
+   "why": "His 15-second rule turned a whole feature film into a task a fan crowd could divide.",
+   "role_zh": "开发者，电影人",
+   "bio_zh": "美国网页开发者与电影人，制作并剪辑了 Star Wars Uncut，该片获得 2010 年互动媒体类艾美奖。",
+   "why_zh": "他的“15 秒”规则把一整部长片变成粉丝群体可以分工完成的任务。",
+   "based_zh": "美国",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
+   "id": "eric-whitacre",
+   "links": {
+    "site": "https://ericwhitacre.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Whitacre"
+   },
+   "connected_to": [],
+   "name": "Eric Whitacre",
+   "kind": "person",
+   "role": "Composer and conductor",
+   "based": "Los Angeles, US",
+   "bio": "American composer and conductor, born 1970, known for choral music and for the Virtual Choir series begun in 2010.",
+   "why": "He wrote a protocol for a choir whose singers never meet: a guide track, a conductor video and an upload link.",
+   "role_zh": "作曲家，指挥家",
+   "bio_zh": "美国作曲家与指挥家，生于 1970 年，以合唱作品和 2010 年开始的“虚拟合唱团”系列闻名。",
+   "why_zh": "他为一支歌手互不相见的合唱团写下协议：一条引导音轨、一段指挥视频和一个上传链接。",
+   "based_zh": "洛杉矶，美国",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
+   "id": "kevin-macdonald",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Macdonald_(director)"
+   },
+   "connected_to": [],
+   "name": "Kevin Macdonald",
+   "kind": "person",
+   "role": "Film director",
+   "based": "London, UK",
+   "bio": "Scottish documentary and feature director, born 1967, who directed the crowd-sourced film Life in a Day, produced with Ridley Scott and YouTube.",
+   "why": "He turned a single calendar date into a brief that tens of thousands of people filmed.",
+   "role_zh": "电影导演",
+   "bio_zh": "苏格兰纪录片与剧情片导演，生于 1967 年，执导了与 Ridley Scott 和 YouTube 合作的众包电影《浮生一日》（Life in a Day）。",
+   "why_zh": "他把一个日期变成一份拍摄任务，由数以万计的人去拍。",
+   "based_zh": "伦敦，英国",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
+   "id": "darius-kazemi",
+   "links": {
+    "site": "https://tinysubversions.com/",
+    "github": "https://github.com/dariusk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_Kazemi"
+   },
+   "connected_to": [],
+   "name": "Darius Kazemi",
+   "kind": "person",
+   "role": "Artist and bot maker",
+   "based": "US",
+   "bio": "American programmer and internet artist, born 1983, known for Twitter bots and small-scale social software; co-founder, with Courtney Stanton, of the technology collective Feel Train.",
+   "why": "He turned a one-line joke into a yearly event that thousands of programmers join to write novel generators.",
+   "role_zh": "艺术家，机器人程序制作者",
+   "bio_zh": "美国程序员与网络艺术家，生于 1983 年，以 Twitter 机器人和小规模社交软件闻名；与 Courtney Stanton 共同创办技术团体 Feel Train。",
+   "why_zh": "他把一句玩笑变成每年一度的活动，吸引大批程序员加入，编写小说生成器。",
+   "based_zh": "美国",
+   "discovered_via": "aaron-koblin",
+   "work_count": 1
+  },
+  {
    "id": "roy-ascott",
    "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Roy_Ascott"
@@ -1480,6 +1795,282 @@
    "work_count": 1
   },
   {
+   "id": "kevin-mccoy",
+   "links": {
+    "site": "https://www.kevinmccoy.net"
+   },
+   "connected_to": [
+    "anil-dash"
+   ],
+   "name": "Kevin McCoy",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "Artist who works with Jennifer McCoy on media installations and, in 2014, minted Quantum on Namecoin while building Monegraph with Anil Dash at Rhizome's Seven on Seven.",
+   "why": "He made one of the first blockchain-registered artworks and a protocol for certifying digital images.",
+   "role_zh": "艺术家",
+   "bio_zh": "长期与 Jennifer McCoy 合作媒体装置的艺术家；2014 年在 Rhizome 的 Seven on Seven 活动中与 Anil Dash 一起搭建 Monegraph，并在 Namecoin 上铸造了 Quantum。",
+   "why_zh": "他创作了最早在区块链上登记的艺术作品之一，并设计了认证数字图像的协议。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "anil-dash",
+   "links": {
+    "site": "https://anildash.com"
+   },
+   "connected_to": [
+    "kevin-mccoy"
+   ],
+   "name": "Anil Dash",
+   "kind": "person",
+   "role": "Technologist and writer",
+   "bio": "Technologist and writer who co-created Monegraph with Kevin McCoy at Rhizome's Seven on Seven in 2014.",
+   "why": "Co-author of Monegraph, an early protocol for owning digital art on a blockchain.",
+   "role_zh": "技术专家、作家",
+   "bio_zh": "技术专家与作家，2014 年在 Rhizome 的 Seven on Seven 活动中与 Kevin McCoy 共同创建 Monegraph。",
+   "why_zh": "Monegraph 的共同作者，这是在区块链上拥有数字艺术的早期协议。",
+   "discovered_via": "kevin-mccoy",
+   "work_count": 1
+  },
+  {
+   "id": "sarah-meyohas",
+   "links": {
+    "site": "https://www.sarahmeyohas.com"
+   },
+   "connected_to": [],
+   "name": "Sarah Meyohas",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "Artist whose work deals with value, speculation and systems; in 2015 she launched Bitchcoin, a currency redeemable for her photographs, and in 2017 staged Cloud of Petals.",
+   "why": "Bitchcoin made an artist's own currency, backed by her work, years before NFTs.",
+   "role_zh": "艺术家",
+   "bio_zh": "作品关注价值、投机与系统的艺术家；2015 年推出可兑换其摄影作品的货币 Bitchcoin，2017 年创作 Cloud of Petals。",
+   "why_zh": "Bitchcoin 在 NFT 出现数年前就把艺术家自己的作品变成了支撑一种货币的储备。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "rare-pepe-directory",
+   "links": {
+    "site": "http://rarepepedirectory.com"
+   },
+   "connected_to": [
+    "joe-looney"
+   ],
+   "name": "Rare Pepe Directory",
+   "kind": "collective",
+   "role": "Curatorial registry on Counterparty",
+   "bio": "Self-styled team of 'Rare Pepe Scientists' who from 2016 certified user-made Pepe trading cards issued as Counterparty assets and fed them to Pepe wallets.",
+   "why": "Their published submission rules turned a meme community into an open, rule-bound issuance system for crypto art.",
+   "role_zh": "Counterparty 上的策展登记处",
+   "bio_zh": "自称“Rare Pepe 科学家”的团队，自 2016 年起认证用户制作、以 Counterparty 资产发行的 Pepe 卡牌，并把它们推送到 Pepe 钱包中。",
+   "why_zh": "他们公布的投稿规则，把一个表情包社群变成了开放而有规则的加密艺术发行系统。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "joe-looney",
+   "links": {},
+   "connected_to": [
+    "rare-pepe-directory"
+   ],
+   "name": "Joe Looney",
+   "kind": "person",
+   "role": "Developer",
+   "bio": "Developer in the Counterparty community who built the Rare Pepe Wallet, derived from his BTCPAY Market, to collect, display and trade Rare Pepes.",
+   "why": "His wallet gave the Rare Pepe rules a place where the community could hold and exchange cards.",
+   "role_zh": "开发者",
+   "bio_zh": "Counterparty 社群的开发者，基于自己的 BTCPAY Market 构建了 Rare Pepe Wallet，用于收藏、展示和交易 Rare Pepe。",
+   "why_zh": "他的钱包让 Rare Pepe 的规则有了一个社群可以持有和交换卡牌的地方。",
+   "discovered_via": "rare-pepe-directory",
+   "work_count": 1
+  },
+  {
+   "id": "curio-cards",
+   "links": {
+    "site": "https://curio.cards",
+    "github": "https://github.com/curiocards"
+   },
+   "connected_to": [],
+   "name": "Curio Cards",
+   "kind": "studio",
+   "role": "Ethereum art project (Travis Uhrig, Thomas Hunt, Rhett Creighton)",
+   "bio": "Project created by Travis Uhrig, Thomas Hunt and Rhett Creighton that released 30 card series by seven artists on Ethereum in 2017, with all sale proceeds going to the artists.",
+   "why": "One of the first art NFT projects on Ethereum, later revived and governed by its collectors.",
+   "role_zh": "以太坊艺术项目（Travis Uhrig、Thomas Hunt、Rhett Creighton）",
+   "bio_zh": "由 Travis Uhrig、Thomas Hunt 和 Rhett Creighton 创建的项目，2017 年在以太坊上发布七位艺术家的 30 个卡牌系列，销售收入全部归艺术家。",
+   "why_zh": "以太坊上最早的艺术 NFT 项目之一，后来由藏家社群重新激活并治理。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "larva-labs",
+   "links": {
+    "site": "https://www.larvalabs.com"
+   },
+   "connected_to": [],
+   "name": "Larva Labs",
+   "kind": "studio",
+   "role": "Studio (Matt Hall and John Watkinson)",
+   "bio": "Two-person studio of Canadian software developers Matt Hall and John Watkinson, creators of CryptoPunks (2017) and Autoglyphs (2019).",
+   "why": "They wrote the claim-and-trade rules and the on-chain generator that later NFT art took as templates.",
+   "role_zh": "工作室（Matt Hall 与 John Watkinson）",
+   "bio_zh": "由加拿大软件开发者 Matt Hall 和 John Watkinson 组成的两人工作室，创作了 CryptoPunks（2017）和 Autoglyphs（2019）。",
+   "why_zh": "他们写下的“认领—交易”规则和链上生成器，成为后来 NFT 艺术的模板。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "kevin-abosch",
+   "links": {
+    "site": "https://kevinabosch.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Abosch"
+   },
+   "connected_to": [],
+   "name": "Kevin Abosch",
+   "kind": "person",
+   "role": "Conceptual artist",
+   "based": "Paris, FR",
+   "bio": "Irish conceptual artist working in photography, blockchain, sculpture and AI; he lives in Paris and teaches at the University of Applied Arts Vienna.",
+   "why": "His 2018 token works split, gift and co-own value among strangers.",
+   "role_zh": "观念艺术家",
+   "bio_zh": "爱尔兰观念艺术家，创作涉及摄影、区块链、雕塑与人工智能；现居巴黎，任教于维也纳应用艺术大学。",
+   "why_zh": "他 2018 年的代币作品让价值在陌生人之间被分割、赠与和共同拥有。",
+   "based_zh": "巴黎，法国",
+   "discovered_via": "seed",
+   "work_count": 3
+  },
+  {
+   "id": "moxie-marlinspike",
+   "links": {
+    "site": "https://moxie.org"
+   },
+   "connected_to": [],
+   "name": "Moxie Marlinspike",
+   "kind": "person",
+   "role": "Cryptographer and software developer",
+   "bio": "Cryptographer and founder of Signal who, in 2021, built two small Ethereum projects to test web3 and wrote about them in 'My first impressions of web3' (2022).",
+   "why": "His experiments exposed that NFT ownership and collective art depend on servers and platforms outside the contract.",
+   "role_zh": "密码学家、软件开发者",
+   "bio_zh": "密码学家、Signal 的创始人。2021 年他搭建了两个小型以太坊项目来测试 web3，并在 2022 年的文章《My first impressions of web3》中记述。",
+   "why_zh": "他的实验揭示：NFT 所有权和集体艺术其实依赖合约之外的服务器与平台。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "peter-porobov",
+   "links": {
+    "site": "https://themillionetherhomepage.com",
+    "github": "https://github.com/porobov"
+   },
+   "connected_to": [],
+   "name": "Peter Porobov",
+   "kind": "person",
+   "role": "Developer",
+   "bio": "Self-taught developer who made The Million Ether Homepage, an Ethereum version of the Million Dollar Homepage, in 2016 and relaunched it with ERC-721 blocks in 2018.",
+   "why": "He turned a shared ad canvas into a contract with referral chains, rent and resale.",
+   "role_zh": "开发者",
+   "bio_zh": "自学成才的开发者，2016 年制作了以太坊版“百万美元首页”The Million Ether Homepage，2018 年以 ERC-721 地块重新上线。",
+   "why_zh": "他把一块共享广告画布写成了带推荐链、出租与转售的合约。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "cyrus-adkisson",
+   "links": {
+    "site": "https://etheria.world",
+    "github": "https://github.com/cyrusadkisson"
+   },
+   "connected_to": [],
+   "name": "Cyrus Adkisson",
+   "kind": "person",
+   "role": "Developer",
+   "bio": "Developer who deployed Etheria, a world of ownable hexagonal land tiles, on Ethereum in October 2015 and demoed it at DEVCON 1.",
+   "why": "Etheria is one of the earliest shared worlds whose land and buildings are held and made by players under contract rules.",
+   "role_zh": "开发者",
+   "bio_zh": "开发者，2015 年 10 月在以太坊上部署了由可拥有的六边形地块组成的世界 Etheria，并在 DEVCON 1 上演示。",
+   "why_zh": "Etheria 是最早的共享世界之一，土地和建筑都在合约规则下由玩家持有和建造。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "william-entriken",
+   "links": {
+    "site": "https://tenthousandsu.com"
+   },
+   "connected_to": [],
+   "name": "William Entriken",
+   "kind": "person",
+   "role": "Developer",
+   "bio": "Developer and lead author of the ERC-721 standard who launched Su Squares, 10,000 personalizable squares on Ethereum, in 2018.",
+   "why": "Su Squares makes a collective image out of what each owner puts in their square.",
+   "role_zh": "开发者",
+   "bio_zh": "开发者，ERC-721 标准的主要作者，2018 年推出 Su Squares：以太坊上可个性化的 10,000 个方格。",
+   "why_zh": "Su Squares 用每位持有者放进自己方格里的内容拼成一幅集体图像。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "dapper-labs",
+   "links": {
+    "site": "https://www.cryptokitties.co"
+   },
+   "connected_to": [],
+   "name": "Dapper Labs",
+   "kind": "company",
+   "role": "Game studio (spun off from Axiom Zen)",
+   "based": "Vancouver, CA",
+   "bio": "Vancouver studio spun off from Axiom Zen in 2018 to run CryptoKitties; its CTO Dieter Shirley first proposed the ERC-721 standard.",
+   "why": "CryptoKitties showed what happens when breeding rules meet a crowd on a shared blockchain.",
+   "role_zh": "游戏工作室（由 Axiom Zen 分拆）",
+   "bio_zh": "位于温哥华、2018 年从 Axiom Zen 分拆出来运营 CryptoKitties 的工作室；其 CTO Dieter Shirley 最早提出了 ERC-721 标准。",
+   "why_zh": "CryptoKitties 展示了繁殖规则遇上人群、并共享一条区块链时会发生什么。",
+   "based_zh": "温哥华，加拿大",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "rafael-lima",
+   "links": {
+    "github": "https://github.com/hicetnunc2000"
+   },
+   "connected_to": [
+    "teia-community"
+   ],
+   "name": "Rafael Lima",
+   "kind": "person",
+   "role": "Developer, founder of Hic et Nunc",
+   "based": "Brasília, BR",
+   "bio": "Former social scientist from Brasília who built Hic et Nunc on Tezos, describing it as a 'social laboratory', and shut its website down on 11 November 2021.",
+   "why": "He published open contracts that outlived his own withdrawal, as he had intended.",
+   "role_zh": "开发者、Hic et Nunc 创始人",
+   "bio_zh": "来自巴西利亚的前社会科学研究者，在 Tezos 上构建了 Hic et Nunc，称之为“社会实验室”；2021 年 11 月 11 日关闭了其网站。",
+   "why_zh": "他发布的开放合约如他所愿，在他本人退出后依然存续。",
+   "based_zh": "巴西利亚，巴西",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "teia-community",
+   "links": {
+    "site": "https://teia.art",
+    "github": "https://github.com/teia-community"
+   },
+   "connected_to": [
+    "rafael-lima"
+   ],
+   "name": "Teia Community",
+   "kind": "dao",
+   "role": "Community-run NFT platform and DAO",
+   "bio": "Volunteer community of artists, developers and collectors that took over the Hic et Nunc contracts after November 2021, named itself Teia by on-chain vote and registered as a non-profit DAO LLC in 2023.",
+   "why": "Teia shows a community keeping an abandoned art protocol alive and governing it collectively.",
+   "role_zh": "社群运营的 NFT 平台与 DAO",
+   "bio_zh": "由艺术家、开发者和藏家组成的志愿者社群，2021 年 11 月后接手 Hic et Nunc 的合约，通过链上投票命名为 Teia，并于 2023 年注册为非营利 DAO LLC。",
+   "why_zh": "Teia 展示了一个社群如何让被遗弃的艺术协议继续运转并集体治理它。",
+   "discovered_via": "rafael-lima",
+   "work_count": 1
+  },
+  {
    "id": "sarah-friend",
    "links": {
     "site": "https://isthisa.com",
@@ -1846,7 +2437,7 @@
    "why": "With Unhappy Readymade he sent a readymade as instructions by post, to be made by other people and finished by the weather.",
    "why_zh": "在《不快乐的现成品》中，他把一件现成品写成指令寄出，由别人制作、由天气完成。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "sol-lewitt",
@@ -2097,7 +2688,7 @@
    "why_zh": "他的印刷卡片把一件作品压缩成任何人都能实现的简短指令，这是激浪派的基本单元。",
    "based_zh": "科隆，德国",
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 4
   },
   {
    "id": "alison-knowles",
@@ -2235,6 +2826,234 @@
    "work_count": 1
   },
   {
+   "id": "ray-johnson",
+   "links": {
+    "site": "https://www.rayjohnsonestate.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Johnson"
+   },
+   "connected_to": [
+    "robert-filliou"
+   ],
+   "name": "Ray Johnson",
+   "kind": "person",
+   "role": "Collage and correspondence artist",
+   "based": "Locust Valley, US",
+   "bio": "American artist (1927–1995), collagist and founder of the New York Correspondance School, the mail-art network he ran from the late 1950s until his death.",
+   "why": "He turned the postal system into a medium: letters and collages carried instructions to add, pass on or return, so the network itself became the work.",
+   "role_zh": "拼贴与通信艺术家",
+   "based_zh": "洛卡斯特谷，美国",
+   "bio_zh": "美国艺术家（1927–1995），拼贴艺术家，纽约通信学校的创始人，这个邮件艺术网络由他从 1950 年代末一直经营到去世。",
+   "why_zh": "他把邮政系统变成媒介：信件和拼贴附带“添加、转寄或寄回”的指令，网络本身成为作品。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "robert-filliou",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Filliou"
+   },
+   "connected_to": [
+    "george-brecht",
+    "ray-johnson"
+   ],
+   "name": "Robert Filliou",
+   "kind": "person",
+   "role": "Fluxus artist and poet",
+   "based": "Villefranche-sur-Mer, FR",
+   "bio": "French artist (1926–1987) associated with Fluxus, who ran the shop-gallery La Cédille qui Sourit with George Brecht and developed the ideas of 'permanent creation' and the Eternal Network.",
+   "why": "He proposed art as an open network of exchange with no centre, and invented Art's Birthday, a date anyone may celebrate.",
+   "role_zh": "激浪派艺术家与诗人",
+   "based_zh": "滨海自由城，法国",
+   "bio_zh": "法国艺术家（1926–1987），与激浪派关系密切，曾与乔治·布雷希特合办店铺兼画廊“微笑的软音符”，提出“永久创造”和“永恒网络”的观念。",
+   "why_zh": "他把艺术设想为一个没有中心的开放交换网络，并发明了“艺术的生日”——一个任何人都可以庆祝的日子。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "yves-klein",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yves_Klein"
+   },
+   "connected_to": [],
+   "name": "Yves Klein",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Paris, FR",
+   "bio": "French artist (1928–1962) of Nouveau Réalisme, known for International Klein Blue, the Anthropometries and his sales of 'immaterial' zones.",
+   "why": "His Zones of Immaterial Pictorial Sensibility separated the artwork from any object and tied ownership to a receipt, a payment in gold and a ritual of destruction.",
+   "role_zh": "艺术家",
+   "based_zh": "巴黎，法国",
+   "bio_zh": "法国艺术家（1928–1962），新现实主义成员，以国际克莱因蓝、《人体测量》和出售“非物质”区域著称。",
+   "why_zh": "他的《非物质绘画感性区域》把作品与任何物件分离，把所有权系于一张收据、一笔黄金和一场销毁仪式。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "seth-siegelaub",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Seth_Siegelaub"
+   },
+   "connected_to": [
+    "robert-projansky"
+   ],
+   "name": "Seth Siegelaub",
+   "kind": "person",
+   "role": "Curator, publisher and dealer",
+   "based": "New York, US / Amsterdam, NL",
+   "bio": "American curator (1941–2013) who organised key exhibitions of conceptual art in book and catalogue form, and later researched the history of communication and textiles.",
+   "why": "With lawyer Robert Projansky he wrote a standard sale contract that gives artists a share of every future resale: a paper precursor of on-chain royalties.",
+   "role_zh": "策展人、出版人与画商",
+   "based_zh": "纽约，美国／阿姆斯特丹，荷兰",
+   "bio_zh": "美国策展人（1941–2013），以书籍和图录形式组织了多场关键的观念艺术展览，后来转向传播史和纺织史研究。",
+   "why_zh": "他与律师罗伯特·普罗詹斯基起草了一份标准销售合同，让艺术家分享此后每一次转售的收益：这是链上版税的纸面前身。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "robert-projansky",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Artist%27s_Reserved_Rights_Transfer_and_Sale_Agreement"
+   },
+   "connected_to": [
+    "seth-siegelaub"
+   ],
+   "name": "Robert Projansky",
+   "kind": "person",
+   "role": "Lawyer",
+   "based": "New York, US",
+   "bio": "New York lawyer who drafted The Artist's Reserved Rights Transfer and Sale Agreement with Seth Siegelaub in 1971, after consulting hundreds of artists, dealers and collectors.",
+   "why": "He turned an artists' demand into an enforceable legal template that travels with the artwork from owner to owner.",
+   "role_zh": "律师",
+   "based_zh": "纽约，美国",
+   "bio_zh": "纽约律师，1971 年与塞斯·西格劳布一起起草了《艺术家保留权利转让与销售协议》，起草前征询了数百位艺术家、画商和藏家。",
+   "why_zh": "他把艺术家的诉求变成可执行的法律模板，随作品从一个藏家传到下一个藏家。",
+   "discovered_via": "seth-siegelaub",
+   "work_count": 1
+  },
+  {
+   "id": "jsg-boggs",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J._S._G._Boggs"
+   },
+   "connected_to": [],
+   "name": "J. S. G. Boggs",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Tampa, US",
+   "bio": "American artist (1955–2017) known for hand-drawn, one-sided depictions of banknotes that he spent at face value, which led to counterfeiting charges in the UK, Australia and the US.",
+   "why": "Each 'Boggs note' was a transaction protocol: the value of the art came from a stranger's willingness to accept it as money.",
+   "role_zh": "艺术家",
+   "based_zh": "坦帕，美国",
+   "bio_zh": "美国艺术家（1955–2017），以手绘单面钞票并按面值花出而闻名，因此在英国、澳大利亚和美国被控伪造货币。",
+   "why_zh": "每一张“博格斯钞票”都是一套交易协议：艺术的价值来自陌生人愿意把它当钱收下。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "julieta-aranda",
+   "links": {
+    "site": "https://www.e-flux.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julieta_Aranda"
+   },
+   "connected_to": [
+    "anton-vidokle"
+   ],
+   "name": "Julieta Aranda",
+   "kind": "person",
+   "role": "Artist; co-director of e-flux",
+   "based": "New York, US / Berlin, DE",
+   "bio": "Mexican artist and co-director of e-flux, whose projects deal with time, circulation and alternative economies.",
+   "why": "With Anton Vidokle she built Time/Bank, a currency of hours for the art community.",
+   "role_zh": "艺术家；e-flux 联合负责人",
+   "based_zh": "纽约，美国／柏林，德国",
+   "bio_zh": "墨西哥艺术家，e-flux 联合负责人，她的项目关注时间、流通与另类经济。",
+   "why_zh": "她与安东·维多克尔一起建立了 Time/Bank，一种面向艺术社群、以小时计价的货币。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "anton-vidokle",
+   "links": {
+    "site": "https://www.e-flux.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Vidokle"
+   },
+   "connected_to": [
+    "julieta-aranda"
+   ],
+   "name": "Anton Vidokle",
+   "kind": "person",
+   "role": "Artist; founder of e-flux",
+   "based": "New York, US / Berlin, DE",
+   "bio": "Russian-born artist who founded e-flux in 1998 and has organised projects such as unitednationsplaza and e-flux journal.",
+   "why": "He treats institutions, mailing lists and exchange systems as artistic media.",
+   "role_zh": "艺术家；e-flux 创始人",
+   "based_zh": "纽约，美国／柏林，德国",
+   "bio_zh": "出生于俄罗斯的艺术家，1998 年创立 e-flux，组织过 unitednationsplaza、e-flux journal 等项目。",
+   "why_zh": "他把机构、邮件列表和交换系统当作艺术媒介。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "superflex",
+   "links": {
+    "site": "https://superflex.net/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Superflex"
+   },
+   "connected_to": [
+    "rirkrit-tiravanija"
+   ],
+   "name": "Superflex",
+   "kind": "collective",
+   "role": "Artist group",
+   "based": "Copenhagen, DK",
+   "bio": "Danish artist group founded in 1993 by Jakob Fenger, Rasmus Rosengren Nielsen and Bjørnstjerne Christiansen, working on economic systems, copying, self-organisation and interspecies design.",
+   "why": "They design legal and economic tools (open licences, cooperatives, lotteries, contracts) that other people then use to produce the work.",
+   "role_zh": "艺术家团体",
+   "based_zh": "哥本哈根，丹麦",
+   "bio_zh": "丹麦艺术团体，1993 年由雅各布·芬格、拉斯穆斯·罗森格伦·尼尔森和比约恩斯蒂尔内·克里斯蒂安森创立，关注经济系统、复制、自组织与跨物种设计。",
+   "why_zh": "他们设计法律与经济工具（开放许可、合作社、抽签、合同），由其他人使用这些工具来产出作品。",
+   "discovered_via": "seed",
+   "work_count": 4
+  },
+  {
+   "id": "santiago-sierra",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Sierra"
+   },
+   "connected_to": [],
+   "name": "Santiago Sierra",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Madrid, ES",
+   "bio": "Spanish artist, long based in Mexico City, who hires people at the minimum market rate to perform useless or degrading tasks, exposing the terms of wage labour.",
+   "why": "His works are contracts made visible: the payment rule and the participants' acceptance of it are the piece.",
+   "role_zh": "艺术家",
+   "based_zh": "马德里，西班牙",
+   "bio_zh": "西班牙艺术家，长期在墨西哥城工作，以市场最低价雇人执行无用或有辱人格的任务，暴露雇佣劳动的条件。",
+   "why_zh": "他的作品是被公开的合同：报酬规则以及参与者对它的接受，就是作品本身。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "cildo-meireles",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cildo_Meireles"
+   },
+   "connected_to": [],
+   "name": "Cildo Meireles",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Rio de Janeiro, BR",
+   "bio": "Brazilian conceptual artist whose work since the late 1960s addresses circulation, value and political control, beginning under the military dictatorship.",
+   "why": "His Insertions into Ideological Circuits used returnable bottles and banknotes as a distribution network: anyone could copy the method and put messages back into circulation.",
+   "role_zh": "艺术家",
+   "based_zh": "里约热内卢，巴西",
+   "bio_zh": "巴西观念艺术家，自 1960 年代末军政府统治时期起，以作品探讨流通、价值与政治控制。",
+   "why_zh": "他的《插入意识形态回路》把可回收瓶和钞票当作分发网络：任何人都可以照做，把信息重新放回流通。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
    "id": "joseph-beuys",
    "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Beuys"
@@ -2309,7 +3128,7 @@
    "bio_zh": "英德籍艺术家，创作“建构情境”：由受过训练的诠释者与观众交谈或共同行动来完成的作品，没有实物，也不允许拍照记录。",
    "why_zh": "他的作品只以口头传给诠释者和买家的规则存在，并在公证人面前以口头合同出售。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "mierle-laderman-ukeles",
@@ -2413,7 +3232,9 @@
    "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rirkrit_Tiravanija"
    },
-   "connected_to": [],
+   "connected_to": [
+    "superflex"
+   ],
    "name": "Rirkrit Tiravanija",
    "kind": "person",
    "role": "Artist",
@@ -5365,6 +6186,89 @@
    "also": []
   },
   {
+   "id": "moxie-marlinspike--at-my-whim",
+   "creator_ids": [
+    "moxie-marlinspike"
+   ],
+   "title": "AtMyWhim",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "An NFT whose image changes depending on who is looking: it appeared one way on OpenSea, another on Rarible, and as a large poop emoji in the buyer's wallet.",
+   "description_zh": "一个会因观看者不同而改变图像的 NFT：在 OpenSea 上是一种样子，在 Rarible 上是另一种，而在买家的钱包里则是一个巨大的便便表情。",
+   "idea_en": "What you bid on is not what you get: an NFT points to a server, not to an image.",
+   "idea_zh": "你竞拍的不是你得到的：NFT 指向的是一台服务器，而不是一张图像。",
+   "protocol": "The token's metadata points to a URL with no hash commitment; the server behind it returns different images based on the requester's IP address or user agent, which the NFT standard allows.",
+   "protocol_zh": "代币元数据指向一个没有哈希承诺的 URL；背后的服务器根据请求者的 IP 或 User Agent 返回不同图像，而 NFT 标准允许这样做。",
+   "collective": "Marketplaces, not collectors, decided the outcome: after a few days OpenSea removed the NFT without explanation, and it then also disappeared from crypto wallets that rely on OpenSea's API.",
+   "collective_zh": "决定结果的不是藏家，而是市场平台：几天后 OpenSea 在未作解释的情况下下架了这个 NFT，随后它也从依赖 OpenSea API 的加密钱包中消失了。",
+   "keywords": [
+    "metadata",
+    "OpenSea",
+    "Rarible",
+    "takedown",
+    "web3"
+   ],
+   "images": [
+    "https://moxie.org/blog/images/nft-opensea.png",
+    "https://moxie.org/blog/images/nft-rarible.png",
+    "https://moxie.org/blog/images/nft-metamask.png",
+    "https://moxie.org/blog/images/nft-removed.png"
+   ],
+   "source_url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
+   "contract_url": "https://etherscan.io/address/0x5c61afa47570ab2b562606fa578221305b12c307",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "moxie-marlinspike--autonomous-art",
+   "creator_ids": [
+    "moxie-marlinspike"
+   ],
+   "title": "Autonomous Art",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "exchange",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A collective on-chain image to which anyone can add a visual contribution, minting an NFT of the work at that moment; each contribution costs more than the last, and the payment is shared among earlier contributors.",
+   "description_zh": "一幅集体的链上图像，任何人都可以往上添加一笔视觉贡献，同时铸造一个记录作品当下状态的 NFT；每次贡献都比上一次更贵，所付款项分给之前的贡献者。",
+   "idea_en": "Pay to add to a shared picture, and get paid by everyone who comes after you.",
+   "idea_zh": "付钱给共享画面添一笔，再由后来的每一个人付钱给你。",
+   "protocol": "Anyone can mint by adding shapes to the shared on-chain SVG. The cost of contributing rises over time, and the funds a contributor pays are distributed to all previous artists, a structure the author compares to a pyramid.",
+   "protocol_zh": "任何人都可以通过向共享的链上 SVG 添加图形来铸造。贡献成本随时间上升，贡献者支付的资金分配给之前的所有艺术家，作者把这种结构比作金字塔。",
+   "collective": "By early January 2022 contributors had put over $38,000 into the collective piece, according to the author; the contract lists over 600 contributions.",
+   "collective_zh": "据作者说，到 2022 年 1 月初，贡献者已为这件集体作品投入超过 38,000 美元；合约中记录了 600 多次贡献。",
+   "keywords": [
+    "collective drawing",
+    "on-chain SVG",
+    "rising price",
+    "revenue sharing"
+   ],
+   "paper": {
+    "url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
+    "title": "My first impressions of web3",
+    "venue": "moxie.org"
+   },
+   "source_url": "https://autonomous.graphics",
+   "contract_url": "https://etherscan.io/address/0x3a56AB63c7ef4f07fe353bEb132e0Fd5AD270Ca0",
+   "video": {},
+   "images": []
+  },
+  {
    "id": "black-swan-dao--black-swan",
    "creator_ids": [
     "black-swan-dao",
@@ -5609,6 +6513,48 @@
    "contract_url": "https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928",
    "paper": {},
    "also": []
+  },
+  {
+   "id": "rafael-lima--hic-et-nunc",
+   "creator_ids": [
+    "rafael-lima"
+   ],
+   "title": "Hic et Nunc",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "exchange",
+    "governance"
+   ],
+   "substrate": "tezos",
+   "kind": "platform",
+   "description": "An open NFT platform on Tezos, launched on 1 March 2021, whose cheap minting drew a large global community of artists; its founder shut the website on 11 November 2021, but the contracts kept running.",
+   "description_zh": "2021 年 3 月 1 日上线的 Tezos 开放 NFT 平台，低廉的铸造成本吸引了一个庞大的全球艺术家社群；创始人于 2021 年 11 月 11 日关闭网站，但合约仍在运行。",
+   "idea_en": "Build the platform as public infrastructure so that it can persist beyond its maker's will.",
+   "idea_zh": "把平台建成公共基础设施，让它能在创造者的意志之外继续存在。",
+   "protocol": "Anyone can mint OBJKTs (FA2 tokens on IPFS) and list them through the swap contract with creator royalties. From launch to mid-April 2021 each purchase of 1 tez earned 0.5 hDAO for the buyer and 0.5 for the seller, a governance token used to curate the feed.",
+   "protocol_zh": "任何人都可以铸造 OBJKT（存于 IPFS 的 FA2 代币），并通过 swap 合约挂售，附带创作者版税。从上线到 2021 年 4 月中旬，每 1 tez 的购买会给买卖双方各分配 0.5 hDAO，这是一种用于策展信息流的治理代币。",
+   "collective": "Users reached 100,000 minted OBJKTs in three months and 500,000 in eight, with about 50,000 artists and collectors; events like #OBJKT4OBJKT had artists swap works for free. When the site went down, the community kept using the contracts through mirror sites and founded Teia.",
+   "collective_zh": "用户在三个月内铸造了 10 万个 OBJKT，八个月时达到 50 万个，社群约有 5 万名艺术家和藏家；#OBJKT4OBJKT 等活动让艺术家免费互换作品。网站关闭后，社群通过镜像站继续使用合约，并创立了 Teia。",
+   "keywords": [
+    "Tezos",
+    "OBJKT",
+    "hDAO",
+    "OBJKT4OBJKT",
+    "Brazil"
+   ],
+   "images": [
+    "https://web.archive.org/web/20211002104830im_/https://www.hicetnunc.xyz/og-image.jpg",
+    "https://raw.githubusercontent.com/hicetnunc2000/hicetnunc/main/public/HEN_avatar.png"
+   ],
+   "source_url": "https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/",
+   "contract_url": "https://tzkt.io/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+   "code_url": "https://github.com/hicetnunc2000/objkt-swap",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "holly-herndon--holly-plus",
@@ -6056,6 +7002,54 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "teia-community--teia",
+   "creator_ids": [
+    "teia-community"
+   ],
+   "title": "Teia",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation"
+   ],
+   "substrate": "tezos",
+   "kind": "organization",
+   "description": "The community-run continuation of Hic et Nunc: volunteers kept its contracts and data alive after November 2021, chose the name Teia by on-chain vote and became a non-profit DAO LLC in 2023.",
+   "description_zh": "Hic et Nunc 的社群延续：2021 年 11 月后志愿者维持其合约和数据运转，通过链上投票选定 Teia 之名，并于 2023 年成为非营利 DAO LLC。",
+   "idea_en": "When the author walks away, the users can take over the protocol.",
+   "idea_zh": "作者离开之后，用户可以接管协议。",
+   "protocol": "Teia operates from 11 November 2021 on the same OBJKT contracts. New swaps carry a 2.5% fee (from March 2023) paid to the community multisig; the community voted to mint 8 million TEIA governance tokens, and holders can poll and vote through DAO contracts while a core-team multisig remains legally responsible during the beta.",
+   "protocol_zh": "Teia 自 2021 年 11 月 11 日起沿用同一套 OBJKT 合约运作。新挂单（自 2023 年 3 月起）收取 2.5% 费用，付给社群多签钱包；社群投票决定铸造 800 万枚 TEIA 治理代币，持有者可以通过 DAO 合约发起投票，测试期间由核心团队多签钱包承担法律责任。",
+   "collective": "Artists, developers and collectors rebuilt the platform after 2.5 months of discussion, pinned millions of files (about 2.36 million pins, 6 TB, in April 2023), ran fundraisers such as #Tezos4Iran and #SavePakistan, and claimed about 3 million TEIA tokens in the first distribution.",
+   "collective_zh": "艺术家、开发者和藏家经过两个半月的讨论重建了平台，固定了数以百万计的文件（2023 年 4 月约 236 万个固定、6 TB），组织了 #Tezos4Iran、#SavePakistan 等募捐，并在首次分发中领取了约 300 万枚 TEIA 代币。",
+   "keywords": [
+    "Teia",
+    "DAO LLC",
+    "fork",
+    "community",
+    "Tezos"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hO97qco-ZX4",
+    "platform": "youtube",
+    "id": "hO97qco-ZX4",
+    "thumbnail": "https://i.ytimg.com/vi/hO97qco-ZX4/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://blog.teia.art/static/images/teia-cover.jpg"
+   ],
+   "source_url": "https://blog.teia.art/blog/press-release-dao-launch",
+   "contract_url": "https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w",
+   "code_url": "https://github.com/teia-community",
+   "paper": {}
   },
   {
    "id": "mathcastles--terraforms",
@@ -6688,6 +7682,55 @@
    "also": []
   },
   {
+   "id": "larva-labs--autoglyphs",
+   "creator_ids": [
+    "larva-labs"
+   ],
+   "title": "Autoglyphs",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "The first generative art whose algorithm runs and stores its output entirely on-chain: each collector's mint transaction executes the generator and produces one of at most 512 glyphs.",
+   "description_zh": "第一件算法与输出都完全在链上的生成艺术：每位藏家的铸造交易都会执行生成器，产出至多 512 个字形中的一个。",
+   "idea_en": "The collector performs the artist's algorithm, as assistants once drew Sol LeWitt's instructions.",
+   "idea_zh": "由藏家执行艺术家的算法，就像当年助手照着索尔·勒维特的指令作画。",
+   "protocol": "Anyone could pay 0.2 ETH to run the generator in the contract; the artists could neither choose nor intervene in outputs once deployed. Supply was capped at 512, and the contract includes instructions for turning the text rendering into a drawing with any tools.",
+   "protocol_zh": "任何人支付 0.2 ETH 即可运行合约中的生成器；部署之后艺术家既不能挑选、也不能干预输出。供应上限为 512，合约还附有指令，说明如何用任意工具把文字渲染转成图画。",
+   "collective": "All 512 glyphs were minted within four hours, donating $13,670 to 350.org; during minting the contract consumed 13.27% of Ethereum's network capacity. Glyphs have been drawn with pen plotters following the contract's instructions, and the Whitney and Centre Pompidou hold examples.",
+   "collective_zh": "全部 512 个字形在四小时内被铸造完毕，向 350.org 捐赠 13,670 美元；铸造期间合约占用了以太坊网络 13.27% 的容量。人们按合约中的指令用绘图仪把字形画了出来，惠特尼美术馆和蓬皮杜中心都有收藏。",
+   "keywords": [
+    "on-chain generative",
+    "Sol LeWitt",
+    "350.org",
+    "ASCII",
+    "512"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TNAM3_BzZRo",
+    "platform": "youtube",
+    "id": "TNAM3_BzZRo",
+    "thumbnail": "https://i.ytimg.com/vi/TNAM3_BzZRo/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.larvalabs.com/public/assetsv2/glyphs_hero.png",
+    "https://www.larvalabs.com/public/assetsv2/Glyphs-Annotated-Code.png"
+   ],
+   "source_url": "https://www.larvalabs.com/autoglyphs",
+   "contract_url": "https://etherscan.io/address/0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782",
+   "paper": {}
+  },
+  {
    "id": "rhea-myers--hack-line-properties",
    "creator_ids": [
     "rhea-myers"
@@ -7185,6 +8228,85 @@
    "video": {}
   },
   {
+   "id": "kevin-abosch--forever-rose",
+   "creator_ids": [
+    "kevin-abosch"
+   ],
+   "title": "Forever Rose",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A single ERC-20 token called ROSE, based on the artist's photograph of a rose, sold on Valentine's Day 2018 with the gifting platform GIFTO to ten collectors who each received a tenth of it.",
+   "description_zh": "一枚名为 ROSE 的 ERC-20 代币，基于艺术家拍摄的一张玫瑰照片，2018 年情人节通过赠礼平台 GIFTO 售给十位藏家，每人获得十分之一。",
+   "idea_en": "One artwork, one token, ten owners.",
+   "idea_zh": "一件作品，一枚代币，十位持有者。",
+   "protocol": "The work exists as one divisible token. A ballot chose ten buyers, who split the price evenly and each received 0.1 ROSE; payment was made in GTO and IAMA tokens, and the proceeds went to the CoderDojo Foundation.",
+   "protocol_zh": "作品以一枚可分割的代币存在。通过抽选确定十位买家，他们平分价格，每人获得 0.1 ROSE；款项以 GTO 和 IAMA 代币支付，全部捐给 CoderDojo 基金会。",
+   "collective": "The ten collectors each paid the equivalent of $100,000, co-owning a work sold for $1 million in total.",
+   "collective_zh": "十位藏家每人支付相当于 10 万美元的代币，共同拥有这件总价 100 万美元的作品。",
+   "keywords": [
+    "co-ownership",
+    "ERC-20",
+    "GIFTO",
+    "fractional",
+    "charity"
+   ],
+   "images": [
+    "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/The-forever-rose.png"
+   ],
+   "source_url": "https://www.crowdfundinsider.com/2018/02/128411-valentines-day-crypto-art-sells-1-million-gifto/",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "kevin-abosch--iama-coin",
+   "creator_ids": [
+    "kevin-abosch"
+   ],
+   "title": "IAMA Coin",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "currency",
+    "circulation"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Ten million divisible IAMA tokens on Ethereum paired with 100 physical works on which the artist stamped the token's contract address in his own blood.",
+   "description_zh": "以太坊上一千万枚可分割的 IAMA 代币，配合 100 件实体作品，艺术家用自己的血在作品上印下代币的合约地址。",
+   "idea_en": "The artist declares himself a coin and lets others hold, split and spend him.",
+   "idea_zh": "艺术家宣布自己是一枚硬币，让别人持有、分割和花费他。",
+   "protocol": "The physical works exist only because the virtual tokens exist: each is marked in blood with the contract address that defines 10,000,000 divisible IAMA tokens, which can circulate like any ERC-20 currency.",
+   "protocol_zh": "实体作品的意义以虚拟代币为前提：每件都用血印上合约地址，该合约定义了 10,000,000 枚可分割、可像任何 ERC-20 货币一样流通的 IAMA 代币。",
+   "collective": "IAMA circulated as a currency among collectors; it was one of the two tokens used to pay for Forever Rose in February 2018.",
+   "collective_zh": "IAMA 作为货币在藏家之间流通；2018 年 2 月购买 Forever Rose 时使用的两种代币之一就是它。",
+   "keywords": [
+    "blood",
+    "ERC-20",
+    "human currency",
+    "contract address"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4xNNYPet8sY",
+    "platform": "youtube",
+    "id": "4xNNYPet8sY",
+    "thumbnail": "https://i.ytimg.com/vi/4xNNYPet8sY/hqdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "https://kevinabosch.com/iamacoin.html",
+   "images": [],
+   "paper": {}
+  },
+  {
    "id": "jonas-lund--jonas-lund-token",
    "creator_ids": [
     "jonas-lund"
@@ -7272,6 +8394,44 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "kevin-abosch--priceless",
+   "creator_ids": [
+    "kevin-abosch"
+   ],
+   "title": "PRICELESS (with Ai Weiwei)",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "circulation",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A collaboration with Ai Weiwei made of two ERC-20 tokens, PRICELESS (PRCLS): one is locked away forever, the other is given away in fractions to collectors.",
+   "description_zh": "与艾未未合作的作品，由两枚 ERC-20 代币 PRICELESS（PRCLS）组成：一枚永远不可获得，另一枚被分成碎片免费赠给藏家。",
+   "idea_en": "Make a token priceless by never selling it, only giving it away.",
+   "idea_zh": "让一枚代币变得“无价”：永远不卖，只赠送。",
+   "protocol": "Each token is divisible to 18 decimal places. One is made unavailable to anyone; the other is distributed for free to collectors, down to a quintillionth at a time. Small amounts were deposited into wallets whose printed addresses form a series of physical works.",
+   "protocol_zh": "每枚代币可分割到小数点后 18 位。一枚永远不可被任何人获得；另一枚免费分发给藏家，每次可小到百亿亿分之一。少量代币被存入一些钱包，这些钱包地址被印刷成一系列实体作品。",
+   "collective": "Recipients share fragments of one token that has no market price; each wallet address stands for a moment shared by the two artists.",
+   "collective_zh": "接收者分享同一枚没有市场价格的代币的碎片；每个钱包地址代表两位艺术家共同度过的一个时刻。",
+   "keywords": [
+    "Ai Weiwei",
+    "ERC-20",
+    "gift",
+    "divisible",
+    "burn"
+   ],
+   "images": [
+    "https://kevinabosch.com/images/priceless_1400.jpg"
+   ],
+   "source_url": "https://kevinabosch.com/priceless.html",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "terra0--premna-daemon",
@@ -7400,6 +8560,51 @@
    "paper": {}
   },
   {
+   "id": "william-entriken--su-squares",
+   "creator_ids": [
+    "william-entriken"
+   ],
+   "title": "Su Squares",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "participation",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "Ten thousand ERC-721 squares, each 10×10 pixels, that owners personalise with an image, title and link; together they form one large mosaic on the project homepage.",
+   "description_zh": "一万个 ERC-721 方格，每个 10×10 像素，由持有者配上图像、标题和链接；它们在项目首页上拼成一幅大马赛克。",
+   "idea_en": "Each owner paints one tile of a picture no one controls.",
+   "idea_zh": "每位持有者只画一格，整幅画无人掌控。",
+   "protocol": "Anyone can mint an available square (0.5 ETH on the current site). The owner can personalise it with a 10×10 image without transparency or animation, a title up to 64 bytes and a URL up to 96 bytes, for a small fee; the homepage image refreshes hourly.",
+   "protocol_zh": "任何人都可以铸造一个尚未售出的方格（当前网站价格 0.5 ETH）。持有者支付少量费用即可为其设置一张 10×10、无透明和动画的图像、最长 64 字节的标题和最长 96 字节的网址；首页图像每小时刷新一次。",
+   "collective": "The whole square is a continually changing patchwork of owners' images and links.",
+   "collective_zh": "整幅方阵是由持有者的图像和链接拼成、不断变化的拼贴。",
+   "keywords": [
+    "ERC-721",
+    "mosaic",
+    "personalize",
+    "Million Dollar Homepage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=is5Vrs6EZJk",
+    "platform": "youtube",
+    "id": "is5Vrs6EZJk",
+    "thumbnail": "https://i.ytimg.com/vi/is5Vrs6EZJk/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://tenthousandsu.com/build/wholeSquare.webp"
+   ],
+   "source_url": "https://tenthousandsu.com",
+   "contract_url": "https://etherscan.io/address/0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F",
+   "paper": {}
+  },
+  {
    "id": "ruth-catlow--artists-rethinking-the-blockchain",
    "creator_ids": [
     "ruth-catlow",
@@ -7521,6 +8726,146 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "dapper-labs--cryptokitties",
+   "creator_ids": [
+    "dapper-labs"
+   ],
+   "title": "CryptoKitties",
+   "year": 2017,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "A blockchain game launched on 28 November 2017 in which players buy, breed and trade virtual cats whose genomes pass traits to their offspring.",
+   "description_zh": "2017 年 11 月 28 日上线的区块链游戏，玩家购买、繁殖和交易虚拟猫，猫的基因组会把特征遗传给后代。",
+   "idea_en": "Supply grows from players' breeding choices, and a crowd can clog a whole network.",
+   "idea_zh": "供应量来自玩家的繁殖选择，而一群人足以堵塞整个网络。",
+   "protocol": "Each cat is an NFT with a 256-bit genome of 'cattributes'. Any cat can act as matron or sire; breeding creates a new cat whose generation is one higher than its parents and whose cooldown grows with each breeding, capped at one week. Every action costs Ether.",
+   "protocol_zh": "每只猫都是一个带有 256 位“猫属性”基因组的 NFT。任何一只猫都可以作为母方或父方；繁殖会生出一只比父母高一代的新猫，冷却时间随每次繁殖增加，最长一周。每个操作都需要支付以太币。",
+   "collective": "Players' breeding produced the herd and its rarities; in December 2017 the game's popularity congested Ethereum, pushing transactions to an all-time high. The cat Genesis sold for 246.9255 ETH that month.",
+   "collective_zh": "玩家的繁殖造就了猫群及其稀有度；2017 年 12 月游戏的火爆造成以太坊拥堵，交易量创下历史新高。当月名为 Genesis 的猫以 246.9255 ETH 售出。",
+   "keywords": [
+    "breeding",
+    "genome",
+    "ERC-721",
+    "network congestion",
+    "game"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dWUi8dkv5qU",
+    "platform": "youtube",
+    "id": "dWUi8dkv5qU",
+    "thumbnail": "https://i.ytimg.com/vi/dWUi8dkv5qU/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.cryptokitties.co/images/share.png"
+   ],
+   "source_url": "https://www.cryptokitties.co",
+   "contract_url": "https://etherscan.io/address/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+   "paper": {}
+  },
+  {
+   "id": "larva-labs--cryptopunks",
+   "creator_ids": [
+    "larva-labs"
+   ],
+   "title": "CryptoPunks",
+   "year": 2017,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Ten thousand 24×24-pixel characters generated by algorithm and released in June 2017 free to anyone with an Ethereum wallet, with a marketplace built into the contract.",
+   "description_zh": "一万个由算法生成的 24×24 像素角色，于 2017 年 6 月免费发放给任何拥有以太坊钱包的人，合约内置交易市场。",
+   "idea_en": "Give art away under simple ownership rules and let collectors invent its culture.",
+   "idea_zh": "在简单的所有权规则下把作品送出去，让藏家发明它的文化。",
+   "protocol": "Anyone could claim an unowned punk for only the gas fee. The contract itself lets owners offer punks for sale (to anyone or one address), accept bids, withdraw and transfer, with no platform in between.",
+   "protocol_zh": "任何人只需支付 gas 即可认领一个无主的 punk。合约本身允许持有者挂单出售（面向所有人或指定地址）、接受出价、撤回和转让，中间没有任何平台。",
+   "collective": "It took eight days for all 10,000 to be claimed. Collectors made punks their profile pictures and built a shared vocabulary of 'floor price', 'rarity' and 'traits'; according to Larva Labs, total sales reached about $3.8 billion by October 2025, and punks entered MoMA, LACMA, ICA Miami and the Centre Pompidou.",
+   "collective_zh": "一万个 punk 用了八天才被全部认领。藏家把 punk 用作头像，并形成了“地板价”“稀有度”“特征”等共同词汇；据 Larva Labs 统计，截至 2025 年 10 月总成交额约 38 亿美元，punk 进入了 MoMA、LACMA、迈阿密 ICA 和蓬皮杜中心的收藏。",
+   "keywords": [
+    "free claim",
+    "in-contract market",
+    "PFP",
+    "ERC-721",
+    "Larva Labs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3oQ6j7oNyfE",
+    "platform": "youtube",
+    "id": "3oQ6j7oNyfE",
+    "thumbnail": "https://i.ytimg.com/vi/3oQ6j7oNyfE/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.larvalabs.com/public/assetsv2/crytopunks_fullgrid.jpg",
+    "https://www.larvalabs.com/public/assetsv2/Punk305_ICA.jpg"
+   ],
+   "source_url": "https://www.larvalabs.com/cryptopunks",
+   "contract_url": "https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
+   "paper": {}
+  },
+  {
+   "id": "curio-cards--curio-cards",
+   "creator_ids": [
+    "curio-cards"
+   ],
+   "title": "Curio Cards",
+   "year": 2017,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "scarcity",
+    "exchange",
+    "governance"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Thirty digital card series by seven artists, each deployed as its own fixed-supply token contract on Ethereum from 9 May 2017, sold through a vending-machine interface with all proceeds going to the artists.",
+   "description_zh": "七位艺术家的三十个数字卡牌系列，自 2017 年 5 月 9 日起在以太坊上各自部署为固定供应的代币合约，通过“自动售货机”式界面出售，收入全部归艺术家。",
+   "idea_en": "Scarce digital prints sold directly for artists, then kept alive by collectors.",
+   "idea_zh": "为艺术家直接出售的稀缺数字版画，后来由藏家维系下去。",
+   "protocol": "Each card is a modified ERC-20 contract with a limited, non-divisible supply and the artwork's IPFS hash embedded; buying from the contract sends payment to the artist. A misprint produced an extra card, 17b.",
+   "protocol_zh": "每张卡都是一个修改过的 ERC-20 合约，供应有限且不可分割，并嵌入作品的 IPFS 哈希；从合约购买时款项直接付给艺术家。一次印错产生了额外的一张卡 17b。",
+   "collective": "Cards sold for $0.50–$1 at launch. After 2021 collectors rediscovered them, an ERC-1155 wrapper contract written by a community member made them tradable on OpenSea, and a complete set including 17b sold at Christie's in October 2021 for 393 ETH.",
+   "collective_zh": "上线时每张卡售价 0.5 至 1 美元。2021 年藏家重新发现它们后，一位社群成员编写的 ERC-1155 包装合约使其可在 OpenSea 交易；同年 10 月，含 17b 的全套卡牌在佳士得以 393 ETH 成交。",
+   "keywords": [
+    "ERC-20",
+    "IPFS",
+    "17b",
+    "Christie's",
+    "wrapper"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BAi8nVwOjBQ",
+    "platform": "youtube",
+    "id": "BAi8nVwOjBQ",
+    "thumbnail": "https://i.ytimg.com/vi/BAi8nVwOjBQ/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/01.jpg",
+    "https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/17.jpg"
+   ],
+   "source_url": "https://github.com/curiocards/vintage.curio.cards",
+   "contract_url": "https://etherscan.io/address/0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313",
+   "paper": {}
   },
   {
    "id": "furtherfield--daowo",
@@ -7777,6 +9122,132 @@
    "paper": {}
   },
   {
+   "id": "joe-looney--rare-pepe-wallet",
+   "creator_ids": [
+    "joe-looney"
+   ],
+   "title": "Rare Pepe Wallet",
+   "year": 2016,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "participation"
+   ],
+   "substrate": "bitcoin",
+   "kind": "platform",
+   "description": "A web wallet and marketplace launched on 14 September 2016 for collecting, displaying and trading Rare Pepe cards on Counterparty.",
+   "description_zh": "2016 年 9 月 14 日上线的网页钱包与市场，用于在 Counterparty 上收藏、展示和交易 Rare Pepe 卡牌。",
+   "idea_en": "Give a rule-bound art community a shared place to hold and swap its tokens.",
+   "idea_zh": "给一个有规则的艺术社群一个共同持有和交换代币的地方。",
+   "protocol": "The wallet shows only cards certified by the Rare Pepe Directory, and lets holders send, buy and sell them peer to peer on the Counterparty decentralised exchange.",
+   "protocol_zh": "钱包只显示经 Rare Pepe Directory 认证的卡牌，持有者可以在 Counterparty 去中心化交易所上点对点发送、买卖。",
+   "collective": "The wallet became the Rare Pepe community's marketplace and gallery; in January 2018 a Homer Pepe card was auctioned at the Rare Digital Art Festival in New York.",
+   "collective_zh": "钱包成为 Rare Pepe 社群的市场和展厅；2018 年 1 月，一张 Homer Pepe 卡在纽约 Rare Digital Art Festival 上拍卖。",
+   "keywords": [
+    "Counterparty",
+    "wallet",
+    "marketplace",
+    "BTCPAY"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mgFFUY4KsU8",
+    "platform": "youtube",
+    "id": "mgFFUY4KsU8",
+    "thumbnail": "https://i.ytimg.com/vi/mgFFUY4KsU8/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "https://rarepepewallet.com",
+   "images": [],
+   "paper": {}
+  },
+  {
+   "id": "rare-pepe-directory--rare-pepes",
+   "creator_ids": [
+    "rare-pepe-directory"
+   ],
+   "title": "Rare Pepes",
+   "year": 2016,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "constraint"
+   ],
+   "substrate": "bitcoin",
+   "kind": "series",
+   "description": "User-made Pepe trading cards issued as Counterparty assets on Bitcoin and certified by the Rare Pepe Directory under published submission rules.",
+   "description_zh": "由用户制作、以 Counterparty 资产形式在比特币上发行、并由 Rare Pepe Directory 按公开投稿规则认证的 Pepe 卡牌。",
+   "idea_en": "Publish the issuing rules and let a meme community become an art scene.",
+   "idea_zh": "公布发行规则，让一个表情包社群变成一个艺术圈。",
+   "protocol": "Any artist could create a Counterparty asset and submit it for a fee of 200 PEPECASH, half of which was burned. Rules: 400×560 images, animated GIFs under 1.5 MB, issuance locked, not divisible, 100 to 100,000 shares, something to do with Pepe, original work, no NSFW, no websites or QR codes, one submission per artist per day. Approved cards appeared in Rare Pepe wallets.",
+   "protocol_zh": "任何艺术家都可以创建 Counterparty 资产并提交，费用为 200 PEPECASH，其中一半被销毁。规则：图像 400×560，动图小于 1.5 MB，发行量锁定、不可分割、份数在 100 到 100,000 之间，内容与 Pepe 有关且为原创，禁止成人内容，不得包含网址或二维码，每位艺术家每天只能提交一次。通过审核的卡牌会出现在 Rare Pepe 钱包中。",
+   "collective": "Dozens of artists around the world submitted cards; the directory certified over 1,700 rares across its series before closing submissions so the rareness could 'bake in'. The first cards date from September 2016.",
+   "collective_zh": "世界各地数十位艺术家提交了卡牌；在关闭投稿、让稀有性“定型”之前，目录在各系列中共认证了 1,700 多张稀有卡。第一批卡牌出现在 2016 年 9 月。",
+   "keywords": [
+    "Counterparty",
+    "PEPECASH",
+    "trading cards",
+    "meme",
+    "burn"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9n3JqJSLIpc",
+    "platform": "youtube",
+    "id": "9n3JqJSLIpc",
+    "thumbnail": "https://i.ytimg.com/vi/9n3JqJSLIpc/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "http://rarepepedirectory.com/?page_id=25",
+   "images": [],
+   "paper": {}
+  },
+  {
+   "id": "peter-porobov--million-ether-homepage",
+   "creator_ids": [
+    "peter-porobov"
+   ],
+   "title": "The Million Ether Homepage",
+   "year": 2016,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "exchange",
+    "participation",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "A 1000×1000-pixel web page on Ethereum where anyone can buy, rent and resell blocks of pixels and place an image ad in them, after the 2005 Million Dollar Homepage.",
+   "description_zh": "一个位于以太坊上的 1000×1000 像素网页，任何人都可以购买、租用和转售像素块并在其中放置图片广告，仿照 2005 年的“百万美元首页”。",
+   "idea_en": "A shared canvas assembled by whoever pays, with the price rising as it fills.",
+   "idea_zh": "一块由付费者拼成的共享画布，越满越贵。",
+   "protocol": "Pixels are sold in 10×10 blocks; the price doubles each time a further share of the field is sold (every 100,000 pixels in 2016, every 10% in 2018). Owners can place and replace ads, sell at any price or rent out by the day. The 2016 version paid referrers along chains up to six 'handshakes' deep; the 2018 version made each block an ERC-721 token and sends 80% of initial sales to charity.",
+   "protocol_zh": "像素以 10×10 为一块出售；每卖出一定比例，价格翻倍（2016 年每 100,000 像素，2018 年每 10%）。持有者可以放置和替换广告、以任意价格转售或按天出租。2016 年版本沿着最多六层“握手”的推荐链向推荐人分成；2018 年版本把每个像素块做成 ERC-721 代币，并把首次销售的 80% 捐给慈善机构。",
+   "collective": "The page's image is a mosaic of ads chosen by buyers and renters; both versions are now paused while the author considers moving the 2018 blocks back to the 2016 contract.",
+   "collective_zh": "页面图像是买家和租户所选广告拼成的马赛克；两个版本目前都已暂停，作者正在考虑把 2018 年的像素块迁回 2016 年的合约。",
+   "keywords": [
+    "Million Dollar Homepage",
+    "pixels",
+    "rent",
+    "referral",
+    "ERC-721"
+   ],
+   "images": [
+    "https://i.imgur.com/kvv9vvh.png"
+   ],
+   "source_url": "https://million-ether-homepage.readthedocs.io/en/latest/whitepaper.html",
+   "contract_url": "https://etherscan.io/address/0xCEf41878Db032586C835eE0890484399402A64f6",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "terra0--self-owning-forest",
    "creator_ids": [
     "terra0"
@@ -7876,6 +9347,92 @@
    "source_url": "https://becausewearehere.co.uk/",
    "paper": {},
    "also": []
+  },
+  {
+   "id": "sarah-meyohas--bitchcoin",
+   "creator_ids": [
+    "sarah-meyohas"
+   ],
+   "title": "Bitchcoin",
+   "year": 2015,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "currency",
+    "exchange",
+    "contract"
+   ],
+   "substrate": "bitcoin",
+   "kind": "artwork",
+   "description": "An artist's currency launched in February 2015 and backed by her photographs: 25 Bitchcoins could be redeemed for a whole print of her Speculations series, stored in a vault.",
+   "description_zh": "艺术家于 2015 年 2 月推出、以自己摄影作品作储备的货币：25 枚 Bitchcoin 可以兑换一整张存放在保险库中的 Speculations 系列照片。",
+   "idea_en": "Back a currency with your own art and let the market price the artist.",
+   "idea_zh": "用自己的作品作为货币储备，让市场为艺术家定价。",
+   "protocol": "One Bitchcoin was fixed to 25 square inches of a Speculations photograph. Eight editions of the first Speculation backed 200 coins released at $100 each; buyers got a paper wallet with their keys and could exchange 25 coins for a print. In 2021 the currency migrated to ERC-1155 tokens backed by pressed rose petals from Cloud of Petals.",
+   "protocol_zh": "一枚 Bitchcoin 固定对应 Speculations 照片的 25 平方英寸。第一张 Speculation 的八个版次支撑了 200 枚、每枚 100 美元发行的币；买家获得记有密钥的纸钱包，可用 25 枚兑换一张照片。2021 年这种货币迁移为 ERC-1155 代币，改由 Cloud of Petals 中压制的玫瑰花瓣作储备。",
+   "collective": "Buyers speculated on the artist as a currency. Earlier holders could claim equivalent new tokens after the migration, which were offered at Phillips in May 2021; in 2023 the Centre Pompidou acquired two Bitchcoins.",
+   "collective_zh": "买家把艺术家当作一种货币来投机。迁移后原持有者可以领取等量的新代币，新代币于 2021 年 5 月在富艺斯上拍；2023 年蓬皮杜中心收藏了两枚 Bitchcoin。",
+   "keywords": [
+    "artist currency",
+    "photography",
+    "redeemable",
+    "Centre Pompidou",
+    "Cloud of Petals"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bitchcoin_03.068.jpg/960px-Bitchcoin_03.068.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg/960px-Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg"
+   ],
+   "source_url": "https://www.sarahmeyohas.com/bitchcoin",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "cyrus-adkisson--etheria",
+   "creator_ids": [
+    "cyrus-adkisson"
+   ],
+   "title": "Etheria",
+   "year": 2015,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "A 3D world of ownable, tradable hexagonal land tiles deployed on Ethereum in October 2015, in four versions of the same 33×33 map, on which owners can build.",
+   "description_zh": "2015 年 10 月部署在以太坊上的三维世界，由可拥有、可交易的六边形地块组成，同一张 33×33 地图有四个版本，持有者可以在地块上建造。",
+   "idea_en": "A shared world whose land and buildings exist only as contract state written by players.",
+   "idea_zh": "一个共享世界，土地和建筑只以玩家写入的合约状态存在。",
+   "protocol": "Each map version has 457 ownable land tiles among 632 ocean tiles; tiles were originally sold at a hardcoded price of 1 ETH and can be traded. Owners can build on their tile; since 2021 build data is stored in each tile's unlimited name field, making builds far cheaper.",
+   "protocol_zh": "每个地图版本有 457 块可拥有的陆地和 632 块海洋；地块最初以写死在合约里的 1 ETH 价格出售，可以交易。持有者可以在地块上建造；自 2021 年起建造数据存放在每块地无限长的名称字段中，建造成本大幅下降。",
+   "collective": "Of the 1,828 tiles across four versions, the project estimates 5–10% are permanently lost; since the 2021 revival owners have been adding new builds to the unified map.",
+   "collective_zh": "四个版本共 1,828 块地，项目估计其中 5% 至 10% 已永久丢失；自 2021 年复兴以来，持有者不断在统一地图上添加新建筑。",
+   "keywords": [
+    "hex tiles",
+    "virtual world",
+    "DEVCON 1",
+    "2015",
+    "builder"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JggQhCpsZH4",
+    "platform": "youtube",
+    "id": "JggQhCpsZH4",
+    "thumbnail": "https://i.ytimg.com/vi/JggQhCpsZH4/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://etheria.world/images/composite.png"
+   ],
+   "source_url": "https://etheria.world/faq.html",
+   "code_url": "https://github.com/cyrusadkisson/etheria_source",
+   "paper": {}
   },
   {
    "id": "kyle-mcdonald--exhausting-a-crowd",
@@ -8249,6 +9806,88 @@
    "paper": {}
   },
   {
+   "id": "kevin-mccoy--monegraph",
+   "creator_ids": [
+    "kevin-mccoy",
+    "anil-dash"
+   ],
+   "title": "Monegraph",
+   "year": 2014,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "participation"
+   ],
+   "substrate": "other-chain",
+   "kind": "platform",
+   "description": "A system built in one day at Rhizome's Seven on Seven 2014 that let anyone certify a web image on the Namecoin blockchain and tweet out public proof of ownership.",
+   "description_zh": "在 2014 年 Rhizome 的 Seven on Seven 活动中一天内搭建完成的系统，让任何人都能在 Namecoin 区块链上认证一张网络图像，并发推公开证明所有权。",
+   "idea_en": "Scarcity for digital images comes from a public claim, not from the file.",
+   "idea_zh": "数字图像的稀缺性来自公开的声明，而不是文件本身。",
+   "protocol": "An artist registers a claim linking an image to their identity on a blockchain; only the original file passes validation against that claim, though copies circulate freely. Registered works can be owned and traded.",
+   "protocol_zh": "艺术家在区块链上登记一项声明，把图像与自己的身份关联；图像可以自由复制传播，但只有原始文件能通过该声明的验证。登记过的作品可以被拥有和交易。",
+   "collective": "Monegraph opened the claim mechanism to other artists and collectors, becoming a template for later NFT platforms; the McCoys' Public Key/Private Key at the Whitney (2019) used it to make 50 people donors of a museum work.",
+   "collective_zh": "Monegraph 把登记机制开放给其他艺术家和藏家，成为后来 NFT 平台的模板；McCoy 夫妇 2019 年在惠特尼美术馆的 Public Key/Private Key 就用它让 50 个人成为一件馆藏作品的捐赠者。",
+   "keywords": [
+    "Seven on Seven",
+    "Rhizome",
+    "Namecoin",
+    "certification",
+    "Twitter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=maXcAaZ-fpQ",
+    "platform": "youtube",
+    "id": "maXcAaZ-fpQ",
+    "thumbnail": "https://i.ytimg.com/vi/maXcAaZ-fpQ/hqdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "https://web.archive.org/web/20141218051740/http://monegraph.com/",
+   "images": [],
+   "paper": {}
+  },
+  {
+   "id": "kevin-mccoy--quantum",
+   "creator_ids": [
+    "kevin-mccoy"
+   ],
+   "title": "Quantum",
+   "year": 2014,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "time"
+   ],
+   "substrate": "other-chain",
+   "kind": "artwork",
+   "description": "A looping animation of a pulsing octagon registered on the Namecoin blockchain on 3 May 2014, often cited as the first blockchain-registered artwork.",
+   "description_zh": "一段搏动的八边形循环动画，于 2014 年 5 月 3 日在 Namecoin 区块链上登记，常被称为第一件在区块链上登记的艺术作品。",
+   "idea_en": "A registry entry is ownership only for as long as someone keeps renewing it.",
+   "idea_zh": "登记条目只有在有人持续续期时才构成所有权。",
+   "protocol": "The work was recorded as a Namecoin name entry pointing to the image. Namecoin names must be renewed by their holder (every 250 days, as reported); an unrenewed name can be claimed by anyone.",
+   "protocol_zh": "作品以指向图像的 Namecoin 域名条目登记。Namecoin 名称必须由持有者定期续期（据报道每 250 天一次）；未续期的名称任何人都可以认领。",
+   "collective": "McCoy did not renew the record in 2015. In 2021 he re-minted Quantum on Ethereum and Sotheby's sold it for $1.47 million; a Canadian company, Free Holdings, which had claimed the lapsed Namecoin entry, sued McCoy and Sotheby's, and a New York court dismissed the case.",
+   "collective_zh": "McCoy 在 2015 年没有续期。2021 年他在以太坊上重新铸造 Quantum，苏富比以 147 万美元售出；一家认领了失效 Namecoin 条目的加拿大公司 Free Holdings 起诉 McCoy 和苏富比，纽约法院驳回了诉讼。",
+   "keywords": [
+    "Namecoin",
+    "first NFT",
+    "renewal",
+    "Sotheby's",
+    "Free Holdings"
+   ],
+   "images": [
+    "https://sothebys-md.brightspotcdn.com/dims4/default/b3d31c7/2147483647/strip/true/crop/1280x1280+0+0/resize/4096x4096!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2Fcf%2F91ff8b7e484eb6d1e765a2a9a14d%2Fmccoy-quantum-still.jpeg",
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif"
+   ],
+   "source_url": "https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "twitch-plays-pokemon-streamer--twitch-plays-pokemon",
    "creator_ids": [
     "twitch-plays-pokemon-streamer"
@@ -8411,6 +10050,48 @@
     "https://images.prismic.io/listasafn-islands/6b8be785-26d0-4457-a3a1-9cf6bb14248d_LET+US+KEEP+OUR+OWN+NOON_+2013++David+Horvitz.jpeg?auto=compress&max-w=1200"
    ],
    "source_url": "https://www.listasafn.is/en/art/exhibitions/david-horvitz/",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "darius-kazemi--nanogenmo",
+   "creator_ids": [
+    "darius-kazemi"
+   ],
+   "title": "NaNoGenMo (National Novel Generation Month)",
+   "year": 2013,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "constraint",
+    "participation"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "Every November, participants write code that generates a novel of at least 50,000 words and share it on GitHub. Kazemi started it in 2013 from a tweet, as a counterpart to National Novel Writing Month.",
+   "description_zh": "每年 11 月，参与者编写能生成至少 5 万字小说的程序，并在 GitHub 上分享。Kazemi 于 2013 年由一条推文发起，作为“全国小说写作月”的对应版本。",
+   "idea_en": "Write a rule for writing the rules: the crowd's generators are the literature.",
+   "idea_zh": "为“写规则”写一条规则：人群写出的生成器本身就是文学。",
+   "protocol": "Spend November writing code that generates a 'novel' of 50,000+ words, defined however you like; the only rule is to share at least one novel and your source code by the end. Participants declare intent and post progress as GitHub issues.",
+   "protocol_zh": "用 11 月编写一个生成 5 万字以上“小说”的程序，“小说”的定义随你；唯一的规则是月底前至少分享一部小说和源代码。参与者在 GitHub issue 中宣布参加并发布进展。",
+   "collective": "Programmers and writers have produced a large public archive of generated novels and open-source generators, with the event repeated every year since 2013.",
+   "collective_zh": "程序员和写作者积累了一个庞大的公开档案，包括生成的小说和开源生成器；活动自 2013 年起每年举办。",
+   "keywords": [
+    "generative literature",
+    "GitHub",
+    "NaNoWriMo",
+    "code",
+    "open source"
+   ],
+   "images": [
+    "https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo"
+   ],
+   "source_url": "https://github.com/dariusk/NaNoGenMo",
+   "code_url": "https://github.com/dariusk/NaNoGenMo",
    "video": {},
    "paper": {}
   },
@@ -8579,6 +10260,45 @@
    },
    "source_url": "https://www.versobooks.com/products/2251-artificial-hells",
    "video": {},
+   "also": []
+  },
+  {
+   "id": "superflex--superkilen",
+   "creator_ids": [
+    "superflex"
+   ],
+   "title": "Superkilen",
+   "year": 2012,
+   "field": "social",
+   "sub": "collective-action",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A public park in Copenhagen's Nørrebro district furnished with benches, bins, lamps, playground equipment and signs nominated by local residents from their countries of origin or travels.",
+   "description_zh": "哥本哈根诺雷布罗区的一座公共公园，园中的长椅、垃圾桶、路灯、游乐设施和标志，都由当地居民从自己的原籍国或旅行中提名选出。",
+   "idea_en": "Residents curate the city furniture: the park is a collection nominated by its neighbours.",
+   "idea_zh": "由居民挑选城市家具：公园是一座由邻居提名的收藏。",
+   "protocol": "Residents nominate everyday urban objects from other countries; each is either copied at 1:1 or bought and shipped to the site; five groups travel with Superflex to Palestine, Spain, Thailand, Texas and Jamaica to acquire an object of their choice.",
+   "protocol_zh": "居民提名来自其他国家的日常城市物件；每件物件要么按 1:1 复制，要么购买后运到现场；五组居民与 Superflex 一起前往巴勒斯坦、西班牙、泰国、得克萨斯和牙买加，取回他们选定的物件。",
+   "collective": "Residents of more than 50 nationalities took part; the park now holds more than 100 objects from more than 50 countries. It was designed with BIG and Topotek1 and commissioned by the City of Copenhagen and Realdania.",
+   "collective_zh": "来自 50 多个国家的居民参与其中；公园如今有来自 50 多个国家的 100 多件物件。它与 BIG 和 Topotek1 共同设计，由哥本哈根市政府和 Realdania 委托。",
+   "keywords": [
+    "Copenhagen",
+    "Nørrebro",
+    "public space",
+    "extreme participation",
+    "BIG",
+    "Topotek1"
+   ],
+   "images": [
+    "https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg"
+   ],
+   "source_url": "https://superflex.net/works/superkilen",
+   "video": {},
+   "paper": {},
    "also": []
   },
   {
@@ -8796,6 +10516,47 @@
    "also": []
   },
   {
+   "id": "superflex--free-sol-lewitt",
+   "creator_ids": [
+    "superflex"
+   ],
+   "title": "Free Sol LeWitt",
+   "year": 2010,
+   "field": "social",
+   "sub": "economies",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "chance",
+    "circulation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A metal workshop inside the Van Abbemuseum produced exact replicas of Sol LeWitt's Untitled (Wall Structure) (1972) from the collection and gave them away to the public by lottery.",
+   "description_zh": "范·阿贝博物馆内的一个金属工坊，照原样复制馆藏的索尔·勒维特《无题（墙面结构）》（1972），并通过抽签免费送给公众。",
+   "idea_en": "Take the artist at his word: if ideas are common property, the museum's copy can be released to the public.",
+   "idea_zh": "按艺术家自己的话去做：如果观念是公共财产，美术馆的副本就可以交还给公众。",
+   "protocol": "Workers fabricate copies of the LeWitt structure in the gallery during opening hours; visitors enter a lottery; winners take a copy home for free.",
+   "protocol_zh": "工人在开放时间于展厅内制作勒维特结构的复制品；观众参加抽签；中签者免费把复制品带回家。",
+   "collective": "Visitors to In-between Minimalisms / Free Sol LeWitt at the Van Abbemuseum in 2010 entered the lottery and took replicas into their homes, testing LeWitt's statement that ideas 'can only be given away and not stolen'.",
+   "collective_zh": "2010 年范·阿贝博物馆“极简主义之间／解放索尔·勒维特”展的观众参加抽签，把复制品带回家中，检验了勒维特“观念只能被赠予、不能被偷走”的说法。",
+   "keywords": [
+    "Van Abbemuseum",
+    "Sol LeWitt",
+    "copyright",
+    "lottery",
+    "copying"
+   ],
+   "images": [
+    "https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg"
+   ],
+   "source_url": "https://superflex.net/works/free_sol_lewitt",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "paul-ramirez-jonas--key-to-the-city",
    "creator_ids": [
     "paul-ramirez-jonas"
@@ -8837,6 +10598,45 @@
     "https://creativetime.org/wp-content/uploads/2010/08/2010_KeyToTheCity.jpg"
    ],
    "source_url": "https://creativetime.org/projects/key-to-the-city/",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "kevin-macdonald--life-in-a-day",
+   "creator_ids": [
+    "kevin-macdonald"
+   ],
+   "title": "Life in a Day",
+   "year": 2010,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A feature documentary edited from videos that people around the world filmed on a single day, 24 July 2010, and uploaded to YouTube. It premiered at Sundance in January 2011.",
+   "description_zh": "一部纪录长片，剪辑自世界各地的人们在同一天——2010 年 7 月 24 日——拍摄并上传到 YouTube 的视频。影片于 2011 年 1 月在圣丹斯电影节首映。",
+   "idea_en": "One date as the whole brief: film your day, and the crowd becomes a portrait of the planet.",
+   "idea_zh": "一个日期就是全部任务：拍下你的一天，人群就成了一幅地球的肖像。",
+   "protocol": "Anyone could film anything on 24 July 2010 and upload it to a YouTube channel; contributors kept copyright but licensed the footage, and those whose clips were used were credited as co-directors.",
+   "protocol_zh": "任何人都可以在 2010 年 7 月 24 日拍摄任何内容并上传到指定 YouTube 频道；投稿者保留版权但授权使用素材，入选片段的作者都被署名为联合导演。",
+   "collective": "People in 192 nations sent 80,000 submissions totalling 4,500 hours of footage, edited into a 95-minute film.",
+   "collective_zh": "192 个国家的人发来 8 万份投稿，共 4,500 小时素材，剪成一部 95 分钟的影片。",
+   "keywords": [
+    "YouTube",
+    "Ridley Scott",
+    "Sundance 2011",
+    "24 July 2010",
+    "crowdsourced documentary"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)",
+   "video": {},
    "paper": {},
    "also": []
   },
@@ -9011,6 +10811,95 @@
    "also": []
   },
   {
+   "id": "julieta-aranda--time-bank",
+   "creator_ids": [
+    "julieta-aranda",
+    "anton-vidokle"
+   ],
+   "title": "Time/Bank",
+   "year": 2010,
+   "field": "social",
+   "sub": "economies",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "currency",
+    "exchange",
+    "participation"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "An online time bank for the art community, launched by e-flux, where artists, curators and writers trade hours of work and skills with each other instead of money.",
+   "description_zh": "e-flux 推出的面向艺术社群的在线时间银行，艺术家、策展人和写作者之间用工作时间和技能互相交换，而不是用钱。",
+   "idea_en": "An hour for an hour: a parallel currency that makes the art world's unpaid favours visible and countable.",
+   "idea_zh": "以一小时换一小时：一种平行货币，让艺术界无偿的互助变得可见、可计数。",
+   "protocol": "Members post needs and offers; helping another member for one hour earns one hour of credit, recorded by the bank as intermediary and guarantor; credits can be spent on any other member's time; local branches and printed Time/Bank notes extend the system offline.",
+   "protocol_zh": "成员发布需求和可提供的帮助；为另一名成员工作一小时即获得一小时信用，由银行作为中介和担保人记账；信用可用来换取任何其他成员的时间；地方分行和印刷的 Time/Bank 纸币把这一系统延伸到线下。",
+   "collective": "More than a thousand participants around the world had joined by the time of its first exhibitions, and branches opened in several cities; exhibitions at Portikus in Frankfurt and elsewhere presented it as an artwork.",
+   "collective_zh": "在首批展览时，全球已有一千多名参与者加入，并在多个城市开设了分行；法兰克福 Portikus 等机构的展览把它作为艺术作品展出。",
+   "keywords": [
+    "e-flux",
+    "time banking",
+    "alternative currency",
+    "Portikus",
+    "hours"
+   ],
+   "images": [
+    "https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/36461/time-bank/",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "eric-whitacre--virtual-choir",
+   "creator_ids": [
+    "eric-whitacre"
+   ],
+   "title": "Virtual Choir",
+   "year": 2010,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "A choir of singers who record their parts alone at home, following a video of Whitacre conducting, and upload them to be mixed into one performance. The first, 'Lux Aurumque', was released in March 2010.",
+   "description_zh": "一支合唱团：歌手们在家里跟着 Whitacre 的指挥视频独自录下各自声部并上传，再混合成一场演出。第一部《Lux Aurumque》于 2010 年 3 月发布。",
+   "idea_en": "A score, a conductor on video and an upload link are enough to make a choir that never meets.",
+   "idea_zh": "一份乐谱、一段指挥视频和一个上传链接，就足以组成一支从不见面的合唱团。",
+   "protocol": "Whitacre publishes the score, a guide track and a conducting video; singers download them, film themselves singing one part while watching the conductor, and upload the video; editors align and mix all submissions.",
+   "protocol_zh": "Whitacre 公开乐谱、引导音轨和指挥视频；歌手下载后看着指挥唱一个声部并自拍上传；剪辑团队把所有投稿对齐并混音。",
+   "collective": "Virtual Choir 1 combined 185 singers from 12 countries; Virtual Choir 2 ('Sleep', 2011) combined 2,051 singers from 58 countries, and later editions grew larger.",
+   "collective_zh": "第一部虚拟合唱团汇集了 12 个国家的 185 名歌手；第二部（《Sleep》，2011）汇集了 58 个国家的 2,051 名歌手，之后的版本规模更大。",
+   "keywords": [
+    "choir",
+    "YouTube",
+    "Lux Aurumque",
+    "remote performance",
+    "TED"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D7o7BrlbaDs",
+    "platform": "youtube",
+    "id": "D7o7BrlbaDs",
+    "thumbnail": "https://i.ytimg.com/vi/D7o7BrlbaDs/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://ericwhitacre.com/wp-content/uploads/vc1.jpg"
+   ],
+   "source_url": "https://ericwhitacre.com/the-virtual-choir",
+   "paper": {}
+  },
+  {
    "id": "david-horvitz--241543903",
    "creator_ids": [
     "david-horvitz"
@@ -9094,6 +10983,51 @@
     "https://www.aaronkoblin.com/wp-content/uploads/2015/10/bb2k-hero.jpg"
    ],
    "source_url": "https://www.aaronkoblin.com/project/bicycle-built-for-two-thousand/",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "casey-pugh--star-wars-uncut",
+   "creator_ids": [
+    "casey-pugh"
+   ],
+   "title": "Star Wars Uncut",
+   "year": 2009,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "instruction"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A shot-for-shot remake of the 1977 film Star Wars made by fans, 15 seconds at a time. Each segment is in a different style — live action, animation, Lego stop-motion — and the full film was released free on YouTube in 2010.",
+   "description_zh": "粉丝以每段 15 秒的方式逐镜重拍 1977 年的《星球大战》。每段风格各异——真人、动画、乐高定格——完整影片于 2010 年在 YouTube 免费发布。",
+   "idea_en": "Cut a feature film into 15-second claims and a fan crowd can remake all of it.",
+   "idea_zh": "把一部长片切成 15 秒的认领单元，粉丝群就能把它整部重拍。",
+   "protocol": "From July 2009 fans could sign up on the website to claim a 15-second scene and recreate it any way they liked; several versions were submitted per scene and votes decided which went into the final cut.",
+   "protocol_zh": "2009 年 7 月起，粉丝可以在网站上认领一段 15 秒的场景，并以任意方式重现；每个场景都有多个版本投稿，由投票决定哪个进入最终剪辑。",
+   "collective": "Contributors worldwide produced the 473 fifteen-second segments that make up the finished film, which won a 2010 Emmy for interactive media; a sequel remade The Empire Strikes Back in 2014.",
+   "collective_zh": "世界各地的参与者完成了构成整部影片的 473 个 15 秒片段，该片获得 2010 年互动媒体类艾美奖；2014 年的续作重拍了《帝国反击战》。",
+   "keywords": [
+    "Star Wars",
+    "fan film",
+    "remake",
+    "voting",
+    "Emmy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7ezeYJUz-84",
+    "platform": "youtube",
+    "id": "7ezeYJUz-84",
+    "thumbnail": "https://i.ytimg.com/vi/7ezeYJUz-84/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png"
+   ],
+   "source_url": "http://www.starwarsuncut.com/",
    "paper": {},
    "also": []
   },
@@ -9510,6 +11444,51 @@
    "paper": {}
   },
   {
+   "id": "perry-bard--man-with-a-movie-camera-global-remake",
+   "creator_ids": [
+    "perry-bard"
+   ],
+   "title": "Man with a Movie Camera: The Global Remake",
+   "year": 2007,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "co-authorship",
+    "chance",
+    "instruction"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A participatory remake of Dziga Vertov's 1929 film, broken down into its 1,276 shots, each of which anyone can reshoot and upload. The software assembles a new version every day from the submissions.",
+   "description_zh": "对吉加·维尔托夫 1929 年电影的参与式重拍：影片被拆成 1,276 个镜头，任何人都可以重拍其中任意一个并上传。软件每天用投稿组装出一个新版本。",
+   "idea_en": "Turn a film into a shot list and let the world fill it in.",
+   "idea_zh": "把一部电影变成一张分镜清单，让全世界来填写。",
+   "protocol": "Participants choose a shot from Vertov's film, interpret it however they like, and upload it; each day the system picks at random among the submissions for each shot and plays them side by side with the original.",
+   "protocol_zh": "参与者从维尔托夫的影片中挑一个镜头，以任意方式诠释并上传；系统每天为每个镜头从投稿中随机挑选一个，与原片并排播放。",
+   "collective": "Contributors from many countries filmed their own versions of Vertov's shots, so the remake is never the same twice.",
+   "collective_zh": "来自许多国家的参与者拍下自己版本的维尔托夫镜头，于是这部重拍片每次放映都不一样。",
+   "keywords": [
+    "Dziga Vertov",
+    "remake",
+    "database cinema",
+    "IDFA",
+    "shot-by-shot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uEykp9PsDkw",
+    "platform": "youtube",
+    "id": "uEykp9PsDkw",
+    "thumbnail": "https://i.ytimg.com/vi/uEykp9PsDkw/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg"
+   ],
+   "source_url": "https://docubase.mit.edu/project/man-with-a-movie-camera-global-remake/",
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "roman-ondak--measuring-the-universe",
    "creator_ids": [
     "roman-ondak"
@@ -9724,6 +11703,49 @@
    "also": []
   },
   {
+   "id": "peter-edmunds--swarmsketch",
+   "creator_ids": [
+    "peter-edmunds"
+   ],
+   "title": "SwarmSketch",
+   "year": 2005,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "constraint",
+    "governance",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "An online canvas where the public draws a picture of the week's popular search term, one short line per visitor. Everyone also votes on the darkness of other people's lines, so the crowd both draws and edits the sketch.",
+   "description_zh": "一块在线画布，公众一起画出本周的热门搜索词，每位访客只画一小段线。每个人还要给别人的线投票决定深浅，于是人群既画也改。",
+   "idea_en": "Limit each person's mark, then let the crowd weight every mark.",
+   "idea_zh": "限制每个人的笔迹，再让人群给每一笔加权。",
+   "protocol": "Each week the site picks a popular search term as the subject; each visit allows only a short line, after which the visitor votes on the opacity of lines by others. A line's darkness is the average of its votes, and a new sketch starts after a week or 1,000 lines.",
+   "protocol_zh": "网站每周选一个热门搜索词作为题目；每次访问只能画一小段线，之后访客要为他人的线投票决定透明度。每条线的深浅是所得票数的平均值，一周或满 1,000 条线后开始新的画。",
+   "collective": "Anonymous contributors produced a weekly series of sketches of news and pop culture topics, each drawn and moderated by the crowd over several years.",
+   "collective_zh": "匿名参与者多年间每周画出一幅关于新闻或流行文化话题的草图，每一幅都由人群共同绘制并审定。",
+   "keywords": [
+    "collective drawing",
+    "voting",
+    "University of Canberra",
+    "search trends",
+    "Rhizome ArtBase"
+   ],
+   "images": [
+    "http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg"
+   ],
+   "paper": {
+    "url": "https://ojs.ruc.dk/index.php/pdc/article/view/361",
+    "venue": "PDC 2006",
+    "title": "SwarmSketch"
+   },
+   "source_url": "http://web.archive.org/web/20080110101609/http://swarmsketch.com:80/",
+   "video": {},
+   "also": []
+  },
+  {
    "id": "alex-tew--million-dollar-homepage",
    "creator_ids": [
     "alex-tew"
@@ -9889,6 +11911,48 @@
    "also": []
   },
   {
+   "id": "superflex--free-beer",
+   "creator_ids": [
+    "superflex"
+   ],
+   "title": "Free Beer (Vores Øl)",
+   "year": 2004,
+   "field": "social",
+   "sub": "economies",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "contract",
+    "circulation"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "A beer recipe and brand published under a Creative Commons licence, so that anyone may brew it, sell it or change it, as long as they share their version under the same terms.",
+   "description_zh": "一份以知识共享许可发布的啤酒配方和品牌，任何人都可以酿造、出售或修改，只要以相同条款分享自己的版本。",
+   "idea_en": "Open-source licensing applied to a physical product: the licence is the artwork's rule of reproduction.",
+   "idea_zh": "把开源许可用于实体产品：许可证就是作品的复制规则。",
+   "protocol": "The recipe and label are licensed CC BY-SA 2.5: anyone may brew the beer, use the name and logo, and make derivatives, provided they credit the source and publish their recipe under the same licence.",
+   "protocol_zh": "配方和标签采用 CC BY-SA 2.5 许可：任何人都可以酿造这款啤酒、使用名称和标志、制作衍生版本，前提是注明来源，并以相同许可公开自己的配方。",
+   "collective": "Conceived with students of the IT University of Copenhagen, the beer has been brewed by breweries, workshops and home brewers in Taipei, São Paulo, Los Angeles, Munich, Auckland and elsewhere, with and without Superflex's involvement.",
+   "collective_zh": "这款啤酒与哥本哈根信息技术大学的学生共同构思，此后在台北、圣保罗、洛杉矶、慕尼黑、奥克兰等地由酒厂、工作坊和家酿者酿造，有的有 Superflex 参与，有的没有。",
+   "keywords": [
+    "Creative Commons",
+    "open source",
+    "beer",
+    "copyleft",
+    "IT University of Copenhagen"
+   ],
+   "images": [
+    "https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg"
+   ],
+   "source_url": "https://superflex.net/works/free_beer",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "francis-alys--guards",
    "creator_ids": [
     "francis-alys"
@@ -10015,6 +12079,92 @@
    "also": []
   },
   {
+   "id": "jonah-brucker-cohen--bumplist",
+   "creator_ids": [
+    "jonah-brucker-cohen"
+   ],
+   "title": "BumpList: An Email Community for the Determined",
+   "year": 2003,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "constraint",
+    "scarcity",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "A mailing list that only six people can belong to at once. Each new subscriber 'bumps' the longest-standing member off the list, and a hall of fame ranks members by time on the list, posts and re-subscriptions.",
+   "description_zh": "一个同一时间只能容纳六人的邮件列表。每有新订阅者加入，就会把待得最久的成员“挤”出去；名人堂按在列时长、发帖数和重新订阅次数给成员排名。",
+   "idea_en": "One membership rule turns a mailing list into a game of staying present.",
+   "idea_zh": "一条会员规则，就把邮件列表变成一场“保持在场”的游戏。",
+   "protocol": "Membership is capped at six; when a new person subscribes, the first subscriber is automatically removed and must resubscribe to return. Statistics on time, posts and bumps are published.",
+   "protocol_zh": "会员上限六人；新人订阅时，最早的订阅者被自动移除，要回来只能重新订阅。在列时间、发帖和被挤出的统计数据都会公开。",
+   "collective": "Members posted urgently while they could and resubscribed repeatedly after being bumped, making visible the pressure to keep participating that online communities create.",
+   "collective_zh": "成员们趁还在列时抓紧发言，被挤出后一次次重新订阅，把网络社群制造的持续参与压力显现出来。",
+   "keywords": [
+    "mailing list",
+    "Whitney artport",
+    "membership",
+    "attention",
+    "rules"
+   ],
+   "images": [
+    "https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png",
+    "http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg"
+   ],
+   "paper": {
+    "url": "https://web.media.mit.edu/~stefan/hc/publications/BruckerCohen04BumpListCHI.pdf",
+    "venue": "CHI 2004",
+    "title": "BumpList: Developing Beneficial Email List Structures"
+   },
+   "source_url": "https://whitney.org/exhibitions/jonah-brucker-cohen",
+   "video": {}
+  },
+  {
+   "id": "superflex--guarana-power",
+   "creator_ids": [
+    "superflex"
+   ],
+   "title": "Guaraná Power",
+   "year": 2003,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "exchange",
+    "governance",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Superflex worked with a cooperative of guaraná farmers in Maués, in the Brazilian Amazon, to create the farmers' own soft drink in response to a buyers' cartel that had driven down seed prices.",
+   "description_zh": "Superflex 与巴西亚马孙毛埃斯的瓜拉纳种植户合作社合作，创造了农户自己的汽水，以回应压低种子收购价的买家卡特尔。",
+   "idea_en": "The artwork is a producers' cooperative and its brand: self-organisation as a counter-economy.",
+   "idea_zh": "作品是一个生产者合作社及其品牌：以自组织作为对抗性经济。",
+   "protocol": "Decisions about the product are made by the farmers through an extended process of self-organisation; Superflex supplies design, branding and distribution in the art world; the label overwrites the corporate brand it answers.",
+   "protocol_zh": "关于产品的决定由农户通过长期的自组织过程作出；Superflex 负责设计、品牌以及在艺术界的发行；瓶标覆盖在它所回应的企业品牌之上。",
+   "collective": "The farmers' cooperative developed and sold the drink, which was served in exhibitions and bars; the corporate cartel had cut the seed price by 80%, and the 27th São Paulo Biennial (2006) banned the work from display, after which Superflex exhibited censored versions.",
+   "collective_zh": "农户合作社开发并销售这款饮料，在展览和酒吧中供应；此前企业卡特尔把种子收购价压低了 80%；2006 年第 27 届圣保罗双年展禁止展出这件作品，Superflex 随后展出了被审查的版本。",
+   "keywords": [
+    "cooperative",
+    "Amazon",
+    "Maués",
+    "brand",
+    "São Paulo Biennial",
+    "self-organisation"
+   ],
+   "images": [
+    "https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg"
+   ],
+   "source_url": "https://superflex.net/works/guarana_power",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "francis-alys--when-faith-moves-mountains",
    "creator_ids": [
     "francis-alys"
@@ -10058,6 +12208,51 @@
    "source_url": "https://www.guggenheim.org/artwork/11412",
    "paper": {},
    "also": []
+  },
+  {
+   "id": "tino-sehgal--kiss",
+   "creator_ids": [
+    "tino-sehgal"
+   ],
+   "title": "Kiss",
+   "year": 2002,
+   "field": "social",
+   "sub": "economies",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "contract",
+    "instruction",
+    "scarcity"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Two dancers move slowly through a sequence of kisses taken from art history, from Rodin, Brâncuși and Klimt to Courbet and Jeff Koons; the work was sold to museums in an edition of four purely by spoken contract.",
+   "description_zh": "两名舞者缓慢地演绎一系列取自艺术史的亲吻姿态，从罗丹、布朗库西、克里姆特到库尔贝和杰夫·昆斯；这件作品以四版的形式、完全通过口头合同售予美术馆。",
+   "idea_en": "An artwork with no object, sold and passed on only by oral agreement before a notary.",
+   "idea_zh": "一件没有实物的作品，只在公证人面前通过口头约定出售和传承。",
+   "protocol": "No written contract, receipt, instructions or photographs. The sale is spoken before a notary and witnesses, with stipulations: the work is installed only by people Sehgal has trained, the dancers are paid an agreed minimum, it is shown for at least six weeks, it is never photographed, and any resale must repeat the same oral contract.",
+   "protocol_zh": "没有书面合同、收据、说明或照片。销售在公证人和见证人面前口头完成，并约定：只能由赛格尔亲自训练的人来安装作品，舞者须获得约定的最低报酬，每次展出至少六周，永不拍照，任何转售都必须重复同样的口头合同。",
+   "collective": "The Art Gallery of Ontario, the Museum of Contemporary Art Chicago and the Museum of Modern Art in New York, which acquired the final edition, bought it on these terms; generations of dancers have learned it by direct transmission.",
+   "collective_zh": "安大略美术馆、芝加哥当代艺术博物馆以及收购最后一版的纽约现代艺术博物馆，都按这些条款购入了作品；一代代舞者通过口传身授学会了它。",
+   "keywords": [
+    "oral contract",
+    "notary",
+    "constructed situation",
+    "MoMA",
+    "immaterial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZWfM71KsPTY",
+    "platform": "youtube",
+    "id": "ZWfM71KsPTY",
+    "thumbnail": "https://i.ytimg.com/vi/ZWfM71KsPTY/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Tino_Sehgal",
+   "images": [],
+   "paper": {}
   },
   {
    "id": "miranda-july--learning-to-love-you-more",
@@ -10141,6 +12336,45 @@
     "https://www.publicartfund.org/wp-content/uploads/2019/06/AlysF_0058_horizontal.jpg"
    ],
    "source_url": "https://www.publicartfund.org/exhibitions/view/the-modern-procession/",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "mark-napier--net-flag",
+   "creator_ids": [
+    "mark-napier"
+   ],
+   "title": "net.flag",
+   "year": 2002,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "co-authorship",
+    "participation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A flag for the internet, commissioned by the Guggenheim, that any visitor can redesign from the parts of the world's national flags. The current flag is always the last one saved.",
+   "description_zh": "古根海姆美术馆委托创作的一面互联网之旗，任何访客都可以用世界各国国旗的元素重新设计它。当前的旗帜永远是最后一个保存的版本。",
+   "idea_en": "A national symbol with no nation, owned by whoever touched it last.",
+   "idea_zh": "一个没有国家的国家象征，归最后一个动过它的人所有。",
+   "protocol": "Visitors choose colours, patterns and symbols broken out of all national flags, compose a new flag and save it; the saved flag replaces the previous one on the site, and all past versions stay browsable.",
+   "protocol_zh": "访客从拆解后的各国国旗元素中挑选颜色、图案和符号，组合出新旗帜并保存；保存的旗帜会替换网站上的前一面，所有旧版本都可浏览。",
+   "collective": "Visitors produced a running history of flags over a decade, about 23,000 of which were compiled into net.flag: ten years of flags (2002–2012), a record of claims and counterclaims on a shared emblem.",
+   "collective_zh": "访客在十年间留下了一部持续的旗帜史，其中约 23,000 面被汇编为《net.flag: ten years of flags (2002–2012)》，记录了人们对一个共享徽记的反复争夺。",
+   "keywords": [
+    "Guggenheim",
+    "flag",
+    "territory",
+    "Snow Crash",
+    "museum commission"
+   ],
+   "images": [
+    "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg",
+    "https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png"
+   ],
+   "source_url": "https://www.guggenheim.org/artwork/10703",
+   "video": {},
    "paper": {},
    "also": []
   },
@@ -10272,6 +12506,44 @@
    "also": []
   },
   {
+   "id": "olia-lialina--last-real-net-art-museum",
+   "creator_ids": [
+    "olia-lialina"
+   ],
+   "title": "Last Real Net Art Museum",
+   "year": 2000,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "co-authorship",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "An online museum that collects remakes, remixes and homages of Lialina's 1996 work My Boyfriend Came Back from the War made by other artists. It opened in March 2000 and is still being added to.",
+   "description_zh": "一座在线博物馆，收藏其他艺术家对 Lialina 1996 年作品《My Boyfriend Came Back from the War》的重制、混剪与致敬。它于 2000 年 3 月开馆，至今仍在增加藏品。",
+   "idea_en": "Let the copies be the collection.",
+   "idea_zh": "让副本成为馆藏。",
+   "protocol": "Any artist may make their own version of the work; Lialina links accepted versions from the museum, but each stays on its maker's own server and can be changed, replaced or deleted by them.",
+   "protocol_zh": "任何艺术家都可以做自己的版本；Lialina 在博物馆里链接收录的版本，但每个版本都留在创作者自己的服务器上，可由他们修改、替换或删除。",
+   "collective": "Artists including JODI, Constant Dullaart and Auriea Harvey & Michaël Samyn contributed versions over more than two decades, forming a living archive of how net art is copied and reinterpreted.",
+   "collective_zh": "JODI、Constant Dullaart、Auriea Harvey & Michaël Samyn 等艺术家在二十多年里陆续贡献版本，形成一个关于网络艺术如何被复制与重释的活档案。",
+   "keywords": [
+    "My Boyfriend Came Back from the War",
+    "remix",
+    "net.art",
+    "Rhizome Net Art Anthology",
+    "homage"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg"
+   ],
+   "source_url": "https://mbcbftw.museum/collection.html",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "ken-goldberg--ouija-2000",
    "creator_ids": [
     "ken-goldberg"
@@ -10309,6 +12581,92 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "santiago-sierra--250-cm-line-tattooed",
+   "creator_ids": [
+    "santiago-sierra"
+   ],
+   "title": "250 cm Line Tattooed on 6 Paid People",
+   "year": 1999,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "contract",
+    "exchange",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "At Espacio Aglutinador in Havana, Sierra paid six unemployed young men to have a single continuous 250-centimetre line tattooed across their backs as they stood side by side.",
+   "description_zh": "在哈瓦那的 Espacio Aglutinador，谢拉付钱给六名失业青年，让他们并排站立，在背上文上一条连续的 250 厘米长的线。",
+   "idea_en": "A wage contract made permanent on the body: the payment rule is the work's content.",
+   "idea_zh": "把雇佣合同永久留在身体上：报酬规则就是作品的内容。",
+   "protocol": "Six people are recruited and paid a fixed fee (thirty dollars each) to stand in a row and accept a straight line tattooed across all their backs; the action is photographed and the fee is stated in the title and documentation.",
+   "protocol_zh": "招募六人，每人支付固定报酬（30 美元），让他们站成一排，接受一条横贯所有人背部的直线文身；行动被拍摄记录，报酬写入标题和文献之中。",
+   "collective": "Six young men in Havana accepted the payment and the permanent mark in December 1999; the work provoked long debates on exploitation and complicity, and its photographic documentation is held by the Städel Museum and Fundación Jumex.",
+   "collective_zh": "1999 年 12 月，哈瓦那的六名青年接受了报酬和永久的印记；作品引发了关于剥削与共谋的长期争论，其摄影文献由施泰德博物馆和尤麦克斯基金会收藏。",
+   "keywords": [
+    "wage labour",
+    "Havana",
+    "tattoo",
+    "remuneration",
+    "exploitation"
+   ],
+   "images": [
+    "https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg",
+    "https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg"
+   ],
+   "source_url": "https://sammlung.staedelmuseum.de/en/work/250-cm-line-tattooed-on-6-paid-people-espacio-aglutinador",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "rafael-lozano-hemmer--vectorial-elevation",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Vectorial Elevation",
+   "year": 1999,
+   "field": "network",
+   "sub": "telematic",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "Eighteen robotic searchlights around Mexico City's Zócalo, controlled by anyone on the internet, to mark the arrival of the year 2000. Each participant designed a light sculpture in a 3D web interface and saw it executed over the square.",
+   "description_zh": "为迎接 2000 年，墨西哥城宪法广场周围架起十八盏机器人探照灯，由任何网民控制。每位参与者在 3D 网页界面中设计一组光雕塑，并看到它在广场上空实现。",
+   "idea_en": "Hand the sky over a national square to anyone with a browser.",
+   "idea_zh": "把国家广场上空交给任何一个有浏览器的人。",
+   "protocol": "Online users designed a searchlight configuration in a 3D simulator and joined a queue; each design was executed in turn, photographed by webcams, and published on an uncensored personal page with the participant's name, dedication and comments.",
+   "protocol_zh": "网民在 3D 模拟器中设计探照灯组合并排队；每个设计依次执行，由网络摄像头拍下，发布在未经审查的个人页面上，附参与者的姓名、献词和留言。",
+   "collective": "Over two weeks, 800,000 people from 89 countries took part, leaving love poems, football scores, Zapatista slogans and twenty-seven marriage proposals in light and text.",
+   "collective_zh": "两周内，来自 89 个国家的 80 万人参与，用光和文字留下情诗、球赛比分、萨帕塔运动口号和二十七次求婚。",
+   "keywords": [
+    "relational architecture",
+    "Zócalo",
+    "searchlights",
+    "millennium",
+    "alzado.net"
+   ],
+   "video": {
+    "url": "https://vimeo.com/33988779",
+    "platform": "vimeo",
+    "id": "33988779",
+    "thumbnail": "https://i.vimeocdn.com/video/274620370-c39db80626bde159fc4adbb1773d5172568e56b3939b71ab6e50a34dd3d233d4-d?f=webp&region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/vectorial_elevation.php",
+   "paper": {}
   },
   {
    "id": "nicolas-bourriaud--relational-aesthetics",
@@ -10432,6 +12790,57 @@
    "also": [],
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "eduardo-kac--teleporting-an-unknown-state",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Teleporting an Unknown State",
+   "year": 1996,
+   "field": "network",
+   "sub": "telematic",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A seed in a pot of earth in a completely dark gallery, lit only by a video projector showing images of the sky sent by remote participants over internet videoconferencing. The plant grows only as long as people keep sending light.",
+   "description_zh": "漆黑展厅里一盆土中的一粒种子，唯一的光来自投影仪，投出远程参与者通过网络视频会议传来的天空影像。只要人们持续送来光，植物就能生长。",
+   "idea_en": "Use the internet as a life-support system that a crowd must keep running.",
+   "idea_zh": "把互联网当作一套必须由人群维持运转的生命支持系统。",
+   "protocol": "Participants in other cities pointed cameras at the sky and transmitted the live image via videoconferencing; the projector turned their incoming video into light over the seed. No verbal messages were exchanged.",
+   "protocol_zh": "其他城市的参与者把摄像头对准天空，通过视频会议传送实时影像；投影仪把传来的视频变成照在种子上的光。整个过程不交换任何言语信息。",
+   "collective": "Anonymous participants in several countries shared responsibility for the plant's photosynthesis, keeping it growing for as long as the exhibition was open.",
+   "collective_zh": "多个国家的匿名参与者共同承担植物光合作用的责任，让它在展期内一直生长。",
+   "keywords": [
+    "biotelematics",
+    "videoconferencing",
+    "photosynthesis",
+    "seed",
+    "light"
+   ],
+   "video": {
+    "url": "https://vimeo.com/319098037",
+    "platform": "vimeo",
+    "id": "319098037",
+    "thumbnail": "https://i.vimeocdn.com/video/761588565-a7f80115bb557607377ef78d9fb1784bc55706925df428a4f0d6e69940e8250e-d?f=webp&region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.ekac.org/telepsim/center8.jpg"
+   ],
+   "paper": {
+    "url": "https://www.ekac.org/teleporting.html",
+    "doi": "10.1145/253607.253628",
+    "venue": "SIGGRAPH '96 Visual Proceedings",
+    "title": "Teleporting an unknown state"
+   },
+   "source_url": "https://www.ekac.org/teleporting.html"
   },
   {
    "id": "yoko-ono--wish-tree",
@@ -10605,6 +13014,47 @@
     "https://live.staticflickr.com/2176/2524624568_087dfcc3bc_z.jpg"
    ],
    "source_url": "http://www.irational.org/cybercafe/xrel.html",
+   "paper": {}
+  },
+  {
+   "id": "antoni-muntadas--the-file-room",
+   "creator_ids": [
+    "antoni-muntadas"
+   ],
+   "title": "The File Room",
+   "year": 1994,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "theory"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "An installation of filing cabinets at the Chicago Cultural Center with computers where visitors could read and add cases of cultural censorship, linked to an online archive that anyone could extend.",
+   "description_zh": "芝加哥文化中心里一间满是档案柜的装置，访客可以在其中的电脑上阅读并添加文化审查案例，这些内容接入一个任何人都能扩充的在线档案。",
+   "idea_en": "An archive that only grows if the public reports the cases.",
+   "idea_zh": "一个只有公众持续上报案例才会增长的档案。",
+   "protocol": "Visitors in the gallery or online could browse the database of censorship cases by date, place, medium or grounds, and submit new cases through a form; submissions were added to the shared archive.",
+   "protocol_zh": "展厅或网上的访客可以按日期、地点、媒介或理由浏览审查案例数据库，并通过表单提交新案例；提交内容加入共享档案。",
+   "collective": "Contributors worldwide added cases from historical to current, turning the installation into a growing public database; since 2001 it has been maintained by the National Coalition Against Censorship.",
+   "collective_zh": "世界各地的参与者添加了从历史到当下的案例，使装置成为不断增长的公共数据库；自 2001 年起由美国全国反审查联盟维护。",
+   "keywords": [
+    "censorship",
+    "archive",
+    "Randolph Street Gallery",
+    "Chicago Cultural Center",
+    "database"
+   ],
+   "images": [
+    "http://www.mediaartnet.org/assets/img/data/2021/bild.jpg",
+    "https://www.thefileroom.org/documents/sala.gif"
+   ],
+   "source_url": "https://www.thefileroom.org/",
+   "video": {},
    "paper": {}
   },
   {
@@ -10898,6 +13348,48 @@
    "paper": {}
   },
   {
+   "id": "wolfgang-staehle--the-thing",
+   "creator_ids": [
+    "wolfgang-staehle"
+   ],
+   "title": "The Thing",
+   "year": 1991,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "A dial-up bulletin board system for artists started in New York in 1991, conceived on the model of Joseph Beuys's social sculpture. It grew into a web community, hosting service and mailing lists that shaped 1990s net art.",
+   "description_zh": "1991 年在纽约开始的一个面向艺术家的拨号电子公告板系统，以约瑟夫·博伊斯的“社会雕塑”为模型构想。它后来发展为网络社区、主机服务和邮件列表，塑造了 90 年代的网络艺术。",
+   "idea_en": "Build the infrastructure and let the community be the sculpture.",
+   "idea_zh": "搭好基础设施，让社群成为雕塑本身。",
+   "protocol": "Members dialled in by modem to read and post in threaded boards on art and theory; Staehle and collaborators set up the editorial structure, while members supplied the conversation and, later, their own sites on its servers.",
+   "protocol_zh": "会员通过调制解调器拨号进入，在关于艺术与理论的分主题讨论区阅读和发帖；Staehle 和合作者搭建了编辑结构，会员则提供讨论内容，后来还在其服务器上建立自己的网站。",
+   "collective": "Artists and critics used The Thing for debate, gossip and publishing; by the late 1990s it hosted dozens of member sites and bbs.thing.net, the first website devoted to net art.",
+   "collective_zh": "艺术家和评论家在 The Thing 上辩论、闲聊与发表；到 90 年代末，它托管了几十个会员网站，以及第一个专门展示网络艺术的网站 bbs.thing.net。",
+   "keywords": [
+    "BBS",
+    "social sculpture",
+    "Joseph Beuys",
+    "net art",
+    "hosting",
+    "New York"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg",
+    "http://www.mediaartnet.org/assets/img/data/1649/bild.jpg"
+   ],
+   "source_url": "https://the.thing.net/about/about.html",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "felix-gonzalez-torres--death-by-gun",
    "creator_ids": [
     "felix-gonzalez-torres"
@@ -11069,6 +13561,45 @@
    "also": []
   },
   {
+   "id": "jsg-boggs--boggs-notes",
+   "creator_ids": [
+    "jsg-boggs"
+   ],
+   "title": "Boggs Notes (money drawings)",
+   "year": 1984,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "currency",
+    "exchange",
+    "circulation"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "Boggs drew one side of banknotes by hand and spent them at face value with shopkeepers, waiters and hotels who agreed to accept a drawing instead of money.",
+   "description_zh": "博格斯手绘钞票的一面，按面值在同意用画代替钞票的店主、服务员和酒店那里花掉。",
+   "idea_en": "Value by consent: the artwork is completed when a stranger accepts it as payment.",
+   "idea_zh": "由同意产生的价值：当陌生人把它当作付款接受时，作品才完成。",
+   "protocol": "A note is exchanged only at its face value and only with someone who knows it is a drawing; Boggs asks for exact change and a receipt; he sells the change and receipt, not the note, to a collector and tells them where the note was spent, and the collector must find its holder to buy it.",
+   "protocol_zh": "每张画只按面值、只与明知这是画的人交换；博格斯索要准确的找零和收据；他把找零和收据（而不是画）卖给藏家，并告诉藏家画在哪里花掉，藏家必须找到持有人才能买下它。",
+   "collective": "From a Chicago diner in 1984 onward, merchants and strangers accepted the notes and collectors tracked them down, reportedly paying up to $420,000 for one; governments treated the practice as counterfeiting, and the US Secret Service seized about 1,300 works.",
+   "collective_zh": "从 1984 年芝加哥的一家小餐馆开始，商家和陌生人接受这些画，藏家再去追寻它们，据报道最高有人为一张付出 42 万美元；政府把这种做法视为伪造货币，美国特勤局没收了约 1300 件作品。",
+   "keywords": [
+    "money",
+    "face value",
+    "receipt",
+    "counterfeiting",
+    "Secret Service"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/J._S._G._Boggs",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "roy-ascott--la-plissure-du-texte",
    "creator_ids": [
     "roy-ascott"
@@ -11150,6 +13681,47 @@
    "also": []
   },
   {
+   "id": "robert-adrian--the-world-in-24-hours",
+   "creator_ids": [
+    "robert-adrian"
+   ],
+   "title": "The World in 24 Hours",
+   "year": 1982,
+   "field": "network",
+   "sub": "telematic",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "score",
+   "description": "A 24-hour telecommunication project at Ars Electronica 1982 in which artists in fifteen cities, from Vienna to Sydney and Honolulu, each exchanged images, sound and text with Linz during their local midday.",
+   "description_zh": "1982 年电子艺术节上的一个 24 小时电信项目：从维也纳到悉尼、檀香山的十五座城市里的艺术家，在各自当地的正午时段与林茨交换图像、声音和文字。",
+   "idea_en": "Follow noon around the planet and give each city its hour on the line.",
+   "idea_zh": "追着正午绕地球一圈，每座城市轮到自己的一小时。",
+   "protocol": "The project ran from noon to noon in Linz (CET); each remote site had one hour, around its local midday, to exchange material with the Linz team over up to three phone lines using slow-scan TV, fax, the ARTEX computer network or telephone audio.",
+   "protocol_zh": "项目从林茨时间（中欧时间）正午持续到次日正午；每个远程站点在当地正午前后有一小时，通过最多三条电话线，用慢扫描电视、传真、ARTEX 计算机网络或电话音频与林茨团队交换材料。",
+   "collective": "Artists and groups in Vienna, Frankfurt, Amsterdam, Bath, Wellfleet, Pittsburgh, Toronto, San Francisco, Vancouver, Honolulu, Tokyo, Sydney, Istanbul, Florence and Athens sent and received material in sequence, producing a day-long relay of transmissions.",
+   "collective_zh": "维也纳、法兰克福、阿姆斯特丹、巴斯、韦尔弗利特、匹兹堡、多伦多、旧金山、温哥华、檀香山、东京、悉尼、伊斯坦布尔、佛罗伦萨和雅典的艺术家与小组依次收发材料，形成一场持续一整天的传输接力。",
+   "keywords": [
+    "Ars Electronica 1982",
+    "slow-scan TV",
+    "fax",
+    "ARTEX",
+    "telecommunication art"
+   ],
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/outofthebox/en/24hours/",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "anna-halprin--planetary-dance",
    "creator_ids": [
     "anna-halprin"
@@ -11188,6 +13760,55 @@
    ],
    "source_url": "https://planetarydance.org/the-story/",
    "video": {},
+   "paper": {}
+  },
+  {
+   "id": "kit-galloway--hole-in-space",
+   "creator_ids": [
+    "kit-galloway",
+    "sherrie-rabinowitz"
+   ],
+   "title": "Hole-In-Space",
+   "year": 1980,
+   "field": "network",
+   "sub": "telematic",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "For three evenings in November 1980, a life-size satellite video link joined a sidewalk at Lincoln Center in New York with a shopping centre in Century City, Los Angeles. Passers-by on each coast suddenly saw and could talk with people on the other.",
+   "description_zh": "1980 年 11 月的三个晚上，一条真人大小的卫星视频连线把纽约林肯中心旁的人行道与洛杉矶世纪城的一家购物中心接在一起。两岸的路人突然看见对方，并能彼此交谈。",
+   "idea_en": "Leave the portal unexplained and let the public discover what to do with it.",
+   "idea_zh": "不解释这道门，让公众自己发现能用它做什么。",
+   "protocol": "The link was unannounced: no signs, logos, credits or explanation, and no self-view monitors, only full-body, life-size images and sound of the people on the other coast.",
+   "protocol_zh": "连线事先不作宣布：没有标识、商标、署名或说明，也没有看到自己的监视器，只有对岸人群真人大小的全身影像和声音。",
+   "collective": "The first evening was a discovery; on the second, people used word of mouth to arrange meetings; by the third, families and friends travelled to the sites to see relatives on the other coast, some for the first time in years.",
+   "collective_zh": "第一个晚上是意外发现；第二个晚上，人们口口相传约好碰面；到第三个晚上，家人和朋友专程赶到现场，与对岸的亲人相见，有些人多年未见。",
+   "keywords": [
+    "satellite",
+    "Mobile Image",
+    "Lincoln Center",
+    "Century City",
+    "video chat",
+    "public communication sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SyIJJr6Ldg8",
+    "platform": "youtube",
+    "id": "SyIJJr6Ldg8",
+    "thumbnail": "https://i.ytimg.com/vi/SyIJJr6Ldg8/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://ecafe.com/getty/HIS/images/H110/03/53.gif",
+    "https://ecafe.com/getty/HIS/images/H110/02/081.gif"
+   ],
+   "source_url": "https://ecafe.com/getty/HIS/",
    "paper": {}
   },
   {
@@ -11734,6 +14355,50 @@
    "also": []
   },
   {
+   "id": "seth-siegelaub--artists-reserved-rights-agreement",
+   "creator_ids": [
+    "seth-siegelaub",
+    "robert-projansky"
+   ],
+   "title": "The Artist's Reserved Rights Transfer and Sale Agreement",
+   "year": 1971,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "contract",
+    "exchange",
+    "circulation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A standard contract for the sale of artworks, first published by the School of Visual Arts in New York as a fold-out poster, that reserves rights for the artist after the work is sold, including a share of future resale profits.",
+   "description_zh": "一份艺术品销售标准合同，最初由纽约视觉艺术学院以折页海报形式出版，在作品售出后为艺术家保留若干权利，包括分享未来转售的收益。",
+   "idea_en": "A royalty that travels with the work: each new owner must sign the same terms.",
+   "idea_zh": "随作品流转的版税：每一位新藏家都必须签署同样的条款。",
+   "protocol": "Artist and buyer sign a form that is affixed to the work. On every later sale or transfer the seller pays the artist 15% of the increase in value and binds the new owner to the same contract; the artist is notified of exhibitions and may veto them, can borrow the work, shares rental income and keeps reproduction rights.",
+   "protocol_zh": "艺术家与买家签署一份贴附在作品上的表格。此后每次出售或转让，卖方都须把增值部分的 15% 付给艺术家，并让新藏家受同一合同约束；艺术家会获知作品的展出并可否决，可以借回作品，分享出租收入，并保留复制权。",
+   "collective": "Artists were encouraged to reproduce the contract and use it in every transfer; some, notably Hans Haacke, required it of buyers, but dealers and collectors resisted and it proved hard to enforce. It became a reference for resale-royalty debates and for royalty rules in NFT marketplaces.",
+   "collective_zh": "艺术家被鼓励自行复印这份合同，并在每次转让时使用；一些艺术家（尤其是汉斯·哈克）要求买家签署，但画商和藏家抵制，合同也难以执行。它成为转售版税讨论以及 NFT 市场版税规则的参照。",
+   "keywords": [
+    "resale royalty",
+    "contract",
+    "conceptual art",
+    "droit de suite",
+    "proto-royalty"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg"
+   ],
+   "paper": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf",
+    "title": "The Artist's Reserved Rights Transfer and Sale Agreement",
+    "venue": "Self-published contract, 1971"
+   },
+   "source_url": "https://www.guggenheim.org/articles/findings/seth-siegelaubs-the-artists-reserved-rights-transfer-and-sale-agreement-french-version-2",
+   "video": {},
+   "also": []
+  },
+  {
    "id": "sol-lewitt--wall-drawing-118",
    "creator_ids": [
     "sol-lewitt"
@@ -11772,6 +14437,47 @@
    "video": {},
    "images": [],
    "also": []
+  },
+  {
+   "id": "cildo-meireles--insertions-into-ideological-circuits",
+   "creator_ids": [
+    "cildo-meireles"
+   ],
+   "title": "Insertions into Ideological Circuits: Coca-Cola Project and Banknote Project",
+   "year": 1970,
+   "field": "social",
+   "sub": "economies",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "circulation",
+    "instruction",
+    "currency"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "Meireles printed political messages and instructions onto returnable Coca-Cola bottles and banknotes and put them back into circulation, where they travelled through the bottling and money systems.",
+   "description_zh": "梅雷莱斯把政治信息和操作说明印在可回收的可口可乐瓶和钞票上，再把它们放回流通，让它们在装瓶系统和货币系统中流转。",
+   "idea_en": "Use an existing circulation system as the distribution network, and let anyone copy the method.",
+   "idea_zh": "把现有的流通系统当作分发网络，并让任何人都能复制这个方法。",
+   "protocol": "Transfer a text in white lettering onto an empty returnable bottle (visible only when refilled with cola) or stamp it on a banknote, then return the bottle or spend the note; the bottle carries instructions so that others can repeat the insertion.",
+   "protocol_zh": "把白色文字转印到空的可回收瓶上（只有重新灌满可乐时才看得见），或盖印在钞票上，然后退回瓶子、花掉钞票；瓶子上附有说明，让其他人也能重复这种插入。",
+   "collective": "Under the Brazilian dictatorship, the bottles and notes, bearing slogans such as 'Yankees go home!' and questions like 'Which is the place of the work of art?', passed anonymously through the hands of bottlers, shopkeepers and consumers.",
+   "collective_zh": "在巴西军政府统治下，这些印着“美国佬滚回去！”等口号和“艺术作品的位置在哪里？”等问题的瓶子和钞票，匿名经过装瓶工、店主和消费者之手。",
+   "keywords": [
+    "Coca-Cola",
+    "banknotes",
+    "dictatorship",
+    "Brazil",
+    "circulation"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "hans-haacke--moma-poll",
@@ -12415,6 +15121,59 @@
    "source_url": "https://foundation.generali.at/en/collection/artworks/gf0002080000-1999-tapp-und-tastkino",
    "paper": {},
    "also": []
+  },
+  {
+   "id": "robert-filliou--eternal-network",
+   "creator_ids": [
+    "robert-filliou",
+    "george-brecht"
+   ],
+   "title": "The Eternal Network (La Fête Permanente)",
+   "year": 1968,
+   "field": "social",
+   "sub": "correspondence",
+   "also": [
+    "theory"
+   ],
+   "mechanisms": [
+    "circulation",
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "post",
+   "kind": "platform",
+   "description": "A proposal announced by Filliou and George Brecht on a 1968 poster: art as a permanent festival carried on by a network of people exchanging works, ideas and actions, with no centre and no end.",
+   "description_zh": "菲利乌与乔治·布雷希特在 1968 年的一张海报上宣布的提议：艺术是一场永久的节庆，由一个交换作品、观念与行动的人际网络延续，没有中心，也没有终点。",
+   "idea_en": "Replace the art market with a decentralised network of exchange that anyone can join.",
+   "idea_zh": "用一个人人可以加入的去中心化交换网络取代艺术市场。",
+   "protocol": "Artists consider themselves nodes in a wider social network, the 'Constant Festival'; work circulates between participants by post, visits and collaboration rather than through galleries; anyone who sends and receives takes part.",
+   "protocol_zh": "艺术家把自己视为更大社会网络“永恒节庆”中的节点；作品通过邮寄、拜访与合作在参与者之间流通，而不经过画廊；任何收发作品的人都是参与者。",
+   "collective": "Mail artists and artist-run centres adopted the Eternal Network as the name and model of their international exchange from the 1970s, and it became a founding idea for later network and telematic art.",
+   "collective_zh": "自 1970 年代起，邮件艺术家和艺术家自营中心把“永恒网络”作为其国际交换的名称和模式，它也成为后来网络艺术与远程通信艺术的奠基观念之一。",
+   "keywords": [
+    "Fluxus",
+    "mail art",
+    "La Cédille qui Sourit",
+    "George Brecht",
+    "decentralisation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9BgOfsG7J0Q",
+    "platform": "youtube",
+    "id": "9BgOfsG7J0Q",
+    "thumbnail": "https://i.ytimg.com/vi/9BgOfsG7J0Q/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421"
+   ],
+   "paper": {
+    "doi": "10.1177/0263276418796563",
+    "title": "Life as Art, or Art as Life: Robert Filliou and the Eternal Network",
+    "venue": "Theory, Culture & Society",
+    "url": "https://doi.org/10.1177/0263276418796563"
+   },
+   "source_url": "https://ensembles.org/items/eternal-network"
   },
   {
    "id": "cornelius-cardew--the-great-learning",
@@ -13077,6 +15836,51 @@
    ]
   },
   {
+   "id": "robert-filliou--arts-birthday",
+   "creator_ids": [
+    "robert-filliou"
+   ],
+   "title": "Art's Birthday (La Fête de l'Art)",
+   "year": 1963,
+   "field": "social",
+   "sub": "correspondence",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "Filliou proposed that art was born one million years ago on 17 January, when someone dropped a dry sponge into a bucket of water, and that its birthday should be a public holiday.",
+   "description_zh": "菲利乌提出，艺术诞生于一百万年前的 1 月 17 日，那天有人把一块干海绵丢进一桶水里，因此艺术的生日应当成为公共节日。",
+   "idea_en": "A shared date as protocol: anyone, anywhere, can celebrate, and the network does the rest.",
+   "idea_zh": "以一个共享日期为协议：任何人在任何地方都可以庆祝，网络完成其余的事。",
+   "protocol": "Every 17 January, anyone may celebrate the birthday of art in any form, alone or together; art gets one year older each time.",
+   "protocol_zh": "每年 1 月 17 日，任何人都可以用任何形式、独自或一起庆祝艺术的生日；艺术每过一次生日就长一岁。",
+   "collective": "The first public celebrations took place in 1973 in Aachen and Paris; since then artists' networks, radio stations and museums have held events on or around 17 January, often linked by telephone, radio and later the internet.",
+   "collective_zh": "第一次公开庆祝于 1973 年在亚琛和巴黎举行；此后艺术家网络、电台和美术馆每年在 1 月 17 日前后举办活动，常通过电话、广播以及后来的互联网连在一起。",
+   "keywords": [
+    "Fluxus",
+    "17 January",
+    "celebration",
+    "Eternal Network",
+    "telematic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0uHKNrnsCzo",
+    "platform": "youtube",
+    "id": "0uHKNrnsCzo",
+    "thumbnail": "https://i.ytimg.com/vi/0uHKNrnsCzo/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Robert_Filliou",
+   "images": [],
+   "paper": {}
+  },
+  {
    "id": "lygia-clark--caminhando",
    "creator_ids": [
     "lygia-clark"
@@ -13256,6 +16060,46 @@
    "collections": [
     "the-scores-project"
    ]
+  },
+  {
+   "id": "ray-johnson--new-york-correspondance-school",
+   "creator_ids": [
+    "ray-johnson"
+   ],
+   "title": "New York Correspondance School",
+   "year": 1962,
+   "field": "social",
+   "sub": "correspondence",
+   "mechanisms": [
+    "circulation",
+    "co-authorship",
+    "instruction"
+   ],
+   "substrate": "post",
+   "kind": "organization",
+   "description": "Johnson's mail-art network: collages, letters and drawings sent through the post with instructions such as 'please send to…' or 'please add to & return', growing as each recipient altered and forwarded them.",
+   "description_zh": "约翰逊的邮件艺术网络：拼贴、信件和素描经由邮政寄出，附带“请转寄给……”或“请添加后寄回”等指令，每位收件人修改并转寄后，网络不断生长。",
+   "idea_en": "A network whose only rule is on-sending: every recipient becomes a co-author and a relay.",
+   "idea_zh": "一个唯一规则是“转寄”的网络：每位收件人都成为共同作者和中继站。",
+   "protocol": "A mailing carries an instruction ('please send to…', 'please add to & return', even 'please do not send to…'); the recipient adds to or subtracts from the item and passes it on as instructed; there is no membership, only participation, and Johnson called and cancelled 'meetings' of the school.",
+   "protocol_zh": "每封寄件附带一条指令（“请转寄给……”“请添加后寄回”，甚至“请勿寄给……”）；收件人对物品有所增删后按指令转寄；没有会员制度，只有参与，约翰逊还会召集和取消学校的“会议”。",
+   "collective": "The name was coined in 1962 by Ed Plunkett; the first NYCS meeting took place on 1 April 1968 at the Society of Friends Meeting House in New York; a 1970 Whitney exhibition showed mail from 107 participants sent to curator Marcia Tucker. The network grew into the international mail-art movement and is still active.",
+   "collective_zh": "这个名称由埃德·普伦基特于 1962 年提出；1968 年 4 月 1 日，纽约通信学校第一次会议在纽约的公谊会会所举行；1970 年惠特尼美术馆的展览展出了 107 位参与者寄给策展人玛西娅·塔克的邮件。这个网络发展为国际邮件艺术运动，至今仍在运作。",
+   "keywords": [
+    "mail art",
+    "on-sending",
+    "please add to and return",
+    "Whitney",
+    "network"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg"
+   ],
+   "source_url": "https://www.rayjohnsonestate.com/mail-art-ephemera",
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "raymond-queneau--cent-mille-milliards-de-poemes",
@@ -13659,6 +16503,47 @@
    ]
   },
   {
+   "id": "yves-klein--zones-of-immaterial-pictorial-sensibility",
+   "creator_ids": [
+    "yves-klein"
+   ],
+   "title": "Zones de Sensibilité Picturale Immatérielle (Zones of Immaterial Pictorial Sensibility)",
+   "year": 1959,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "contract",
+    "currency",
+    "burn"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "Klein sold 'zones' of immaterial pictorial sensibility for a weight of pure gold and gave each buyer a receipt; the buyer could complete the work by burning the receipt while Klein threw half the gold into the Seine.",
+   "description_zh": "克莱因以一定重量的纯金出售“非物质绘画感性区域”，并给每位买家一张收据；买家可以烧掉收据来完成作品，同时克莱因把一半黄金扔进塞纳河。",
+   "idea_en": "A proto-token: ownership exists as a receipt, and destroying the receipt makes the work fully immaterial.",
+   "idea_zh": "一种原型代币：所有权以收据的形式存在，销毁收据才让作品彻底非物质化。",
+   "protocol": "Each zone is sold only for gold, against a numbered receipt. The buyer has two options: keep the receipt (and never own the authentic immaterial value), or burn it in a ritual before a museum director or art critic and two witnesses, while Klein throws half of the gold into the Seine.",
+   "protocol_zh": "每个区域只能用黄金购买，并换取一张编号收据。买家有两种选择：保留收据（因而永远无法拥有真正的非物质价值）；或在一位美术馆馆长或艺术评论家以及两名见证人面前举行仪式烧掉收据，同时克莱因把一半黄金扔进塞纳河。",
+   "collective": "Eight zones were sold between 1959 and Klein's death in 1962, at least three of them completed by the ritual, one with the writer Dino Buzzati in January 1962. An unburned receipt sold at Sotheby's in 2022 for more than one million dollars, and the ritual was later restaged on Ethereum as Digital Zones of Immaterial Pictorial Sensibility.",
+   "collective_zh": "1959 年至克莱因 1962 年去世期间共售出八个区域，其中至少三个以仪式完成，其中一次是 1962 年 1 月与作家迪诺·布扎蒂一起。一张未被烧掉的收据于 2022 年在苏富比以超过一百万美元成交，这一仪式后来又以《数字非物质绘画感性区域》的形式在以太坊上重演。",
+   "keywords": [
+    "receipt",
+    "gold",
+    "Seine",
+    "immaterial",
+    "proto-NFT",
+    "ritual"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "john-cage--concert-for-piano-and-orchestra",
    "creator_ids": [
     "john-cage"
@@ -13839,6 +16724,46 @@
    },
    "source_url": "https://en.wikipedia.org/wiki/Imaginary_Landscape_No._4_(March_No._2)",
    "images": [],
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "marcel-duchamp--monte-carlo-bond",
+   "creator_ids": [
+    "marcel-duchamp"
+   ],
+   "title": "Obligations pour la Roulette de Monte-Carlo (Monte Carlo Bond)",
+   "year": 1924,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "contract",
+    "currency",
+    "chance"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "Duchamp issued bonds in a company formed to fund his attempt to beat the roulette tables at Monte Carlo with a system; the bond, with Man Ray's photograph of him, is both an artwork and a financial instrument.",
+   "description_zh": "杜尚为一家公司发行债券，用来资助他以一套系统在蒙特卡洛赌桌上赢钱的尝试；这张印有曼·雷为他拍摄的照片的债券，既是艺术品也是金融工具。",
+   "idea_en": "An artist-issued security: investors fund a rule-based system and share its (hoped-for) returns.",
+   "idea_zh": "由艺术家发行的证券：投资人资助一套规则化的系统，并分享其（期望中的）回报。",
+   "protocol": "The company plans 30 bonds at 500 francs each, repayable with 20% interest from roulette winnings; each bond is signed by Rrose Sélavy and by Duchamp as the company's officers.",
+   "protocol_zh": "公司计划发行 30 张债券，每张 500 法郎，以轮盘赌赢利偿还并支付 20% 的利息；每张债券由罗丝·瑟拉薇和杜尚以公司负责人的身份签名。",
+   "collective": "A small circle of friends and patrons bought bonds; sources count eight bonds realised in 1924. The system did not make money, but the bonds survived as artworks and are now held by museums and collectors.",
+   "collective_zh": "一小群朋友和赞助人购买了债券；有资料统计 1924 年实际发行了八张。这套系统并没有赚到钱，但债券作为艺术品留存下来，现由美术馆和藏家收藏。",
+   "keywords": [
+    "bond",
+    "roulette",
+    "Rrose Sélavy",
+    "Man Ray",
+    "finance"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg",
+    "https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg"
+   ],
+   "source_url": "https://www.nmnm.mc/en/exhibitions/6716/",
+   "video": {},
    "paper": {},
    "also": []
   },

@@ -25,5 +25,9 @@ Examples named by the user: Pak, terra0, Sol LeWitt; most recent works are smart
 - Second-pass leads: Distributed Gallery, World Computer Sculpture Garden (0xfff 2024), De Filippi & Beer "Protocol Art II", Hashmasks, Sam Spratt, Pak Fomo / ASH Chapter II.
 - Possible duplicate: Pak "Clock" (onchain-pak) vs AssangeDAO (autonomous batch) — check with audit_titles.
 
+- Published 88caa01: 250 works / 134 creators (score 65, social 42, network 35, onchain 60, autonomous 20, theory 28). audit_titles: 4 groups, all distinct works.
+- User requests in flight: (1) all of Holly Herndon & Mat Dryhurst's works → batch herndon-dryhurst; (2) symbient.life registry → batch symbient + collection `symbient-life` (type registry, added to UI).
+- Still running: network, onchain-rules (files already valid and published), herndon-dryhurst, symbient.
+
 ## Blockers
 - Bash auto-mode classifier returned "no verdict" repeatedly at start; scaffold written with Write.

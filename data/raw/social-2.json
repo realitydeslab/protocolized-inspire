@@ -1,0 +1,901 @@
+{
+  "batch": "social",
+  "creators": [
+    {
+      "id": "ray-johnson",
+      "name": "Ray Johnson",
+      "kind": "person",
+      "role": "Collage and correspondence artist",
+      "based": "Locust Valley, US",
+      "bio": "American artist (1927–1995), collagist and founder of the New York Correspondance School, the mail-art network he ran from the late 1950s until his death.",
+      "why": "He turned the postal system into a medium: letters and collages carried instructions to add, pass on or return, so the network itself became the work.",
+      "links": {
+        "site": "https://www.rayjohnsonestate.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ray_Johnson"
+      },
+      "role_zh": "拼贴与通信艺术家",
+      "based_zh": "洛卡斯特谷，美国",
+      "bio_zh": "美国艺术家（1927–1995），拼贴艺术家，纽约通信学校的创始人，这个邮件艺术网络由他从 1950 年代末一直经营到去世。",
+      "why_zh": "他把邮政系统变成媒介：信件和拼贴附带“添加、转寄或寄回”的指令，网络本身成为作品。",
+      "connected_to": [
+        "robert-filliou"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "robert-filliou",
+      "name": "Robert Filliou",
+      "kind": "person",
+      "role": "Fluxus artist and poet",
+      "based": "Villefranche-sur-Mer, FR",
+      "bio": "French artist (1926–1987) associated with Fluxus, who ran the shop-gallery La Cédille qui Sourit with George Brecht and developed the ideas of 'permanent creation' and the Eternal Network.",
+      "why": "He proposed art as an open network of exchange with no centre, and invented Art's Birthday, a date anyone may celebrate.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Filliou"
+      },
+      "role_zh": "激浪派艺术家与诗人",
+      "based_zh": "滨海自由城，法国",
+      "bio_zh": "法国艺术家（1926–1987），与激浪派关系密切，曾与乔治·布雷希特合办店铺兼画廊“微笑的软音符”，提出“永久创造”和“永恒网络”的观念。",
+      "why_zh": "他把艺术设想为一个没有中心的开放交换网络，并发明了“艺术的生日”——一个任何人都可以庆祝的日子。",
+      "connected_to": [
+        "george-brecht",
+        "ray-johnson"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yves-klein",
+      "name": "Yves Klein",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Paris, FR",
+      "bio": "French artist (1928–1962) of Nouveau Réalisme, known for International Klein Blue, the Anthropometries and his sales of 'immaterial' zones.",
+      "why": "His Zones of Immaterial Pictorial Sensibility separated the artwork from any object and tied ownership to a receipt, a payment in gold and a ritual of destruction.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yves_Klein"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "巴黎，法国",
+      "bio_zh": "法国艺术家（1928–1962），新现实主义成员，以国际克莱因蓝、《人体测量》和出售“非物质”区域著称。",
+      "why_zh": "他的《非物质绘画感性区域》把作品与任何物件分离，把所有权系于一张收据、一笔黄金和一场销毁仪式。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "seth-siegelaub",
+      "name": "Seth Siegelaub",
+      "kind": "person",
+      "role": "Curator, publisher and dealer",
+      "based": "New York, US / Amsterdam, NL",
+      "bio": "American curator (1941–2013) who organised key exhibitions of conceptual art in book and catalogue form, and later researched the history of communication and textiles.",
+      "why": "With lawyer Robert Projansky he wrote a standard sale contract that gives artists a share of every future resale: a paper precursor of on-chain royalties.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Seth_Siegelaub"
+      },
+      "role_zh": "策展人、出版人与画商",
+      "based_zh": "纽约，美国／阿姆斯特丹，荷兰",
+      "bio_zh": "美国策展人（1941–2013），以书籍和图录形式组织了多场关键的观念艺术展览，后来转向传播史和纺织史研究。",
+      "why_zh": "他与律师罗伯特·普罗詹斯基起草了一份标准销售合同，让艺术家分享此后每一次转售的收益：这是链上版税的纸面前身。",
+      "connected_to": [
+        "robert-projansky"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "robert-projansky",
+      "name": "Robert Projansky",
+      "kind": "person",
+      "role": "Lawyer",
+      "based": "New York, US",
+      "bio": "New York lawyer who drafted The Artist's Reserved Rights Transfer and Sale Agreement with Seth Siegelaub in 1971, after consulting hundreds of artists, dealers and collectors.",
+      "why": "He turned an artists' demand into an enforceable legal template that travels with the artwork from owner to owner.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Artist%27s_Reserved_Rights_Transfer_and_Sale_Agreement"
+      },
+      "role_zh": "律师",
+      "based_zh": "纽约，美国",
+      "bio_zh": "纽约律师，1971 年与塞斯·西格劳布一起起草了《艺术家保留权利转让与销售协议》，起草前征询了数百位艺术家、画商和藏家。",
+      "why_zh": "他把艺术家的诉求变成可执行的法律模板，随作品从一个藏家传到下一个藏家。",
+      "connected_to": [
+        "seth-siegelaub"
+      ],
+      "discovered_via": "seth-siegelaub"
+    },
+    {
+      "id": "jsg-boggs",
+      "name": "J. S. G. Boggs",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Tampa, US",
+      "bio": "American artist (1955–2017) known for hand-drawn, one-sided depictions of banknotes that he spent at face value, which led to counterfeiting charges in the UK, Australia and the US.",
+      "why": "Each 'Boggs note' was a transaction protocol: the value of the art came from a stranger's willingness to accept it as money.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/J._S._G._Boggs"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "坦帕，美国",
+      "bio_zh": "美国艺术家（1955–2017），以手绘单面钞票并按面值花出而闻名，因此在英国、澳大利亚和美国被控伪造货币。",
+      "why_zh": "每一张“博格斯钞票”都是一套交易协议：艺术的价值来自陌生人愿意把它当钱收下。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "julieta-aranda",
+      "name": "Julieta Aranda",
+      "kind": "person",
+      "role": "Artist; co-director of e-flux",
+      "based": "New York, US / Berlin, DE",
+      "bio": "Mexican artist and co-director of e-flux, whose projects deal with time, circulation and alternative economies.",
+      "why": "With Anton Vidokle she built Time/Bank, a currency of hours for the art community.",
+      "links": {
+        "site": "https://www.e-flux.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Julieta_Aranda"
+      },
+      "role_zh": "艺术家；e-flux 联合负责人",
+      "based_zh": "纽约，美国／柏林，德国",
+      "bio_zh": "墨西哥艺术家，e-flux 联合负责人，她的项目关注时间、流通与另类经济。",
+      "why_zh": "她与安东·维多克尔一起建立了 Time/Bank，一种面向艺术社群、以小时计价的货币。",
+      "connected_to": [
+        "anton-vidokle"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anton-vidokle",
+      "name": "Anton Vidokle",
+      "kind": "person",
+      "role": "Artist; founder of e-flux",
+      "based": "New York, US / Berlin, DE",
+      "bio": "Russian-born artist who founded e-flux in 1998 and has organised projects such as unitednationsplaza and e-flux journal.",
+      "why": "He treats institutions, mailing lists and exchange systems as artistic media.",
+      "links": {
+        "site": "https://www.e-flux.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anton_Vidokle"
+      },
+      "role_zh": "艺术家；e-flux 创始人",
+      "based_zh": "纽约，美国／柏林，德国",
+      "bio_zh": "出生于俄罗斯的艺术家，1998 年创立 e-flux，组织过 unitednationsplaza、e-flux journal 等项目。",
+      "why_zh": "他把机构、邮件列表和交换系统当作艺术媒介。",
+      "connected_to": [
+        "julieta-aranda"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "superflex",
+      "name": "Superflex",
+      "kind": "collective",
+      "role": "Artist group",
+      "based": "Copenhagen, DK",
+      "bio": "Danish artist group founded in 1993 by Jakob Fenger, Rasmus Rosengren Nielsen and Bjørnstjerne Christiansen, working on economic systems, copying, self-organisation and interspecies design.",
+      "why": "They design legal and economic tools (open licences, cooperatives, lotteries, contracts) that other people then use to produce the work.",
+      "links": {
+        "site": "https://superflex.net/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Superflex"
+      },
+      "role_zh": "艺术家团体",
+      "based_zh": "哥本哈根，丹麦",
+      "bio_zh": "丹麦艺术团体，1993 年由雅各布·芬格、拉斯穆斯·罗森格伦·尼尔森和比约恩斯蒂尔内·克里斯蒂安森创立，关注经济系统、复制、自组织与跨物种设计。",
+      "why_zh": "他们设计法律与经济工具（开放许可、合作社、抽签、合同），由其他人使用这些工具来产出作品。",
+      "connected_to": [
+        "rirkrit-tiravanija"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "santiago-sierra",
+      "name": "Santiago Sierra",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Madrid, ES",
+      "bio": "Spanish artist, long based in Mexico City, who hires people at the minimum market rate to perform useless or degrading tasks, exposing the terms of wage labour.",
+      "why": "His works are contracts made visible: the payment rule and the participants' acceptance of it are the piece.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Sierra"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "马德里，西班牙",
+      "bio_zh": "西班牙艺术家，长期在墨西哥城工作，以市场最低价雇人执行无用或有辱人格的任务，暴露雇佣劳动的条件。",
+      "why_zh": "他的作品是被公开的合同：报酬规则以及参与者对它的接受，就是作品本身。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cildo-meireles",
+      "name": "Cildo Meireles",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Rio de Janeiro, BR",
+      "bio": "Brazilian conceptual artist whose work since the late 1960s addresses circulation, value and political control, beginning under the military dictatorship.",
+      "why": "His Insertions into Ideological Circuits used returnable bottles and banknotes as a distribution network: anyone could copy the method and put messages back into circulation.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cildo_Meireles"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "里约热内卢，巴西",
+      "bio_zh": "巴西观念艺术家，自 1960 年代末军政府统治时期起，以作品探讨流通、价值与政治控制。",
+      "why_zh": "他的《插入意识形态回路》把可回收瓶和钞票当作分发网络：任何人都可以照做，把信息重新放回流通。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "ray-johnson--new-york-correspondance-school",
+      "creator_ids": [
+        "ray-johnson"
+      ],
+      "title": "New York Correspondance School",
+      "year": 1962,
+      "field": "social",
+      "sub": "correspondence",
+      "mechanisms": [
+        "circulation",
+        "co-authorship",
+        "instruction"
+      ],
+      "substrate": "post",
+      "kind": "organization",
+      "description": "Johnson's mail-art network: collages, letters and drawings sent through the post with instructions such as 'please send to…' or 'please add to & return', growing as each recipient altered and forwarded them.",
+      "description_zh": "约翰逊的邮件艺术网络：拼贴、信件和素描经由邮政寄出，附带“请转寄给……”或“请添加后寄回”等指令，每位收件人修改并转寄后，网络不断生长。",
+      "idea_en": "A network whose only rule is on-sending: every recipient becomes a co-author and a relay.",
+      "idea_zh": "一个唯一规则是“转寄”的网络：每位收件人都成为共同作者和中继站。",
+      "protocol": "A mailing carries an instruction ('please send to…', 'please add to & return', even 'please do not send to…'); the recipient adds to or subtracts from the item and passes it on as instructed; there is no membership, only participation, and Johnson called and cancelled 'meetings' of the school.",
+      "protocol_zh": "每封寄件附带一条指令（“请转寄给……”“请添加后寄回”，甚至“请勿寄给……”）；收件人对物品有所增删后按指令转寄；没有会员制度，只有参与，约翰逊还会召集和取消学校的“会议”。",
+      "collective": "The name was coined in 1962 by Ed Plunkett; the first NYCS meeting took place on 1 April 1968 at the Society of Friends Meeting House in New York; a 1970 Whitney exhibition showed mail from 107 participants sent to curator Marcia Tucker. The network grew into the international mail-art movement and is still active.",
+      "collective_zh": "这个名称由埃德·普伦基特于 1962 年提出；1968 年 4 月 1 日，纽约通信学校第一次会议在纽约的公谊会会所举行；1970 年惠特尼美术馆的展览展出了 107 位参与者寄给策展人玛西娅·塔克的邮件。这个网络发展为国际邮件艺术运动，至今仍在运作。",
+      "keywords": [
+        "mail art",
+        "on-sending",
+        "please add to and return",
+        "Whitney",
+        "network"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg"
+      ],
+      "source_url": "https://www.rayjohnsonestate.com/mail-art-ephemera"
+    },
+    {
+      "id": "robert-filliou--eternal-network",
+      "creator_ids": [
+        "robert-filliou",
+        "george-brecht"
+      ],
+      "title": "The Eternal Network (La Fête Permanente)",
+      "year": 1968,
+      "field": "social",
+      "sub": "correspondence",
+      "also": [
+        "theory"
+      ],
+      "mechanisms": [
+        "circulation",
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "post",
+      "kind": "platform",
+      "description": "A proposal announced by Filliou and George Brecht on a 1968 poster: art as a permanent festival carried on by a network of people exchanging works, ideas and actions, with no centre and no end.",
+      "description_zh": "菲利乌与乔治·布雷希特在 1968 年的一张海报上宣布的提议：艺术是一场永久的节庆，由一个交换作品、观念与行动的人际网络延续，没有中心，也没有终点。",
+      "idea_en": "Replace the art market with a decentralised network of exchange that anyone can join.",
+      "idea_zh": "用一个人人可以加入的去中心化交换网络取代艺术市场。",
+      "protocol": "Artists consider themselves nodes in a wider social network, the 'Constant Festival'; work circulates between participants by post, visits and collaboration rather than through galleries; anyone who sends and receives takes part.",
+      "protocol_zh": "艺术家把自己视为更大社会网络“永恒节庆”中的节点；作品通过邮寄、拜访与合作在参与者之间流通，而不经过画廊；任何收发作品的人都是参与者。",
+      "collective": "Mail artists and artist-run centres adopted the Eternal Network as the name and model of their international exchange from the 1970s, and it became a founding idea for later network and telematic art.",
+      "collective_zh": "自 1970 年代起，邮件艺术家和艺术家自营中心把“永恒网络”作为其国际交换的名称和模式，它也成为后来网络艺术与远程通信艺术的奠基观念之一。",
+      "keywords": [
+        "Fluxus",
+        "mail art",
+        "La Cédille qui Sourit",
+        "George Brecht",
+        "decentralisation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9BgOfsG7J0Q"
+      },
+      "images": [
+        "https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421"
+      ],
+      "paper": {
+        "doi": "10.1177/0263276418796563",
+        "title": "Life as Art, or Art as Life: Robert Filliou and the Eternal Network",
+        "venue": "Theory, Culture & Society"
+      },
+      "source_url": "https://ensembles.org/items/eternal-network"
+    },
+    {
+      "id": "robert-filliou--arts-birthday",
+      "creator_ids": [
+        "robert-filliou"
+      ],
+      "title": "Art's Birthday (La Fête de l'Art)",
+      "year": 1963,
+      "field": "social",
+      "sub": "correspondence",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "Filliou proposed that art was born one million years ago on 17 January, when someone dropped a dry sponge into a bucket of water, and that its birthday should be a public holiday.",
+      "description_zh": "菲利乌提出，艺术诞生于一百万年前的 1 月 17 日，那天有人把一块干海绵丢进一桶水里，因此艺术的生日应当成为公共节日。",
+      "idea_en": "A shared date as protocol: anyone, anywhere, can celebrate, and the network does the rest.",
+      "idea_zh": "以一个共享日期为协议：任何人在任何地方都可以庆祝，网络完成其余的事。",
+      "protocol": "Every 17 January, anyone may celebrate the birthday of art in any form, alone or together; art gets one year older each time.",
+      "protocol_zh": "每年 1 月 17 日，任何人都可以用任何形式、独自或一起庆祝艺术的生日；艺术每过一次生日就长一岁。",
+      "collective": "The first public celebrations took place in 1973 in Aachen and Paris; since then artists' networks, radio stations and museums have held events on or around 17 January, often linked by telephone, radio and later the internet.",
+      "collective_zh": "第一次公开庆祝于 1973 年在亚琛和巴黎举行；此后艺术家网络、电台和美术馆每年在 1 月 17 日前后举办活动，常通过电话、广播以及后来的互联网连在一起。",
+      "keywords": [
+        "Fluxus",
+        "17 January",
+        "celebration",
+        "Eternal Network",
+        "telematic"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=0uHKNrnsCzo"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Robert_Filliou"
+    },
+    {
+      "id": "yves-klein--zones-of-immaterial-pictorial-sensibility",
+      "creator_ids": [
+        "yves-klein"
+      ],
+      "title": "Zones de Sensibilité Picturale Immatérielle (Zones of Immaterial Pictorial Sensibility)",
+      "year": 1959,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "currency",
+        "burn"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "Klein sold 'zones' of immaterial pictorial sensibility for a weight of pure gold and gave each buyer a receipt; the buyer could complete the work by burning the receipt while Klein threw half the gold into the Seine.",
+      "description_zh": "克莱因以一定重量的纯金出售“非物质绘画感性区域”，并给每位买家一张收据；买家可以烧掉收据来完成作品，同时克莱因把一半黄金扔进塞纳河。",
+      "idea_en": "A proto-token: ownership exists as a receipt, and destroying the receipt makes the work fully immaterial.",
+      "idea_zh": "一种原型代币：所有权以收据的形式存在，销毁收据才让作品彻底非物质化。",
+      "protocol": "Each zone is sold only for gold, against a numbered receipt. The buyer has two options: keep the receipt (and never own the authentic immaterial value), or burn it in a ritual before a museum director or art critic and two witnesses, while Klein throws half of the gold into the Seine.",
+      "protocol_zh": "每个区域只能用黄金购买，并换取一张编号收据。买家有两种选择：保留收据（因而永远无法拥有真正的非物质价值）；或在一位美术馆馆长或艺术评论家以及两名见证人面前举行仪式烧掉收据，同时克莱因把一半黄金扔进塞纳河。",
+      "collective": "Eight zones were sold between 1959 and Klein's death in 1962, at least three of them completed by the ritual, one with the writer Dino Buzzati in January 1962. An unburned receipt sold at Sotheby's in 2022 for more than one million dollars, and the ritual was later restaged on Ethereum as Digital Zones of Immaterial Pictorial Sensibility.",
+      "collective_zh": "1959 年至克莱因 1962 年去世期间共售出八个区域，其中至少三个以仪式完成，其中一次是 1962 年 1 月与作家迪诺·布扎蒂一起。一张未被烧掉的收据于 2022 年在苏富比以超过一百万美元成交，这一仪式后来又以《数字非物质绘画感性区域》的形式在以太坊上重演。",
+      "keywords": [
+        "receipt",
+        "gold",
+        "Seine",
+        "immaterial",
+        "proto-NFT",
+        "ritual"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle"
+    },
+    {
+      "id": "seth-siegelaub--artists-reserved-rights-agreement",
+      "creator_ids": [
+        "seth-siegelaub",
+        "robert-projansky"
+      ],
+      "title": "The Artist's Reserved Rights Transfer and Sale Agreement",
+      "year": 1971,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "exchange",
+        "circulation"
+      ],
+      "substrate": "text",
+      "kind": "publication",
+      "description": "A standard contract for the sale of artworks, first published by the School of Visual Arts in New York as a fold-out poster, that reserves rights for the artist after the work is sold, including a share of future resale profits.",
+      "description_zh": "一份艺术品销售标准合同，最初由纽约视觉艺术学院以折页海报形式出版，在作品售出后为艺术家保留若干权利，包括分享未来转售的收益。",
+      "idea_en": "A royalty that travels with the work: each new owner must sign the same terms.",
+      "idea_zh": "随作品流转的版税：每一位新藏家都必须签署同样的条款。",
+      "protocol": "Artist and buyer sign a form that is affixed to the work. On every later sale or transfer the seller pays the artist 15% of the increase in value and binds the new owner to the same contract; the artist is notified of exhibitions and may veto them, can borrow the work, shares rental income and keeps reproduction rights.",
+      "protocol_zh": "艺术家与买家签署一份贴附在作品上的表格。此后每次出售或转让，卖方都须把增值部分的 15% 付给艺术家，并让新藏家受同一合同约束；艺术家会获知作品的展出并可否决，可以借回作品，分享出租收入，并保留复制权。",
+      "collective": "Artists were encouraged to reproduce the contract and use it in every transfer; some, notably Hans Haacke, required it of buyers, but dealers and collectors resisted and it proved hard to enforce. It became a reference for resale-royalty debates and for royalty rules in NFT marketplaces.",
+      "collective_zh": "艺术家被鼓励自行复印这份合同，并在每次转让时使用；一些艺术家（尤其是汉斯·哈克）要求买家签署，但画商和藏家抵制，合同也难以执行。它成为转售版税讨论以及 NFT 市场版税规则的参照。",
+      "keywords": [
+        "resale royalty",
+        "contract",
+        "conceptual art",
+        "droit de suite",
+        "proto-royalty"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg"
+      ],
+      "paper": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf",
+        "title": "The Artist's Reserved Rights Transfer and Sale Agreement",
+        "venue": "Self-published contract, 1971"
+      },
+      "source_url": "https://www.guggenheim.org/articles/findings/seth-siegelaubs-the-artists-reserved-rights-transfer-and-sale-agreement-french-version-2"
+    },
+    {
+      "id": "jsg-boggs--boggs-notes",
+      "creator_ids": [
+        "jsg-boggs"
+      ],
+      "title": "Boggs Notes (money drawings)",
+      "year": 1984,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "currency",
+        "exchange",
+        "circulation"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "Boggs drew one side of banknotes by hand and spent them at face value with shopkeepers, waiters and hotels who agreed to accept a drawing instead of money.",
+      "description_zh": "博格斯手绘钞票的一面，按面值在同意用画代替钞票的店主、服务员和酒店那里花掉。",
+      "idea_en": "Value by consent: the artwork is completed when a stranger accepts it as payment.",
+      "idea_zh": "由同意产生的价值：当陌生人把它当作付款接受时，作品才完成。",
+      "protocol": "A note is exchanged only at its face value and only with someone who knows it is a drawing; Boggs asks for exact change and a receipt; he sells the change and receipt, not the note, to a collector and tells them where the note was spent, and the collector must find its holder to buy it.",
+      "protocol_zh": "每张画只按面值、只与明知这是画的人交换；博格斯索要准确的找零和收据；他把找零和收据（而不是画）卖给藏家，并告诉藏家画在哪里花掉，藏家必须找到持有人才能买下它。",
+      "collective": "From a Chicago diner in 1984 onward, merchants and strangers accepted the notes and collectors tracked them down, reportedly paying up to $420,000 for one; governments treated the practice as counterfeiting, and the US Secret Service seized about 1,300 works.",
+      "collective_zh": "从 1984 年芝加哥的一家小餐馆开始，商家和陌生人接受这些画，藏家再去追寻它们，据报道最高有人为一张付出 42 万美元；政府把这种做法视为伪造货币，美国特勤局没收了约 1300 件作品。",
+      "keywords": [
+        "money",
+        "face value",
+        "receipt",
+        "counterfeiting",
+        "Secret Service"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/J._S._G._Boggs"
+    },
+    {
+      "id": "julieta-aranda--time-bank",
+      "creator_ids": [
+        "julieta-aranda",
+        "anton-vidokle"
+      ],
+      "title": "Time/Bank",
+      "year": 2010,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "currency",
+        "exchange",
+        "participation"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "An online time bank for the art community, launched by e-flux, where artists, curators and writers trade hours of work and skills with each other instead of money.",
+      "description_zh": "e-flux 推出的面向艺术社群的在线时间银行，艺术家、策展人和写作者之间用工作时间和技能互相交换，而不是用钱。",
+      "idea_en": "An hour for an hour: a parallel currency that makes the art world's unpaid favours visible and countable.",
+      "idea_zh": "以一小时换一小时：一种平行货币，让艺术界无偿的互助变得可见、可计数。",
+      "protocol": "Members post needs and offers; helping another member for one hour earns one hour of credit, recorded by the bank as intermediary and guarantor; credits can be spent on any other member's time; local branches and printed Time/Bank notes extend the system offline.",
+      "protocol_zh": "成员发布需求和可提供的帮助；为另一名成员工作一小时即获得一小时信用，由银行作为中介和担保人记账；信用可用来换取任何其他成员的时间；地方分行和印刷的 Time/Bank 纸币把这一系统延伸到线下。",
+      "collective": "More than a thousand participants around the world had joined by the time of its first exhibitions, and branches opened in several cities; exhibitions at Portikus in Frankfurt and elsewhere presented it as an artwork.",
+      "collective_zh": "在首批展览时，全球已有一千多名参与者加入，并在多个城市开设了分行；法兰克福 Portikus 等机构的展览把它作为艺术作品展出。",
+      "keywords": [
+        "e-flux",
+        "time banking",
+        "alternative currency",
+        "Portikus",
+        "hours"
+      ],
+      "images": [
+        "https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630"
+      ],
+      "source_url": "https://www.e-flux.com/announcements/36461/time-bank/"
+    },
+    {
+      "id": "superflex--free-beer",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Free Beer (Vores Øl)",
+      "year": 2004,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "contract",
+        "circulation"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "A beer recipe and brand published under a Creative Commons licence, so that anyone may brew it, sell it or change it, as long as they share their version under the same terms.",
+      "description_zh": "一份以知识共享许可发布的啤酒配方和品牌，任何人都可以酿造、出售或修改，只要以相同条款分享自己的版本。",
+      "idea_en": "Open-source licensing applied to a physical product: the licence is the artwork's rule of reproduction.",
+      "idea_zh": "把开源许可用于实体产品：许可证就是作品的复制规则。",
+      "protocol": "The recipe and label are licensed CC BY-SA 2.5: anyone may brew the beer, use the name and logo, and make derivatives, provided they credit the source and publish their recipe under the same licence.",
+      "protocol_zh": "配方和标签采用 CC BY-SA 2.5 许可：任何人都可以酿造这款啤酒、使用名称和标志、制作衍生版本，前提是注明来源，并以相同许可公开自己的配方。",
+      "collective": "Conceived with students of the IT University of Copenhagen, the beer has been brewed by breweries, workshops and home brewers in Taipei, São Paulo, Los Angeles, Munich, Auckland and elsewhere, with and without Superflex's involvement.",
+      "collective_zh": "这款啤酒与哥本哈根信息技术大学的学生共同构思，此后在台北、圣保罗、洛杉矶、慕尼黑、奥克兰等地由酒厂、工作坊和家酿者酿造，有的有 Superflex 参与，有的没有。",
+      "keywords": [
+        "Creative Commons",
+        "open source",
+        "beer",
+        "copyleft",
+        "IT University of Copenhagen"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg"
+      ],
+      "source_url": "https://superflex.net/works/free_beer"
+    },
+    {
+      "id": "superflex--guarana-power",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Guaraná Power",
+      "year": 2003,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "exchange",
+        "governance",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Superflex worked with a cooperative of guaraná farmers in Maués, in the Brazilian Amazon, to create the farmers' own soft drink in response to a buyers' cartel that had driven down seed prices.",
+      "description_zh": "Superflex 与巴西亚马孙毛埃斯的瓜拉纳种植户合作社合作，创造了农户自己的汽水，以回应压低种子收购价的买家卡特尔。",
+      "idea_en": "The artwork is a producers' cooperative and its brand: self-organisation as a counter-economy.",
+      "idea_zh": "作品是一个生产者合作社及其品牌：以自组织作为对抗性经济。",
+      "protocol": "Decisions about the product are made by the farmers through an extended process of self-organisation; Superflex supplies design, branding and distribution in the art world; the label overwrites the corporate brand it answers.",
+      "protocol_zh": "关于产品的决定由农户通过长期的自组织过程作出；Superflex 负责设计、品牌以及在艺术界的发行；瓶标覆盖在它所回应的企业品牌之上。",
+      "collective": "The farmers' cooperative developed and sold the drink, which was served in exhibitions and bars; the corporate cartel had cut the seed price by 80%, and the 27th São Paulo Biennial (2006) banned the work from display, after which Superflex exhibited censored versions.",
+      "collective_zh": "农户合作社开发并销售这款饮料，在展览和酒吧中供应；此前企业卡特尔把种子收购价压低了 80%；2006 年第 27 届圣保罗双年展禁止展出这件作品，Superflex 随后展出了被审查的版本。",
+      "keywords": [
+        "cooperative",
+        "Amazon",
+        "Maués",
+        "brand",
+        "São Paulo Biennial",
+        "self-organisation"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg"
+      ],
+      "source_url": "https://superflex.net/works/guarana_power"
+    },
+    {
+      "id": "superflex--free-sol-lewitt",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Free Sol LeWitt",
+      "year": 2010,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "chance",
+        "circulation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A metal workshop inside the Van Abbemuseum produced exact replicas of Sol LeWitt's Untitled (Wall Structure) (1972) from the collection and gave them away to the public by lottery.",
+      "description_zh": "范·阿贝博物馆内的一个金属工坊，照原样复制馆藏的索尔·勒维特《无题（墙面结构）》（1972），并通过抽签免费送给公众。",
+      "idea_en": "Take the artist at his word: if ideas are common property, the museum's copy can be released to the public.",
+      "idea_zh": "按艺术家自己的话去做：如果观念是公共财产，美术馆的副本就可以交还给公众。",
+      "protocol": "Workers fabricate copies of the LeWitt structure in the gallery during opening hours; visitors enter a lottery; winners take a copy home for free.",
+      "protocol_zh": "工人在开放时间于展厅内制作勒维特结构的复制品；观众参加抽签；中签者免费把复制品带回家。",
+      "collective": "Visitors to In-between Minimalisms / Free Sol LeWitt at the Van Abbemuseum in 2010 entered the lottery and took replicas into their homes, testing LeWitt's statement that ideas 'can only be given away and not stolen'.",
+      "collective_zh": "2010 年范·阿贝博物馆“极简主义之间／解放索尔·勒维特”展的观众参加抽签，把复制品带回家中，检验了勒维特“观念只能被赠予、不能被偷走”的说法。",
+      "keywords": [
+        "Van Abbemuseum",
+        "Sol LeWitt",
+        "copyright",
+        "lottery",
+        "copying"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg"
+      ],
+      "source_url": "https://superflex.net/works/free_sol_lewitt"
+    },
+    {
+      "id": "superflex--superkilen",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Superkilen",
+      "year": 2012,
+      "field": "social",
+      "sub": "collective-action",
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A public park in Copenhagen's Nørrebro district furnished with benches, bins, lamps, playground equipment and signs nominated by local residents from their countries of origin or travels.",
+      "description_zh": "哥本哈根诺雷布罗区的一座公共公园，园中的长椅、垃圾桶、路灯、游乐设施和标志，都由当地居民从自己的原籍国或旅行中提名选出。",
+      "idea_en": "Residents curate the city furniture: the park is a collection nominated by its neighbours.",
+      "idea_zh": "由居民挑选城市家具：公园是一座由邻居提名的收藏。",
+      "protocol": "Residents nominate everyday urban objects from other countries; each is either copied at 1:1 or bought and shipped to the site; five groups travel with Superflex to Palestine, Spain, Thailand, Texas and Jamaica to acquire an object of their choice.",
+      "protocol_zh": "居民提名来自其他国家的日常城市物件；每件物件要么按 1:1 复制，要么购买后运到现场；五组居民与 Superflex 一起前往巴勒斯坦、西班牙、泰国、得克萨斯和牙买加，取回他们选定的物件。",
+      "collective": "Residents of more than 50 nationalities took part; the park now holds more than 100 objects from more than 50 countries. It was designed with BIG and Topotek1 and commissioned by the City of Copenhagen and Realdania.",
+      "collective_zh": "来自 50 多个国家的居民参与其中；公园如今有来自 50 多个国家的 100 多件物件。它与 BIG 和 Topotek1 共同设计，由哥本哈根市政府和 Realdania 委托。",
+      "keywords": [
+        "Copenhagen",
+        "Nørrebro",
+        "public space",
+        "extreme participation",
+        "BIG",
+        "Topotek1"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg"
+      ],
+      "source_url": "https://superflex.net/works/superkilen"
+    },
+    {
+      "id": "santiago-sierra--250-cm-line-tattooed",
+      "creator_ids": [
+        "santiago-sierra"
+      ],
+      "title": "250 cm Line Tattooed on 6 Paid People",
+      "year": 1999,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "exchange",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "At Espacio Aglutinador in Havana, Sierra paid six unemployed young men to have a single continuous 250-centimetre line tattooed across their backs as they stood side by side.",
+      "description_zh": "在哈瓦那的 Espacio Aglutinador，谢拉付钱给六名失业青年，让他们并排站立，在背上文上一条连续的 250 厘米长的线。",
+      "idea_en": "A wage contract made permanent on the body: the payment rule is the work's content.",
+      "idea_zh": "把雇佣合同永久留在身体上：报酬规则就是作品的内容。",
+      "protocol": "Six people are recruited and paid a fixed fee (thirty dollars each) to stand in a row and accept a straight line tattooed across all their backs; the action is photographed and the fee is stated in the title and documentation.",
+      "protocol_zh": "招募六人，每人支付固定报酬（30 美元），让他们站成一排，接受一条横贯所有人背部的直线文身；行动被拍摄记录，报酬写入标题和文献之中。",
+      "collective": "Six young men in Havana accepted the payment and the permanent mark in December 1999; the work provoked long debates on exploitation and complicity, and its photographic documentation is held by the Städel Museum and Fundación Jumex.",
+      "collective_zh": "1999 年 12 月，哈瓦那的六名青年接受了报酬和永久的印记；作品引发了关于剥削与共谋的长期争论，其摄影文献由施泰德博物馆和尤麦克斯基金会收藏。",
+      "keywords": [
+        "wage labour",
+        "Havana",
+        "tattoo",
+        "remuneration",
+        "exploitation"
+      ],
+      "images": [
+        "https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg",
+        "https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg"
+      ],
+      "source_url": "https://sammlung.staedelmuseum.de/en/work/250-cm-line-tattooed-on-6-paid-people-espacio-aglutinador"
+    },
+    {
+      "id": "cildo-meireles--insertions-into-ideological-circuits",
+      "creator_ids": [
+        "cildo-meireles"
+      ],
+      "title": "Insertions into Ideological Circuits: Coca-Cola Project and Banknote Project",
+      "year": 1970,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "circulation",
+        "instruction",
+        "currency"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "Meireles printed political messages and instructions onto returnable Coca-Cola bottles and banknotes and put them back into circulation, where they travelled through the bottling and money systems.",
+      "description_zh": "梅雷莱斯把政治信息和操作说明印在可回收的可口可乐瓶和钞票上，再把它们放回流通，让它们在装瓶系统和货币系统中流转。",
+      "idea_en": "Use an existing circulation system as the distribution network, and let anyone copy the method.",
+      "idea_zh": "把现有的流通系统当作分发网络，并让任何人都能复制这个方法。",
+      "protocol": "Transfer a text in white lettering onto an empty returnable bottle (visible only when refilled with cola) or stamp it on a banknote, then return the bottle or spend the note; the bottle carries instructions so that others can repeat the insertion.",
+      "protocol_zh": "把白色文字转印到空的可回收瓶上（只有重新灌满可乐时才看得见），或盖印在钞票上，然后退回瓶子、花掉钞票；瓶子上附有说明，让其他人也能重复这种插入。",
+      "collective": "Under the Brazilian dictatorship, the bottles and notes, bearing slogans such as 'Yankees go home!' and questions like 'Which is the place of the work of art?', passed anonymously through the hands of bottlers, shopkeepers and consumers.",
+      "collective_zh": "在巴西军政府统治下，这些印着“美国佬滚回去！”等口号和“艺术作品的位置在哪里？”等问题的瓶子和钞票，匿名经过装瓶工、店主和消费者之手。",
+      "keywords": [
+        "Coca-Cola",
+        "banknotes",
+        "dictatorship",
+        "Brazil",
+        "circulation"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328"
+    },
+    {
+      "id": "marcel-duchamp--monte-carlo-bond",
+      "creator_ids": [
+        "marcel-duchamp"
+      ],
+      "title": "Obligations pour la Roulette de Monte-Carlo (Monte Carlo Bond)",
+      "year": 1924,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "currency",
+        "chance"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "Duchamp issued bonds in a company formed to fund his attempt to beat the roulette tables at Monte Carlo with a system; the bond, with Man Ray's photograph of him, is both an artwork and a financial instrument.",
+      "description_zh": "杜尚为一家公司发行债券，用来资助他以一套系统在蒙特卡洛赌桌上赢钱的尝试；这张印有曼·雷为他拍摄的照片的债券，既是艺术品也是金融工具。",
+      "idea_en": "An artist-issued security: investors fund a rule-based system and share its (hoped-for) returns.",
+      "idea_zh": "由艺术家发行的证券：投资人资助一套规则化的系统，并分享其（期望中的）回报。",
+      "protocol": "The company plans 30 bonds at 500 francs each, repayable with 20% interest from roulette winnings; each bond is signed by Rrose Sélavy and by Duchamp as the company's officers.",
+      "protocol_zh": "公司计划发行 30 张债券，每张 500 法郎，以轮盘赌赢利偿还并支付 20% 的利息；每张债券由罗丝·瑟拉薇和杜尚以公司负责人的身份签名。",
+      "collective": "A small circle of friends and patrons bought bonds; sources count eight bonds realised in 1924. The system did not make money, but the bonds survived as artworks and are now held by museums and collectors.",
+      "collective_zh": "一小群朋友和赞助人购买了债券；有资料统计 1924 年实际发行了八张。这套系统并没有赚到钱，但债券作为艺术品留存下来，现由美术馆和藏家收藏。",
+      "keywords": [
+        "bond",
+        "roulette",
+        "Rrose Sélavy",
+        "Man Ray",
+        "finance"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg",
+        "https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg"
+      ],
+      "source_url": "https://www.nmnm.mc/en/exhibitions/6716/"
+    },
+    {
+      "id": "tino-sehgal--kiss",
+      "creator_ids": [
+        "tino-sehgal"
+      ],
+      "title": "Kiss",
+      "year": 2002,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "contract",
+        "instruction",
+        "scarcity"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Two dancers move slowly through a sequence of kisses taken from art history, from Rodin, Brâncuși and Klimt to Courbet and Jeff Koons; the work was sold to museums in an edition of four purely by spoken contract.",
+      "description_zh": "两名舞者缓慢地演绎一系列取自艺术史的亲吻姿态，从罗丹、布朗库西、克里姆特到库尔贝和杰夫·昆斯；这件作品以四版的形式、完全通过口头合同售予美术馆。",
+      "idea_en": "An artwork with no object, sold and passed on only by oral agreement before a notary.",
+      "idea_zh": "一件没有实物的作品，只在公证人面前通过口头约定出售和传承。",
+      "protocol": "No written contract, receipt, instructions or photographs. The sale is spoken before a notary and witnesses, with stipulations: the work is installed only by people Sehgal has trained, the dancers are paid an agreed minimum, it is shown for at least six weeks, it is never photographed, and any resale must repeat the same oral contract.",
+      "protocol_zh": "没有书面合同、收据、说明或照片。销售在公证人和见证人面前口头完成，并约定：只能由赛格尔亲自训练的人来安装作品，舞者须获得约定的最低报酬，每次展出至少六周，永不拍照，任何转售都必须重复同样的口头合同。",
+      "collective": "The Art Gallery of Ontario, the Museum of Contemporary Art Chicago and the Museum of Modern Art in New York, which acquired the final edition, bought it on these terms; generations of dancers have learned it by direct transmission.",
+      "collective_zh": "安大略美术馆、芝加哥当代艺术博物馆以及收购最后一版的纽约现代艺术博物馆，都按这些条款购入了作品；一代代舞者通过口传身授学会了它。",
+      "keywords": [
+        "oral contract",
+        "notary",
+        "constructed situation",
+        "MoMA",
+        "immaterial"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ZWfM71KsPTY"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Tino_Sehgal"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Ulises Carrión, Erratic Art Mail International System (1977)",
+      "why": "A postal art system with its own rules for sending and registering mail.",
+      "link": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n",
+      "found_via": "ray-johnson",
+      "status": "open"
+    },
+    {
+      "name": "Image Bank (Vancouver), image request lists (1970–)",
+      "why": "Artists posted lists of images they wanted; the network sent them in. Correspondence protocol.",
+      "link": "https://en.wikipedia.org/wiki/Image_Bank",
+      "found_via": "robert-filliou",
+      "status": "open"
+    },
+    {
+      "name": "Clemente Padín / Edgardo Antonio Vigo, Latin American mail-art networks",
+      "why": "Mail art as political circulation under dictatorship.",
+      "link": "https://en.wikipedia.org/wiki/Mail_art",
+      "found_via": "ray-johnson",
+      "status": "open"
+    },
+    {
+      "name": "Robert Filliou and Joachim Pfeufer, Poïpoïdrome (1963–)",
+      "why": "Proposal for a 'permanent creation' centre; could not confirm a rule addressed to a group.",
+      "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
+      "found_via": "robert-filliou",
+      "status": "open"
+    },
+    {
+      "name": "Robert Filliou, Principle of Equivalence (well made, badly made, not made)",
+      "why": "Artist-made object series; no rule for a group.",
+      "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
+      "found_via": "robert-filliou",
+      "status": "off_topic"
+    },
+    {
+      "name": "Superflex, Free Shop (2003)",
+      "why": "Shops charge zero for an undisclosed period; staff follow the rule, customers react. Borderline.",
+      "link": "https://superflex.net/works/free_shop",
+      "found_via": "superflex",
+      "status": "open"
+    },
+    {
+      "name": "Superflex, Corruption Contract (2009) and 2000 Watt Society Contract (2010)",
+      "why": "Contracts imposed on clients or residents as artworks.",
+      "link": "https://superflex.net/works/corruption_contract",
+      "found_via": "superflex",
+      "status": "open"
+    },
+    {
+      "name": "Maria Eichhorn, Maria Eichhorn Aktiengesellschaft (2002)",
+      "why": "A public limited company whose shares may not generate profit; contract art.",
+      "link": "https://en.wikipedia.org/wiki/Maria_Eichhorn",
+      "found_via": "seth-siegelaub",
+      "status": "open"
+    },
+    {
+      "name": "Carey Young, Declared Void (2005)",
+      "why": "Visitors who enter a marked zone agree by contract to be under US constitutional jurisdiction.",
+      "link": "https://en.wikipedia.org/wiki/Carey_Young",
+      "found_via": "seth-siegelaub",
+      "status": "open"
+    },
+    {
+      "name": "Platoniq, Banco Común de Conocimientos (Bank of Common Knowledge)",
+      "why": "Skill-exchange bank run as an artwork; sibling of Time/Bank.",
+      "link": "https://en.wikipedia.org/wiki/Platoniq",
+      "found_via": "julieta-aranda",
+      "status": "open"
+    },
+    {
+      "name": "Santiago Sierra, Persons Paid to Have Their Hair Dyed Blond (2001) and other paid-participant works",
+      "why": "Same wage-contract protocol; add after checking media.",
+      "link": "https://en.wikipedia.org/wiki/Santiago_Sierra",
+      "found_via": "santiago-sierra",
+      "status": "open"
+    },
+    {
+      "name": "Cildo Meireles, Zero Cruzeiro / Zero Dollar (1974–78)",
+      "why": "Artist-issued banknotes of zero value that entered circulation.",
+      "link": "https://en.wikipedia.org/wiki/Cildo_Meireles",
+      "found_via": "cildo-meireles",
+      "status": "open"
+    },
+    {
+      "name": "Temporary Services (Chicago)",
+      "why": "Artist group producing free publications and exchange projects.",
+      "link": "https://temporaryservices.org/",
+      "found_via": "superflex",
+      "status": "open"
+    }
+  ]
+}

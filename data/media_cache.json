@@ -1114,8 +1114,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cards_for_Hirshhorn_Wish_Tree.JPG/960px-Cards_for_Hirshhorn_Wish_Tree.JPG",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg": {
   "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg",
@@ -1160,15 +1159,13 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ORGAN%C2%B2ASLSP_Orgel.jpg/960px-ORGAN%C2%B2ASLSP_Orgel.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halberstadt-aslsp-gesamt.jpg/960px-Halberstadt-aslsp-gesamt.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halberstadt-aslsp-gesamt.jpg/960px-Halberstadt-aslsp-gesamt.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:yV-kWU1Z5u8": {
   "url": "https://www.youtube.com/watch?v=yV-kWU1Z5u8",
@@ -1213,8 +1210,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Terry_Riley_In_C_Carnegie_Hall.jpg/960px-Terry_Riley_In_C_Carnegie_Hall.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/commons/3/32/Incipit_of_Terry_Riley%27s_In_C.png": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Incipit_of_Terry_Riley%27s_In_C.png",
@@ -1283,8 +1279,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg/960px-Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:e_reft1hEJ4": {
   "url": "https://www.youtube.com/watch?v=e_reft1hEJ4",
@@ -1530,8 +1525,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg/960px-Kassel-Documenta_13-116-Beuys-Basalt_und_Eiche-2012-gje.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/commons/b/bd/Kassel-beuys-7000-eichen-wegmann-v-o.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kassel-beuys-7000-eichen-wegmann-v-o.jpg",
@@ -1826,8 +1820,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Internationale_situationniste_n%C2%BA1.jpg/960px-Internationale_situationniste_n%C2%BA1.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg",
@@ -3563,6 +3556,679 @@
  },
  "ytmax:ahB4LtWLIDE": {
   "url": "https://i.ytimg.com/vi/ahB4LtWLIDE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:SyIJJr6Ldg8": {
+  "url": "https://www.youtube.com/watch?v=SyIJJr6Ldg8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "SyIJJr6Ldg8",
+  "title": "A Hole in Space LA-NY, 1980 -- the mother of all video chats",
+  "author": "Larry press",
+  "thumbnail": "https://i.ytimg.com/vi/SyIJJr6Ldg8/hqdefault.jpg"
+ },
+ "img:https://ecafe.com/getty/HIS/images/H110/03/53.gif": {
+  "url": "https://ecafe.com/getty/HIS/images/H110/03/53.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://ecafe.com/getty/HIS/images/H110/02/081.gif": {
+  "url": "https://ecafe.com/getty/HIS/images/H110/02/081.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg": {
+  "url": "https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.mediaartnet.org/assets/img/data/1649/bild.jpg": {
+  "url": "http://www.mediaartnet.org/assets/img/data/1649/bild.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.mediaartnet.org/assets/img/data/2021/bild.jpg": {
+  "url": "http://www.mediaartnet.org/assets/img/data/2021/bild.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.thefileroom.org/documents/sala.gif": {
+  "url": "https://www.thefileroom.org/documents/sala.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "video:vimeo:319098037": {
+  "url": "https://vimeo.com/319098037",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "319098037",
+  "embeddable": true,
+  "title": "Teleporting An Unknown State | Eduardo Kac | 1994/96",
+  "thumbnail": "https://i.vimeocdn.com/video/761588565-a7f80115bb557607377ef78d9fb1784bc55706925df428a4f0d6e69940e8250e-d?f=webp&region=us"
+ },
+ "img:https://www.ekac.org/telepsim/center8.jpg": {
+  "url": "https://www.ekac.org/telepsim/center8.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/253607.253628": {
+  "doi": "10.1145/253607.253628",
+  "ok": true,
+  "type": "doi",
+  "title": "Teleporting an unknown state",
+  "year": 1996,
+  "venue": "ACM SIGGRAPH 96 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '96 on   - SIGGRAPH '96",
+  "url": "https://doi.org/10.1145/253607.253628"
+ },
+ "video:vimeo:33988779": {
+  "url": "https://vimeo.com/33988779",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "33988779",
+  "embeddable": true,
+  "title": "\"Vectorial Elevation\" at Zócalo Square (1999) by Rafael Lozano-Hemmer",
+  "thumbnail": "https://i.vimeocdn.com/video/274620370-c39db80626bde159fc4adbb1773d5172568e56b3939b71ab6e50a34dd3d233d4-d?f=webp&region=us"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg": {
+  "url": "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png": {
+  "url": "https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png": {
+  "url": "https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg": {
+  "url": "http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg": {
+  "url": "http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:uEykp9PsDkw": {
+  "url": "https://www.youtube.com/watch?v=uEykp9PsDkw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uEykp9PsDkw",
+  "title": "Man With A Movie Camera:The Global Remake",
+  "author": "perrybard",
+  "thumbnail": "https://i.ytimg.com/vi/uEykp9PsDkw/hqdefault.jpg"
+ },
+ "img:https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg": {
+  "url": "https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:7ezeYJUz-84": {
+  "url": "https://www.youtube.com/watch?v=7ezeYJUz-84",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7ezeYJUz-84",
+  "title": "Star Wars Uncut: Director's Cut",
+  "author": "Casey Pugh",
+  "thumbnail": "https://i.ytimg.com/vi/7ezeYJUz-84/hqdefault.jpg"
+ },
+ "img:http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png": {
+  "url": "http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:D7o7BrlbaDs": {
+  "url": "https://www.youtube.com/watch?v=D7o7BrlbaDs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "D7o7BrlbaDs",
+  "title": "Eric Whitacre's Virtual Choir - 'Lux Aurumque'",
+  "author": "Eric Whitacre's Virtual Choir",
+  "thumbnail": "https://i.ytimg.com/vi/D7o7BrlbaDs/hqdefault.jpg"
+ },
+ "img:https://ericwhitacre.com/wp-content/uploads/vc1.jpg": {
+  "url": "https://ericwhitacre.com/wp-content/uploads/vc1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo": {
+  "url": "https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://sothebys-md.brightspotcdn.com/dims4/default/b3d31c7/2147483647/strip/true/crop/1280x1280+0+0/resize/4096x4096!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2Fcf%2F91ff8b7e484eb6d1e765a2a9a14d%2Fmccoy-quantum-still.jpeg": {
+  "url": "https://sothebys-md.brightspotcdn.com/dims4/default/b3d31c7/2147483647/strip/true/crop/1280x1280+0+0/resize/4096x4096!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2Fcf%2F91ff8b7e484eb6d1e765a2a9a14d%2Fmccoy-quantum-still.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif": {
+  "url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "video:youtube:maXcAaZ-fpQ": {
+  "url": "https://www.youtube.com/watch?v=maXcAaZ-fpQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "maXcAaZ-fpQ",
+  "title": "Kevin McCoy Inventor of NFTs, Minted the First NFT, and founder of Monegraph - NFT_NYC talk",
+  "author": "Monegraph",
+  "thumbnail": "https://i.ytimg.com/vi/maXcAaZ-fpQ/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bitchcoin_03.068.jpg/960px-Bitchcoin_03.068.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bitchcoin_03.068.jpg/960px-Bitchcoin_03.068.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg/960px-Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg/960px-Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:9n3JqJSLIpc": {
+  "url": "https://www.youtube.com/watch?v=9n3JqJSLIpc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9n3JqJSLIpc",
+  "title": "Short History of RAREPEPE BLOCKCHAIN TOKENS",
+  "author": "Theo Goodman",
+  "thumbnail": "https://i.ytimg.com/vi/9n3JqJSLIpc/hqdefault.jpg"
+ },
+ "video:youtube:mgFFUY4KsU8": {
+  "url": "https://www.youtube.com/watch?v=mgFFUY4KsU8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mgFFUY4KsU8",
+  "title": "R.A.R.E: DIGITAL ART FEST 2018 - RARE PEPE WALLET with Joe Looney",
+  "author": "RARE ART LABS",
+  "thumbnail": "https://i.ytimg.com/vi/mgFFUY4KsU8/hqdefault.jpg"
+ },
+ "video:youtube:BAi8nVwOjBQ": {
+  "url": "https://www.youtube.com/watch?v=BAi8nVwOjBQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BAi8nVwOjBQ",
+  "title": "Ethereum's Oldest NFT Art Project - Travis Uhrig (Co-Founder of Curio Cards): Episode 35",
+  "author": "Show Me The Crypto",
+  "thumbnail": "https://i.ytimg.com/vi/BAi8nVwOjBQ/hqdefault.jpg"
+ },
+ "img:https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/01.jpg": {
+  "url": "https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/17.jpg": {
+  "url": "https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/17.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:3oQ6j7oNyfE": {
+  "url": "https://www.youtube.com/watch?v=3oQ6j7oNyfE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3oQ6j7oNyfE",
+  "title": "Matt Hall & John Watkinson (Larva Labs) — CryptoPunks Artist Talk at NODE | 10,000 Exhibition",
+  "author": "NODE FOUNDATION",
+  "thumbnail": "https://i.ytimg.com/vi/3oQ6j7oNyfE/hqdefault.jpg"
+ },
+ "img:https://www.larvalabs.com/public/assetsv2/crytopunks_fullgrid.jpg": {
+  "url": "https://www.larvalabs.com/public/assetsv2/crytopunks_fullgrid.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.larvalabs.com/public/assetsv2/Punk305_ICA.jpg": {
+  "url": "https://www.larvalabs.com/public/assetsv2/Punk305_ICA.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:TNAM3_BzZRo": {
+  "url": "https://www.youtube.com/watch?v=TNAM3_BzZRo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TNAM3_BzZRo",
+  "title": "Autoglyphs 42 and 91",
+  "author": "John Watkinson",
+  "thumbnail": "https://i.ytimg.com/vi/TNAM3_BzZRo/hqdefault.jpg"
+ },
+ "img:https://www.larvalabs.com/public/assetsv2/glyphs_hero.png": {
+  "url": "https://www.larvalabs.com/public/assetsv2/glyphs_hero.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.larvalabs.com/public/assetsv2/Glyphs-Annotated-Code.png": {
+  "url": "https://www.larvalabs.com/public/assetsv2/Glyphs-Annotated-Code.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:4xNNYPet8sY": {
+  "url": "https://www.youtube.com/watch?v=4xNNYPet8sY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4xNNYPet8sY",
+  "title": "Artist turns his blood into cryptocurrency",
+  "author": "CNN Business",
+  "thumbnail": "https://i.ytimg.com/vi/4xNNYPet8sY/hqdefault.jpg"
+ },
+ "img:https://www.crowdfundinsider.com/wp-content/uploads/2018/02/The-forever-rose.png": {
+  "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/The-forever-rose.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://kevinabosch.com/images/priceless_1400.jpg": {
+  "url": "https://kevinabosch.com/images/priceless_1400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://moxie.org/blog/images/nft-opensea.png": {
+  "url": "https://moxie.org/blog/images/nft-opensea.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://moxie.org/blog/images/nft-rarible.png": {
+  "url": "https://moxie.org/blog/images/nft-rarible.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://moxie.org/blog/images/nft-metamask.png": {
+  "url": "https://moxie.org/blog/images/nft-metamask.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://moxie.org/blog/images/nft-removed.png": {
+  "url": "https://moxie.org/blog/images/nft-removed.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://i.imgur.com/kvv9vvh.png": {
+  "url": "https://i.imgur.com/kvv9vvh.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:JggQhCpsZH4": {
+  "url": "https://www.youtube.com/watch?v=JggQhCpsZH4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JggQhCpsZH4",
+  "title": "Etheria Unification Presentation",
+  "author": "Cyrus",
+  "thumbnail": "https://i.ytimg.com/vi/JggQhCpsZH4/hqdefault.jpg"
+ },
+ "img:https://etheria.world/images/composite.png": {
+  "url": "https://etheria.world/images/composite.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:is5Vrs6EZJk": {
+  "url": "https://www.youtube.com/watch?v=is5Vrs6EZJk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "is5Vrs6EZJk",
+  "title": "Fun interview with William Entriken, founder of Su Squares, lead author of ERC-721 standard",
+  "author": "Exploring the Vintage NFT Space with ZeroG",
+  "thumbnail": "https://i.ytimg.com/vi/is5Vrs6EZJk/hqdefault.jpg"
+ },
+ "img:https://tenthousandsu.com/build/wholeSquare.webp": {
+  "url": "https://tenthousandsu.com/build/wholeSquare.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:dWUi8dkv5qU": {
+  "url": "https://www.youtube.com/watch?v=dWUi8dkv5qU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dWUi8dkv5qU",
+  "title": "How to Play CryptoKitties",
+  "author": "Crypto Kitties",
+  "thumbnail": "https://i.ytimg.com/vi/dWUi8dkv5qU/hqdefault.jpg"
+ },
+ "img:https://www.cryptokitties.co/images/share.png": {
+  "url": "https://www.cryptokitties.co/images/share.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://web.archive.org/web/20211002104830im_/https://www.hicetnunc.xyz/og-image.jpg": {
+  "url": "https://web.archive.org/web/20211002104830im_/https://www.hicetnunc.xyz/og-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://raw.githubusercontent.com/hicetnunc2000/hicetnunc/main/public/HEN_avatar.png": {
+  "url": "https://raw.githubusercontent.com/hicetnunc2000/hicetnunc/main/public/HEN_avatar.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:hO97qco-ZX4": {
+  "url": "https://www.youtube.com/watch?v=hO97qco-ZX4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hO97qco-ZX4",
+  "title": "Introducing TEIA | teia.art 101 | Tezos NFT Marketplace",
+  "author": "Teia Community",
+  "thumbnail": "https://i.ytimg.com/vi/hO97qco-ZX4/hqdefault.jpg"
+ },
+ "img:https://blog.teia.art/static/images/teia-cover.jpg": {
+  "url": "https://blog.teia.art/static/images/teia-cover.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:9BgOfsG7J0Q": {
+  "url": "https://www.youtube.com/watch?v=9BgOfsG7J0Q",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9BgOfsG7J0Q",
+  "title": "Robert Filliou defines the Eternal Network, 1977",
+  "author": "Clive Robertson",
+  "thumbnail": "https://i.ytimg.com/vi/9BgOfsG7J0Q/hqdefault.jpg"
+ },
+ "img:https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421": {
+  "url": "https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1177/0263276418796563": {
+  "doi": "10.1177/0263276418796563",
+  "ok": true,
+  "type": "doi",
+  "title": "Life as Art, or Art as Life: Robert Filliou and the Eternal Network",
+  "year": 2019,
+  "venue": "Theory, Culture &amp; Society",
+  "url": "https://doi.org/10.1177/0263276418796563"
+ },
+ "video:youtube:0uHKNrnsCzo": {
+  "url": "https://www.youtube.com/watch?v=0uHKNrnsCzo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0uHKNrnsCzo",
+  "title": "Art's Birthday",
+  "author": "ARTtube",
+  "thumbnail": "https://i.ytimg.com/vi/0uHKNrnsCzo/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630": {
+  "url": "https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg": {
+  "url": "https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
+  "unverified": true
+ },
+ "img:https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg": {
+  "url": "https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg": {
+  "url": "https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg": {
+  "url": "https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg": {
+  "url": "https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg": {
+  "url": "https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg": {
+  "url": "https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ZWfM71KsPTY": {
+  "url": "https://www.youtube.com/watch?v=ZWfM71KsPTY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZWfM71KsPTY",
+  "title": "Artist Talks: Tino Sehgal - about his work \"Kiss\"",
+  "author": "FondationBeyeler",
+  "thumbnail": "https://i.ytimg.com/vi/ZWfM71KsPTY/hqdefault.jpg"
+ },
+ "ytmax:SyIJJr6Ldg8": {
+  "url": "https://i.ytimg.com/vi/SyIJJr6Ldg8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:uEykp9PsDkw": {
+  "url": "https://i.ytimg.com/vi/uEykp9PsDkw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:7ezeYJUz-84": {
+  "url": "https://i.ytimg.com/vi/7ezeYJUz-84/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:D7o7BrlbaDs": {
+  "url": "https://i.ytimg.com/vi/D7o7BrlbaDs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:maXcAaZ-fpQ": {
+  "url": "https://i.ytimg.com/vi/maXcAaZ-fpQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:9n3JqJSLIpc": {
+  "url": "https://i.ytimg.com/vi/9n3JqJSLIpc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mgFFUY4KsU8": {
+  "url": "https://i.ytimg.com/vi/mgFFUY4KsU8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BAi8nVwOjBQ": {
+  "url": "https://i.ytimg.com/vi/BAi8nVwOjBQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3oQ6j7oNyfE": {
+  "url": "https://i.ytimg.com/vi/3oQ6j7oNyfE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:TNAM3_BzZRo": {
+  "url": "https://i.ytimg.com/vi/TNAM3_BzZRo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:4xNNYPet8sY": {
+  "url": "https://i.ytimg.com/vi/4xNNYPet8sY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:JggQhCpsZH4": {
+  "url": "https://i.ytimg.com/vi/JggQhCpsZH4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:is5Vrs6EZJk": {
+  "url": "https://i.ytimg.com/vi/is5Vrs6EZJk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dWUi8dkv5qU": {
+  "url": "https://i.ytimg.com/vi/dWUi8dkv5qU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:hO97qco-ZX4": {
+  "url": "https://i.ytimg.com/vi/hO97qco-ZX4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:9BgOfsG7J0Q": {
+  "url": "https://i.ytimg.com/vi/9BgOfsG7J0Q/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:0uHKNrnsCzo": {
+  "url": "https://i.ytimg.com/vi/0uHKNrnsCzo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZWfM71KsPTY": {
+  "url": "https://i.ytimg.com/vi/ZWfM71KsPTY/maxresdefault.jpg",
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"

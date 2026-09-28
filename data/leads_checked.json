@@ -104,6 +104,46 @@
   "batch": "autonomous"
  },
  {
+  "name": "Stelarc — Ping Body (1996)",
+  "why": "Muscles actuated by internet ping times; the body is moved by network data, not by participants acting under a rule.",
+  "link": "https://v2.nl/works/ping-body/",
+  "found_via": "ken-goldberg",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Andrew Badr — Your World of Text (2009)",
+  "why": "Infinite shared text grid anyone can type on; needs a verifiable image.",
+  "link": "https://www.yourworldoftext.com/",
+  "found_via": "josh-wardle",
+  "status": "no_media",
+  "batch": "network"
+ },
+ {
+  "name": "Ze Frank — Earth Sandwich (2006)",
+  "why": "Challenge from the show with zefrank to place two slices of bread at antipodes simultaneously; realised by viewers in Spain and New Zealand.",
+  "link": "https://en.wikipedia.org/wiki/The_show_with_zefrank",
+  "found_via": "miranda-july",
+  "status": "no_media",
+  "batch": "network"
+ },
+ {
+  "name": "Paul Sermon — Telematic Dreaming (1992)",
+  "why": "Two remote participants share a projected bed; intimate telepresence rather than a crowd protocol.",
+  "link": "http://www.paulsermon.org/dream/",
+  "found_via": "roy-ascott",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "pxls.space and other r/place clones",
+  "why": "Fan-run canvases copying the r/place rule without a distinct author or artistic intent.",
+  "link": "https://pxls.space/",
+  "found_via": "josh-wardle",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
   "name": "Constant Dullaart — High Retention, Slow Delivery (2014)",
   "why": "Bought 2.5 million fake Instagram followers and gave art-world accounts 100,000 each; the 'crowd' is purchased bot accounts, so no participants act under the rule.",
   "link": "https://constantdullaart.com/projects/high-retention-slow-delivery",
@@ -288,6 +328,30 @@
   "batch": "onchain-pak"
  },
  {
+  "name": "EtherRock (2017)",
+  "why": "100 rocks with a rising mint price and in-contract market, but the author is anonymous, so it fails the authored-protocol test.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "larva-labs",
+  "status": "off_topic",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Kevin Abosch, Yellow Lambo (2018)",
+  "why": "Neon sculpture of a token address sold to one buyer; no collective rule.",
+  "link": "https://kevinabosch.com/yellow_lambo.html",
+  "found_via": "kevin-abosch",
+  "status": "off_topic",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Mitchell F. Chan, Digital Zones of Immaterial Pictorial Sensibility (2017)",
+  "why": "Already in onchain-pak (ritual burn destroys ETH from the artist's contract).",
+  "link": "https://chan.gallery/ikb/",
+  "found_via": "sarah-meyohas",
+  "status": "duplicate",
+  "batch": "onchain-rules"
+ },
+ {
   "name": "Rhea Myers, Certificate of Inauthenticity (2020)",
   "why": "NFT certificates growing out of the DECAL gold castings of Shareable Readymades; covered inside that entry.",
   "link": "https://rhea.art/certificate-of-inauthenticity/",
@@ -326,6 +390,14 @@
   "found_via": "john-cage",
   "status": "off_topic",
   "batch": "score"
+ },
+ {
+  "name": "Robert Filliou, Principle of Equivalence (well made, badly made, not made)",
+  "why": "Artist-made object series; no rule for a group.",
+  "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
+  "found_via": "robert-filliou",
+  "status": "off_topic",
+  "batch": "social"
  },
  {
   "name": "Francis Alÿs, Children's Games (1999–)",

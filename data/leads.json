@@ -128,6 +128,78 @@
   "batch": "autonomous"
  },
  {
+  "name": "Stelarc — Fractal Flesh (1995)",
+  "why": "Audiences in Paris, Helsinki and Amsterdam remotely actuated Stelarc's body via a web interface; a stronger crowd case than Ping Body.",
+  "link": "http://www.medienkunstnetz.de/works/ping-body/",
+  "found_via": "ken-goldberg",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Paul Ford — tilde.club (2014)",
+  "why": "One unmodified Unix server where thousands made hand-coded homepages; an open-infrastructure case with a writer rather than artist as author.",
+  "link": "https://tilde.club/",
+  "found_via": "aram-bartholl",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Joel Holmberg — Legendary Account (2007–2010)",
+  "why": "Earnest philosophical questions posted to Yahoo! Answers; the crowd's answers form the work.",
+  "link": "https://anthology.rhizome.org/legendary-account",
+  "found_via": "olia-lialina",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Nick Thurston — Of the Subcontract (2013)",
+  "why": "Book of poems written by Mechanical Turk workers, with their pay listed.",
+  "link": "https://www.informationasmaterial.org/",
+  "found_via": "aaron-koblin",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Blast Theory — Can You See Me Now? (2001)",
+  "why": "Online players chased by runners in real streets; telematic game with a crowd of remote players.",
+  "link": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/",
+  "found_via": "ken-goldberg",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Kit Galloway & Sherrie Rabinowitz — Electronic Café (1984)",
+  "why": "Video and computer links between five Los Angeles community sites during the 1984 Olympic Arts Festival.",
+  "link": "https://ecafe.com/",
+  "found_via": "kit-galloway",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Alexei Shulgin — Desktop Is (1997)",
+  "why": "Invited people to send screenshots of their desktops; early crowdsourced net-art exhibition.",
+  "link": "http://www.easylife.org/desktop/",
+  "found_via": "heath-bunting",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Luther Blissett (1994)",
+  "why": "Multiple-use name adopted by hundreds of activists and artists; open identity protocol, may fit autonomous-artists.",
+  "link": "https://en.wikipedia.org/wiki/Luther_Blissett_(nom_de_plume)",
+  "found_via": "heath-bunting",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Rafael Lozano-Hemmer — Body Movies (2001) and other Relational Architecture works",
+  "why": "Public-space works where crowds' shadows reveal portraits; check scope overlap with the social batch.",
+  "link": "https://www.lozano-hemmer.com/",
+  "found_via": "rafael-lozano-hemmer",
+  "status": "open",
+  "batch": "network"
+ },
+ {
   "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)",
   "why": "A 'crowdsourced robot' whose actions are carried out by Mechanical Turk workers via a natural-language interface.",
   "link": "http://instructables.com/id/Noodle-a-crowdsourced-robot/",
@@ -374,6 +446,86 @@
   "found_via": "jack-butcher",
   "status": "open",
   "batch": "onchain-pak"
+ },
+ {
+  "name": "Eve Sussman, 89 Seconds Atomized (Snark.art, 2018)",
+  "why": "Video split into 2,500 tokens; owners can borrow atoms to reassemble the film — a co-ownership rule. Needs a primary source and image.",
+  "link": "https://snark.art",
+  "found_via": "kevin-mccoy",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Jennifer & Kevin McCoy, Public Key/Private Key (Whitney, 2019)",
+  "why": "Uses Monegraph to make 50 people museum donors of the work.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "kevin-mccoy",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Scarab Experiment (2015)",
+  "why": "Counterparty project that is both an artist collective and an artwork.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "rare-pepe-directory",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Coin Artist (Marguerite deCourcelle), Bitcoin puzzle paintings (2015–)",
+  "why": "Paintings hiding bitcoin keys that crowds race to solve; collective solving is the work.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "rare-pepe-directory",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Memorychain (2017)",
+  "why": "Community-driven Counterparty card initiative in Asia, similar to Rare Pepe, with daily/thematic rules.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "rare-pepe-directory",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Bitcorn (2018)",
+  "why": "Counterparty simulation game: players harvest farms or publish corn meme cards over four years.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "rare-pepe-directory",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Pixel Map (2016) and WeiCards (2017)",
+  "why": "Early Ethereum shared canvases with buy/rent rules, like the Million Ether Homepage; check authorship.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "peter-porobov",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Conlan Rios, NFT-Scribe (2019)",
+  "why": "Contract that lets ERC-721 owners append on-chain messages to their tokens.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "larva-labs",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Sarah Meyohas, Cloud of Petals (2017)",
+  "why": "Sixteen workers archived 100,000 rose petals and each chose the most beautiful petal per rose; a labour protocol now backing Bitchcoin.",
+  "link": "https://www.sarahmeyohas.com",
+  "found_via": "sarah-meyohas",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Moxie Marlinspike, First Derivative (2021)",
+  "why": "dApp for creating and trading NFT derivatives that track an underlying NFT.",
+  "link": "https://firstderivative.market",
+  "found_via": "moxie-marlinspike",
+  "status": "open",
+  "batch": "onchain-rules"
  },
  {
   "name": "Rhea Myers, The Fractionalized Phallus (2025)",
@@ -654,6 +806,94 @@
   "found_via": "john-cage",
   "status": "open",
   "batch": "score"
+ },
+ {
+  "name": "Ulises Carrión, Erratic Art Mail International System (1977)",
+  "why": "A postal art system with its own rules for sending and registering mail.",
+  "link": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n",
+  "found_via": "ray-johnson",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Image Bank (Vancouver), image request lists (1970–)",
+  "why": "Artists posted lists of images they wanted; the network sent them in. Correspondence protocol.",
+  "link": "https://en.wikipedia.org/wiki/Image_Bank",
+  "found_via": "robert-filliou",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Clemente Padín / Edgardo Antonio Vigo, Latin American mail-art networks",
+  "why": "Mail art as political circulation under dictatorship.",
+  "link": "https://en.wikipedia.org/wiki/Mail_art",
+  "found_via": "ray-johnson",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Robert Filliou and Joachim Pfeufer, Poïpoïdrome (1963–)",
+  "why": "Proposal for a 'permanent creation' centre; could not confirm a rule addressed to a group.",
+  "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
+  "found_via": "robert-filliou",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Superflex, Free Shop (2003)",
+  "why": "Shops charge zero for an undisclosed period; staff follow the rule, customers react. Borderline.",
+  "link": "https://superflex.net/works/free_shop",
+  "found_via": "superflex",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Superflex, Corruption Contract (2009) and 2000 Watt Society Contract (2010)",
+  "why": "Contracts imposed on clients or residents as artworks.",
+  "link": "https://superflex.net/works/corruption_contract",
+  "found_via": "superflex",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Carey Young, Declared Void (2005)",
+  "why": "Visitors who enter a marked zone agree by contract to be under US constitutional jurisdiction.",
+  "link": "https://en.wikipedia.org/wiki/Carey_Young",
+  "found_via": "seth-siegelaub",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Platoniq, Banco Común de Conocimientos (Bank of Common Knowledge)",
+  "why": "Skill-exchange bank run as an artwork; sibling of Time/Bank.",
+  "link": "https://en.wikipedia.org/wiki/Platoniq",
+  "found_via": "julieta-aranda",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Santiago Sierra, Persons Paid to Have Their Hair Dyed Blond (2001) and other paid-participant works",
+  "why": "Same wage-contract protocol; add after checking media.",
+  "link": "https://en.wikipedia.org/wiki/Santiago_Sierra",
+  "found_via": "santiago-sierra",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Cildo Meireles, Zero Cruzeiro / Zero Dollar (1974–78)",
+  "why": "Artist-issued banknotes of zero value that entered circulation.",
+  "link": "https://en.wikipedia.org/wiki/Cildo_Meireles",
+  "found_via": "cildo-meireles",
+  "status": "open",
+  "batch": "social"
+ },
+ {
+  "name": "Temporary Services (Chicago)",
+  "why": "Artist group producing free publications and exchange projects.",
+  "link": "https://temporaryservices.org/",
+  "found_via": "superflex",
+  "status": "open",
+  "batch": "social"
  },
  {
   "name": "Joseph Beuys, Honigpumpe am Arbeitsplatz / Free International University (documenta 6, 1977)",

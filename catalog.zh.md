@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件作品
+https://protocolized.reality.design · 2026-09-28 · 176 位创作者 · 299 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -778,6 +778,15 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 视频: https://www.youtube.com/watch?v=9puLh5MCIqk
 - 项目主页: https://queensmuseum.org/program/immigrant-movement-international-2/
 
+#### Superkilen — Superflex (2012)
+- 类型: 艺术作品 · 载体: 身体与空间 · 机制: 开放参与, 共同创作与衍生
+- 核心想法: 由居民挑选城市家具：公园是一座由邻居提名的收藏。
+- 作品内容: 哥本哈根诺雷布罗区的一座公共公园，园中的长椅、垃圾桶、路灯、游乐设施和标志，都由当地居民从自己的原籍国或旅行中提名选出。
+- 协议: 居民提名来自其他国家的日常城市物件；每件物件要么按 1:1 复制，要么购买后运到现场；五组居民与 Superflex 一起前往巴勒斯坦、西班牙、泰国、得克萨斯和牙买加，取回他们选定的物件。
+- 群体做了什么: 来自 50 多个国家的居民参与其中；公园如今有来自 50 多个国家的 100 多件物件。它与 BIG 和 Topotek1 共同设计，由哥本哈根市政府和 Realdania 委托。
+- 图片: https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg
+- 项目主页: https://superflex.net/works/superkilen
+
 #### Gramsci Monument — Thomas Hirschhorn (2013)
 - 类型: 艺术作品 · 载体: 身体与空间 · 机制: 开放参与, 时间、衰变与死亡, 市场与交换
 - 核心想法: 一座以有偿工作、每日节目和共同使用的方式、在固定期限内存在的纪念碑。
@@ -1022,9 +1031,142 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://cdn.jonaslund.com/wp-content/uploads/2025/01/26114213/IMG_9291-2-scaled.jpg
 - 项目主页: https://jonaslund.com/works/consensus-architects-inc/
 
+### 邮件艺术与通信网络
+
+通过邮政流转、每个收件人添加内容再寄出而不断生长的作品。
+
+#### New York Correspondance School — Ray Johnson (1962)
+- 类型: DAO 与组织 · 载体: 邮政 · 机制: 流转与传递, 共同创作与衍生, 指令与乐谱
+- 核心想法: 一个唯一规则是“转寄”的网络：每位收件人都成为共同作者和中继站。
+- 作品内容: 约翰逊的邮件艺术网络：拼贴、信件和素描经由邮政寄出，附带“请转寄给……”或“请添加后寄回”等指令，每位收件人修改并转寄后，网络不断生长。
+- 协议: 每封寄件附带一条指令（“请转寄给……”“请添加后寄回”，甚至“请勿寄给……”）；收件人对物品有所增删后按指令转寄；没有会员制度，只有参与，约翰逊还会召集和取消学校的“会议”。
+- 群体做了什么: 这个名称由埃德·普伦基特于 1962 年提出；1968 年 4 月 1 日，纽约通信学校第一次会议在纽约的公谊会会所举行；1970 年惠特尼美术馆的展览展出了 107 位参与者寄给策展人玛西娅·塔克的邮件。这个网络发展为国际邮件艺术运动，至今仍在运作。
+- 图片: https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg
+- 项目主页: https://www.rayjohnsonestate.com/mail-art-ephemera
+
+#### Art's Birthday (La Fête de l'Art) — Robert Filliou (1963)
+- 类型: 乐谱与指令集 · 载体: 身体与空间 · 机制: 指令与乐谱, 开放参与, 时间、衰变与死亡
+- 核心想法: 以一个共享日期为协议：任何人在任何地方都可以庆祝，网络完成其余的事。
+- 作品内容: 菲利乌提出，艺术诞生于一百万年前的 1 月 17 日，那天有人把一块干海绵丢进一桶水里，因此艺术的生日应当成为公共节日。
+- 协议: 每年 1 月 17 日，任何人都可以用任何形式、独自或一起庆祝艺术的生日；艺术每过一次生日就长一岁。
+- 群体做了什么: 第一次公开庆祝于 1973 年在亚琛和巴黎举行；此后艺术家网络、电台和美术馆每年在 1 月 17 日前后举办活动，常通过电话、广播以及后来的互联网连在一起。
+- 视频: https://www.youtube.com/watch?v=0uHKNrnsCzo
+- 项目主页: https://en.wikipedia.org/wiki/Robert_Filliou
+
+#### The Eternal Network (La Fête Permanente) — Robert Filliou, George Brecht (1968)
+- 类型: 平台与协议 · 载体: 邮政 · 机制: 流转与传递, 开放参与, 共同创作与衍生
+- 核心想法: 用一个人人可以加入的去中心化交换网络取代艺术市场。
+- 作品内容: 菲利乌与乔治·布雷希特在 1968 年的一张海报上宣布的提议：艺术是一场永久的节庆，由一个交换作品、观念与行动的人际网络延续，没有中心，也没有终点。
+- 协议: 艺术家把自己视为更大社会网络“永恒节庆”中的节点；作品通过邮寄、拜访与合作在参与者之间流通，而不经过画廊；任何收发作品的人都是参与者。
+- 群体做了什么: 自 1970 年代起，邮件艺术家和艺术家自营中心把“永恒网络”作为其国际交换的名称和模式，它也成为后来网络艺术与远程通信艺术的奠基观念之一。
+- 文本: https://doi.org/10.1177/0263276418796563 (Theory, Culture & Society)
+- 视频: https://www.youtube.com/watch?v=9BgOfsG7J0Q
+- 图片: https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421
+- 项目主页: https://ensembles.org/items/eternal-network
+
 ### 契约、货币与交换
 
 艺术家设计的契约、收据、货币与交换仪式：代币和版税在区块链出现之前的前身。
+
+#### Obligations pour la Roulette de Monte-Carlo (Monte Carlo Bond) — Marcel Duchamp (1924)
+- 类型: 系列与合集 · 载体: 文本与纸面 · 机制: 契约与证书, 货币与价值, 偶然与随机
+- 核心想法: 由艺术家发行的证券：投资人资助一套规则化的系统，并分享其（期望中的）回报。
+- 作品内容: 杜尚为一家公司发行债券，用来资助他以一套系统在蒙特卡洛赌桌上赢钱的尝试；这张印有曼·雷为他拍摄的照片的债券，既是艺术品也是金融工具。
+- 协议: 公司计划发行 30 张债券，每张 500 法郎，以轮盘赌赢利偿还并支付 20% 的利息；每张债券由罗丝·瑟拉薇和杜尚以公司负责人的身份签名。
+- 群体做了什么: 一小群朋友和赞助人购买了债券；有资料统计 1924 年实际发行了八张。这套系统并没有赚到钱，但债券作为艺术品留存下来，现由美术馆和藏家收藏。
+- 图片: https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg
+- 项目主页: https://www.nmnm.mc/en/exhibitions/6716/
+
+#### Zones de Sensibilité Picturale Immatérielle (Zones of Immaterial Pictorial Sensibility) — Yves Klein (1959)
+- 类型: 系列与合集 · 载体: 文本与纸面 · 机制: 契约与证书, 货币与价值, 销毁
+- 核心想法: 一种原型代币：所有权以收据的形式存在，销毁收据才让作品彻底非物质化。
+- 作品内容: 克莱因以一定重量的纯金出售“非物质绘画感性区域”，并给每位买家一张收据；买家可以烧掉收据来完成作品，同时克莱因把一半黄金扔进塞纳河。
+- 协议: 每个区域只能用黄金购买，并换取一张编号收据。买家有两种选择：保留收据（因而永远无法拥有真正的非物质价值）；或在一位美术馆馆长或艺术评论家以及两名见证人面前举行仪式烧掉收据，同时克莱因把一半黄金扔进塞纳河。
+- 群体做了什么: 1959 年至克莱因 1962 年去世期间共售出八个区域，其中至少三个以仪式完成，其中一次是 1962 年 1 月与作家迪诺·布扎蒂一起。一张未被烧掉的收据于 2022 年在苏富比以超过一百万美元成交，这一仪式后来又以《数字非物质绘画感性区域》的形式在以太坊上重演。
+- 图片: https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle
+
+#### Insertions into Ideological Circuits: Coca-Cola Project and Banknote Project — Cildo Meireles (1970)
+- 类型: 系列与合集 · 载体: 身体与空间 · 机制: 流转与传递, 指令与乐谱, 货币与价值
+- 核心想法: 把现有的流通系统当作分发网络，并让任何人都能复制这个方法。
+- 作品内容: 梅雷莱斯把政治信息和操作说明印在可回收的可口可乐瓶和钞票上，再把它们放回流通，让它们在装瓶系统和货币系统中流转。
+- 协议: 把白色文字转印到空的可回收瓶上（只有重新灌满可乐时才看得见），或盖印在钞票上，然后退回瓶子、花掉钞票；瓶子上附有说明，让其他人也能重复这种插入。
+- 群体做了什么: 在巴西军政府统治下，这些印着“美国佬滚回去！”等口号和“艺术作品的位置在哪里？”等问题的瓶子和钞票，匿名经过装瓶工、店主和消费者之手。
+- 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg
+- 项目主页: https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328
+
+#### The Artist's Reserved Rights Transfer and Sale Agreement — Seth Siegelaub, Robert Projansky (1971)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 契约与证书, 市场与交换, 流转与传递
+- 核心想法: 随作品流转的版税：每一位新藏家都必须签署同样的条款。
+- 作品内容: 一份艺术品销售标准合同，最初由纽约视觉艺术学院以折页海报形式出版，在作品售出后为艺术家保留若干权利，包括分享未来转售的收益。
+- 协议: 艺术家与买家签署一份贴附在作品上的表格。此后每次出售或转让，卖方都须把增值部分的 15% 付给艺术家，并让新藏家受同一合同约束；艺术家会获知作品的展出并可否决，可以借回作品，分享出租收入，并保留复制权。
+- 群体做了什么: 艺术家被鼓励自行复印这份合同，并在每次转让时使用；一些艺术家（尤其是汉斯·哈克）要求买家签署，但画商和藏家抵制，合同也难以执行。它成为转售版税讨论以及 NFT 市场版税规则的参照。
+- 文本: https://upload.wikimedia.org/wikipedia/commons/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf (Self-published contract, 1971)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg
+- 项目主页: https://www.guggenheim.org/articles/findings/seth-siegelaubs-the-artists-reserved-rights-transfer-and-sale-agreement-french-version-2
+
+#### Boggs Notes (money drawings) — J. S. G. Boggs (1984)
+- 类型: 系列与合集 · 载体: 身体与空间 · 机制: 货币与价值, 市场与交换, 流转与传递
+- 核心想法: 由同意产生的价值：当陌生人把它当作付款接受时，作品才完成。
+- 作品内容: 博格斯手绘钞票的一面，按面值在同意用画代替钞票的店主、服务员和酒店那里花掉。
+- 协议: 每张画只按面值、只与明知这是画的人交换；博格斯索要准确的找零和收据；他把找零和收据（而不是画）卖给藏家，并告诉藏家画在哪里花掉，藏家必须找到持有人才能买下它。
+- 群体做了什么: 从 1984 年芝加哥的一家小餐馆开始，商家和陌生人接受这些画，藏家再去追寻它们，据报道最高有人为一张付出 42 万美元；政府把这种做法视为伪造货币，美国特勤局没收了约 1300 件作品。
+- 图片: https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg
+- 项目主页: https://en.wikipedia.org/wiki/J._S._G._Boggs
+
+#### 250 cm Line Tattooed on 6 Paid People — Santiago Sierra (1999)
+- 类型: 艺术作品 · 载体: 身体与空间 · 机制: 契约与证书, 市场与交换, 规则与约束
+- 核心想法: 把雇佣合同永久留在身体上：报酬规则就是作品的内容。
+- 作品内容: 在哈瓦那的 Espacio Aglutinador，谢拉付钱给六名失业青年，让他们并排站立，在背上文上一条连续的 250 厘米长的线。
+- 协议: 招募六人，每人支付固定报酬（30 美元），让他们站成一排，接受一条横贯所有人背部的直线文身；行动被拍摄记录，报酬写入标题和文献之中。
+- 群体做了什么: 1999 年 12 月，哈瓦那的六名青年接受了报酬和永久的印记；作品引发了关于剥削与共谋的长期争论，其摄影文献由施泰德博物馆和尤麦克斯基金会收藏。
+- 图片: https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg
+- 项目主页: https://sammlung.staedelmuseum.de/en/work/250-cm-line-tattooed-on-6-paid-people-espacio-aglutinador
+
+#### Kiss — Tino Sehgal (2002)
+- 类型: 艺术作品 · 载体: 身体与空间 · 机制: 契约与证书, 指令与乐谱, 供应与稀缺
+- 核心想法: 一件没有实物的作品，只在公证人面前通过口头约定出售和传承。
+- 作品内容: 两名舞者缓慢地演绎一系列取自艺术史的亲吻姿态，从罗丹、布朗库西、克里姆特到库尔贝和杰夫·昆斯；这件作品以四版的形式、完全通过口头合同售予美术馆。
+- 协议: 没有书面合同、收据、说明或照片。销售在公证人和见证人面前口头完成，并约定：只能由赛格尔亲自训练的人来安装作品，舞者须获得约定的最低报酬，每次展出至少六周，永不拍照，任何转售都必须重复同样的口头合同。
+- 群体做了什么: 安大略美术馆、芝加哥当代艺术博物馆以及收购最后一版的纽约现代艺术博物馆，都按这些条款购入了作品；一代代舞者通过口传身授学会了它。
+- 视频: https://www.youtube.com/watch?v=ZWfM71KsPTY
+- 项目主页: https://en.wikipedia.org/wiki/Tino_Sehgal
+
+#### Guaraná Power — Superflex (2003)
+- 类型: 艺术作品 · 载体: 身体与空间 · 机制: 市场与交换, 投票与治理, 共同创作与衍生
+- 核心想法: 作品是一个生产者合作社及其品牌：以自组织作为对抗性经济。
+- 作品内容: Superflex 与巴西亚马孙毛埃斯的瓜拉纳种植户合作社合作，创造了农户自己的汽水，以回应压低种子收购价的买家卡特尔。
+- 协议: 关于产品的决定由农户通过长期的自组织过程作出；Superflex 负责设计、品牌以及在艺术界的发行；瓶标覆盖在它所回应的企业品牌之上。
+- 群体做了什么: 农户合作社开发并销售这款饮料，在展览和酒吧中供应；此前企业卡特尔把种子收购价压低了 80%；2006 年第 27 届圣保罗双年展禁止展出这件作品，Superflex 随后展出了被审查的版本。
+- 图片: https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg
+- 项目主页: https://superflex.net/works/guarana_power
+
+#### Free Beer (Vores Øl) — Superflex (2004)
+- 类型: 艺术作品 · 载体: 文本与纸面 · 机制: 共同创作与衍生, 契约与证书, 流转与传递
+- 核心想法: 把开源许可用于实体产品：许可证就是作品的复制规则。
+- 作品内容: 一份以知识共享许可发布的啤酒配方和品牌，任何人都可以酿造、出售或修改，只要以相同条款分享自己的版本。
+- 协议: 配方和标签采用 CC BY-SA 2.5 许可：任何人都可以酿造这款啤酒、使用名称和标志、制作衍生版本，前提是注明来源，并以相同许可公开自己的配方。
+- 群体做了什么: 这款啤酒与哥本哈根信息技术大学的学生共同构思，此后在台北、圣保罗、洛杉矶、慕尼黑、奥克兰等地由酒厂、工作坊和家酿者酿造，有的有 Superflex 参与，有的没有。
+- 图片: https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg
+- 项目主页: https://superflex.net/works/free_beer
+
+#### Free Sol LeWitt — Superflex (2010)
+- 类型: 艺术作品 · 载体: 身体与空间 · 机制: 共同创作与衍生, 偶然与随机, 流转与传递
+- 核心想法: 按艺术家自己的话去做：如果观念是公共财产，美术馆的副本就可以交还给公众。
+- 作品内容: 范·阿贝博物馆内的一个金属工坊，照原样复制馆藏的索尔·勒维特《无题（墙面结构）》（1972），并通过抽签免费送给公众。
+- 协议: 工人在开放时间于展厅内制作勒维特结构的复制品；观众参加抽签；中签者免费把复制品带回家。
+- 群体做了什么: 2010 年范·阿贝博物馆“极简主义之间／解放索尔·勒维特”展的观众参加抽签，把复制品带回家中，检验了勒维特“观念只能被赠予、不能被偷走”的说法。
+- 图片: https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg
+- 项目主页: https://superflex.net/works/free_sol_lewitt
+
+#### Time/Bank — Julieta Aranda, Anton Vidokle (2010)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 货币与价值, 市场与交换, 开放参与
+- 核心想法: 以一小时换一小时：一种平行货币，让艺术界无偿的互助变得可见、可计数。
+- 作品内容: e-flux 推出的面向艺术社群的在线时间银行，艺术家、策展人和写作者之间用工作时间和技能互相交换，而不是用钱。
+- 协议: 成员发布需求和可提供的帮助；为另一名成员工作一小时即获得一小时信用，由银行作为中介和担保人记账；信用可用来换取任何其他成员的时间；地方分行和印刷的 Time/Bank 纸币把这一系统延伸到线下。
+- 群体做了什么: 在首批展览时，全球已有一千多名参与者加入，并在多个城市开设了分行；法兰克福 Portikus 等机构的展览把它作为艺术作品展出。
+- 图片: https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630
+- 项目主页: https://www.e-flux.com/announcements/36461/time-bank/
 
 #### Flip City — Jonas Lund (2014)
 - 类型: 系列与合集 · 载体: 身体与空间 · 机制: 流转与传递, 市场与交换, 时间、衰变与死亡
@@ -1069,6 +1211,25 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 ### 远程通信与早期网络艺术
 
 为调制解调器、电子公告板、机器人和早期网络而作，让远方的参与者共同行动的作品。
+
+#### Hole-In-Space — Kit Galloway, Sherrie Rabinowitz (1980)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 规则与约束
+- 核心想法: 不解释这道门，让公众自己发现能用它做什么。
+- 作品内容: 1980 年 11 月的三个晚上，一条真人大小的卫星视频连线把纽约林肯中心旁的人行道与洛杉矶世纪城的一家购物中心接在一起。两岸的路人突然看见对方，并能彼此交谈。
+- 协议: 连线事先不作宣布：没有标识、商标、署名或说明，也没有看到自己的监视器，只有对岸人群真人大小的全身影像和声音。
+- 群体做了什么: 第一个晚上是意外发现；第二个晚上，人们口口相传约好碰面；到第三个晚上，家人和朋友专程赶到现场，与对岸的亲人相见，有些人多年未见。
+- 视频: https://www.youtube.com/watch?v=SyIJJr6Ldg8
+- 图片: https://ecafe.com/getty/HIS/images/H110/03/53.gif https://ecafe.com/getty/HIS/images/H110/02/081.gif
+- 项目主页: https://ecafe.com/getty/HIS/
+
+#### The World in 24 Hours — Robert Adrian X (1982)
+- 类型: 乐谱与指令集 · 载体: 互联网与平台 · 机制: 指令与乐谱, 开放参与, 时间、衰变与死亡
+- 核心想法: 追着正午绕地球一圈，每座城市轮到自己的一小时。
+- 作品内容: 1982 年电子艺术节上的一个 24 小时电信项目：从维也纳到悉尼、檀香山的十五座城市里的艺术家，在各自当地的正午时段与林茨交换图像、声音和文字。
+- 协议: 项目从林茨时间（中欧时间）正午持续到次日正午；每个远程站点在当地正午前后有一小时，通过最多三条电话线，用慢扫描电视、传真、ARTEX 计算机网络或电话音频与林茨团队交换材料。
+- 群体做了什么: 维也纳、法兰克福、阿姆斯特丹、巴斯、韦尔弗利特、匹兹堡、多伦多、旧金山、温哥华、檀香山、东京、悉尼、伊斯坦布尔、佛罗伦萨和雅典的艺术家与小组依次收发材料，形成一场持续一整天的传输接力。
+- 图片: https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg
+- 项目主页: https://ars.electronica.art/outofthebox/en/24hours/
 
 #### La Plissure du Texte — Roy Ascott (1983)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 开放参与
@@ -1117,6 +1278,27 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://goldberg.berkeley.edu/art/big-images/telegarden-150dpi-2.jpg https://upload.wikimedia.org/wikipedia/commons/3/31/Telegarden.jpg
 - 项目主页: https://goldberg.berkeley.edu/garden/Ars/
 
+#### Teleporting an Unknown State — Eduardo Kac (1996)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 时间、衰变与死亡
+- 核心想法: 把互联网当作一套必须由人群维持运转的生命支持系统。
+- 作品内容: 漆黑展厅里一盆土中的一粒种子，唯一的光来自投影仪，投出远程参与者通过网络视频会议传来的天空影像。只要人们持续送来光，植物就能生长。
+- 协议: 其他城市的参与者把摄像头对准天空，通过视频会议传送实时影像；投影仪把传来的视频变成照在种子上的光。整个过程不交换任何言语信息。
+- 群体做了什么: 多个国家的匿名参与者共同承担植物光合作用的责任，让它在展期内一直生长。
+- 文本: https://www.ekac.org/teleporting.html (SIGGRAPH '96 Visual Proceedings)
+- 视频: https://vimeo.com/319098037
+- 图片: https://www.ekac.org/telepsim/center8.jpg
+- 项目主页: https://www.ekac.org/teleporting.html
+
+#### Vectorial Elevation — Rafael Lozano-Hemmer (1999)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 共同创作与衍生
+- 核心想法: 把国家广场上空交给任何一个有浏览器的人。
+- 作品内容: 为迎接 2000 年，墨西哥城宪法广场周围架起十八盏机器人探照灯，由任何网民控制。每位参与者在 3D 网页界面中设计一组光雕塑，并看到它在广场上空实现。
+- 协议: 网民在 3D 模拟器中设计探照灯组合并排队；每个设计依次执行，由网络摄像头拍下，发布在未经审查的个人页面上，附参与者的姓名、献词和留言。
+- 群体做了什么: 两周内，来自 89 个国家的 80 万人参与，用光和文字留下情诗、球赛比分、萨帕塔运动口号和二十七次求婚。
+- 视频: https://vimeo.com/33988779
+- 图片: https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg
+- 项目主页: https://www.lozano-hemmer.com/vectorial_elevation.php
+
 #### Ouija 2000 — Ken Goldberg (2000)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 偶然与随机
 - 核心想法: 把许多只手的动作平均起来，答案仿佛凭空而来。
@@ -1149,6 +1331,24 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 
 把一个任务派发给人群，收集到的回应就是作品。
 
+#### The File Room — Antoni Muntadas (1994)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 开放参与, 共同创作与衍生
+- 核心想法: 一个只有公众持续上报案例才会增长的档案。
+- 作品内容: 芝加哥文化中心里一间满是档案柜的装置，访客可以在其中的电脑上阅读并添加文化审查案例，这些内容接入一个任何人都能扩充的在线档案。
+- 协议: 展厅或网上的访客可以按日期、地点、媒介或理由浏览审查案例数据库，并通过表单提交新案例；提交内容加入共享档案。
+- 群体做了什么: 世界各地的参与者添加了从历史到当下的案例，使装置成为不断增长的公共数据库；自 2001 年起由美国全国反审查联盟维护。
+- 图片: http://www.mediaartnet.org/assets/img/data/2021/bild.jpg https://www.thefileroom.org/documents/sala.gif
+- 项目主页: https://www.thefileroom.org/
+
+#### Last Real Net Art Museum — Olia Lialina (2000)
+- 类型: 系列与合集 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 流转与传递
+- 核心想法: 让副本成为馆藏。
+- 作品内容: 一座在线博物馆，收藏其他艺术家对 Lialina 1996 年作品《My Boyfriend Came Back from the War》的重制、混剪与致敬。它于 2000 年 3 月开馆，至今仍在增加藏品。
+- 协议: 任何艺术家都可以做自己的版本；Lialina 在博物馆里链接收录的版本，但每个版本都留在创作者自己的服务器上，可由他们修改、替换或删除。
+- 群体做了什么: JODI、Constant Dullaart、Auriea Harvey & Michaël Samyn 等艺术家在二十多年里陆续贡献版本，形成一个关于网络艺术如何被复制与重释的活档案。
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg
+- 项目主页: https://mbcbftw.museum/collection.html
+
 #### Learning to Love You More — Miranda July, Harrell Fletcher (2002)
 - 类型: 系列与合集 · 载体: 互联网与平台 · 机制: 指令与乐谱, 开放参与
 - 核心想法: 写下的是任务而不是作品，让陌生人去完成作品。
@@ -1167,6 +1367,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 视频: https://vimeo.com/3199933
 - 图片: https://www.aaronkoblin.com/wp-content/uploads/2015/08/the-sheep-market-hero.jpg https://www.aaronkoblin.com/wp-content/uploads/2015/08/sheep-market-additional.jpg
 - 项目主页: https://www.aaronkoblin.com/project/the-sheep-market/
+
+#### Man with a Movie Camera: The Global Remake — Perry Bard (2007)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 偶然与随机, 指令与乐谱
+- 核心想法: 把一部电影变成一张分镜清单，让全世界来填写。
+- 作品内容: 对吉加·维尔托夫 1929 年电影的参与式重拍：影片被拆成 1,276 个镜头，任何人都可以重拍其中任意一个并上传。软件每天用投稿组装出一个新版本。
+- 协议: 参与者从维尔托夫的影片中挑一个镜头，以任意方式诠释并上传；系统每天为每个镜头从投稿中随机挑选一个，与原片并排播放。
+- 群体做了什么: 来自许多国家的参与者拍下自己版本的维尔托夫镜头，于是这部重拍片每次放映都不一样。
+- 视频: https://www.youtube.com/watch?v=uEykp9PsDkw
+- 图片: https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg
+- 项目主页: https://docubase.mit.edu/project/man-with-a-movie-camera-global-remake/
 
 #### Ten Thousand Cents — Aaron Koblin, Takashi Kawashima (2008)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 市场与交换, 货币与价值, 指令与乐谱
@@ -1188,6 +1398,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://www.aaronkoblin.com/wp-content/uploads/2015/10/bb2k-hero.jpg
 - 项目主页: https://www.aaronkoblin.com/project/bicycle-built-for-two-thousand/
 
+#### Star Wars Uncut — Casey Pugh (2009)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 投票与治理, 指令与乐谱
+- 核心想法: 把一部长片切成 15 秒的认领单元，粉丝群就能把它整部重拍。
+- 作品内容: 粉丝以每段 15 秒的方式逐镜重拍 1977 年的《星球大战》。每段风格各异——真人、动画、乐高定格——完整影片于 2010 年在 YouTube 免费发布。
+- 协议: 2009 年 7 月起，粉丝可以在网站上认领一段 15 秒的场景，并以任意方式重现；每个场景都有多个版本投稿，由投票决定哪个进入最终剪辑。
+- 群体做了什么: 世界各地的参与者完成了构成整部影片的 473 个 15 秒片段，该片获得 2010 年互动媒体类艾美奖；2014 年的续作重拍了《帝国反击战》。
+- 视频: https://www.youtube.com/watch?v=7ezeYJUz-84
+- 图片: http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png
+- 项目主页: http://www.starwarsuncut.com/
+
 #### Wikipedia Art — Scott Kildall, Nathaniel Stern (2009)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 规则与约束, 开放参与
 - 核心想法: 把百科全书自己的引用规则当作媒介，编辑者就成了共同作者。
@@ -1196,6 +1416,15 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 群体做了什么: 维基百科编辑在数小时内展开辩论并删除条目；随后的报道、博客和法律往来延续了作品，它之后在 2009 年威尼斯双年展的互联网馆展出。
 - 图片: https://upload.wikimedia.org/wikipedia/commons/1/16/Wikipedia_Art.png
 - 项目主页: https://en.wikipedia.org/wiki/Scott_Kildall
+
+#### Life in a Day — Kevin Macdonald (2010)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 指令与乐谱, 开放参与, 时间、衰变与死亡
+- 核心想法: 一个日期就是全部任务：拍下你的一天，人群就成了一幅地球的肖像。
+- 作品内容: 一部纪录长片，剪辑自世界各地的人们在同一天——2010 年 7 月 24 日——拍摄并上传到 YouTube 的视频。影片于 2011 年 1 月在圣丹斯电影节首映。
+- 协议: 任何人都可以在 2010 年 7 月 24 日拍摄任何内容并上传到指定 YouTube 频道；投稿者保留版权但授权使用素材，入选片段的作者都被署名为联合导演。
+- 群体做了什么: 192 个国家的人发来 8 万份投稿，共 4,500 小时素材，剪成一部 95 分钟的影片。
+- 图片: https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)
 
 #### The Johnny Cash Project — Aaron Koblin, Chris Milk (2010)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 开放参与
@@ -1207,6 +1436,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://www.aaronkoblin.com/wp-content/uploads/2015/10/0435_1920.png https://www.aaronkoblin.com/wp-content/uploads/2015/10/0862_1920.png
 - 项目主页: https://www.aaronkoblin.com/project/johnny-cash-project/
 
+#### Virtual Choir — Eric Whitacre (2010)
+- 类型: 系列与合集 · 载体: 互联网与平台 · 机制: 指令与乐谱, 开放参与, 共同创作与衍生
+- 核心想法: 一份乐谱、一段指挥视频和一个上传链接，就足以组成一支从不见面的合唱团。
+- 作品内容: 一支合唱团：歌手们在家里跟着 Whitacre 的指挥视频独自录下各自声部并上传，再混合成一场演出。第一部《Lux Aurumque》于 2010 年 3 月发布。
+- 协议: Whitacre 公开乐谱、引导音轨和指挥视频；歌手下载后看着指挥唱一个声部并自拍上传；剪辑团队把所有投稿对齐并混音。
+- 群体做了什么: 第一部虚拟合唱团汇集了 12 个国家的 185 名歌手；第二部（《Sleep》，2011）汇集了 58 个国家的 2,051 名歌手，之后的版本规模更大。
+- 视频: https://www.youtube.com/watch?v=D7o7BrlbaDs
+- 图片: https://ericwhitacre.com/wp-content/uploads/vc1.jpg
+- 项目主页: https://ericwhitacre.com/the-virtual-choir
+
 #### This Exquisite Forest — Aaron Koblin, Chris Milk (2012)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 开放参与
 - 核心想法: 允许分叉的“精致尸体”接龙。
@@ -1216,6 +1455,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 视频: https://vimeo.com/45472189
 - 图片: https://www.aaronkoblin.com/wp-content/uploads/2015/08/hero-image2.jpg https://www.aaronkoblin.com/wp-content/uploads/2015/08/tef-01.jpg
 - 项目主页: https://www.aaronkoblin.com/project/this-exquisite-forest/
+
+#### NaNoGenMo (National Novel Generation Month) — Darius Kazemi (2013)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 指令与乐谱, 规则与约束, 开放参与
+- 核心想法: 为“写规则”写一条规则：人群写出的生成器本身就是文学。
+- 作品内容: 每年 11 月，参与者编写能生成至少 5 万字小说的程序，并在 GitHub 上分享。Kazemi 于 2013 年由一条推文发起，作为“全国小说写作月”的对应版本。
+- 协议: 用 11 月编写一个生成 5 万字以上“小说”的程序，“小说”的定义随你；唯一的规则是月底前至少分享一部小说和源代码。参与者在 GitHub issue 中宣布参加并发布进展。
+- 群体做了什么: 程序员和写作者积累了一个庞大的公开档案，包括生成的小说和开源生成器；活动自 2013 年起每年举办。
+- 图片: https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo
+- 项目主页: https://github.com/dariusk/NaNoGenMo
+- 代码: https://github.com/dariusk/NaNoGenMo
 
 #### Social Turk — Jonas Lund (2013)
 - 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 货币与价值, 流转与传递
@@ -1257,6 +1506,35 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 ### 集体画布与游戏
 
 共享画布、按钮和游戏：一条简单的规则遇上非常庞大的人群。
+
+#### net.flag — Mark Napier (2002)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 共同创作与衍生, 开放参与
+- 核心想法: 一个没有国家的国家象征，归最后一个动过它的人所有。
+- 作品内容: 古根海姆美术馆委托创作的一面互联网之旗，任何访客都可以用世界各国国旗的元素重新设计它。当前的旗帜永远是最后一个保存的版本。
+- 协议: 访客从拆解后的各国国旗元素中挑选颜色、图案和符号，组合出新旗帜并保存；保存的旗帜会替换网站上的前一面，所有旧版本都可浏览。
+- 群体做了什么: 访客在十年间留下了一部持续的旗帜史，其中约 23,000 面被汇编为《net.flag: ten years of flags (2002–2012)》，记录了人们对一个共享徽记的反复争夺。
+- 图片: https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png
+- 项目主页: https://www.guggenheim.org/artwork/10703
+
+#### BumpList: An Email Community for the Determined — Jonah Brucker-Cohen (2003)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 规则与约束, 供应与稀缺, 时间、衰变与死亡
+- 核心想法: 一条会员规则，就把邮件列表变成一场“保持在场”的游戏。
+- 作品内容: 一个同一时间只能容纳六人的邮件列表。每有新订阅者加入，就会把待得最久的成员“挤”出去；名人堂按在列时长、发帖数和重新订阅次数给成员排名。
+- 协议: 会员上限六人；新人订阅时，最早的订阅者被自动移除，要回来只能重新订阅。在列时间、发帖和被挤出的统计数据都会公开。
+- 群体做了什么: 成员们趁还在列时抓紧发言，被挤出后一次次重新订阅，把网络社群制造的持续参与压力显现出来。
+- 文本: https://web.media.mit.edu/~stefan/hc/publications/BruckerCohen04BumpListCHI.pdf (CHI 2004)
+- 图片: https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg
+- 项目主页: https://whitney.org/exhibitions/jonah-brucker-cohen
+
+#### SwarmSketch — Peter Edmunds (2005)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 规则与约束, 投票与治理, 共同创作与衍生
+- 核心想法: 限制每个人的笔迹，再让人群给每一笔加权。
+- 作品内容: 一块在线画布，公众一起画出本周的热门搜索词，每位访客只画一小段线。每个人还要给别人的线投票决定深浅，于是人群既画也改。
+- 协议: 网站每周选一个热门搜索词作为题目；每次访问只能画一小段线，之后访客要为他人的线投票决定透明度。每条线的深浅是所得票数的平均值，一周或满 1,000 条线后开始新的画。
+- 群体做了什么: 匿名参与者多年间每周画出一幅关于新闻或流行文化话题的草图，每一幅都由人群共同绘制并审定。
+- 文本: https://ojs.ruc.dk/index.php/pdc/article/view/361 (PDC 2006)
+- 图片: http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg
+- 项目主页: http://web.archive.org/web/20080110101609/http://swarmsketch.com:80/
 
 #### The Million Dollar Homepage — Alex Tew (2005)
 - 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 市场与交换, 供应与稀缺, 开放参与
@@ -1371,6 +1649,15 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 
 由艺术家搭建、由陌生人维护和使用的基础设施、文件投放点与公地。
 
+#### The Thing — Wolfgang Staehle (1991)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 开放参与, 共同创作与衍生
+- 核心想法: 搭好基础设施，让社群成为雕塑本身。
+- 作品内容: 1991 年在纽约开始的一个面向艺术家的拨号电子公告板系统，以约瑟夫·博伊斯的“社会雕塑”为模型构想。它后来发展为网络社区、主机服务和邮件列表，塑造了 90 年代的网络艺术。
+- 协议: 会员通过调制解调器拨号进入，在关于艺术与理论的分主题讨论区阅读和发帖；Staehle 和合作者搭建了编辑结构，会员则提供讨论内容，后来还在其服务器上建立自己的网站。
+- 群体做了什么: 艺术家和评论家在 The Thing 上辩论、闲聊与发表；到 90 年代末，它托管了几十个会员网站，以及第一个专门展示网络艺术的网站 bbs.thing.net。
+- 图片: https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg http://www.mediaartnet.org/assets/img/data/1649/bild.jpg
+- 项目主页: https://the.thing.net/about/about.html
+
 #### Dead Drops — Aram Bartholl (2010)
 - 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 指令与乐谱, 开放参与, 流转与传递
 - 核心想法: 一个离线、匿名的文件共享网络，由使用它的人砌进城市。
@@ -1423,6 +1710,17 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 群体做了什么: 玩家通过点击和消费共同制造出代币的通胀曲线，为参与一个没有外部价值的经济体付出交易费用。
 - 图片: https://isthisa.com/static/ClickMine/all.gif https://isthisa.com/static/ClickMine/Sarah-Friend-ClickMine-Pic1.jpg
 - 项目主页: https://isthisa.com/clickmine
+
+#### CryptoKitties — Dapper Labs (2017)
+- 类型: 游戏与实验 · 载体: 以太坊与二层网络 · 机制: 开放参与, 供应与稀缺, 市场与交换
+- 核心想法: 供应量来自玩家的繁殖选择，而一群人足以堵塞整个网络。
+- 作品内容: 2017 年 11 月 28 日上线的区块链游戏，玩家购买、繁殖和交易虚拟猫，猫的基因组会把特征遗传给后代。
+- 协议: 每只猫都是一个带有 256 位“猫属性”基因组的 NFT。任何一只猫都可以作为母方或父方；繁殖会生出一只比父母高一代的新猫，冷却时间随每次繁殖增加，最长一周。每个操作都需要支付以太币。
+- 群体做了什么: 玩家的繁殖造就了猫群及其稀有度；2017 年 12 月游戏的火爆造成以太坊拥堵，交易量创下历史新高。当月名为 Genesis 的猫以 246.9255 ETH 售出。
+- 视频: https://www.youtube.com/watch?v=dWUi8dkv5qU
+- 图片: https://www.cryptokitties.co/images/share.png
+- 项目主页: https://www.cryptokitties.co
+- 合约: https://etherscan.io/address/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d
 
 #### Neolastics — Simon de la Rouviere (2020)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 供应与稀缺, 销毁, 市场与交换
@@ -1553,6 +1851,24 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 
 改变“拥有”含义的合约：永远在售、必须转手、持有即死亡、随持有者而改变。
 
+#### Forever Rose — Kevin Abosch (2018)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 契约与证书, 货币与价值
+- 核心想法: 一件作品，一枚代币，十位持有者。
+- 作品内容: 一枚名为 ROSE 的 ERC-20 代币，基于艺术家拍摄的一张玫瑰照片，2018 年情人节通过赠礼平台 GIFTO 售给十位藏家，每人获得十分之一。
+- 协议: 作品以一枚可分割的代币存在。通过抽选确定十位买家，他们平分价格，每人获得 0.1 ROSE；款项以 GTO 和 IAMA 代币支付，全部捐给 CoderDojo 基金会。
+- 群体做了什么: 十位藏家每人支付相当于 10 万美元的代币，共同拥有这件总价 100 万美元的作品。
+- 图片: https://www.crowdfundinsider.com/wp-content/uploads/2018/02/The-forever-rose.png
+- 项目主页: https://www.crowdfundinsider.com/2018/02/128411-valentines-day-crypto-art-sells-1-million-gifto/
+
+#### PRICELESS (with Ai Weiwei) — Kevin Abosch (2018)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 流转与传递, 供应与稀缺
+- 核心想法: 让一枚代币变得“无价”：永远不卖，只赠送。
+- 作品内容: 与艾未未合作的作品，由两枚 ERC-20 代币 PRICELESS（PRCLS）组成：一枚永远不可获得，另一枚被分成碎片免费赠给藏家。
+- 协议: 每枚代币可分割到小数点后 18 位。一枚永远不可被任何人获得；另一枚免费分发给藏家，每次可小到百亿亿分之一。少量代币被存入一些钱包，这些钱包地址被印刷成一系列实体作品。
+- 群体做了什么: 接收者分享同一枚没有市场价格的代币的碎片；每个钱包地址代表两位艺术家共同度过的一个时刻。
+- 图片: https://kevinabosch.com/images/priceless_1400.jpg
+- 项目主页: https://kevinabosch.com/priceless.html
+
 #### Secret Artwork — Rhea Myers (2018)
 - 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 契约与证书, 供应与稀缺
 - 核心想法: 把“拥有一件作品”和“知道它是什么”拆开。
@@ -1574,6 +1890,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 项目主页: https://thisartworkisalwaysonsale.com
 - 合约: https://etherscan.io/address/0xB602c0bBfaB973422B91C8dfc8302B7b47550fC0
 - 代码: https://github.com/simondlr/thisartworkisalwaysonsale
+
+#### AtMyWhim — Moxie Marlinspike (2021)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 契约与证书, 规则与约束
+- 核心想法: 你竞拍的不是你得到的：NFT 指向的是一台服务器，而不是一张图像。
+- 作品内容: 一个会因观看者不同而改变图像的 NFT：在 OpenSea 上是一种样子，在 Rarible 上是另一种，而在买家的钱包里则是一个巨大的便便表情。
+- 协议: 代币元数据指向一个没有哈希承诺的 URL；背后的服务器根据请求者的 IP 或 User Agent 返回不同图像，而 NFT 标准允许这样做。
+- 群体做了什么: 决定结果的不是藏家，而是市场平台：几天后 OpenSea 在未作解释的情况下下架了这个 NFT，随后它也从依赖 OpenSea API 的加密钱包中消失了。
+- 图片: https://moxie.org/blog/images/nft-opensea.png https://moxie.org/blog/images/nft-rarible.png https://moxie.org/blog/images/nft-metamask.png https://moxie.org/blog/images/nft-removed.png
+- 项目主页: https://moxie.org/2022/01/07/web3-first-impressions.html
+- 合约: https://etherscan.io/address/0x5c61afa47570ab2b562606fa578221305b12c307
 
 #### Lifeforms — Sarah Friend (2021)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 流转与传递, 时间、衰变与死亡
@@ -1701,6 +2027,28 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://rhea.art/processed_images/schellingflags.0d79a962f8329d7c.png
 - 项目主页: https://rhea.art/schellingflags/
 
+#### Su Squares — William Entriken (2018)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与, 供应与稀缺
+- 核心想法: 每位持有者只画一格，整幅画无人掌控。
+- 作品内容: 一万个 ERC-721 方格，每个 10×10 像素，由持有者配上图像、标题和链接；它们在项目首页上拼成一幅大马赛克。
+- 协议: 任何人都可以铸造一个尚未售出的方格（当前网站价格 0.5 ETH）。持有者支付少量费用即可为其设置一张 10×10、无透明和动画的图像、最长 64 字节的标题和最长 96 字节的网址；首页图像每小时刷新一次。
+- 群体做了什么: 整幅方阵是由持有者的图像和链接拼成、不断变化的拼贴。
+- 视频: https://www.youtube.com/watch?v=is5Vrs6EZJk
+- 图片: https://tenthousandsu.com/build/wholeSquare.webp
+- 项目主页: https://tenthousandsu.com
+- 合约: https://etherscan.io/address/0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F
+
+#### Autoglyphs — Larva Labs (2019)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 指令与乐谱, 开放参与, 供应与稀缺
+- 核心想法: 由藏家执行艺术家的算法，就像当年助手照着索尔·勒维特的指令作画。
+- 作品内容: 第一件算法与输出都完全在链上的生成艺术：每位藏家的铸造交易都会执行生成器，产出至多 512 个字形中的一个。
+- 协议: 任何人支付 0.2 ETH 即可运行合约中的生成器；部署之后艺术家既不能挑选、也不能干预输出。供应上限为 512，合约还附有指令，说明如何用任意工具把文字渲染转成图画。
+- 群体做了什么: 全部 512 个字形在四小时内被铸造完毕，向 350.org 捐赠 13,670 美元；铸造期间合约占用了以太坊网络 13.27% 的容量。人们按合约中的指令用绘图仪把字形画了出来，惠特尼美术馆和蓬皮杜中心都有收藏。
+- 视频: https://www.youtube.com/watch?v=TNAM3_BzZRo
+- 图片: https://www.larvalabs.com/public/assetsv2/glyphs_hero.png https://www.larvalabs.com/public/assetsv2/Glyphs-Annotated-Code.png
+- 项目主页: https://www.larvalabs.com/autoglyphs
+- 合约: https://etherscan.io/address/0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782
+
 #### Hack Line Properties — Rhea Myers (2019)
 - 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 规则与约束, 开放参与
 - 核心想法: 把漏洞写进规则，让黑客成为共同作者。
@@ -1806,6 +2154,16 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://mma.prnewswire.com/media/1498556/AsyncMusic_Breakdown_Infographic.jpg
 - 项目主页: https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html
 
+#### Autonomous Art — Moxie Marlinspike (2021)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 市场与交换, 开放参与
+- 核心想法: 付钱给共享画面添一笔，再由后来的每一个人付钱给你。
+- 作品内容: 一幅集体的链上图像，任何人都可以往上添加一笔视觉贡献，同时铸造一个记录作品当下状态的 NFT；每次贡献都比上一次更贵，所付款项分给之前的贡献者。
+- 协议: 任何人都可以通过向共享的链上 SVG 添加图形来铸造。贡献成本随时间上升，贡献者支付的资金分配给之前的所有艺术家，作者把这种结构比作金字塔。
+- 群体做了什么: 据作者说，到 2022 年 1 月初，贡献者已为这件集体作品投入超过 38,000 美元；合约中记录了 600 多次贡献。
+- 文本: https://moxie.org/2022/01/07/web3-first-impressions.html (moxie.org)
+- 项目主页: https://autonomous.graphics
+- 合约: https://etherscan.io/address/0x3a56AB63c7ef4f07fe353bEb132e0Fd5AD270Ca0
+
 #### Blitmap — Dom Hofmann (2021)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 合并与合成
 - 核心想法: 给人群一小套开放的原作和一条重组规则，让他们长出一个宇宙。
@@ -1826,6 +2184,17 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://hashmasksstore.blob.core.windows.net/hashmasks/1.jpg https://img.phemex.com/v1/4caf239c/hashmasks-1024x576.jpg
 - 项目主页: https://www.thehashmasks.com
 - 合约: https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928
+
+#### Hic et Nunc — Rafael Lima (2021)
+- 类型: 平台与协议 · 载体: Tezos · 机制: 开放参与, 市场与交换, 投票与治理
+- 核心想法: 把平台建成公共基础设施，让它能在创造者的意志之外继续存在。
+- 作品内容: 2021 年 3 月 1 日上线的 Tezos 开放 NFT 平台，低廉的铸造成本吸引了一个庞大的全球艺术家社群；创始人于 2021 年 11 月 11 日关闭网站，但合约仍在运行。
+- 协议: 任何人都可以铸造 OBJKT（存于 IPFS 的 FA2 代币），并通过 swap 合约挂售，附带创作者版税。从上线到 2021 年 4 月中旬，每 1 tez 的购买会给买卖双方各分配 0.5 hDAO，这是一种用于策展信息流的治理代币。
+- 群体做了什么: 用户在三个月内铸造了 10 万个 OBJKT，八个月时达到 50 万个，社群约有 5 万名艺术家和藏家；#OBJKT4OBJKT 等活动让艺术家免费互换作品。网站关闭后，社群通过镜像站继续使用合约，并创立了 Teia。
+- 图片: https://web.archive.org/web/20211002104830im_/https://www.hicetnunc.xyz/og-image.jpg https://raw.githubusercontent.com/hicetnunc2000/hicetnunc/main/public/HEN_avatar.png
+- 项目主页: https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
+- 合约: https://tzkt.io/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
+- 代码: https://github.com/hicetnunc2000/objkt-swap
 
 #### Loot (for Adventurers) — Dom Hofmann (2021)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与, 规则与约束
@@ -1992,6 +2361,94 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://rhea.art/processed_images/is1.8ec49aa93bbd3e01.png
 - 项目主页: https://rhea.art/is-art/
 
+#### Monegraph — Kevin McCoy, Anil Dash (2014)
+- 类型: 平台与协议 · 载体: 其他链 · 机制: 契约与证书, 开放参与
+- 核心想法: 数字图像的稀缺性来自公开的声明，而不是文件本身。
+- 作品内容: 在 2014 年 Rhizome 的 Seven on Seven 活动中一天内搭建完成的系统，让任何人都能在 Namecoin 区块链上认证一张网络图像，并发推公开证明所有权。
+- 协议: 艺术家在区块链上登记一项声明，把图像与自己的身份关联；图像可以自由复制传播，但只有原始文件能通过该声明的验证。登记过的作品可以被拥有和交易。
+- 群体做了什么: Monegraph 把登记机制开放给其他艺术家和藏家，成为后来 NFT 平台的模板；McCoy 夫妇 2019 年在惠特尼美术馆的 Public Key/Private Key 就用它让 50 个人成为一件馆藏作品的捐赠者。
+- 视频: https://www.youtube.com/watch?v=maXcAaZ-fpQ
+- 项目主页: https://web.archive.org/web/20141218051740/http://monegraph.com/
+
+#### Quantum — Kevin McCoy (2014)
+- 类型: 艺术作品 · 载体: 其他链 · 机制: 契约与证书, 时间、衰变与死亡
+- 核心想法: 登记条目只有在有人持续续期时才构成所有权。
+- 作品内容: 一段搏动的八边形循环动画，于 2014 年 5 月 3 日在 Namecoin 区块链上登记，常被称为第一件在区块链上登记的艺术作品。
+- 协议: 作品以指向图像的 Namecoin 域名条目登记。Namecoin 名称必须由持有者定期续期（据报道每 250 天一次）；未续期的名称任何人都可以认领。
+- 群体做了什么: McCoy 在 2015 年没有续期。2021 年他在以太坊上重新铸造 Quantum，苏富比以 147 万美元售出；一家认领了失效 Namecoin 条目的加拿大公司 Free Holdings 起诉 McCoy 和苏富比，纽约法院驳回了诉讼。
+- 图片: https://sothebys-md.brightspotcdn.com/dims4/default/b3d31c7/2147483647/strip/true/crop/1280x1280+0+0/resize/4096x4096!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2Fcf%2F91ff8b7e484eb6d1e765a2a9a14d%2Fmccoy-quantum-still.jpeg https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif
+- 项目主页: https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum
+
+#### Bitchcoin — Sarah Meyohas (2015)
+- 类型: 艺术作品 · 载体: 比特币与 Counterparty · 机制: 货币与价值, 市场与交换, 契约与证书
+- 核心想法: 用自己的作品作为货币储备，让市场为艺术家定价。
+- 作品内容: 艺术家于 2015 年 2 月推出、以自己摄影作品作储备的货币：25 枚 Bitchcoin 可以兑换一整张存放在保险库中的 Speculations 系列照片。
+- 协议: 一枚 Bitchcoin 固定对应 Speculations 照片的 25 平方英寸。第一张 Speculation 的八个版次支撑了 200 枚、每枚 100 美元发行的币；买家获得记有密钥的纸钱包，可用 25 枚兑换一张照片。2021 年这种货币迁移为 ERC-1155 代币，改由 Cloud of Petals 中压制的玫瑰花瓣作储备。
+- 群体做了什么: 买家把艺术家当作一种货币来投机。迁移后原持有者可以领取等量的新代币，新代币于 2021 年 5 月在富艺斯上拍；2023 年蓬皮杜中心收藏了两枚 Bitchcoin。
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bitchcoin_03.068.jpg/960px-Bitchcoin_03.068.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg/960px-Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg
+- 项目主页: https://www.sarahmeyohas.com/bitchcoin
+
+#### Etheria — Cyrus Adkisson (2015)
+- 类型: 游戏与实验 · 载体: 以太坊与二层网络 · 机制: 开放参与, 供应与稀缺, 市场与交换
+- 核心想法: 一个共享世界，土地和建筑只以玩家写入的合约状态存在。
+- 作品内容: 2015 年 10 月部署在以太坊上的三维世界，由可拥有、可交易的六边形地块组成，同一张 33×33 地图有四个版本，持有者可以在地块上建造。
+- 协议: 每个地图版本有 457 块可拥有的陆地和 632 块海洋；地块最初以写死在合约里的 1 ETH 价格出售，可以交易。持有者可以在地块上建造；自 2021 年起建造数据存放在每块地无限长的名称字段中，建造成本大幅下降。
+- 群体做了什么: 四个版本共 1,828 块地，项目估计其中 5% 至 10% 已永久丢失；自 2021 年复兴以来，持有者不断在统一地图上添加新建筑。
+- 视频: https://www.youtube.com/watch?v=JggQhCpsZH4
+- 图片: https://etheria.world/images/composite.png
+- 项目主页: https://etheria.world/faq.html
+- 代码: https://github.com/cyrusadkisson/etheria_source
+
+#### Rare Pepe Wallet — Joe Looney (2016)
+- 类型: 平台与协议 · 载体: 比特币与 Counterparty · 机制: 市场与交换, 开放参与
+- 核心想法: 给一个有规则的艺术社群一个共同持有和交换代币的地方。
+- 作品内容: 2016 年 9 月 14 日上线的网页钱包与市场，用于在 Counterparty 上收藏、展示和交易 Rare Pepe 卡牌。
+- 协议: 钱包只显示经 Rare Pepe Directory 认证的卡牌，持有者可以在 Counterparty 去中心化交易所上点对点发送、买卖。
+- 群体做了什么: 钱包成为 Rare Pepe 社群的市场和展厅；2018 年 1 月，一张 Homer Pepe 卡在纽约 Rare Digital Art Festival 上拍卖。
+- 视频: https://www.youtube.com/watch?v=mgFFUY4KsU8
+- 项目主页: https://rarepepewallet.com
+
+#### Rare Pepes — Rare Pepe Directory (2016)
+- 类型: 系列与合集 · 载体: 比特币与 Counterparty · 机制: 开放参与, 供应与稀缺, 规则与约束
+- 核心想法: 公布发行规则，让一个表情包社群变成一个艺术圈。
+- 作品内容: 由用户制作、以 Counterparty 资产形式在比特币上发行、并由 Rare Pepe Directory 按公开投稿规则认证的 Pepe 卡牌。
+- 协议: 任何艺术家都可以创建 Counterparty 资产并提交，费用为 200 PEPECASH，其中一半被销毁。规则：图像 400×560，动图小于 1.5 MB，发行量锁定、不可分割、份数在 100 到 100,000 之间，内容与 Pepe 有关且为原创，禁止成人内容，不得包含网址或二维码，每位艺术家每天只能提交一次。通过审核的卡牌会出现在 Rare Pepe 钱包中。
+- 群体做了什么: 世界各地数十位艺术家提交了卡牌；在关闭投稿、让稀有性“定型”之前，目录在各系列中共认证了 1,700 多张稀有卡。第一批卡牌出现在 2016 年 9 月。
+- 视频: https://www.youtube.com/watch?v=9n3JqJSLIpc
+- 项目主页: http://rarepepedirectory.com/?page_id=25
+
+#### The Million Ether Homepage — Peter Porobov (2016)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 市场与交换, 开放参与, 供应与稀缺
+- 核心想法: 一块由付费者拼成的共享画布，越满越贵。
+- 作品内容: 一个位于以太坊上的 1000×1000 像素网页，任何人都可以购买、租用和转售像素块并在其中放置图片广告，仿照 2005 年的“百万美元首页”。
+- 协议: 像素以 10×10 为一块出售；每卖出一定比例，价格翻倍（2016 年每 100,000 像素，2018 年每 10%）。持有者可以放置和替换广告、以任意价格转售或按天出租。2016 年版本沿着最多六层“握手”的推荐链向推荐人分成；2018 年版本把每个像素块做成 ERC-721 代币，并把首次销售的 80% 捐给慈善机构。
+- 群体做了什么: 页面图像是买家和租户所选广告拼成的马赛克；两个版本目前都已暂停，作者正在考虑把 2018 年的像素块迁回 2016 年的合约。
+- 图片: https://i.imgur.com/kvv9vvh.png
+- 项目主页: https://million-ether-homepage.readthedocs.io/en/latest/whitepaper.html
+- 合约: https://etherscan.io/address/0xCEf41878Db032586C835eE0890484399402A64f6
+
+#### CryptoPunks — Larva Labs (2017)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 开放参与, 供应与稀缺, 市场与交换
+- 核心想法: 在简单的所有权规则下把作品送出去，让藏家发明它的文化。
+- 作品内容: 一万个由算法生成的 24×24 像素角色，于 2017 年 6 月免费发放给任何拥有以太坊钱包的人，合约内置交易市场。
+- 协议: 任何人只需支付 gas 即可认领一个无主的 punk。合约本身允许持有者挂单出售（面向所有人或指定地址）、接受出价、撤回和转让，中间没有任何平台。
+- 群体做了什么: 一万个 punk 用了八天才被全部认领。藏家把 punk 用作头像，并形成了“地板价”“稀有度”“特征”等共同词汇；据 Larva Labs 统计，截至 2025 年 10 月总成交额约 38 亿美元，punk 进入了 MoMA、LACMA、迈阿密 ICA 和蓬皮杜中心的收藏。
+- 视频: https://www.youtube.com/watch?v=3oQ6j7oNyfE
+- 图片: https://www.larvalabs.com/public/assetsv2/crytopunks_fullgrid.jpg https://www.larvalabs.com/public/assetsv2/Punk305_ICA.jpg
+- 项目主页: https://www.larvalabs.com/cryptopunks
+- 合约: https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB
+
+#### Curio Cards — Curio Cards (2017)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 供应与稀缺, 市场与交换, 投票与治理
+- 核心想法: 为艺术家直接出售的稀缺数字版画，后来由藏家维系下去。
+- 作品内容: 七位艺术家的三十个数字卡牌系列，自 2017 年 5 月 9 日起在以太坊上各自部署为固定供应的代币合约，通过“自动售货机”式界面出售，收入全部归艺术家。
+- 协议: 每张卡都是一个修改过的 ERC-20 合约，供应有限且不可分割，并嵌入作品的 IPFS 哈希；从合约购买时款项直接付给艺术家。一次印错产生了额外的一张卡 17b。
+- 群体做了什么: 上线时每张卡售价 0.5 至 1 美元。2021 年藏家重新发现它们后，一位社群成员编写的 ERC-1155 包装合约使其可在 OpenSea 交易；同年 10 月，含 17b 的全套卡牌在佳士得以 393 ETH 成交。
+- 视频: https://www.youtube.com/watch?v=BAi8nVwOjBQ
+- 图片: https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/01.jpg https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/17.jpg
+- 项目主页: https://github.com/curiocards/vintage.curio.cards
+- 合约: https://etherscan.io/address/0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313
+
 #### Digital Zones of Immaterial Pictorial Sensibility — Mitchell F. Chan (2017)
 - 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 销毁, 契约与证书, 供应与稀缺
 - 核心想法: 把艺术家的出售仪式写进合约：买家必须直接与合约打交道，“拥有非物质”意味着烧掉收据。
@@ -2003,6 +2460,15 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 项目主页: https://github.com/mitchellfchan/IKB
 - 合约: https://etherscan.io/address/0x88ae96845e157558ef59e9ff90e766e22e480390
 - 代码: https://github.com/mitchellfchan/IKB
+
+#### IAMA Coin — Kevin Abosch (2018)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 货币与价值, 流转与传递
+- 核心想法: 艺术家宣布自己是一枚硬币，让别人持有、分割和花费他。
+- 作品内容: 以太坊上一千万枚可分割的 IAMA 代币，配合 100 件实体作品，艺术家用自己的血在作品上印下代币的合约地址。
+- 协议: 实体作品的意义以虚拟代币为前提：每件都用血印上合约地址，该合约定义了 10,000,000 枚可分割、可像任何 ERC-20 货币一样流通的 IAMA 代币。
+- 群体做了什么: IAMA 作为货币在藏家之间流通；2018 年 2 月购买 Forever Rose 时使用的两种代币之一就是它。
+- 视频: https://www.youtube.com/watch?v=4xNNYPet8sY
+- 项目主页: https://kevinabosch.com/iamacoin.html
 
 #### The Signature — Simon de la Rouviere (2021)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 开放参与, 供应与稀缺, 时间、衰变与死亡
@@ -2217,6 +2683,18 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - 图片: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/nouns-ethereum-nft-characters-gID_4.png https://nftnow.com/wp-content/uploads/2023/09/091223_nouns_feature.jpg
 - 项目主页: https://nouns.wtf
 - 合约: https://etherscan.io/address/0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03
+
+#### Teia — Teia Community (2021)
+- 类型: DAO 与组织 · 载体: Tezos · 机制: 投票与治理, 开放参与
+- 核心想法: 作者离开之后，用户可以接管协议。
+- 作品内容: Hic et Nunc 的社群延续：2021 年 11 月后志愿者维持其合约和数据运转，通过链上投票选定 Teia 之名，并于 2023 年成为非营利 DAO LLC。
+- 协议: Teia 自 2021 年 11 月 11 日起沿用同一套 OBJKT 合约运作。新挂单（自 2023 年 3 月起）收取 2.5% 费用，付给社群多签钱包；社群投票决定铸造 800 万枚 TEIA 治理代币，持有者可以通过 DAO 合约发起投票，测试期间由核心团队多签钱包承担法律责任。
+- 群体做了什么: 艺术家、开发者和藏家经过两个半月的讨论重建了平台，固定了数以百万计的文件（2023 年 4 月约 236 万个固定、6 TB），组织了 #Tezos4Iran、#SavePakistan 等募捐，并在首次分发中领取了约 300 万枚 TEIA 代币。
+- 视频: https://www.youtube.com/watch?v=hO97qco-ZX4
+- 图片: https://blog.teia.art/static/images/teia-cover.jpg
+- 项目主页: https://blog.teia.art/blog/press-release-dao-launch
+- 合约: https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w
+- 代码: https://github.com/teia-community
 
 #### Clock — Pak (2022)
 - 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 时间、衰变与死亡, 投票与治理
@@ -2549,17 +3027,20 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **John Cage** (5) — 作曲家. 美国作曲家（1912—1992），借助偶然程序、不确定记谱和沉默，把决定权交给演奏者、听众和环境。 https://johncage.org
 - **Mat Dryhurst** (5) — 艺术家、音乐人、研究者. 艺术家与研究者，与 Holly Herndon 合作 Holly+ 等 AI 与声音项目，并联合创办 Spawning，为 AI 训练数据开发授权同意工具。
 - **Sarah Friend** (5) — 艺术家、研究者、软件开发者. 加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。 https://isthisa.com
+- **George Brecht** (4) — 艺术家. 美国艺术家（1926—2008），原为化学家，在约翰·凯奇的课上发明了“事件乐谱”，后定居德国。
 - **Holly Herndon** (4) — 作曲家、艺术家. 常驻柏林的美国作曲家与艺术家，毕业于斯坦福大学 CCRMA（博士）。她与 Mat Dryhurst 合作关于 AI、声音和集体训练数据的作品，包括 PROTO、Holly+、xhairymutantx 和 The Call。 https://holly.plus
 - **Ken Goldberg** (4) — 艺术家，机器人学教授. 艺术家、加州大学伯克利分校机器人学者，自 1994 年的 Mercury Project 起，搭建了最早一批可通过网页操控的机器人。 https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — 艺术家、策展人，Furtherfield 联合创办人. 英国艺术家与策展人，Furtherfield 联合创办人及联合艺术总监，是区块链、DAO 与艺术领域的重要研究者。 https://ruthcatlow.net/
+- **Superflex** (4) — 艺术家团体. 丹麦艺术团体，1993 年由雅各布·芬格、拉斯穆斯·罗森格伦·尼尔森和比约恩斯蒂尔内·克里斯蒂安森创立，关注经济系统、复制、自组织与跨物种设计。 https://superflex.net/
 - **Aram Bartholl** (3) — 观念艺术家. 德国艺术家，生于 1972 年，把互联网基础设施搬进公共空间：墙里的 U 盘、离线网络、网吧里的展览。 https://arambartholl.com/
 - **Async Art** (3) — 可编程艺术平台. Async Art 是 2020 年 2 月由 Conlan Rios、Lisa Liang 和 Nathan Clapp 推出的以太坊平台。它把一件作品拆成一个 Master 代币和多个分别持有的 Layer 代币，Layer 的持有者可以改变整幅图像。 https://async.art
 - **Cornelius Cardew** (3) — 作曲家. 英国作曲家（1936—1981），曾任施托克豪森的助手，即兴团体 AMM 成员，Scratch Orchestra 的联合创办人。
 - **Felix Gonzalez-Torres** (3) — 艺术家. 古巴出生的美国艺术家（1957–1996），以糖果堆和纸堆作品闻名：观众可以从中拿走，收藏者必须补充。 https://www.felixgonzalez-torresfoundation.org/
 - **Furtherfield** (3) — 艺术画廊、实验室与线上社群. 1996 年由 Ruth Catlow 与 Marc Garrett 创立的艺术机构，在伦敦芬斯伯里公园设有画廊和公地实验室，运营去中心化艺术实验室 DECAL，并长期开展关于 DAO、投票与跨物种治理的项目。 https://www.furtherfield.org
-- **George Brecht** (3) — 艺术家. 美国艺术家（1926—2008），原为化学家，在约翰·凯奇的课上发明了“事件乐谱”，后定居德国。
+- **Kevin Abosch** (3) — 观念艺术家. 爱尔兰观念艺术家，创作涉及摄影、区块链、雕塑与人工智能；现居巴黎，任教于维也纳应用艺术大学。 https://kevinabosch.com
 - **Primavera De Filippi** (3) — 法学学者、艺术家. 巴黎法国国家科学研究中心（CNRS）研究员、哈佛 Berkman Klein 中心研究员，研究区块链治理，并创作了基于区块链的机械花 Plantoid 等作品。
 - **Tania Bruguera** (3) — 艺术家与社会行动者. 古巴艺术家，她的“行为艺术”（arte de conducta）与“有用的艺术”（arte útil）把观众置于政治情境之中，并建立持续运作的社会机构。 https://taniabruguera.com/
+- **Tino Sehgal** (3) — 艺术家. 英德籍艺术家，创作“建构情境”：由受过训练的诠释者与观众交谈或共同行动来完成的作品，没有实物，也不允许拍照记录。
 - **Alexander R. Galloway** (2) — 媒介理论家、程序员. 美国媒介理论家，任教于纽约大学，软件艺术团体 RSG（Radical Software Group）的创始成员。 http://cultureandcommunication.org/galloway/
 - **Alison Knowles** (2) — 艺术家、作曲家. 美国艺术家（生于 1933 年），激浪派创始成员之一，以食物、豆子等日常材料创作事件乐谱、艺术家书和声音作品。
 - **Botao Amber Hu** (2) — 设计师、研究者，Reality Design Lab. 设计师与人机交互研究者，主持 Reality Design Lab，发表关于协议艺术、思辨设计、混合现实与去中心化 AI 的研究。 https://botao.hu/
@@ -2573,19 +3054,23 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **Jeremy Deller** (2) — 艺术家. 英国艺术家，2004 年特纳奖得主，以大量非专业参与者组织游行、历史重演和公共事件。 https://www.jeremydeller.org/
 - **Joseph Beuys** (2) — 艺术家、教师与政治行动者. 德国艺术家（1921–1986），以“社会雕塑”之名把雕塑扩展到教学、讨论与政治组织。他参与创立自由国际大学，也是德国绿党的早期人物。
 - **Josh Wardle** (2) — 软件工程师，艺术家. 威尔士工程师，拥有数字艺术艺术硕士学位，2011 年以艺术家身份加入 Reddit，主导其愚人节社会实验；后来制作了文字游戏 Wordle。
+- **Kevin McCoy** (2) — 艺术家. 长期与 Jennifer McCoy 合作媒体装置的艺术家；2014 年在 Rhizome 的 Seven on Seven 活动中与 Anil Dash 一起搭建 Monegraph，并在 Namecoin 上铸造了 Quantum。 https://www.kevinmccoy.net
 - **La Monte Young** (2) — 作曲家. 美国作曲家（生于 1935 年），他 1960 年的文字乐谱和长音音乐影响了激浪派与极简主义。
+- **Larva Labs** (2) — 工作室（Matt Hall 与 John Watkinson）. 由加拿大软件开发者 Matt Hall 和 John Watkinson 组成的两人工作室，创作了 CryptoPunks（2017）和 Autoglyphs（2019）。 https://www.larvalabs.com
 - **Lauren Lee McCarthy** (2) — 艺术家，p5.js 创建者. 美国艺术家、加州大学洛杉矶分校教授，表演作品探讨监控、自动化与照护；开源库 p5.js 的创建者。 https://lauren-mccarthy.com/
 - **Lygia Clark** (2) — 艺术家与治疗师. 巴西艺术家（1920–1988），新具体主义的创始人之一，从绘画转向由参与者用身体完成的“提议”，后来转向治疗实践。 https://portal.lygiaclark.org.br/
+- **Marcel Duchamp** (2) — 艺术家. 法裔美国艺术家（1887—1968），提出“现成品”，把艺术的重心从制作的物件转到选择和观念上。
 - **Marina Abramović** (2) — 行为艺术家. 出生于塞尔维亚的行为艺术家，自 1970 年代初起以耐力、身体以及表演者与观众的关系为创作核心。
 - **Matt Kane** (2) — 艺术家、程序员. 出生于芝加哥的艺术家，自己编写软件来制作多层、由数据驱动的数字绘画。他参与了 Async Art 的 First Supper，并创作了由比特币行情驱动的 Right Place & Right Time。 https://mattkane.com
 - **Mierle Laderman Ukeles** (2) — 艺术家；纽约市环卫局驻局艺术家. 美国艺术家，1969 年写下《维护艺术宣言》，自 1977 年起担任纽约市环卫局的无薪驻局艺术家。
+- **Moxie Marlinspike** (2) — 密码学家、软件开发者. 密码学家、Signal 的创始人。2021 年他搭建了两个小型以太坊项目来测试 web3，并在 2022 年的文章《My first impressions of web3》中记述。 https://moxie.org
 - **Nolen Royalty** (2) — 软件工程师，游戏制作者. 美国工程师，以 eieio.games 为名发布小型多人网页游戏，比如与陌生人比赛瞪眼、玩石头剪刀布。 https://eieio.games/
 - **Penny Rafferty** (2) — 作家、研究者. 研究艺术、区块链与 DAO 的作家和研究者，与 Ruth Catlow 共同主编《Radical Friends》。
 - **Reddit** (2) — 社交平台，r/place 各届的发布方. 以子版块组织的在线社区平台。其团队在 2022 年和 2023 年以更大的画布和新规则重新举办了 Josh Wardle 的 Place。 https://www.reddit.com/
+- **Robert Filliou** (2) — 激浪派艺术家与诗人. 法国艺术家（1926–1987），与激浪派关系密切，曾与乔治·布雷希特合办店铺兼画廊“微笑的软音符”，提出“永久创造”和“永恒网络”的观念。
 - **Roy Ascott** (2) — 艺术家，远程通信艺术理论家. 英国艺术家，自 20 世纪 60 年代起研究控制论与电信，并提出“远程通信艺术”（telematic art）。著有《Telematic Embrace》，创办 Planetary Collegium。
 - **Sam Spratt** (2) — 画家、数字艺术家. 数字画家，其 LUCI 系列（十幅画作、613 个面具及配套诗篇）通过藏家在故事中参与的游戏不断生长。 https://samspratt.com
 - **Summer of Protocols** (2) — 协议研究计划. 由以太坊基金会于 2022 年底委托发起的研究计划，把研究者、艺术家和工程师聚在一起跨领域研究协议，2023 至 2025 年每年举办一季。 https://summerofprotocols.com/
-- **Tino Sehgal** (2) — 艺术家. 英德籍艺术家，创作“建构情境”：由受过训练的诠释者与观众交谈或共同行动来完成的作品，没有实物，也不允许拍照记录。
 - **Venkatesh Rao** (2) — 作家、顾问. 印度裔美国作家，博客 Ribbonfarm 创办人，Summer of Protocols 研究计划的负责人之一。 https://ribbonfarm.com/
 - **Aaron Wright** (1) — 法学学者. 美国法学教授，任教于 Cardozo 法学院并主持其科技创业法律诊所，《Blockchain and the Law》合著者。
 - **Ai Weiwei** (1) — 艺术家、建筑师与社会行动者. 中国艺术家，创作涵盖装置、建筑、电影与社交媒体，以大型参与式项目和对国家权力的批评著称。
@@ -2593,23 +3078,34 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **Alexis André** (1) — 生成艺术家、研究者. 常驻东京的法国生成艺术家和研究者。他在 Art Blocks 上的项目 Friendship Bracelets（2022）免费发放给 Art Blocks 持有者：留一个，送一个。
 - **Amy Whitaker** (1) — 艺术创业研究者. 美国作家，纽约大学 Steinhardt 学院教授，研究艺术市场、艺术家权益与区块链。
 - **Andy Ayrey** (1) — 艺术家、AI 研究者. Infinite Backrooms 的作者（让两个 Claude 实例进行了数千次对话），也是 Truth Terminal 的作者：一个在 X 上“公开养育”的微调语言模型。 https://truthterminal.wiki
+- **Anil Dash** (1) — 技术专家、作家. 技术专家与作家，2014 年在 Rhizome 的 Seven on Seven 活动中与 Kevin McCoy 共同创建 Monegraph。 https://anildash.com
 - **Anna Halprin** (1) — 舞者、编舞家. 美国舞者和编舞家（1920–2021），发展了社区舞蹈仪式，并与劳伦斯·哈尔普林一起提出“RSVP 循环”记谱方法。 https://www.annahalprin.org/
+- **Anton Vidokle** (1) — 艺术家；e-flux 创始人. 出生于俄罗斯的艺术家，1998 年创立 e-flux，组织过 unitednationsplaza、e-flux journal 等项目。 https://www.e-flux.com/
+- **Antoni Muntadas** (1) — 媒体艺术家. 西班牙艺术家，生于 1942 年，自 70 年代起研究媒体、公共空间与审查。
 - **BasePaint** (1) — BasePaint 每日画布的创作团队. 2023 年 8 月在 Base 网络上推出 BasePaint 的小团队，合约主要由开发者 w1nt3r 编写。每天，陌生人共同在同一块像素画布上作画，画完后以开放版数出售。 https://basepaint.xyz
 - **Benjamin H. D. Buchloh** (1) — 艺术史学者. 德国艺术史学者（1941 年生），《October》编辑，以观念艺术和战后欧洲艺术研究著称。
 - **Benjamin Patterson** (1) — 低音提琴手、作曲家、艺术家. 美国低音提琴手、艺术家（1934—2016），激浪派创始成员，参加了 1962 年威斯巴登艺术节。
 - **Black Swan DAO** (1) — 柏林艺术团体与 DAO. 2018 年由 Penny Rafferty、Laura Lotti 和 Calum Bowden 创立（后有 Leïth Benkhedda 加入），在柏林 Trust 孵化。它把机构的资源输送给文化从业者，由他们投票决定资源用途。
 - **Botto** (1) — 由 BottoDAO 治理的去中心化自治艺术家. 2021 年由 Mario Klingemann 与 ElevenYellow 发起的 AI 艺术家。它的艺术引擎每周生成图像，$BOTTO 代币持有者对其投票，BottoDAO 决定这位艺术家及其收入如何管理。 https://botto.com
 - **Brian Eno** (1) — 音乐人、制作人、艺术家. 英国音乐人和制作人，1975 年与画家彼得·施密特合作出版卡片《迂回策略》。 https://www.brian-eno.net/
+- **Casey Pugh** (1) — 开发者，电影人. 美国网页开发者与电影人，制作并剪辑了 Star Wars Uncut，该片获得 2010 年互动媒体类艾美奖。
 - **Christian Marclay** (1) — 艺术家、作曲家. 瑞士裔美国视觉艺术家、作曲家，创作了许多交给音乐家演绎的图形乐谱和现成乐谱。
 - **Christian Wolff** (1) — 作曲家. 美国作曲家（生于 1934 年），与约翰·凯奇、莫顿·费尔德曼同属一个圈子，他的乐谱通过提示和聆听协调演奏者。
+- **Cildo Meireles** (1) — 艺术家. 巴西观念艺术家，自 1960 年代末军政府统治时期起，以作品探讨流通、价值与政治控制。
 - **Collective Actions** (1) — 莫斯科观念主义表演团体. 1976 年 3 月由安德烈·莫纳斯蒂尔斯基、尼基塔·阿列克谢耶夫、格奥尔基·基泽瓦尔特和列夫·鲁宾斯坦创立，后来尼古拉·帕尼特科夫、叶莲娜·叶拉金娜、伊戈尔·马卡列维奇、谢尔盖·罗马什科和萨比娜·亨斯根加入。 https://www.collectiveactionsgroup.org/en
+- **Curio Cards** (1) — 以太坊艺术项目（Travis Uhrig、Thomas Hunt、Rhett Creighton）. 由 Travis Uhrig、Thomas Hunt 和 Rhett Creighton 创建的项目，2017 年在以太坊上发布七位艺术家的 30 个卡牌系列，销售收入全部归艺术家。 https://curio.cards
+- **Cyrus Adkisson** (1) — 开发者. 开发者，2015 年 10 月在以太坊上部署了由可拥有的六边形地块组成的世界 Etheria，并在 DEVCON 1 上演示。 https://etheria.world
 - **Damien Hirst** (1) — 艺术家. 英国艺术家，“英国青年艺术家”群体的代表人物。他与 HENI 合作推出了自己的第一个 NFT 项目 The Currency（2021）。 https://www.damienhirst.com
 - **Dandelion Wist Mané** (1) — 软件工程师、生成艺术家. 软件工程师和生成艺术家，曾在 Google Brain 创建 TensorBoard，在 Protocol Labs 共同创建 SourceCred，之后与 Tyler Hobbs 共同创作 QQL。 https://qql.art
 - **Daniel Massey** (1) — 艺术家，技术专家. 艺术家与开发者，与 Aaron Koblin 共同创作 Bicycle Built for Two Thousand。 https://www.daniel-massey.com/
+- **Dapper Labs** (1) — 游戏工作室（由 Axiom Zen 分拆）. 位于温哥华、2018 年从 Axiom Zen 分拆出来运营 CryptoKitties 的工作室；其 CTO Dieter Shirley 最早提出了 ERC-721 标准。 https://www.cryptokitties.co
+- **Darius Kazemi** (1) — 艺术家，机器人程序制作者. 美国程序员与网络艺术家，生于 1983 年，以 Twitter 机器人和小规模社交软件闻名；与 Courtney Stanton 共同创办技术团体 Feel Train。 https://tinysubversions.com/
 - **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — 零知识证明游戏 Dark Forest 的开发团队. 由 Brian Gu（gubsheep）带领的小团队，于 2020 年打造 Dark Forest：一款完全在以太坊兼容链上运行、用零知识证明隐藏地图的即时战略游戏。 https://zkga.me
 - **David H. Katzive** (1) — 策展人. 芝加哥当代艺术博物馆策展人，1969 年在馆长扬·范德马克任内组织了“电话艺术”展。
 - **Douglas Davis** (1) — 艺术家，评论家. 美国艺术家与评论家（1933–2014），用电视直播、卫星转播和早期网络制作互动与参与式作品。
+- **Eduardo Kac** (1) — 远程临场与生物艺术家. 巴西裔美国艺术家，生于 1962 年，以远程临场、全息诗和生物艺术闻名，代表作包括荧光兔 GFP Bunny。 https://www.ekac.org/
 - **ElevenYellow** (1) — 软件团体. 与 Mario Klingemann 共同开发 Botto 的软件团体，搭建了它的代币、投票与拍卖基础设施。
+- **Eric Whitacre** (1) — 作曲家，指挥家. 美国作曲家与指挥家，生于 1970 年，以合唱作品和 2010 年开始的“虚拟合唱团”系列闻名。 https://ericwhitacre.com/
 - **Erwin Wurm** (1) — 艺术家. 奥地利雕塑家，他的《一分钟雕塑》（1997–）是一些画出或写出的指令，观众用日常物品照着做六十秒。 https://www.erwinwurm.at/
 - **Eugene Thacker** (1) — 哲学家、媒介理论家. 美国哲学家与作家，任教于新学院（The New School），著述涉及生物技术、网络与恐怖哲学。
 - **Eva & Franco Mattes** (1) — 艺术家二人组. 意大利艺术家二人组，90 年代起以 0100101110101101.org 为名活动，作品涉及骗局、网络劳动、内容审核和图像流通。 https://0100101110101101.org/
@@ -2625,13 +3121,19 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **Heath Bunting** (1) — 网络艺术家. 英国艺术家，生于 1966 年，irational.org 创办者之一，90 年代 net.art 的核心人物，作品横跨网络、边境与街头介入。 https://www.irational.org/
 - **Hélio Oiticica** (1) — 艺术家. 巴西艺术家（1937–1980），新具体主义成员，他的《帕兰戈莱》《可穿透物》和《热带主义》把观众变成穿戴者、舞者和居住者。
 - **Improv Everywhere** (1) — 查理·托德创立的公共表演团体. 查理·托德于 2001 年在纽约创立的团体，在公共场所以网上招募的志愿“特工”执行事先不宣布的“任务”。 https://improveverywhere.com/
+- **J. S. G. Boggs** (1) — 艺术家. 美国艺术家（1955–2017），以手绘单面钞票并按面值花出而闻名，因此在英国、澳大利亚和美国被控伪造货币。
 - **Jackson Mac Low** (1) — 诗人、作曲家. 美国诗人、作曲家（1922—2004），用偶然操作和系统化程序写诗与表演作品。
 - **Jacob Horne** (1) — Zora 联合创办人. 美国创业者，Zora 联合创办人；Zora 是一个用于铸造和收藏媒体的链上协议与平台。 https://jacob.energy/
 - **Janet Echelman** (1) — 雕塑家. 美国雕塑家，以悬挂在城市上空的巨型网状雕塑闻名。 https://www.echelman.com/
+- **Joe Looney** (1) — 开发者. Counterparty 社群的开发者，基于自己的 BTCPAY Market 构建了 Rare Pepe Wallet，用于收藏、展示和交易 Rare Pepe。
 - **John Baldessari** (1) — 艺术家. 美国观念艺术家（1931–2020），用照片、文字和雇来的制作者质疑绘画中的作者身份。
+- **Jonah Brucker-Cohen** (1) — 艺术家，研究者. 美国艺术家，纽约城市大学莱曼学院教授，作品改写邮件列表、Wi-Fi 等日常网络工具的规则。 https://www.coin-operated.com/
 - **Joseph Santarromana** (1) — 录像与装置艺术家. 加州大学尔湾分校的艺术家，90 年代以录像装置闻名，与 Ken Goldberg 共同主持 Telegarden。
+- **Julieta Aranda** (1) — 艺术家；e-flux 联合负责人. 墨西哥艺术家，e-flux 联合负责人，她的项目关注时间、流通与另类经济。 https://www.e-flux.com/
 - **Karlheinz Stockhausen** (1) — 作曲家. 德国作曲家（1928—2007），战后电子音乐与序列音乐的核心人物，1968 年转向他称为“直觉音乐”的文字乐谱。 https://www.karlheinzstockhausen.org
 - **Kei Kreutler** (1) — 艺术家、作家，Gnosis Guild 联合创办人. 研究去中心化组织的艺术家与作家，Gnosis Guild 联合创办人，该团队为 DAO 开发开源工具。 https://keikreutler.net/
+- **Kevin Macdonald** (1) — 电影导演. 苏格兰纪录片与剧情片导演，生于 1967 年，执导了与 Ridley Scott 和 YouTube 合作的众包电影《浮生一日》（Life in a Day）。
+- **Kit Galloway** (1) — 电信艺术家. 美国艺术家，与 Sherrie Rabinowitz 共同运营 Mobile Image，自 70 年代起创作卫星与视频连线作品，后共同创办 Electronic Café International。 https://ecafe.com/
 - **Kyle McDonald** (1) — 媒体艺术家，程序员. 美国艺术家，使用代码、计算机视觉和机器学习创作，长期为 openFrameworks 做贡献。 https://kylemcdonald.net/
 - **Lawrence Weiner** (1) — 观念艺术家. 美国艺术家（1942—2021），作品是描述材料与动作的语言陈述，以墙上文字、书籍和公共空间文字的形式出现。
 - **Lee Mingwei** (1) — 艺术家. 台裔美国艺术家，他的参与式装置建立在陌生人之间的礼物、饭食、信件和对话之上。
@@ -2639,8 +3141,8 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **László Moholy-Nagy** (1) — 画家、摄影师、包豪斯教师. 匈牙利出生的艺术家（1895—1946），1923 年起在包豪斯任教，后在芝加哥创办新包豪斯。创作横跨绘画、摄影、电影、字体设计和光雕塑。
 - **Malte Rauch** (1) — 策展人、作家. 研究区块链艺术的策展人与作家，曾与 Bright Moments 和 Verse 平台合作，为合约展览 World Computer Sculpture Garden 撰写文章。
 - **Marc Garrett** (1) — 艺术家、作家，Furtherfield 联合创办人. 英国艺术家、作家与策展人，1996 年与 Ruth Catlow 共同创办伦敦艺术与技术机构 Furtherfield。
-- **Marcel Duchamp** (1) — 艺术家. 法裔美国艺术家（1887—1968），提出“现成品”，把艺术的重心从制作的物件转到选择和观念上。
 - **Mario Klingemann** (1) — 使用神经网络创作的艺术家. 德国艺术家、程序员，以神经网络和生成系统创作著称。他构想了 Botto 并设计了它的艺术引擎。 https://quasimondo.com
+- **Mark Napier** (1) — 网络艺术家. 美国艺术家、程序员，自 90 年代中期起创作以浏览器为载体、探讨网络空间归属与控制的作品，如 Shredder 和 net.flag。 https://www.marknapier.com/
 - **Mathcastles** (1) — 链上艺术工作室（Xaltgeist 与 0x113d）. 一个由两位化名成员 Xaltgeist 与 0x113d 组成的工作室，专门构建完全在链上运行的艺术系统。其代表作是 Terraforms（2021），一座由地块组成、共 20 层的链上结构。 https://mathcastles.xyz
 - **Mieko Shiomi** (1) — 作曲家、艺术家. 日本作曲家、艺术家（生于 1938 年），东京“音乐小组”联合创办人，1964 年起参与激浪派。
 - **Miranda July** (1) — 艺术家、电影人、作家. 美国艺术家、电影人和作家，作品常以指令、应用和任务邀请陌生人参与。 https://www.mirandajuly.com/
@@ -2650,17 +3152,32 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **Nicolas Bourriaud** (1) — 策展人、评论家. 法国策展人与作家，东京宫（Palais de Tokyo）联合创办人，把 1990 年代以社交相遇为材料的艺术倾向命名为“关系美学”。
 - **Nounders** (1) — Nouns DAO 的创始团体. 由包括 Dom Hofmann 在内的十位联合创始人组成，2021 年 8 月发起 Nouns：每天拍卖一个像素角色，全部收入进入由持有者治理的金库。 https://nouns.wtf
 - **Okhaos** (1) — 艺术团体. 成立于 2008 年的艺术团体，致力于把数字概念做成实体作品；与 Primavera De Filippi 共同创作了最早的 Plantoid。 https://plantoid.org
+- **Olia Lialina** (1) — 网络艺术家，理论家. 俄罗斯网络艺术家与理论家，1971 年生于莫斯科，90 年代 net.art 的先驱，任教于斯图加特 Merz Akademie，并共同运营 One Terabyte of Kilobyte Age 档案。 https://art.teleportacia.org/
 - **Paul Ramírez Jonas** (1) — 艺术家. 生于加州、在洪都拉斯长大的艺术家，他的公共作品以钥匙、誓词、公开发言等公民仪式为材料。
 - **Pauline Oliveros** (1) — 作曲家、手风琴演奏家. 美国作曲家（1932—2016），旧金山磁带音乐中心联合创办人，“深度聆听”实践的创立者。 https://www.deeplistening.rpi.edu
+- **Perry Bard** (1) — 跨学科艺术家. 加拿大艺术家（1944–2025），创作涉及电影、公共艺术和互联网，常与公众合作。
+- **Peter Edmunds** (1) — 设计师，开发者. 设计师，2005 年在堪培拉大学的荣誉学位项目中制作了 SwarmSketch。
+- **Peter Porobov** (1) — 开发者. 自学成才的开发者，2016 年制作了以太坊版“百万美元首页”The Million Ether Homepage，2018 年以 ERC-721 地块重新上线。 https://themillionetherhomepage.com
 - **Peter Schmidt** (1) — 画家. 德国出生的英国画家（1931–1980），与布莱恩·伊诺合著《迂回策略》。
+- **Rafael Lima** (1) — 开发者、Hic et Nunc 创始人. 来自巴西利亚的前社会科学研究者，在 Tezos 上构建了 Hic et Nunc，称之为“社会实验室”；2021 年 11 月 11 日关闭了其网站。
+- **Rafael Lozano-Hemmer** (1) — 媒体艺术家. 墨西哥裔加拿大艺术家，生于 1967 年，在公共空间制作大型互动装置，并把其中一个系列称为“关系建筑”。 https://www.lozano-hemmer.com/
+- **Rare Pepe Directory** (1) — Counterparty 上的策展登记处. 自称“Rare Pepe 科学家”的团队，自 2016 年起认证用户制作、以 Counterparty 资产发行的 Pepe 卡牌，并把它们推送到 Pepe 钱包中。 http://rarepepedirectory.com
+- **Ray Johnson** (1) — 拼贴与通信艺术家. 美国艺术家（1927–1995），拼贴艺术家，纽约通信学校的创始人，这个邮件艺术网络由他从 1950 年代末一直经营到去世。 https://www.rayjohnsonestate.com/
 - **Raymond Queneau** (1) — 作家. 法国小说家、诗人（1903–1976），1960 年与弗朗索瓦·勒利奥内共同创立“潜在文学工场”（Oulipo）。
 - **Rirkrit Tiravanija** (1) — 艺术家. 生于布宜诺斯艾利斯的泰国艺术家，自 1990 年代初起把画廊变成厨房、客厅和聚会场所。
+- **Robert Adrian X** (1) — 广播与电信艺术家. 加拿大艺术家（1935–2015），1972 年起定居维也纳，组织过多个使用电话、传真、慢扫描电视和 ARTEX 计算机网络的电信艺术项目。
+- **Robert Projansky** (1) — 律师. 纽约律师，1971 年与塞斯·西格劳布一起起草了《艺术家保留权利转让与销售协议》，起草前征询了数百位艺术家、画商和藏家。
 - **Roman Ondák** (1) — 艺术家. 斯洛伐克艺术家（1966 年生），他的装置和表演常常依靠美术馆工作人员和观众执行的指令。
+- **Santiago Sierra** (1) — 艺术家. 西班牙艺术家，长期在墨西哥城工作，以市场最低价雇人执行无用或有辱人格的任务，暴露雇佣劳动的条件。
+- **Sarah Meyohas** (1) — 艺术家. 作品关注价值、投机与系统的艺术家；2015 年推出可兑换其摄影作品的货币 Bitchcoin，2017 年创作 Cloud of Petals。 https://www.sarahmeyohas.com
 - **Scott Kildall** (1) — 观念与新媒体艺术家. 美国艺术家，生于 1969 年，创作涉及虚拟世界、数据雕塑与网络艺术；Second Life 表演团体 Second Front 的创始成员之一。 https://www.kildall.com/
+- **Seth Siegelaub** (1) — 策展人、出版人与画商. 美国策展人（1941–2013），以书籍和图录形式组织了多场关键的观念艺术展览，后来转向传播史和纺织史研究。
+- **Sherrie Rabinowitz** (1) — 电信艺术家. 美国艺术家（1950–2013），与 Kit Galloway 一起开创了卫星与视频连线的艺术用法，并共同创办 Electronic Café International。 https://ecafe.com/
 - **Simone Forti** (1) — 艺术家、舞者、编舞家. 意大利出生的美国艺术家和舞者（1935 年生），她的《舞蹈构造》（1960–61）是交给一群表演者完成的任务型作品。
 - **Suum Cuique Labs** (1) — Hashmasks 的创作团队. 瑞士工作室，2021 年发布 Hashmasks：由约 70 位艺术家绘制的 16,384 幅数字肖像，持有者可以通过销毁专用代币为其永久命名。 https://www.thehashmasks.com
 - **Suzanne Lacy** (1) — 艺术家与教育者. 美国艺术家，自 1970 年代起与社群一起完成大型公共表演，常关注女性、衰老与暴力，并提出“新类型公共艺术”一词。 https://www.suzannelacy.com/
 - **Takashi Kawashima** (1) — 设计师，艺术家. 日本出生的设计师与艺术家，与 Aaron Koblin 共同创作 Ten Thousand Cents。 http://www.takashikawashima.com/
+- **Teia Community** (1) — 社群运营的 NFT 平台与 DAO. 由艺术家、开发者和藏家组成的志愿者社群，2021 年 11 月后接手 Hic et Nunc 的合约，通过链上投票命名为 Teia，并于 2023 年注册为非营利 DAO LLC。 https://teia.art
 - **Terry Riley** (1) — 作曲家、演奏家. 美国作曲家（生于 1935 年），早期极简主义的代表人物，以《In C》和长时间的键盘即兴演奏闻名。 https://terryriley.net
 - **The Streamer (Twitch Plays Pokémon)** (1) — 匿名程序员. 一位匿名的澳大利亚程序员，编写了 Twitch Plays Pokémon 背后把聊天变成手柄输入的机器人程序，自 2014 年起运营该频道。 https://www.twitch.tv/twitchplayspokemon
 - **Thomas Hirschhorn** (1) — 艺术家. 瑞士艺术家，用廉价材料搭建临时结构，其中包括与公共住宅区居民一起建造和运营的一系列哲学家“纪念碑”。 https://www.thomashirschhorn.com/
@@ -2669,3 +3186,6 @@ https://protocolized.reality.design · 2026-09-28 · 134 位创作者 · 250 件
 - **Tyler Hobbs** (1) — 生成艺术家. 使用算法、绘图仪和颜料创作的生成艺术家，以 Fidenza（2021）闻名。他与 Dandelion Wist Mané 合作的 QQL（2022）让藏家亲自探索算法、决定铸造哪一幅。 https://www.tylerxhobbs.com
 - **VALIE EXPORT** (1) — 艺术家与电影人. 奥地利艺术家（1940–2026），女性主义行为艺术、扩展电影和录像艺术的先驱，1960 年代末常与彼得·魏贝尔合作。
 - **Vera List Center for Art and Politics** (1) — 新学院下属研究中心. 纽约新学院（The New School）下属的研究与公共项目中心，以分季主题研究艺术与政治的关系。 https://www.veralistcenter.org/
+- **William Entriken** (1) — 开发者. 开发者，ERC-721 标准的主要作者，2018 年推出 Su Squares：以太坊上可个性化的 10,000 个方格。 https://tenthousandsu.com
+- **Wolfgang Staehle** (1) — 艺术家，The Thing 创办者. 德国出生、居于纽约的艺术家，生于 1950 年，1991 年创办 The Thing，后来创作长时段的网络摄像头直播作品。 https://the.thing.net/
+- **Yves Klein** (1) — 艺术家. 法国艺术家（1928–1962），新现实主义成员，以国际克莱因蓝、《人体测量》和出售“非物质”区域著称。

@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 134 creators · 250 works
+https://protocolized.reality.design · 2026-09-28 · 176 creators · 299 works
 
 ## How an AI assistant should use this file
 
@@ -778,6 +778,15 @@ Works made by many people acting together under one rule: planting, walking, mov
 - Video: https://www.youtube.com/watch?v=9puLh5MCIqk
 - Project page: https://queensmuseum.org/program/immigrant-movement-international-2/
 
+#### Superkilen — Superflex (2012)
+- Type: Artwork · Substrate: Bodies & space · Mechanisms: Open participation, Co-authorship & derivatives
+- Idea: Residents curate the city furniture: the park is a collection nominated by its neighbours.
+- What it is: A public park in Copenhagen's Nørrebro district furnished with benches, bins, lamps, playground equipment and signs nominated by local residents from their countries of origin or travels.
+- Protocol: Residents nominate everyday urban objects from other countries; each is either copied at 1:1 or bought and shipped to the site; five groups travel with Superflex to Palestine, Spain, Thailand, Texas and Jamaica to acquire an object of their choice.
+- What the collective did: Residents of more than 50 nationalities took part; the park now holds more than 100 objects from more than 50 countries. It was designed with BIG and Topotek1 and commissioned by the City of Copenhagen and Realdania.
+- Images: https://superflex.net/superfleximages/1240w_Superkilen_11_1607951589.jpg
+- Project page: https://superflex.net/works/superkilen
+
 #### Gramsci Monument — Thomas Hirschhorn (2013)
 - Type: Artwork · Substrate: Bodies & space · Mechanisms: Open participation, Time, decay & death, Market & exchange
 - Idea: A monument that exists as paid work, daily programme and shared use for a fixed period.
@@ -1022,9 +1031,142 @@ Performances where the audience's actions, bounded by the artist's rules, make t
 - Images: https://cdn.jonaslund.com/wp-content/uploads/2025/01/26114213/IMG_9291-2-scaled.jpg
 - Project page: https://jonaslund.com/works/consensus-architects-inc/
 
+### Mail Art & Correspondence Networks
+
+Artworks that travel through the post and grow as each recipient adds to them and sends them on.
+
+#### New York Correspondance School — Ray Johnson (1962)
+- Type: DAO & organization · Substrate: Post & mail · Mechanisms: Circulation & passing on, Co-authorship & derivatives, Instruction & score
+- Idea: A network whose only rule is on-sending: every recipient becomes a co-author and a relay.
+- What it is: Johnson's mail-art network: collages, letters and drawings sent through the post with instructions such as 'please send to…' or 'please add to & return', growing as each recipient altered and forwarded them.
+- Protocol: A mailing carries an instruction ('please send to…', 'please add to & return', even 'please do not send to…'); the recipient adds to or subtracts from the item and passes it on as instructed; there is no membership, only participation, and Johnson called and cancelled 'meetings' of the school.
+- What the collective did: The name was coined in 1962 by Ed Plunkett; the first NYCS meeting took place on 1 April 1968 at the Society of Friends Meeting House in New York; a 1970 Whitney exhibition showed mail from 107 participants sent to curator Marcia Tucker. The network grew into the international mail-art movement and is still active.
+- Images: https://upload.wikimedia.org/wikipedia/commons/c/c0/RayJohnson_invite1970.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg/960px-Ray_Johnson_and_CrackerJack_Kid%2C_Feb_1984.jpg
+- Project page: https://www.rayjohnsonestate.com/mail-art-ephemera
+
+#### Art's Birthday (La Fête de l'Art) — Robert Filliou (1963)
+- Type: Score & instruction set · Substrate: Bodies & space · Mechanisms: Instruction & score, Open participation, Time, decay & death
+- Idea: A shared date as protocol: anyone, anywhere, can celebrate, and the network does the rest.
+- What it is: Filliou proposed that art was born one million years ago on 17 January, when someone dropped a dry sponge into a bucket of water, and that its birthday should be a public holiday.
+- Protocol: Every 17 January, anyone may celebrate the birthday of art in any form, alone or together; art gets one year older each time.
+- What the collective did: The first public celebrations took place in 1973 in Aachen and Paris; since then artists' networks, radio stations and museums have held events on or around 17 January, often linked by telephone, radio and later the internet.
+- Video: https://www.youtube.com/watch?v=0uHKNrnsCzo
+- Project page: https://en.wikipedia.org/wiki/Robert_Filliou
+
+#### The Eternal Network (La Fête Permanente) — Robert Filliou, George Brecht (1968)
+- Type: Platform & protocol · Substrate: Post & mail · Mechanisms: Circulation & passing on, Open participation, Co-authorship & derivatives
+- Idea: Replace the art market with a decentralised network of exchange that anyone can join.
+- What it is: A proposal announced by Filliou and George Brecht on a 1968 poster: art as a permanent festival carried on by a network of people exchanging works, ideas and actions, with no centre and no end.
+- Protocol: Artists consider themselves nodes in a wider social network, the 'Constant Festival'; work circulates between participants by post, visits and collaboration rather than through galleries; anyone who sends and receives takes part.
+- What the collective did: Mail artists and artist-run centres adopted the Eternal Network as the name and model of their international exchange from the 1970s, and it became a founding idea for later network and telematic art.
+- Text: https://doi.org/10.1177/0263276418796563 (Theory, Culture & Society)
+- Video: https://www.youtube.com/watch?v=9BgOfsG7J0Q
+- Images: https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/033/269/medium_500/16._The_Eternal_Network_poster__1968.jpg?1476262421
+- Project page: https://ensembles.org/items/eternal-network
+
 ### Contracts, Currencies & Exchange
 
 Artist-designed contracts, receipts, currencies and exchange rituals: the pre-blockchain ancestors of tokens and royalties.
+
+#### Obligations pour la Roulette de Monte-Carlo (Monte Carlo Bond) — Marcel Duchamp (1924)
+- Type: Series & collection · Substrate: Text & paper · Mechanisms: Contract & certificate, Currency & value, Chance & randomness
+- Idea: An artist-issued security: investors fund a rule-based system and share its (hoped-for) returns.
+- What it is: Duchamp issued bonds in a company formed to fund his attempt to beat the roulette tables at Monte Carlo with a system; the bond, with Man Ray's photograph of him, is both an artwork and a financial instrument.
+- Protocol: The company plans 30 bonds at 500 francs each, repayable with 20% interest from roulette winnings; each bond is signed by Rrose Sélavy and by Duchamp as the company's officers.
+- What the collective did: A small circle of friends and patrons bought bonds; sources count eight bonds realised in 1924. The system did not make money, but the bonds survived as artworks and are now held by museums and collectors.
+- Images: https://upload.wikimedia.org/wikipedia/en/7/7f/Monte_Carlo_Bond_%28No._30%29.jpg https://www.nmnm.mc/wp-content/uploads/2025/04/obligation_duchamp_site.jpg
+- Project page: https://www.nmnm.mc/en/exhibitions/6716/
+
+#### Zones de Sensibilité Picturale Immatérielle (Zones of Immaterial Pictorial Sensibility) — Yves Klein (1959)
+- Type: Series & collection · Substrate: Text & paper · Mechanisms: Contract & certificate, Currency & value, Burn & destruction
+- Idea: A proto-token: ownership exists as a receipt, and destroying the receipt makes the work fully immaterial.
+- What it is: Klein sold 'zones' of immaterial pictorial sensibility for a weight of pure gold and gave each buyer a receipt; the buyer could complete the work by burning the receipt while Klein threw half the gold into the Seine.
+- Protocol: Each zone is sold only for gold, against a numbered receipt. The buyer has two options: keep the receipt (and never own the authentic immaterial value), or burn it in a ritual before a museum director or art critic and two witnesses, while Klein throws half of the gold into the Seine.
+- What the collective did: Eight zones were sold between 1959 and Klein's death in 1962, at least three of them completed by the ritual, one with the writer Dino Buzzati in January 1962. An unburned receipt sold at Sotheby's in 2022 for more than one million dollars, and the ritual was later restaged on Ethereum as Digital Zones of Immaterial Pictorial Sensibility.
+- Images: https://upload.wikimedia.org/wikipedia/en/2/26/ImmaterielZoneKlein.jpg https://upload.wikimedia.org/wikipedia/en/d/df/ZoneImmaterielKlein2.jpg
+- Project page: https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle
+
+#### Insertions into Ideological Circuits: Coca-Cola Project and Banknote Project — Cildo Meireles (1970)
+- Type: Series & collection · Substrate: Bodies & space · Mechanisms: Circulation & passing on, Instruction & score, Currency & value
+- Idea: Use an existing circulation system as the distribution network, and let anyone copy the method.
+- What it is: Meireles printed political messages and instructions onto returnable Coca-Cola bottles and banknotes and put them back into circulation, where they travelled through the bottling and money systems.
+- Protocol: Transfer a text in white lettering onto an empty returnable bottle (visible only when refilled with cola) or stamp it on a banknote, then return the bottle or spend the note; the bottle carries instructions so that others can repeat the insertion.
+- What the collective did: Under the Brazilian dictatorship, the bottles and notes, bearing slogans such as 'Yankees go home!' and questions like 'Which is the place of the work of art?', passed anonymously through the hands of bottlers, shopkeepers and consumers.
+- Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_oLL2I9M.jpg
+- Project page: https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328
+
+#### The Artist's Reserved Rights Transfer and Sale Agreement — Seth Siegelaub, Robert Projansky (1971)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Contract & certificate, Market & exchange, Circulation & passing on
+- Idea: A royalty that travels with the work: each new owner must sign the same terms.
+- What it is: A standard contract for the sale of artworks, first published by the School of Visual Arts in New York as a fold-out poster, that reserves rights for the artist after the work is sold, including a share of future resale profits.
+- Protocol: Artist and buyer sign a form that is affixed to the work. On every later sale or transfer the seller pays the artist 15% of the increase in value and binds the new owner to the same contract; the artist is notified of exhibitions and may veto them, can borrow the work, shares rental income and keeps reproduction rights.
+- What the collective did: Artists were encouraged to reproduce the contract and use it in every transfer; some, notably Hans Haacke, required it of buyers, but dealers and collectors resisted and it proved hard to enforce. It became a reference for resale-royalty debates and for royalty rules in NFT marketplaces.
+- Text: https://upload.wikimedia.org/wikipedia/commons/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf (Self-published contract, 1971)
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf/page1-960px-The_Artists_Reserved_Rights_Transfer_and_Sale_Agreement.pdf.jpg
+- Project page: https://www.guggenheim.org/articles/findings/seth-siegelaubs-the-artists-reserved-rights-transfer-and-sale-agreement-french-version-2
+
+#### Boggs Notes (money drawings) — J. S. G. Boggs (1984)
+- Type: Series & collection · Substrate: Bodies & space · Mechanisms: Currency & value, Market & exchange, Circulation & passing on
+- Idea: Value by consent: the artwork is completed when a stranger accepts it as payment.
+- What it is: Boggs drew one side of banknotes by hand and spent them at face value with shopkeepers, waiters and hotels who agreed to accept a drawing instead of money.
+- Protocol: A note is exchanged only at its face value and only with someone who knows it is a drawing; Boggs asks for exact change and a receipt; he sells the change and receipt, not the note, to a collector and tells them where the note was spent, and the collector must find its holder to buy it.
+- What the collective did: From a Chicago diner in 1984 onward, merchants and strangers accepted the notes and collectors tracked them down, reportedly paying up to $420,000 for one; governments treated the practice as counterfeiting, and the US Secret Service seized about 1,300 works.
+- Images: https://upload.wikimedia.org/wikipedia/en/8/82/JSG_Boggs.jpg
+- Project page: https://en.wikipedia.org/wiki/J._S._G._Boggs
+
+#### 250 cm Line Tattooed on 6 Paid People — Santiago Sierra (1999)
+- Type: Artwork · Substrate: Bodies & space · Mechanisms: Contract & certificate, Market & exchange, Rules & constraints
+- Idea: A wage contract made permanent on the body: the payment rule is the work's content.
+- What it is: At Espacio Aglutinador in Havana, Sierra paid six unemployed young men to have a single continuous 250-centimetre line tattooed across their backs as they stood side by side.
+- Protocol: Six people are recruited and paid a fixed fee (thirty dollars each) to stand in a row and accept a straight line tattooed across all their backs; the action is photographed and the fee is stated in the title and documentation.
+- What the collective did: Six young men in Havana accepted the payment and the permanent mark in December 1999; the work provoked long debates on exploitation and complicity, and its photographic documentation is held by the Städel Museum and Fundación Jumex.
+- Images: https://cdn.staedelmuseum.de/images/0d/b1/dzf196/thumb-xl.jpg https://li-mac.org/wp-content/uploads/Santiago-Sierra_LiMAC_250-tattoo_I.jpg
+- Project page: https://sammlung.staedelmuseum.de/en/work/250-cm-line-tattooed-on-6-paid-people-espacio-aglutinador
+
+#### Kiss — Tino Sehgal (2002)
+- Type: Artwork · Substrate: Bodies & space · Mechanisms: Contract & certificate, Instruction & score, Supply & scarcity
+- Idea: An artwork with no object, sold and passed on only by oral agreement before a notary.
+- What it is: Two dancers move slowly through a sequence of kisses taken from art history, from Rodin, Brâncuși and Klimt to Courbet and Jeff Koons; the work was sold to museums in an edition of four purely by spoken contract.
+- Protocol: No written contract, receipt, instructions or photographs. The sale is spoken before a notary and witnesses, with stipulations: the work is installed only by people Sehgal has trained, the dancers are paid an agreed minimum, it is shown for at least six weeks, it is never photographed, and any resale must repeat the same oral contract.
+- What the collective did: The Art Gallery of Ontario, the Museum of Contemporary Art Chicago and the Museum of Modern Art in New York, which acquired the final edition, bought it on these terms; generations of dancers have learned it by direct transmission.
+- Video: https://www.youtube.com/watch?v=ZWfM71KsPTY
+- Project page: https://en.wikipedia.org/wiki/Tino_Sehgal
+
+#### Guaraná Power — Superflex (2003)
+- Type: Artwork · Substrate: Bodies & space · Mechanisms: Market & exchange, Voting & governance, Co-authorship & derivatives
+- Idea: The artwork is a producers' cooperative and its brand: self-organisation as a counter-economy.
+- What it is: Superflex worked with a cooperative of guaraná farmers in Maués, in the Brazilian Amazon, to create the farmers' own soft drink in response to a buyers' cartel that had driven down seed prices.
+- Protocol: Decisions about the product are made by the farmers through an extended process of self-organisation; Superflex supplies design, branding and distribution in the art world; the label overwrites the corporate brand it answers.
+- What the collective did: The farmers' cooperative developed and sold the drink, which was served in exhibitions and bars; the corporate cartel had cut the seed price by 80%, and the 27th São Paulo Biennial (2006) banned the work from display, after which Superflex exhibited censored versions.
+- Images: https://superflex.net/superfleximages/1240w_Guarana_power_factory_07_1614955871.jpg
+- Project page: https://superflex.net/works/guarana_power
+
+#### Free Beer (Vores Øl) — Superflex (2004)
+- Type: Artwork · Substrate: Text & paper · Mechanisms: Co-authorship & derivatives, Contract & certificate, Circulation & passing on
+- Idea: Open-source licensing applied to a physical product: the licence is the artwork's rule of reproduction.
+- What it is: A beer recipe and brand published under a Creative Commons licence, so that anyone may brew it, sell it or change it, as long as they share their version under the same terms.
+- Protocol: The recipe and label are licensed CC BY-SA 2.5: anyone may brew the beer, use the name and logo, and make derivatives, provided they credit the source and publish their recipe under the same licence.
+- What the collective did: Conceived with students of the IT University of Copenhagen, the beer has been brewed by breweries, workshops and home brewers in Taipei, São Paulo, Los Angeles, Munich, Auckland and elsewhere, with and without Superflex's involvement.
+- Images: https://superflex.net/superfleximages/1240w_Free_Beer_05_1607939011.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg/960px-Superflex%2C_Free_Beer_Factory%2C_2008_ongoing%2C_taiwan_taipeh_3.jpg
+- Project page: https://superflex.net/works/free_beer
+
+#### Free Sol LeWitt — Superflex (2010)
+- Type: Artwork · Substrate: Bodies & space · Mechanisms: Co-authorship & derivatives, Chance & randomness, Circulation & passing on
+- Idea: Take the artist at his word: if ideas are common property, the museum's copy can be released to the public.
+- What it is: A metal workshop inside the Van Abbemuseum produced exact replicas of Sol LeWitt's Untitled (Wall Structure) (1972) from the collection and gave them away to the public by lottery.
+- Protocol: Workers fabricate copies of the LeWitt structure in the gallery during opening hours; visitors enter a lottery; winners take a copy home for free.
+- What the collective did: Visitors to In-between Minimalisms / Free Sol LeWitt at the Van Abbemuseum in 2010 entered the lottery and took replicas into their homes, testing LeWitt's statement that ideas 'can only be given away and not stolen'.
+- Images: https://superflex.net/superfleximages/1240w_In-between_minimalism_free_sol_lewitt_04_1619619018.jpg
+- Project page: https://superflex.net/works/free_sol_lewitt
+
+#### Time/Bank — Julieta Aranda, Anton Vidokle (2010)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Currency & value, Market & exchange, Open participation
+- Idea: An hour for an hour: a parallel currency that makes the art world's unpaid favours visible and countable.
+- What it is: An online time bank for the art community, launched by e-flux, where artists, curators and writers trade hours of work and skills with each other instead of money.
+- Protocol: Members post needs and offers; helping another member for one hour earns one hour of credit, recorded by the bank as intermediary and guarantor; credits can be spent on any other member's time; local branches and printed Time/Bank notes extend the system offline.
+- What the collective did: More than a thousand participants around the world had joined by the time of its first exhibitions, and branches opened in several cities; exhibitions at Portikus in Frankfurt and elsewhere presented it as an artwork.
+- Images: https://images.e-flux.com/test/5b5ddc0a-d863-4c6b-aeb9-f5a040a3b171?width=1200&height=630
+- Project page: https://www.e-flux.com/announcements/36461/time-bank/
 
 #### Flip City — Jonas Lund (2014)
 - Type: Series & collection · Substrate: Bodies & space · Mechanisms: Circulation & passing on, Market & exchange, Time, decay & death
@@ -1069,6 +1211,25 @@ Rules posted to a network and played by thousands or millions of people: telemat
 ### Telematic & Early Network Art
 
 Works for modems, bulletin boards, robots and the early web that let distant participants act together.
+
+#### Hole-In-Space — Kit Galloway, Sherrie Rabinowitz (1980)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Rules & constraints
+- Idea: Leave the portal unexplained and let the public discover what to do with it.
+- What it is: For three evenings in November 1980, a life-size satellite video link joined a sidewalk at Lincoln Center in New York with a shopping centre in Century City, Los Angeles. Passers-by on each coast suddenly saw and could talk with people on the other.
+- Protocol: The link was unannounced: no signs, logos, credits or explanation, and no self-view monitors, only full-body, life-size images and sound of the people on the other coast.
+- What the collective did: The first evening was a discovery; on the second, people used word of mouth to arrange meetings; by the third, families and friends travelled to the sites to see relatives on the other coast, some for the first time in years.
+- Video: https://www.youtube.com/watch?v=SyIJJr6Ldg8
+- Images: https://ecafe.com/getty/HIS/images/H110/03/53.gif https://ecafe.com/getty/HIS/images/H110/02/081.gif
+- Project page: https://ecafe.com/getty/HIS/
+
+#### The World in 24 Hours — Robert Adrian X (1982)
+- Type: Score & instruction set · Substrate: Internet & platforms · Mechanisms: Instruction & score, Open participation, Time, decay & death
+- Idea: Follow noon around the planet and give each city its hour on the line.
+- What it is: A 24-hour telecommunication project at Ars Electronica 1982 in which artists in fifteen cities, from Vienna to Sydney and Honolulu, each exchanged images, sound and text with Linz during their local midday.
+- Protocol: The project ran from noon to noon in Linz (CET); each remote site had one hour, around its local midday, to exchange material with the Linz team over up to three phone lines using slow-scan TV, fax, the ARTEX computer network or telephone audio.
+- What the collective did: Artists and groups in Vienna, Frankfurt, Amsterdam, Bath, Wellfleet, Pittsburgh, Toronto, San Francisco, Vancouver, Honolulu, Tokyo, Sydney, Istanbul, Florence and Athens sent and received material in sequence, producing a day-long relay of transmissions.
+- Images: https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg
+- Project page: https://ars.electronica.art/outofthebox/en/24hours/
 
 #### La Plissure du Texte — Roy Ascott (1983)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Open participation
@@ -1117,6 +1278,27 @@ Works for modems, bulletin boards, robots and the early web that let distant par
 - Images: https://goldberg.berkeley.edu/art/big-images/telegarden-150dpi-2.jpg https://upload.wikimedia.org/wikipedia/commons/3/31/Telegarden.jpg
 - Project page: https://goldberg.berkeley.edu/garden/Ars/
 
+#### Teleporting an Unknown State — Eduardo Kac (1996)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Time, decay & death
+- Idea: Use the internet as a life-support system that a crowd must keep running.
+- What it is: A seed in a pot of earth in a completely dark gallery, lit only by a video projector showing images of the sky sent by remote participants over internet videoconferencing. The plant grows only as long as people keep sending light.
+- Protocol: Participants in other cities pointed cameras at the sky and transmitted the live image via videoconferencing; the projector turned their incoming video into light over the seed. No verbal messages were exchanged.
+- What the collective did: Anonymous participants in several countries shared responsibility for the plant's photosynthesis, keeping it growing for as long as the exhibition was open.
+- Text: https://www.ekac.org/teleporting.html (SIGGRAPH '96 Visual Proceedings)
+- Video: https://vimeo.com/319098037
+- Images: https://www.ekac.org/telepsim/center8.jpg
+- Project page: https://www.ekac.org/teleporting.html
+
+#### Vectorial Elevation — Rafael Lozano-Hemmer (1999)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Co-authorship & derivatives
+- Idea: Hand the sky over a national square to anyone with a browser.
+- What it is: Eighteen robotic searchlights around Mexico City's Zócalo, controlled by anyone on the internet, to mark the arrival of the year 2000. Each participant designed a light sculpture in a 3D web interface and saw it executed over the square.
+- Protocol: Online users designed a searchlight configuration in a 3D simulator and joined a queue; each design was executed in turn, photographed by webcams, and published on an uncensored personal page with the participant's name, dedication and comments.
+- What the collective did: Over two weeks, 800,000 people from 89 countries took part, leaving love poems, football scores, Zapatista slogans and twenty-seven marriage proposals in light and text.
+- Video: https://vimeo.com/33988779
+- Images: https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg
+- Project page: https://www.lozano-hemmer.com/vectorial_elevation.php
+
 #### Ouija 2000 — Ken Goldberg (2000)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Chance & randomness
 - Idea: Average many hands and the answer seems to come from nowhere.
@@ -1149,6 +1331,24 @@ Works for modems, bulletin boards, robots and the early web that let distant par
 
 An assignment or task sent to a crowd; the collected responses are the work.
 
+#### The File Room — Antoni Muntadas (1994)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Open participation, Co-authorship & derivatives
+- Idea: An archive that only grows if the public reports the cases.
+- What it is: An installation of filing cabinets at the Chicago Cultural Center with computers where visitors could read and add cases of cultural censorship, linked to an online archive that anyone could extend.
+- Protocol: Visitors in the gallery or online could browse the database of censorship cases by date, place, medium or grounds, and submit new cases through a form; submissions were added to the shared archive.
+- What the collective did: Contributors worldwide added cases from historical to current, turning the installation into a growing public database; since 2001 it has been maintained by the National Coalition Against Censorship.
+- Images: http://www.mediaartnet.org/assets/img/data/2021/bild.jpg https://www.thefileroom.org/documents/sala.gif
+- Project page: https://www.thefileroom.org/
+
+#### Last Real Net Art Museum — Olia Lialina (2000)
+- Type: Series & collection · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Circulation & passing on
+- Idea: Let the copies be the collection.
+- What it is: An online museum that collects remakes, remixes and homages of Lialina's 1996 work My Boyfriend Came Back from the War made by other artists. It opened in March 2000 and is still being added to.
+- Protocol: Any artist may make their own version of the work; Lialina links accepted versions from the museum, but each stays on its maker's own server and can be changed, replaced or deleted by them.
+- What the collective did: Artists including JODI, Constant Dullaart and Auriea Harvey & Michaël Samyn contributed versions over more than two decades, forming a living archive of how net art is copied and reinterpreted.
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg
+- Project page: https://mbcbftw.museum/collection.html
+
 #### Learning to Love You More — Miranda July, Harrell Fletcher (2002)
 - Type: Series & collection · Substrate: Internet & platforms · Mechanisms: Instruction & score, Open participation
 - Idea: Write the assignment, not the artwork, and let strangers make the work.
@@ -1167,6 +1367,16 @@ An assignment or task sent to a crowd; the collected responses are the work.
 - Video: https://vimeo.com/3199933
 - Images: https://www.aaronkoblin.com/wp-content/uploads/2015/08/the-sheep-market-hero.jpg https://www.aaronkoblin.com/wp-content/uploads/2015/08/sheep-market-additional.jpg
 - Project page: https://www.aaronkoblin.com/project/the-sheep-market/
+
+#### Man with a Movie Camera: The Global Remake — Perry Bard (2007)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Chance & randomness, Instruction & score
+- Idea: Turn a film into a shot list and let the world fill it in.
+- What it is: A participatory remake of Dziga Vertov's 1929 film, broken down into its 1,276 shots, each of which anyone can reshoot and upload. The software assembles a new version every day from the submissions.
+- Protocol: Participants choose a shot from Vertov's film, interpret it however they like, and upload it; each day the system picks at random among the submissions for each shot and plays them side by side with the original.
+- What the collective did: Contributors from many countries filmed their own versions of Vertov's shots, so the remake is never the same twice.
+- Video: https://www.youtube.com/watch?v=uEykp9PsDkw
+- Images: https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg
+- Project page: https://docubase.mit.edu/project/man-with-a-movie-camera-global-remake/
 
 #### Ten Thousand Cents — Aaron Koblin, Takashi Kawashima (2008)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Market & exchange, Currency & value, Instruction & score
@@ -1188,6 +1398,16 @@ An assignment or task sent to a crowd; the collected responses are the work.
 - Images: https://www.aaronkoblin.com/wp-content/uploads/2015/10/bb2k-hero.jpg
 - Project page: https://www.aaronkoblin.com/project/bicycle-built-for-two-thousand/
 
+#### Star Wars Uncut — Casey Pugh (2009)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Voting & governance, Instruction & score
+- Idea: Cut a feature film into 15-second claims and a fan crowd can remake all of it.
+- What it is: A shot-for-shot remake of the 1977 film Star Wars made by fans, 15 seconds at a time. Each segment is in a different style — live action, animation, Lego stop-motion — and the full film was released free on YouTube in 2010.
+- Protocol: From July 2009 fans could sign up on the website to claim a 15-second scene and recreate it any way they liked; several versions were submitted per scene and votes decided which went into the final cut.
+- What the collective did: Contributors worldwide produced the 473 fifteen-second segments that make up the finished film, which won a 2010 Emmy for interactive media; a sequel remade The Empire Strikes Back in 2014.
+- Video: https://www.youtube.com/watch?v=7ezeYJUz-84
+- Images: http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png
+- Project page: http://www.starwarsuncut.com/
+
 #### Wikipedia Art — Scott Kildall, Nathaniel Stern (2009)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Rules & constraints, Open participation
 - Idea: Use an encyclopedia's own citation rules as the medium, and its editors become co-authors.
@@ -1196,6 +1416,15 @@ An assignment or task sent to a crowd; the collected responses are the work.
 - What the collective did: Wikipedia editors debated and removed the article within hours; press coverage, blog posts and legal correspondence that followed extended the work, which was later shown in the 2009 Venice Biennale's Internet Pavilion.
 - Images: https://upload.wikimedia.org/wikipedia/commons/1/16/Wikipedia_Art.png
 - Project page: https://en.wikipedia.org/wiki/Scott_Kildall
+
+#### Life in a Day — Kevin Macdonald (2010)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Instruction & score, Open participation, Time, decay & death
+- Idea: One date as the whole brief: film your day, and the crowd becomes a portrait of the planet.
+- What it is: A feature documentary edited from videos that people around the world filmed on a single day, 24 July 2010, and uploaded to YouTube. It premiered at Sundance in January 2011.
+- Protocol: Anyone could film anything on 24 July 2010 and upload it to a YouTube channel; contributors kept copyright but licensed the footage, and those whose clips were used were credited as co-directors.
+- What the collective did: People in 192 nations sent 80,000 submissions totalling 4,500 hours of footage, edited into a 95-minute film.
+- Images: https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg
+- Project page: https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)
 
 #### The Johnny Cash Project — Aaron Koblin, Chris Milk (2010)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Open participation
@@ -1207,6 +1436,16 @@ An assignment or task sent to a crowd; the collected responses are the work.
 - Images: https://www.aaronkoblin.com/wp-content/uploads/2015/10/0435_1920.png https://www.aaronkoblin.com/wp-content/uploads/2015/10/0862_1920.png
 - Project page: https://www.aaronkoblin.com/project/johnny-cash-project/
 
+#### Virtual Choir — Eric Whitacre (2010)
+- Type: Series & collection · Substrate: Internet & platforms · Mechanisms: Instruction & score, Open participation, Co-authorship & derivatives
+- Idea: A score, a conductor on video and an upload link are enough to make a choir that never meets.
+- What it is: A choir of singers who record their parts alone at home, following a video of Whitacre conducting, and upload them to be mixed into one performance. The first, 'Lux Aurumque', was released in March 2010.
+- Protocol: Whitacre publishes the score, a guide track and a conducting video; singers download them, film themselves singing one part while watching the conductor, and upload the video; editors align and mix all submissions.
+- What the collective did: Virtual Choir 1 combined 185 singers from 12 countries; Virtual Choir 2 ('Sleep', 2011) combined 2,051 singers from 58 countries, and later editions grew larger.
+- Video: https://www.youtube.com/watch?v=D7o7BrlbaDs
+- Images: https://ericwhitacre.com/wp-content/uploads/vc1.jpg
+- Project page: https://ericwhitacre.com/the-virtual-choir
+
 #### This Exquisite Forest — Aaron Koblin, Chris Milk (2012)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Open participation
 - Idea: The exquisite corpse, with branching allowed.
@@ -1216,6 +1455,16 @@ An assignment or task sent to a crowd; the collected responses are the work.
 - Video: https://vimeo.com/45472189
 - Images: https://www.aaronkoblin.com/wp-content/uploads/2015/08/hero-image2.jpg https://www.aaronkoblin.com/wp-content/uploads/2015/08/tef-01.jpg
 - Project page: https://www.aaronkoblin.com/project/this-exquisite-forest/
+
+#### NaNoGenMo (National Novel Generation Month) — Darius Kazemi (2013)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Instruction & score, Rules & constraints, Open participation
+- Idea: Write a rule for writing the rules: the crowd's generators are the literature.
+- What it is: Every November, participants write code that generates a novel of at least 50,000 words and share it on GitHub. Kazemi started it in 2013 from a tweet, as a counterpart to National Novel Writing Month.
+- Protocol: Spend November writing code that generates a 'novel' of 50,000+ words, defined however you like; the only rule is to share at least one novel and your source code by the end. Participants declare intent and post progress as GitHub issues.
+- What the collective did: Programmers and writers have produced a large public archive of generated novels and open-source generators, with the event repeated every year since 2013.
+- Images: https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo
+- Project page: https://github.com/dariusk/NaNoGenMo
+- Code: https://github.com/dariusk/NaNoGenMo
 
 #### Social Turk — Jonas Lund (2013)
 - Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Currency & value, Circulation & passing on
@@ -1257,6 +1506,35 @@ An assignment or task sent to a crowd; the collected responses are the work.
 ### Collective Canvases & Games
 
 Shared canvases, buttons and games where one simple rule meets a very large crowd.
+
+#### net.flag — Mark Napier (2002)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Co-authorship & derivatives, Open participation
+- Idea: A national symbol with no nation, owned by whoever touched it last.
+- What it is: A flag for the internet, commissioned by the Guggenheim, that any visitor can redesign from the parts of the world's national flags. The current flag is always the last one saved.
+- Protocol: Visitors choose colours, patterns and symbols broken out of all national flags, compose a new flag and save it; the saved flag replaces the previous one on the site, and all past versions stay browsable.
+- What the collective did: Visitors produced a running history of flags over a decade, about 23,000 of which were compiled into net.flag: ten years of flags (2002–2012), a record of claims and counterclaims on a shared emblem.
+- Images: https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png
+- Project page: https://www.guggenheim.org/artwork/10703
+
+#### BumpList: An Email Community for the Determined — Jonah Brucker-Cohen (2003)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Rules & constraints, Supply & scarcity, Time, decay & death
+- Idea: One membership rule turns a mailing list into a game of staying present.
+- What it is: A mailing list that only six people can belong to at once. Each new subscriber 'bumps' the longest-standing member off the list, and a hall of fame ranks members by time on the list, posts and re-subscriptions.
+- Protocol: Membership is capped at six; when a new person subscribes, the first subscriber is automatically removed and must resubscribe to return. Statistics on time, posts and bumps are published.
+- What the collective did: Members posted urgently while they could and resubscribed repeatedly after being bumped, making visible the pressure to keep participating that online communities create.
+- Text: https://web.media.mit.edu/~stefan/hc/publications/BruckerCohen04BumpListCHI.pdf (CHI 2004)
+- Images: https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg
+- Project page: https://whitney.org/exhibitions/jonah-brucker-cohen
+
+#### SwarmSketch — Peter Edmunds (2005)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Rules & constraints, Voting & governance, Co-authorship & derivatives
+- Idea: Limit each person's mark, then let the crowd weight every mark.
+- What it is: An online canvas where the public draws a picture of the week's popular search term, one short line per visitor. Everyone also votes on the darkness of other people's lines, so the crowd both draws and edits the sketch.
+- Protocol: Each week the site picks a popular search term as the subject; each visit allows only a short line, after which the visitor votes on the opacity of lines by others. A line's darkness is the average of its votes, and a new sketch starts after a week or 1,000 lines.
+- What the collective did: Anonymous contributors produced a weekly series of sketches of news and pop culture topics, each drawn and moderated by the crowd over several years.
+- Text: https://ojs.ruc.dk/index.php/pdc/article/view/361 (PDC 2006)
+- Images: http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg
+- Project page: http://web.archive.org/web/20080110101609/http://swarmsketch.com:80/
 
 #### The Million Dollar Homepage — Alex Tew (2005)
 - Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Market & exchange, Supply & scarcity, Open participation
@@ -1371,6 +1649,15 @@ Shared canvases, buttons and games where one simple rule meets a very large crow
 
 Artist-built infrastructures, file drops and commons that strangers maintain and use.
 
+#### The Thing — Wolfgang Staehle (1991)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Open participation, Co-authorship & derivatives
+- Idea: Build the infrastructure and let the community be the sculpture.
+- What it is: A dial-up bulletin board system for artists started in New York in 1991, conceived on the model of Joseph Beuys's social sculpture. It grew into a web community, hosting service and mailing lists that shaped 1990s net art.
+- Protocol: Members dialled in by modem to read and post in threaded boards on art and theory; Staehle and collaborators set up the editorial structure, while members supplied the conversation and, later, their own sites on its servers.
+- What the collective did: Artists and critics used The Thing for debate, gossip and publishing; by the late 1990s it hosted dozens of member sites and bbs.thing.net, the first website devoted to net art.
+- Images: https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg http://www.mediaartnet.org/assets/img/data/1649/bild.jpg
+- Project page: https://the.thing.net/about/about.html
+
 #### Dead Drops — Aram Bartholl (2010)
 - Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Instruction & score, Open participation, Circulation & passing on
 - Idea: An offline, anonymous file-sharing network built into the city by the people who use it.
@@ -1423,6 +1710,17 @@ Open editions, burning, merging and composites: the final form is set by how man
 - What the collective did: Players collectively produced the token's inflation curve by clicking and spending, paying transaction fees to take part in an economy with no outside value.
 - Images: https://isthisa.com/static/ClickMine/all.gif https://isthisa.com/static/ClickMine/Sarah-Friend-ClickMine-Pic1.jpg
 - Project page: https://isthisa.com/clickmine
+
+#### CryptoKitties — Dapper Labs (2017)
+- Type: Game & experiment · Substrate: Ethereum & L2s · Mechanisms: Open participation, Supply & scarcity, Market & exchange
+- Idea: Supply grows from players' breeding choices, and a crowd can clog a whole network.
+- What it is: A blockchain game launched on 28 November 2017 in which players buy, breed and trade virtual cats whose genomes pass traits to their offspring.
+- Protocol: Each cat is an NFT with a 256-bit genome of 'cattributes'. Any cat can act as matron or sire; breeding creates a new cat whose generation is one higher than its parents and whose cooldown grows with each breeding, capped at one week. Every action costs Ether.
+- What the collective did: Players' breeding produced the herd and its rarities; in December 2017 the game's popularity congested Ethereum, pushing transactions to an all-time high. The cat Genesis sold for 246.9255 ETH that month.
+- Video: https://www.youtube.com/watch?v=dWUi8dkv5qU
+- Images: https://www.cryptokitties.co/images/share.png
+- Project page: https://www.cryptokitties.co
+- Contract: https://etherscan.io/address/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d
 
 #### Neolastics — Simon de la Rouviere (2020)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Supply & scarcity, Burn & destruction, Market & exchange
@@ -1553,6 +1851,24 @@ Open editions, burning, merging and composites: the final form is set by how man
 
 Contracts that change what owning means: always for sale, must be passed on, dies if held, changes with its owner.
 
+#### Forever Rose — Kevin Abosch (2018)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Contract & certificate, Currency & value
+- Idea: One artwork, one token, ten owners.
+- What it is: A single ERC-20 token called ROSE, based on the artist's photograph of a rose, sold on Valentine's Day 2018 with the gifting platform GIFTO to ten collectors who each received a tenth of it.
+- Protocol: The work exists as one divisible token. A ballot chose ten buyers, who split the price evenly and each received 0.1 ROSE; payment was made in GTO and IAMA tokens, and the proceeds went to the CoderDojo Foundation.
+- What the collective did: The ten collectors each paid the equivalent of $100,000, co-owning a work sold for $1 million in total.
+- Images: https://www.crowdfundinsider.com/wp-content/uploads/2018/02/The-forever-rose.png
+- Project page: https://www.crowdfundinsider.com/2018/02/128411-valentines-day-crypto-art-sells-1-million-gifto/
+
+#### PRICELESS (with Ai Weiwei) — Kevin Abosch (2018)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Circulation & passing on, Supply & scarcity
+- Idea: Make a token priceless by never selling it, only giving it away.
+- What it is: A collaboration with Ai Weiwei made of two ERC-20 tokens, PRICELESS (PRCLS): one is locked away forever, the other is given away in fractions to collectors.
+- Protocol: Each token is divisible to 18 decimal places. One is made unavailable to anyone; the other is distributed for free to collectors, down to a quintillionth at a time. Small amounts were deposited into wallets whose printed addresses form a series of physical works.
+- What the collective did: Recipients share fragments of one token that has no market price; each wallet address stands for a moment shared by the two artists.
+- Images: https://kevinabosch.com/images/priceless_1400.jpg
+- Project page: https://kevinabosch.com/priceless.html
+
 #### Secret Artwork — Rhea Myers (2018)
 - Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Contract & certificate, Supply & scarcity
 - Idea: Separate owning a work from knowing it.
@@ -1574,6 +1890,16 @@ Contracts that change what owning means: always for sale, must be passed on, die
 - Project page: https://thisartworkisalwaysonsale.com
 - Contract: https://etherscan.io/address/0xB602c0bBfaB973422B91C8dfc8302B7b47550fC0
 - Code: https://github.com/simondlr/thisartworkisalwaysonsale
+
+#### AtMyWhim — Moxie Marlinspike (2021)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Contract & certificate, Rules & constraints
+- Idea: What you bid on is not what you get: an NFT points to a server, not to an image.
+- What it is: An NFT whose image changes depending on who is looking: it appeared one way on OpenSea, another on Rarible, and as a large poop emoji in the buyer's wallet.
+- Protocol: The token's metadata points to a URL with no hash commitment; the server behind it returns different images based on the requester's IP address or user agent, which the NFT standard allows.
+- What the collective did: Marketplaces, not collectors, decided the outcome: after a few days OpenSea removed the NFT without explanation, and it then also disappeared from crypto wallets that rely on OpenSea's API.
+- Images: https://moxie.org/blog/images/nft-opensea.png https://moxie.org/blog/images/nft-rarible.png https://moxie.org/blog/images/nft-metamask.png https://moxie.org/blog/images/nft-removed.png
+- Project page: https://moxie.org/2022/01/07/web3-first-impressions.html
+- Contract: https://etherscan.io/address/0x5c61afa47570ab2b562606fa578221305b12c307
 
 #### Lifeforms — Sarah Friend (2021)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Circulation & passing on, Time, decay & death
@@ -1701,6 +2027,28 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://rhea.art/processed_images/schellingflags.0d79a962f8329d7c.png
 - Project page: https://rhea.art/schellingflags/
 
+#### Su Squares — William Entriken (2018)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation, Supply & scarcity
+- Idea: Each owner paints one tile of a picture no one controls.
+- What it is: Ten thousand ERC-721 squares, each 10×10 pixels, that owners personalise with an image, title and link; together they form one large mosaic on the project homepage.
+- Protocol: Anyone can mint an available square (0.5 ETH on the current site). The owner can personalise it with a 10×10 image without transparency or animation, a title up to 64 bytes and a URL up to 96 bytes, for a small fee; the homepage image refreshes hourly.
+- What the collective did: The whole square is a continually changing patchwork of owners' images and links.
+- Video: https://www.youtube.com/watch?v=is5Vrs6EZJk
+- Images: https://tenthousandsu.com/build/wholeSquare.webp
+- Project page: https://tenthousandsu.com
+- Contract: https://etherscan.io/address/0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F
+
+#### Autoglyphs — Larva Labs (2019)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Instruction & score, Open participation, Supply & scarcity
+- Idea: The collector performs the artist's algorithm, as assistants once drew Sol LeWitt's instructions.
+- What it is: The first generative art whose algorithm runs and stores its output entirely on-chain: each collector's mint transaction executes the generator and produces one of at most 512 glyphs.
+- Protocol: Anyone could pay 0.2 ETH to run the generator in the contract; the artists could neither choose nor intervene in outputs once deployed. Supply was capped at 512, and the contract includes instructions for turning the text rendering into a drawing with any tools.
+- What the collective did: All 512 glyphs were minted within four hours, donating $13,670 to 350.org; during minting the contract consumed 13.27% of Ethereum's network capacity. Glyphs have been drawn with pen plotters following the contract's instructions, and the Whitney and Centre Pompidou hold examples.
+- Video: https://www.youtube.com/watch?v=TNAM3_BzZRo
+- Images: https://www.larvalabs.com/public/assetsv2/glyphs_hero.png https://www.larvalabs.com/public/assetsv2/Glyphs-Annotated-Code.png
+- Project page: https://www.larvalabs.com/autoglyphs
+- Contract: https://etherscan.io/address/0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782
+
 #### Hack Line Properties — Rhea Myers (2019)
 - Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Rules & constraints, Open participation
 - Idea: Write the exploit into the rules and let hackers become co-authors.
@@ -1806,6 +2154,16 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://mma.prnewswire.com/media/1498556/AsyncMusic_Breakdown_Infographic.jpg
 - Project page: https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html
 
+#### Autonomous Art — Moxie Marlinspike (2021)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Market & exchange, Open participation
+- Idea: Pay to add to a shared picture, and get paid by everyone who comes after you.
+- What it is: A collective on-chain image to which anyone can add a visual contribution, minting an NFT of the work at that moment; each contribution costs more than the last, and the payment is shared among earlier contributors.
+- Protocol: Anyone can mint by adding shapes to the shared on-chain SVG. The cost of contributing rises over time, and the funds a contributor pays are distributed to all previous artists, a structure the author compares to a pyramid.
+- What the collective did: By early January 2022 contributors had put over $38,000 into the collective piece, according to the author; the contract lists over 600 contributions.
+- Text: https://moxie.org/2022/01/07/web3-first-impressions.html (moxie.org)
+- Project page: https://autonomous.graphics
+- Contract: https://etherscan.io/address/0x3a56AB63c7ef4f07fe353bEb132e0Fd5AD270Ca0
+
 #### Blitmap — Dom Hofmann (2021)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Merge & composite
 - Idea: Give a crowd a small, open set of originals and a recombination rule, and let it grow a universe.
@@ -1826,6 +2184,17 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://hashmasksstore.blob.core.windows.net/hashmasks/1.jpg https://img.phemex.com/v1/4caf239c/hashmasks-1024x576.jpg
 - Project page: https://www.thehashmasks.com
 - Contract: https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928
+
+#### Hic et Nunc — Rafael Lima (2021)
+- Type: Platform & protocol · Substrate: Tezos · Mechanisms: Open participation, Market & exchange, Voting & governance
+- Idea: Build the platform as public infrastructure so that it can persist beyond its maker's will.
+- What it is: An open NFT platform on Tezos, launched on 1 March 2021, whose cheap minting drew a large global community of artists; its founder shut the website on 11 November 2021, but the contracts kept running.
+- Protocol: Anyone can mint OBJKTs (FA2 tokens on IPFS) and list them through the swap contract with creator royalties. From launch to mid-April 2021 each purchase of 1 tez earned 0.5 hDAO for the buyer and 0.5 for the seller, a governance token used to curate the feed.
+- What the collective did: Users reached 100,000 minted OBJKTs in three months and 500,000 in eight, with about 50,000 artists and collectors; events like #OBJKT4OBJKT had artists swap works for free. When the site went down, the community kept using the contracts through mirror sites and founded Teia.
+- Images: https://web.archive.org/web/20211002104830im_/https://www.hicetnunc.xyz/og-image.jpg https://raw.githubusercontent.com/hicetnunc2000/hicetnunc/main/public/HEN_avatar.png
+- Project page: https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
+- Contract: https://tzkt.io/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
+- Code: https://github.com/hicetnunc2000/objkt-swap
 
 #### Loot (for Adventurers) — Dom Hofmann (2021)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation, Rules & constraints
@@ -1992,6 +2361,94 @@ The first crypto-art tokens, registries and claim mechanics, before the 2021 boo
 - Images: https://rhea.art/processed_images/is1.8ec49aa93bbd3e01.png
 - Project page: https://rhea.art/is-art/
 
+#### Monegraph — Kevin McCoy, Anil Dash (2014)
+- Type: Platform & protocol · Substrate: Other chains · Mechanisms: Contract & certificate, Open participation
+- Idea: Scarcity for digital images comes from a public claim, not from the file.
+- What it is: A system built in one day at Rhizome's Seven on Seven 2014 that let anyone certify a web image on the Namecoin blockchain and tweet out public proof of ownership.
+- Protocol: An artist registers a claim linking an image to their identity on a blockchain; only the original file passes validation against that claim, though copies circulate freely. Registered works can be owned and traded.
+- What the collective did: Monegraph opened the claim mechanism to other artists and collectors, becoming a template for later NFT platforms; the McCoys' Public Key/Private Key at the Whitney (2019) used it to make 50 people donors of a museum work.
+- Video: https://www.youtube.com/watch?v=maXcAaZ-fpQ
+- Project page: https://web.archive.org/web/20141218051740/http://monegraph.com/
+
+#### Quantum — Kevin McCoy (2014)
+- Type: Artwork · Substrate: Other chains · Mechanisms: Contract & certificate, Time, decay & death
+- Idea: A registry entry is ownership only for as long as someone keeps renewing it.
+- What it is: A looping animation of a pulsing octagon registered on the Namecoin blockchain on 3 May 2014, often cited as the first blockchain-registered artwork.
+- Protocol: The work was recorded as a Namecoin name entry pointing to the image. Namecoin names must be renewed by their holder (every 250 days, as reported); an unrenewed name can be claimed by anyone.
+- What the collective did: McCoy did not renew the record in 2015. In 2021 he re-minted Quantum on Ethereum and Sotheby's sold it for $1.47 million; a Canadian company, Free Holdings, which had claimed the lapsed Namecoin entry, sued McCoy and Sotheby's, and a New York court dismissed the case.
+- Images: https://sothebys-md.brightspotcdn.com/dims4/default/b3d31c7/2147483647/strip/true/crop/1280x1280+0+0/resize/4096x4096!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2Fcf%2F91ff8b7e484eb6d1e765a2a9a14d%2Fmccoy-quantum-still.jpeg https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif
+- Project page: https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum
+
+#### Bitchcoin — Sarah Meyohas (2015)
+- Type: Artwork · Substrate: Bitcoin & Counterparty · Mechanisms: Currency & value, Market & exchange, Contract & certificate
+- Idea: Back a currency with your own art and let the market price the artist.
+- What it is: An artist's currency launched in February 2015 and backed by her photographs: 25 Bitchcoins could be redeemed for a whole print of her Speculations series, stored in a vault.
+- Protocol: One Bitchcoin was fixed to 25 square inches of a Speculations photograph. Eight editions of the first Speculation backed 200 coins released at $100 each; buyers got a paper wallet with their keys and could exchange 25 coins for a print. In 2021 the currency migrated to ERC-1155 tokens backed by pressed rose petals from Cloud of Petals.
+- What the collective did: Buyers speculated on the artist as a currency. Earlier holders could claim equivalent new tokens after the migration, which were offered at Phillips in May 2021; in 2023 the Centre Pompidou acquired two Bitchcoins.
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bitchcoin_03.068.jpg/960px-Bitchcoin_03.068.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg/960px-Bitchcoin_B5FHa2ufgSMi9fwtToFaEUo1mF9ChPd5J.jpg
+- Project page: https://www.sarahmeyohas.com/bitchcoin
+
+#### Etheria — Cyrus Adkisson (2015)
+- Type: Game & experiment · Substrate: Ethereum & L2s · Mechanisms: Open participation, Supply & scarcity, Market & exchange
+- Idea: A shared world whose land and buildings exist only as contract state written by players.
+- What it is: A 3D world of ownable, tradable hexagonal land tiles deployed on Ethereum in October 2015, in four versions of the same 33×33 map, on which owners can build.
+- Protocol: Each map version has 457 ownable land tiles among 632 ocean tiles; tiles were originally sold at a hardcoded price of 1 ETH and can be traded. Owners can build on their tile; since 2021 build data is stored in each tile's unlimited name field, making builds far cheaper.
+- What the collective did: Of the 1,828 tiles across four versions, the project estimates 5–10% are permanently lost; since the 2021 revival owners have been adding new builds to the unified map.
+- Video: https://www.youtube.com/watch?v=JggQhCpsZH4
+- Images: https://etheria.world/images/composite.png
+- Project page: https://etheria.world/faq.html
+- Code: https://github.com/cyrusadkisson/etheria_source
+
+#### Rare Pepe Wallet — Joe Looney (2016)
+- Type: Platform & protocol · Substrate: Bitcoin & Counterparty · Mechanisms: Market & exchange, Open participation
+- Idea: Give a rule-bound art community a shared place to hold and swap its tokens.
+- What it is: A web wallet and marketplace launched on 14 September 2016 for collecting, displaying and trading Rare Pepe cards on Counterparty.
+- Protocol: The wallet shows only cards certified by the Rare Pepe Directory, and lets holders send, buy and sell them peer to peer on the Counterparty decentralised exchange.
+- What the collective did: The wallet became the Rare Pepe community's marketplace and gallery; in January 2018 a Homer Pepe card was auctioned at the Rare Digital Art Festival in New York.
+- Video: https://www.youtube.com/watch?v=mgFFUY4KsU8
+- Project page: https://rarepepewallet.com
+
+#### Rare Pepes — Rare Pepe Directory (2016)
+- Type: Series & collection · Substrate: Bitcoin & Counterparty · Mechanisms: Open participation, Supply & scarcity, Rules & constraints
+- Idea: Publish the issuing rules and let a meme community become an art scene.
+- What it is: User-made Pepe trading cards issued as Counterparty assets on Bitcoin and certified by the Rare Pepe Directory under published submission rules.
+- Protocol: Any artist could create a Counterparty asset and submit it for a fee of 200 PEPECASH, half of which was burned. Rules: 400×560 images, animated GIFs under 1.5 MB, issuance locked, not divisible, 100 to 100,000 shares, something to do with Pepe, original work, no NSFW, no websites or QR codes, one submission per artist per day. Approved cards appeared in Rare Pepe wallets.
+- What the collective did: Dozens of artists around the world submitted cards; the directory certified over 1,700 rares across its series before closing submissions so the rareness could 'bake in'. The first cards date from September 2016.
+- Video: https://www.youtube.com/watch?v=9n3JqJSLIpc
+- Project page: http://rarepepedirectory.com/?page_id=25
+
+#### The Million Ether Homepage — Peter Porobov (2016)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Market & exchange, Open participation, Supply & scarcity
+- Idea: A shared canvas assembled by whoever pays, with the price rising as it fills.
+- What it is: A 1000×1000-pixel web page on Ethereum where anyone can buy, rent and resell blocks of pixels and place an image ad in them, after the 2005 Million Dollar Homepage.
+- Protocol: Pixels are sold in 10×10 blocks; the price doubles each time a further share of the field is sold (every 100,000 pixels in 2016, every 10% in 2018). Owners can place and replace ads, sell at any price or rent out by the day. The 2016 version paid referrers along chains up to six 'handshakes' deep; the 2018 version made each block an ERC-721 token and sends 80% of initial sales to charity.
+- What the collective did: The page's image is a mosaic of ads chosen by buyers and renters; both versions are now paused while the author considers moving the 2018 blocks back to the 2016 contract.
+- Images: https://i.imgur.com/kvv9vvh.png
+- Project page: https://million-ether-homepage.readthedocs.io/en/latest/whitepaper.html
+- Contract: https://etherscan.io/address/0xCEf41878Db032586C835eE0890484399402A64f6
+
+#### CryptoPunks — Larva Labs (2017)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Open participation, Supply & scarcity, Market & exchange
+- Idea: Give art away under simple ownership rules and let collectors invent its culture.
+- What it is: Ten thousand 24×24-pixel characters generated by algorithm and released in June 2017 free to anyone with an Ethereum wallet, with a marketplace built into the contract.
+- Protocol: Anyone could claim an unowned punk for only the gas fee. The contract itself lets owners offer punks for sale (to anyone or one address), accept bids, withdraw and transfer, with no platform in between.
+- What the collective did: It took eight days for all 10,000 to be claimed. Collectors made punks their profile pictures and built a shared vocabulary of 'floor price', 'rarity' and 'traits'; according to Larva Labs, total sales reached about $3.8 billion by October 2025, and punks entered MoMA, LACMA, ICA Miami and the Centre Pompidou.
+- Video: https://www.youtube.com/watch?v=3oQ6j7oNyfE
+- Images: https://www.larvalabs.com/public/assetsv2/crytopunks_fullgrid.jpg https://www.larvalabs.com/public/assetsv2/Punk305_ICA.jpg
+- Project page: https://www.larvalabs.com/cryptopunks
+- Contract: https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB
+
+#### Curio Cards — Curio Cards (2017)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Supply & scarcity, Market & exchange, Voting & governance
+- Idea: Scarce digital prints sold directly for artists, then kept alive by collectors.
+- What it is: Thirty digital card series by seven artists, each deployed as its own fixed-supply token contract on Ethereum from 9 May 2017, sold through a vending-machine interface with all proceeds going to the artists.
+- Protocol: Each card is a modified ERC-20 contract with a limited, non-divisible supply and the artwork's IPFS hash embedded; buying from the contract sends payment to the artist. A misprint produced an extra card, 17b.
+- What the collective did: Cards sold for $0.50–$1 at launch. After 2021 collectors rediscovered them, an ERC-1155 wrapper contract written by a community member made them tradable on OpenSea, and a complete set including 17b sold at Christie's in October 2021 for 393 ETH.
+- Video: https://www.youtube.com/watch?v=BAi8nVwOjBQ
+- Images: https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/01.jpg https://raw.githubusercontent.com/curiocards/vintage.curio.cards/HEAD/public/img/cards/17.jpg
+- Project page: https://github.com/curiocards/vintage.curio.cards
+- Contract: https://etherscan.io/address/0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313
+
 #### Digital Zones of Immaterial Pictorial Sensibility — Mitchell F. Chan (2017)
 - Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Burn & destruction, Contract & certificate, Supply & scarcity
 - Idea: Put an artist's sale ritual in a contract: buyers must deal with the contract directly, and 'owning the immaterial' means burning the receipt.
@@ -2003,6 +2460,15 @@ The first crypto-art tokens, registries and claim mechanics, before the 2021 boo
 - Project page: https://github.com/mitchellfchan/IKB
 - Contract: https://etherscan.io/address/0x88ae96845e157558ef59e9ff90e766e22e480390
 - Code: https://github.com/mitchellfchan/IKB
+
+#### IAMA Coin — Kevin Abosch (2018)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Currency & value, Circulation & passing on
+- Idea: The artist declares himself a coin and lets others hold, split and spend him.
+- What it is: Ten million divisible IAMA tokens on Ethereum paired with 100 physical works on which the artist stamped the token's contract address in his own blood.
+- Protocol: The physical works exist only because the virtual tokens exist: each is marked in blood with the contract address that defines 10,000,000 divisible IAMA tokens, which can circulate like any ERC-20 currency.
+- What the collective did: IAMA circulated as a currency among collectors; it was one of the two tokens used to pay for Forever Rose in February 2018.
+- Video: https://www.youtube.com/watch?v=4xNNYPet8sY
+- Project page: https://kevinabosch.com/iamacoin.html
 
 #### The Signature — Simon de la Rouviere (2021)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Open participation, Supply & scarcity, Time, decay & death
@@ -2217,6 +2683,18 @@ Art projects where token holders vote, fund and decide: daily auctions, artist c
 - Images: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/nouns-ethereum-nft-characters-gID_4.png https://nftnow.com/wp-content/uploads/2023/09/091223_nouns_feature.jpg
 - Project page: https://nouns.wtf
 - Contract: https://etherscan.io/address/0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03
+
+#### Teia — Teia Community (2021)
+- Type: DAO & organization · Substrate: Tezos · Mechanisms: Voting & governance, Open participation
+- Idea: When the author walks away, the users can take over the protocol.
+- What it is: The community-run continuation of Hic et Nunc: volunteers kept its contracts and data alive after November 2021, chose the name Teia by on-chain vote and became a non-profit DAO LLC in 2023.
+- Protocol: Teia operates from 11 November 2021 on the same OBJKT contracts. New swaps carry a 2.5% fee (from March 2023) paid to the community multisig; the community voted to mint 8 million TEIA governance tokens, and holders can poll and vote through DAO contracts while a core-team multisig remains legally responsible during the beta.
+- What the collective did: Artists, developers and collectors rebuilt the platform after 2.5 months of discussion, pinned millions of files (about 2.36 million pins, 6 TB, in April 2023), ran fundraisers such as #Tezos4Iran and #SavePakistan, and claimed about 3 million TEIA tokens in the first distribution.
+- Video: https://www.youtube.com/watch?v=hO97qco-ZX4
+- Images: https://blog.teia.art/static/images/teia-cover.jpg
+- Project page: https://blog.teia.art/blog/press-release-dao-launch
+- Contract: https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w
+- Code: https://github.com/teia-community
 
 #### Clock — Pak (2022)
 - Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Time, decay & death, Voting & governance
@@ -2549,17 +3027,20 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **John Cage** (5) — Composer. American composer (1912–1992) who used chance operations, indeterminate notation and silence to hand decisions to performers, listeners and the environment. https://johncage.org
 - **Mat Dryhurst** (5) — Artist, musician and researcher. Artist and researcher who works with Holly Herndon on AI and voice projects such as Holly+, and co-founded Spawning, which builds consent tools for AI training data.
 - **Sarah Friend** (5) — Artist, researcher and software developer. Canadian artist and software developer based in Berlin whose work explores games, economics and the self through emerging technology. She has built blockchain games and contract artworks since 2017. https://isthisa.com
+- **George Brecht** (4) — Artist. American artist (1926–2008), trained as a chemist, who invented the event score in John Cage's class and later lived in Germany.
 - **Holly Herndon** (4) — Composer and artist. American composer and artist based in Berlin, with a PhD from Stanford's CCRMA. With Mat Dryhurst she makes works about AI, voice and collective training data, including PROTO, Holly+, xhairymutantx and The Call. https://holly.plus
 - **Ken Goldberg** (4) — Artist and robotics professor. Artist and UC Berkeley roboticist who built some of the first robots controlled over the web, starting with the Mercury Project in 1994. https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — Artist, curator and co-founder of Furtherfield. British artist and curator, co-founder and co-artistic director of Furtherfield, and a leading researcher of blockchain, DAOs and the arts. https://ruthcatlow.net/
+- **Superflex** (4) — Artist group. Danish artist group founded in 1993 by Jakob Fenger, Rasmus Rosengren Nielsen and Bjørnstjerne Christiansen, working on economic systems, copying, self-organisation and interspecies design. https://superflex.net/
 - **Aram Bartholl** (3) — Conceptual artist. German artist, born 1972, whose works move the internet's infrastructure into public space: USB drives in walls, offline networks, internet-café exhibitions. https://arambartholl.com/
 - **Async Art** (3) — Programmable art platform. Async Art is an Ethereum platform launched in February 2020 by Conlan Rios, Lisa Liang and Nathan Clapp. It splits an artwork into a Master token and separately owned Layer tokens whose owners can change the image. https://async.art
 - **Cornelius Cardew** (3) — Composer. British composer (1936–1981), assistant to Stockhausen, member of the improvising group AMM and co-founder of the Scratch Orchestra.
 - **Felix Gonzalez-Torres** (3) — Artist. Cuban-born American artist (1957–1996) known for candy spills and paper stacks that visitors may take from and that owners must replenish. https://www.felixgonzalez-torresfoundation.org/
 - **Furtherfield** (3) — Art gallery, lab and online community. Arts organisation founded in 1996 by Ruth Catlow and Marc Garrett, with a gallery and commons lab in Finsbury Park, London. It runs DECAL, its decentralised arts lab, and long-term projects on DAOs, voting and interspecies governance. https://www.furtherfield.org
-- **George Brecht** (3) — Artist. American artist (1926–2008), trained as a chemist, who invented the event score in John Cage's class and later lived in Germany.
+- **Kevin Abosch** (3) — Conceptual artist. Irish conceptual artist working in photography, blockchain, sculpture and AI; he lives in Paris and teaches at the University of Applied Arts Vienna. https://kevinabosch.com
 - **Primavera De Filippi** (3) — Legal scholar and artist. Researcher at the CNRS in Paris and faculty associate at Harvard's Berkman Klein Center, who studies blockchain governance and makes artworks such as the blockchain-based flower Plantoid.
 - **Tania Bruguera** (3) — Artist and activist. Cuban artist whose 'behaviour art' (arte de conducta) and 'useful art' (arte útil) place audiences in political situations and build lasting social institutions. https://taniabruguera.com/
+- **Tino Sehgal** (3) — Artist. British-German artist who makes 'constructed situations': works enacted by trained interpreters in conversation or movement with visitors, with no objects and no photographic documentation.
 - **Alexander R. Galloway** (2) — Media theorist and programmer. American media theorist at New York University and a founding member of the software art collective RSG (Radical Software Group). http://cultureandcommunication.org/galloway/
 - **Alison Knowles** (2) — Artist and composer. American artist (born 1933), a founding member of Fluxus, who made event scores, artist's books and sound works built from everyday materials such as food and beans.
 - **Botao Amber Hu** (2) — Designer and researcher, Reality Design Lab. Designer and HCI researcher who leads Reality Design Lab and publishes on protocol art, speculative design, mixed reality and decentralized AI. https://botao.hu/
@@ -2573,19 +3054,23 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Jeremy Deller** (2) — Artist. British artist and Turner Prize winner (2004) who makes processions, re-enactments and public events with large casts of non-professionals. https://www.jeremydeller.org/
 - **Joseph Beuys** (2) — Artist, teacher and political activist. German artist (1921–1986) who extended sculpture to teaching, discussion and political organising under the name social sculpture. He co-founded the Free International University and was an early figure of the German Greens.
 - **Josh Wardle** (2) — Software engineer and artist. Welsh engineer with an MFA in Digital Art who joined Reddit as an artist in 2011 and led its April Fools' social experiments; later made the word game Wordle.
+- **Kevin McCoy** (2) — Artist. Artist who works with Jennifer McCoy on media installations and, in 2014, minted Quantum on Namecoin while building Monegraph with Anil Dash at Rhizome's Seven on Seven. https://www.kevinmccoy.net
 - **La Monte Young** (2) — Composer. American composer (born 1935) whose 1960 word scores and sustained-tone music shaped Fluxus and minimalism.
+- **Larva Labs** (2) — Studio (Matt Hall and John Watkinson). Two-person studio of Canadian software developers Matt Hall and John Watkinson, creators of CryptoPunks (2017) and Autoglyphs (2019). https://www.larvalabs.com
 - **Lauren Lee McCarthy** (2) — Artist and creator of p5.js. American artist and UCLA professor whose performances examine surveillance, automation and care; creator of the open-source library p5.js. https://lauren-mccarthy.com/
 - **Lygia Clark** (2) — Artist and therapist. Brazilian artist (1920–1988), co-founder of Neo-Concretism, who moved from painting to 'propositions' that participants complete with their own bodies, and later to therapy. https://portal.lygiaclark.org.br/
+- **Marcel Duchamp** (2) — Artist. French-American artist (1887–1968) who introduced the readymade and moved art from the made object to the choice and the idea.
 - **Marina Abramović** (2) — Performance artist. Serbian-born performance artist working since the early 1970s with endurance, the body and the relation between performer and audience.
 - **Matt Kane** (2) — Artist and programmer. Chicago-born artist who writes his own software to make layered, data-driven digital paintings. He contributed to Async Art's First Supper and made the Bitcoin-driven Right Place & Right Time. https://mattkane.com
 - **Mierle Laderman Ukeles** (2) — Artist; artist-in-residence of the New York City Department of Sanitation. American artist who wrote the Manifesto for Maintenance Art in 1969 and has been the unsalaried artist-in-residence of New York's Department of Sanitation since 1977.
+- **Moxie Marlinspike** (2) — Cryptographer and software developer. Cryptographer and founder of Signal who, in 2021, built two small Ethereum projects to test web3 and wrote about them in 'My first impressions of web3' (2022). https://moxie.org
 - **Nolen Royalty** (2) — Software engineer and game maker. American engineer who publishes small multiplayer web games as eieio.games, including staring contests and rock-paper-scissors with strangers. https://eieio.games/
 - **Penny Rafferty** (2) — Writer and researcher. Writer and researcher working on art, blockchain and DAOs, and co-editor of Radical Friends with Ruth Catlow.
 - **Reddit** (2) — Social platform and publisher of the r/place editions. Online community platform organised into subreddits. Its staff restaged Josh Wardle's Place in 2022 and 2023 with larger canvases and new rules. https://www.reddit.com/
+- **Robert Filliou** (2) — Fluxus artist and poet. French artist (1926–1987) associated with Fluxus, who ran the shop-gallery La Cédille qui Sourit with George Brecht and developed the ideas of 'permanent creation' and the Eternal Network.
 - **Roy Ascott** (2) — Artist and theorist of telematic art. British artist who has worked with cybernetics and telecommunications since the 1960s and coined the practice he calls telematic art. Author of Telematic Embrace and founder of the Planetary Collegium.
 - **Sam Spratt** (2) — Painter and digital artist. Digital painter whose LUCI series (ten paintings, 613 masks and accompanying psalms) grows through games that collectors play inside the story. https://samspratt.com
 - **Summer of Protocols** (2) — Research programme on protocols. Research programme commissioned by the Ethereum Foundation in late 2022 that brought researchers, artists and engineers together to study protocols across fields; it ran seasons from 2023 to 2025. https://summerofprotocols.com/
-- **Tino Sehgal** (2) — Artist. British-German artist who makes 'constructed situations': works enacted by trained interpreters in conversation or movement with visitors, with no objects and no photographic documentation.
 - **Venkatesh Rao** (2) — Writer and consultant. Indian-American writer, founder of the blog Ribbonfarm, and a director of the Summer of Protocols research programme. https://ribbonfarm.com/
 - **Aaron Wright** (1) — Legal scholar. American law professor at Cardozo School of Law, where he directs the Tech Startup Clinic, and co-author of Blockchain and the Law.
 - **Ai Weiwei** (1) — Artist, architect and activist. Chinese artist working across installation, architecture, film and social media, known for large participatory projects and for his critique of state power.
@@ -2593,23 +3078,34 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Alexis André** (1) — Generative artist and researcher. French generative artist and researcher based in Tokyo. His Art Blocks project Friendship Bracelets (2022) was given free to Art Blocks holders to keep one and give one away.
 - **Amy Whitaker** (1) — Researcher in arts entrepreneurship. American writer and professor at New York University's Steinhardt School who studies art markets, artists' equity and blockchain.
 - **Andy Ayrey** (1) — Artist and AI researcher. Creator of the Infinite Backrooms, in which two Claude instances conversed thousands of times, and of Truth Terminal, a fine-tuned language model 'raised in public' on X. https://truthterminal.wiki
+- **Anil Dash** (1) — Technologist and writer. Technologist and writer who co-created Monegraph with Kevin McCoy at Rhizome's Seven on Seven in 2014. https://anildash.com
 - **Anna Halprin** (1) — Dancer and choreographer. American dancer and choreographer (1920–2021) who developed community dance rituals and, with Lawrence Halprin, the RSVP Cycles scoring method. https://www.annahalprin.org/
+- **Anton Vidokle** (1) — Artist; founder of e-flux. Russian-born artist who founded e-flux in 1998 and has organised projects such as unitednationsplaza and e-flux journal. https://www.e-flux.com/
+- **Antoni Muntadas** (1) — Media artist. Spanish artist, born 1942, whose work since the 1970s examines media, public space and censorship.
 - **BasePaint** (1) — Team behind the BasePaint daily canvas. Small team that launched BasePaint on the Base network in August 2023; its contracts were written mainly by the developer w1nt3r. Every day strangers paint one shared pixel canvas that is then sold as an open edition. https://basepaint.xyz
 - **Benjamin H. D. Buchloh** (1) — Art historian. German art historian (born 1941) and editor of October, known for his histories of Conceptual art and postwar European art.
 - **Benjamin Patterson** (1) — Double bassist, composer and artist. American double bassist and artist (1934–2016), a founding member of Fluxus who took part in the 1962 Wiesbaden festival.
 - **Black Swan DAO** (1) — Berlin artist collective and DAO. Collective founded in 2018 by Penny Rafferty, Laura Lotti and Calum Bowden (later also Leïth Benkhedda), developed at Trust in Berlin. It channels resources from institutions to cultural practitioners, who decide by vote how to use them.
 - **Botto** (1) — Decentralized autonomous artist governed by BottoDAO. An AI artist launched in 2021 by Mario Klingemann and ElevenYellow. Its art engine generates images every week; holders of the $BOTTO token vote on them, and BottoDAO decides how the artist and its income are managed. https://botto.com
 - **Brian Eno** (1) — Musician, producer and artist. English musician and producer who, with the painter Peter Schmidt, published the card deck Oblique Strategies in 1975. https://www.brian-eno.net/
+- **Casey Pugh** (1) — Developer and filmmaker. American web developer and filmmaker who produced and edited Star Wars Uncut, which won a 2010 Emmy for interactive media.
 - **Christian Marclay** (1) — Artist and composer. Swiss-American visual artist and composer who has made many graphic and found scores for musicians to interpret.
 - **Christian Wolff** (1) — Composer. American composer (born 1934), associated with John Cage and Morton Feldman, whose scores coordinate players through cues and listening.
+- **Cildo Meireles** (1) — Artist. Brazilian conceptual artist whose work since the late 1960s addresses circulation, value and political control, beginning under the military dictatorship.
 - **Collective Actions** (1) — Performance group of Moscow Conceptualism. Group founded in March 1976 by Andrei Monastyrski, Nikita Alekseev, Georgy Kizevalter and Lev Rubinstein, later joined by Nikolai Panitkov, Elena Elagina, Igor Makarevich, Sergei Romashko and Sabine Hänsgen. https://www.collectiveactionsgroup.org/en
+- **Curio Cards** (1) — Ethereum art project (Travis Uhrig, Thomas Hunt, Rhett Creighton). Project created by Travis Uhrig, Thomas Hunt and Rhett Creighton that released 30 card series by seven artists on Ethereum in 2017, with all sale proceeds going to the artists. https://curio.cards
+- **Cyrus Adkisson** (1) — Developer. Developer who deployed Etheria, a world of ownable hexagonal land tiles, on Ethereum in October 2015 and demoed it at DEVCON 1. https://etheria.world
 - **Damien Hirst** (1) — Artist. British artist and a leading figure of the Young British Artists. With HENI he released The Currency (2021), his first NFT project. https://www.damienhirst.com
 - **Dandelion Wist Mané** (1) — Software engineer and generative artist. Software engineer and generative artist who created TensorBoard at Google Brain and co-created SourceCred at Protocol Labs before co-creating QQL with Tyler Hobbs. https://qql.art
 - **Daniel Massey** (1) — Artist and technologist. Artist and developer who co-created Bicycle Built for Two Thousand with Aaron Koblin. https://www.daniel-massey.com/
+- **Dapper Labs** (1) — Game studio (spun off from Axiom Zen). Vancouver studio spun off from Axiom Zen in 2018 to run CryptoKitties; its CTO Dieter Shirley first proposed the ERC-721 standard. https://www.cryptokitties.co
+- **Darius Kazemi** (1) — Artist and bot maker. American programmer and internet artist, born 1983, known for Twitter bots and small-scale social software; co-founder, with Courtney Stanton, of the technology collective Feel Train. https://tinysubversions.com/
 - **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — Developers of the zkSNARK game Dark Forest. Small team led by Brian Gu (gubsheep) that built Dark Forest (2020), a real-time strategy game that runs entirely on an Ethereum-compatible chain and hides the map with zero-knowledge proofs. https://zkga.me
 - **David H. Katzive** (1) — Curator. Curator at the Museum of Contemporary Art Chicago who organised Art by Telephone in 1969, under director Jan van der Marck.
 - **Douglas Davis** (1) — Artist and critic. American artist and critic (1933–2014) who worked with live television, satellite broadcasts and the early web to make interactive, participatory pieces.
+- **Eduardo Kac** (1) — Telepresence and bio artist. Brazilian-American artist, born 1962, known for telepresence, holopoetry and bio art, including the fluorescent rabbit GFP Bunny. https://www.ekac.org/
 - **ElevenYellow** (1) — Software collective. Software collective that co-developed Botto with Mario Klingemann and built its token, voting and auction infrastructure.
+- **Eric Whitacre** (1) — Composer and conductor. American composer and conductor, born 1970, known for choral music and for the Virtual Choir series begun in 2010. https://ericwhitacre.com/
 - **Erwin Wurm** (1) — Artist. Austrian sculptor whose One Minute Sculptures (1997–) are drawn or written instructions that visitors perform with everyday objects for sixty seconds. https://www.erwinwurm.at/
 - **Eugene Thacker** (1) — Philosopher and media theorist. American philosopher and writer, professor at The New School, who has written on biotechnology, networks and the philosophy of horror.
 - **Eva & Franco Mattes** (1) — Artist duo. Italian artist duo, active since the 1990s as 0100101110101101.org, working with hoaxes, online labour, content moderation and the circulation of images. https://0100101110101101.org/
@@ -2625,13 +3121,19 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Heath Bunting** (1) — Net artist. British artist, born 1966, a founder of irational.org and a central figure of 1990s net.art, working across networks, borders and street interventions. https://www.irational.org/
 - **Hélio Oiticica** (1) — Artist. Brazilian artist (1937–1980) of the Neo-Concrete movement whose Parangolés, Penetrables and Tropicália turned viewers into wearers, dancers and inhabitants.
 - **Improv Everywhere** (1) — Public performance collective founded by Charlie Todd. New York group founded by Charlie Todd in 2001 that stages unannounced 'missions' in public places with volunteer 'agents' recruited online. https://improveverywhere.com/
+- **J. S. G. Boggs** (1) — Artist. American artist (1955–2017) known for hand-drawn, one-sided depictions of banknotes that he spent at face value, which led to counterfeiting charges in the UK, Australia and the US.
 - **Jackson Mac Low** (1) — Poet and composer. American poet and composer (1922–2004) who wrote poems and performance pieces by chance operations and systematic procedures.
 - **Jacob Horne** (1) — Co-founder of Zora. American entrepreneur and co-founder of Zora, an onchain protocol and platform for minting and collecting media. https://jacob.energy/
 - **Janet Echelman** (1) — Sculptor. American sculptor known for monumental suspended net sculptures installed over cities. https://www.echelman.com/
+- **Joe Looney** (1) — Developer. Developer in the Counterparty community who built the Rare Pepe Wallet, derived from his BTCPAY Market, to collect, display and trade Rare Pepes.
 - **John Baldessari** (1) — Artist. American conceptual artist (1931–2020) who used photographs, text and hired makers to question authorship in painting.
+- **Jonah Brucker-Cohen** (1) — Artist and researcher. American artist and professor at Lehman College, CUNY, whose works rewrite the rules of everyday network tools, such as mailing lists and Wi-Fi. https://www.coin-operated.com/
 - **Joseph Santarromana** (1) — Video and installation artist. Artist at the University of California, Irvine, known in the 1990s for video installations; co-director of the Telegarden with Ken Goldberg.
+- **Julieta Aranda** (1) — Artist; co-director of e-flux. Mexican artist and co-director of e-flux, whose projects deal with time, circulation and alternative economies. https://www.e-flux.com/
 - **Karlheinz Stockhausen** (1) — Composer. German composer (1928–2007), a central figure of postwar electronic and serial music, who in 1968 turned to verbal scores he called intuitive music. https://www.karlheinzstockhausen.org
 - **Kei Kreutler** (1) — Artist, writer and co-founder of Gnosis Guild. Artist and writer working on decentralized organisations, co-founder of Gnosis Guild, which builds open tools for DAOs. https://keikreutler.net/
+- **Kevin Macdonald** (1) — Film director. Scottish documentary and feature director, born 1967, who directed the crowd-sourced film Life in a Day, produced with Ridley Scott and YouTube.
+- **Kit Galloway** (1) — Telecommunications artist. American artist who, with Sherrie Rabinowitz, ran Mobile Image and made satellite and video-link works from the 1970s, then co-founded the Electronic Café International. https://ecafe.com/
 - **Kyle McDonald** (1) — Media artist and programmer. American artist who works with code, computer vision and machine learning, and a long-time contributor to openFrameworks. https://kylemcdonald.net/
 - **Lawrence Weiner** (1) — Conceptual artist. American artist (1942–2021) whose works are statements in language that describe materials and actions, shown as text on walls, in books and in public space.
 - **Lee Mingwei** (1) — Artist. Taiwanese-American artist whose participatory installations are built on gifts, meals, letters and conversations between strangers.
@@ -2639,8 +3141,8 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **László Moholy-Nagy** (1) — Painter, photographer and Bauhaus teacher. Hungarian-born artist (1895–1946) who taught at the Bauhaus from 1923 and later founded the New Bauhaus in Chicago. He worked across painting, photography, film, typography and light sculpture.
 - **Malte Rauch** (1) — Curator and writer. Curator and writer on blockchain art who has worked with Bright Moments and the Verse platform, and wrote the essay for the contract show World Computer Sculpture Garden.
 - **Marc Garrett** (1) — Artist, writer and co-founder of Furtherfield. British artist, writer and curator who co-founded the London art and technology organisation Furtherfield with Ruth Catlow in 1996.
-- **Marcel Duchamp** (1) — Artist. French-American artist (1887–1968) who introduced the readymade and moved art from the made object to the choice and the idea.
 - **Mario Klingemann** (1) — Artist working with neural networks. German artist and programmer known for work with neural networks and generative systems. He conceived Botto and designed its art engine. https://quasimondo.com
+- **Mark Napier** (1) — Net artist. American artist and programmer who since the mid-1990s has made browser-based works about ownership and control of online space, such as Shredder and net.flag. https://www.marknapier.com/
 - **Mathcastles** (1) — On-chain art studio (Xaltgeist and 0x113d). A pseudonymous two-person studio, Xaltgeist and 0x113d, that builds fully on-chain art systems. Its best-known work is Terraforms (2021), a 20-level on-chain structure of land parcels. https://mathcastles.xyz
 - **Mieko Shiomi** (1) — Composer and artist. Japanese composer and artist (born 1938), co-founder of Group Ongaku in Tokyo and a member of Fluxus from 1964.
 - **Miranda July** (1) — Artist, filmmaker and writer. American artist, filmmaker and writer whose work often invites strangers to take part through instructions, apps and assignments. https://www.mirandajuly.com/
@@ -2650,17 +3152,32 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Nicolas Bourriaud** (1) — Curator and critic. French curator and writer, co-founder of the Palais de Tokyo, who named the 1990s tendency of artworks built from social encounters 'relational aesthetics'.
 - **Nounders** (1) — Founding group of Nouns DAO. Group of ten co-founders, including Dom Hofmann, who launched Nouns in August 2021: a pixel character auctioned every day, with all proceeds going to a treasury governed by the holders. https://nouns.wtf
 - **Okhaos** (1) — Art collective. Art collective created in 2008 to turn digital concepts into physical artworks; it co-created the first Plantoids with Primavera De Filippi. https://plantoid.org
+- **Olia Lialina** (1) — Net artist and theorist. Russian net artist and theorist, born 1971 in Moscow, a pioneer of 1990s net.art who teaches at Merz Akademie in Stuttgart and co-runs the One Terabyte of Kilobyte Age archive. https://art.teleportacia.org/
 - **Paul Ramírez Jonas** (1) — Artist. Artist born in California and raised in Honduras whose public works use civic rituals such as keys, oaths and public speech as materials.
 - **Pauline Oliveros** (1) — Composer and accordionist. American composer (1932–2016), co-founder of the San Francisco Tape Music Center and founder of the Deep Listening practice. https://www.deeplistening.rpi.edu
+- **Perry Bard** (1) — Interdisciplinary artist. Canadian artist (1944–2025) who worked with film, public art and the internet, often through collaborations with the public.
+- **Peter Edmunds** (1) — Designer and developer. Designer who built SwarmSketch as an honours project at the University of Canberra in 2005.
+- **Peter Porobov** (1) — Developer. Self-taught developer who made The Million Ether Homepage, an Ethereum version of the Million Dollar Homepage, in 2016 and relaunched it with ERC-721 blocks in 2018. https://themillionetherhomepage.com
 - **Peter Schmidt** (1) — Painter. German-born British painter (1931–1980) who co-authored Oblique Strategies with Brian Eno.
+- **Rafael Lima** (1) — Developer, founder of Hic et Nunc. Former social scientist from Brasília who built Hic et Nunc on Tezos, describing it as a 'social laboratory', and shut its website down on 11 November 2021.
+- **Rafael Lozano-Hemmer** (1) — Media artist. Mexican-Canadian artist, born 1967, who makes large interactive installations in public space; he calls a series of them 'relational architecture'. https://www.lozano-hemmer.com/
+- **Rare Pepe Directory** (1) — Curatorial registry on Counterparty. Self-styled team of 'Rare Pepe Scientists' who from 2016 certified user-made Pepe trading cards issued as Counterparty assets and fed them to Pepe wallets. http://rarepepedirectory.com
+- **Ray Johnson** (1) — Collage and correspondence artist. American artist (1927–1995), collagist and founder of the New York Correspondance School, the mail-art network he ran from the late 1950s until his death. https://www.rayjohnsonestate.com/
 - **Raymond Queneau** (1) — Writer. French novelist and poet (1903–1976) who co-founded Oulipo with François Le Lionnais in 1960.
 - **Rirkrit Tiravanija** (1) — Artist. Thai artist born in Buenos Aires whose installations since the early 1990s turn galleries into kitchens, living rooms and meeting places.
+- **Robert Adrian X** (1) — Radio and telecommunications artist. Canadian artist (1935–2015) based in Vienna from 1972, who organised telecommunication art projects using phone, fax, slow-scan TV and the ARTEX computer network.
+- **Robert Projansky** (1) — Lawyer. New York lawyer who drafted The Artist's Reserved Rights Transfer and Sale Agreement with Seth Siegelaub in 1971, after consulting hundreds of artists, dealers and collectors.
 - **Roman Ondák** (1) — Artist. Slovak artist (born 1966) whose installations and performances often rely on instructions carried out by museum staff and visitors.
+- **Santiago Sierra** (1) — Artist. Spanish artist, long based in Mexico City, who hires people at the minimum market rate to perform useless or degrading tasks, exposing the terms of wage labour.
+- **Sarah Meyohas** (1) — Artist. Artist whose work deals with value, speculation and systems; in 2015 she launched Bitchcoin, a currency redeemable for her photographs, and in 2017 staged Cloud of Petals. https://www.sarahmeyohas.com
 - **Scott Kildall** (1) — Conceptual and new-media artist. American artist, born 1969, working with virtual worlds, data sculpture and net art; co-founder of the Second Life performance group Second Front. https://www.kildall.com/
+- **Seth Siegelaub** (1) — Curator, publisher and dealer. American curator (1941–2013) who organised key exhibitions of conceptual art in book and catalogue form, and later researched the history of communication and textiles.
+- **Sherrie Rabinowitz** (1) — Telecommunications artist. American artist (1950–2013) who, with Kit Galloway, pioneered artistic uses of satellite and video links and co-founded the Electronic Café International. https://ecafe.com/
 - **Simone Forti** (1) — Artist, dancer and choreographer. Italian-born American artist and dancer (born 1935) whose Dance Constructions (1960–61) are task-based pieces for groups of performers.
 - **Suum Cuique Labs** (1) — Studio behind Hashmasks. Swiss studio that released Hashmasks in 2021: 16,384 digital portraits painted by about 70 artists, which owners can name permanently by burning a dedicated token. https://www.thehashmasks.com
 - **Suzanne Lacy** (1) — Artist and educator. American artist who since the 1970s has staged large public performances with communities, often on women, ageing and violence, and who coined the term 'new genre public art'. https://www.suzannelacy.com/
 - **Takashi Kawashima** (1) — Designer and artist. Japanese-born designer and artist who co-created Ten Thousand Cents with Aaron Koblin. http://www.takashikawashima.com/
+- **Teia Community** (1) — Community-run NFT platform and DAO. Volunteer community of artists, developers and collectors that took over the Hic et Nunc contracts after November 2021, named itself Teia by on-chain vote and registered as a non-profit DAO LLC in 2023. https://teia.art
 - **Terry Riley** (1) — Composer and performer. American composer (born 1935) associated with early minimalism, known for In C and for long improvised keyboard performances. https://terryriley.net
 - **The Streamer (Twitch Plays Pokémon)** (1) — Anonymous programmer. Anonymous Australian programmer who wrote the chat-to-controller bot behind Twitch Plays Pokémon and has run the channel since 2014. https://www.twitch.tv/twitchplayspokemon
 - **Thomas Hirschhorn** (1) — Artist. Swiss artist who builds temporary structures from cheap materials, including a series of 'monuments' to philosophers built and run with residents of housing estates. https://www.thomashirschhorn.com/
@@ -2669,3 +3186,6 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Tyler Hobbs** (1) — Generative artist. Generative artist working with algorithms, plotters and paint, known for Fidenza (2021). With Dandelion Wist Mané he made QQL (2022), where collectors search the algorithm and choose what gets minted. https://www.tylerxhobbs.com
 - **VALIE EXPORT** (1) — Artist and filmmaker. Austrian artist (1940–2026) and pioneer of feminist performance, Expanded Cinema and video, often working with Peter Weibel in the late 1960s.
 - **Vera List Center for Art and Politics** (1) — Research center at The New School. Research and public programme centre at The New School in New York that works on the relation between art and politics through seasonal focus themes. https://www.veralistcenter.org/
+- **William Entriken** (1) — Developer. Developer and lead author of the ERC-721 standard who launched Su Squares, 10,000 personalizable squares on Ethereum, in 2018. https://tenthousandsu.com
+- **Wolfgang Staehle** (1) — Artist and founder of The Thing. German-born artist, born 1950, based in New York, who founded The Thing in 1991 and later made long-duration live webcam works. https://the.thing.net/
+- **Yves Klein** (1) — Artist. French artist (1928–1962) of Nouveau Réalisme, known for International Klein Blue, the Anthropometries and his sales of 'immaterial' zones.

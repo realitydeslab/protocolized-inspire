@@ -1,0 +1,1009 @@
+{
+  "batch": "network",
+  "creators": [
+    {
+      "id": "kit-galloway",
+      "name": "Kit Galloway",
+      "kind": "person",
+      "role": "Telecommunications artist",
+      "based": "Los Angeles, US",
+      "bio": "American artist who, with Sherrie Rabinowitz, ran Mobile Image and made satellite and video-link works from the 1970s, then co-founded the Electronic Café International.",
+      "why": "Co-author of public telecommunication pieces where passers-by, not performers, made the work.",
+      "links": {
+        "site": "https://ecafe.com/"
+      },
+      "role_zh": "电信艺术家",
+      "bio_zh": "美国艺术家，与 Sherrie Rabinowitz 共同运营 Mobile Image，自 70 年代起创作卫星与视频连线作品，后共同创办 Electronic Café International。",
+      "why_zh": "公共电信作品的共同作者，在这些作品里，完成作品的是路人而非表演者。",
+      "based_zh": "洛杉矶，美国",
+      "connected_to": [
+        "sherrie-rabinowitz"
+      ],
+      "discovered_via": "roy-ascott"
+    },
+    {
+      "id": "sherrie-rabinowitz",
+      "name": "Sherrie Rabinowitz",
+      "kind": "person",
+      "role": "Telecommunications artist",
+      "based": "Los Angeles, US",
+      "bio": "American artist (1950–2013) who, with Kit Galloway, pioneered artistic uses of satellite and video links and co-founded the Electronic Café International.",
+      "why": "Co-author of Hole-In-Space, an early open portal between two cities' streets.",
+      "links": {
+        "site": "https://ecafe.com/"
+      },
+      "role_zh": "电信艺术家",
+      "bio_zh": "美国艺术家（1950–2013），与 Kit Galloway 一起开创了卫星与视频连线的艺术用法，并共同创办 Electronic Café International。",
+      "why_zh": "Hole-In-Space 的共同作者，这是两座城市街头之间最早的开放通道之一。",
+      "based_zh": "洛杉矶，美国",
+      "connected_to": [
+        "kit-galloway"
+      ],
+      "discovered_via": "kit-galloway"
+    },
+    {
+      "id": "robert-adrian",
+      "name": "Robert Adrian X",
+      "kind": "person",
+      "role": "Radio and telecommunications artist",
+      "based": "Vienna, AT",
+      "bio": "Canadian artist (1935–2015) based in Vienna from 1972, who organised telecommunication art projects using phone, fax, slow-scan TV and the ARTEX computer network.",
+      "why": "His 1982 project gave each city an hour and a phone line, making a whole day of global exchange into one work.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Adrian"
+      },
+      "role_zh": "广播与电信艺术家",
+      "bio_zh": "加拿大艺术家（1935–2015），1972 年起定居维也纳，组织过多个使用电话、传真、慢扫描电视和 ARTEX 计算机网络的电信艺术项目。",
+      "why_zh": "他 1982 年的项目给每座城市一小时和一条电话线，把一整天的全球交流变成一件作品。",
+      "based_zh": "维也纳，奥地利",
+      "connected_to": [
+        "roy-ascott"
+      ],
+      "discovered_via": "roy-ascott"
+    },
+    {
+      "id": "wolfgang-staehle",
+      "name": "Wolfgang Staehle",
+      "kind": "person",
+      "role": "Artist and founder of The Thing",
+      "based": "New York, US",
+      "bio": "German-born artist, born 1950, based in New York, who founded The Thing in 1991 and later made long-duration live webcam works.",
+      "why": "He built an online community for artists as a form of social sculpture.",
+      "links": {
+        "site": "https://the.thing.net/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Staehle"
+      },
+      "role_zh": "艺术家，The Thing 创办者",
+      "bio_zh": "德国出生、居于纽约的艺术家，生于 1950 年，1991 年创办 The Thing，后来创作长时段的网络摄像头直播作品。",
+      "why_zh": "他把为艺术家搭建的网络社区当作一种社会雕塑。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "heath-bunting"
+    },
+    {
+      "id": "antoni-muntadas",
+      "name": "Antoni Muntadas",
+      "kind": "person",
+      "role": "Media artist",
+      "based": "New York, US / Barcelona, ES",
+      "bio": "Spanish artist, born 1942, whose work since the 1970s examines media, public space and censorship.",
+      "why": "His File Room turned a censorship archive into an artwork that grows by public submission.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Antoni_Muntadas"
+      },
+      "role_zh": "媒体艺术家",
+      "bio_zh": "西班牙艺术家，生于 1942 年，自 70 年代起研究媒体、公共空间与审查。",
+      "why_zh": "他的 File Room 把一个审查档案变成靠公众投稿不断增长的作品。",
+      "based_zh": "纽约，美国 / 巴塞罗那，西班牙",
+      "connected_to": [],
+      "discovered_via": "douglas-davis"
+    },
+    {
+      "id": "eduardo-kac",
+      "name": "Eduardo Kac",
+      "kind": "person",
+      "role": "Telepresence and bio artist",
+      "based": "Chicago, US",
+      "bio": "Brazilian-American artist, born 1962, known for telepresence, holopoetry and bio art, including the fluorescent rabbit GFP Bunny.",
+      "why": "His telematic installations make a remote public jointly responsible for a living thing.",
+      "links": {
+        "site": "https://www.ekac.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Kac"
+      },
+      "role_zh": "远程临场与生物艺术家",
+      "bio_zh": "巴西裔美国艺术家，生于 1962 年，以远程临场、全息诗和生物艺术闻名，代表作包括荧光兔 GFP Bunny。",
+      "why_zh": "他的远程通信装置让远方的公众共同为一个生命负责。",
+      "based_zh": "芝加哥，美国",
+      "connected_to": [],
+      "discovered_via": "ken-goldberg"
+    },
+    {
+      "id": "rafael-lozano-hemmer",
+      "name": "Rafael Lozano-Hemmer",
+      "kind": "person",
+      "role": "Media artist",
+      "based": "Montreal, CA",
+      "bio": "Mexican-Canadian artist, born 1967, who makes large interactive installations in public space; he calls a series of them 'relational architecture'.",
+      "why": "His Vectorial Elevation let anyone online write in light over a city square.",
+      "links": {
+        "site": "https://www.lozano-hemmer.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer"
+      },
+      "role_zh": "媒体艺术家",
+      "bio_zh": "墨西哥裔加拿大艺术家，生于 1967 年，在公共空间制作大型互动装置，并把其中一个系列称为“关系建筑”。",
+      "why_zh": "他的 Vectorial Elevation 让任何网民都能在城市广场上空用光书写。",
+      "based_zh": "蒙特利尔，加拿大",
+      "connected_to": [],
+      "discovered_via": "ken-goldberg"
+    },
+    {
+      "id": "olia-lialina",
+      "name": "Olia Lialina",
+      "kind": "person",
+      "role": "Net artist and theorist",
+      "based": "Stuttgart, DE",
+      "bio": "Russian net artist and theorist, born 1971 in Moscow, a pioneer of 1990s net.art who teaches at Merz Akademie in Stuttgart and co-runs the One Terabyte of Kilobyte Age archive.",
+      "why": "She opened her own work to remakes and collects them, making a museum out of other people's versions.",
+      "links": {
+        "site": "https://art.teleportacia.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Olia_Lialina"
+      },
+      "role_zh": "网络艺术家，理论家",
+      "bio_zh": "俄罗斯网络艺术家与理论家，1971 年生于莫斯科，90 年代 net.art 的先驱，任教于斯图加特 Merz Akademie，并共同运营 One Terabyte of Kilobyte Age 档案。",
+      "why_zh": "她把自己的作品开放给他人重做并加以收藏，用别人的版本建起一座博物馆。",
+      "based_zh": "斯图加特，德国",
+      "connected_to": [],
+      "discovered_via": "heath-bunting"
+    },
+    {
+      "id": "mark-napier",
+      "name": "Mark Napier",
+      "kind": "person",
+      "role": "Net artist",
+      "based": "New York, US",
+      "bio": "American artist and programmer who since the mid-1990s has made browser-based works about ownership and control of online space, such as Shredder and net.flag.",
+      "why": "His net.flag is a permanent public tool whose image is decided by whoever used it last.",
+      "links": {
+        "site": "https://www.marknapier.com/"
+      },
+      "role_zh": "网络艺术家",
+      "bio_zh": "美国艺术家、程序员，自 90 年代中期起创作以浏览器为载体、探讨网络空间归属与控制的作品，如 Shredder 和 net.flag。",
+      "why_zh": "他的 net.flag 是一个永久公开的工具，它的图像由最后一位使用者决定。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "douglas-davis"
+    },
+    {
+      "id": "jonah-brucker-cohen",
+      "name": "Jonah Brucker-Cohen",
+      "kind": "person",
+      "role": "Artist and researcher",
+      "based": "New York, US",
+      "bio": "American artist and professor at Lehman College, CUNY, whose works rewrite the rules of everyday network tools, such as mailing lists and Wi-Fi.",
+      "why": "His BumpList shows how one membership rule changes the whole behaviour of an online community.",
+      "links": {
+        "site": "https://www.coin-operated.com/"
+      },
+      "role_zh": "艺术家，研究者",
+      "bio_zh": "美国艺术家，纽约城市大学莱曼学院教授，作品改写邮件列表、Wi-Fi 等日常网络工具的规则。",
+      "why_zh": "他的 BumpList 展示了一条会员规则如何改变整个网络社群的行为。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "douglas-davis"
+    },
+    {
+      "id": "peter-edmunds",
+      "name": "Peter Edmunds",
+      "kind": "person",
+      "role": "Designer and developer",
+      "based": "Canberra, AU",
+      "bio": "Designer who built SwarmSketch as an honours project at the University of Canberra in 2005.",
+      "why": "His collective canvas limited each person to one short line and let the crowd vote on every line's weight.",
+      "links": {},
+      "role_zh": "设计师，开发者",
+      "bio_zh": "设计师，2005 年在堪培拉大学的荣誉学位项目中制作了 SwarmSketch。",
+      "why_zh": "他的集体画布限定每人只画一小段线，并让人群投票决定每条线的深浅。",
+      "based_zh": "堪培拉，澳大利亚",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    },
+    {
+      "id": "perry-bard",
+      "name": "Perry Bard",
+      "kind": "person",
+      "role": "Interdisciplinary artist",
+      "based": "New York, US",
+      "bio": "Canadian artist (1944–2025) who worked with film, public art and the internet, often through collaborations with the public.",
+      "why": "She broke a classic film into shots and invited the world to reshoot them.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Perry_Bard"
+      },
+      "role_zh": "跨学科艺术家",
+      "bio_zh": "加拿大艺术家（1944–2025），创作涉及电影、公共艺术和互联网，常与公众合作。",
+      "why_zh": "她把一部经典电影拆成镜头，邀请全世界重新拍摄。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    },
+    {
+      "id": "casey-pugh",
+      "name": "Casey Pugh",
+      "kind": "person",
+      "role": "Developer and filmmaker",
+      "based": "US",
+      "bio": "American web developer and filmmaker who produced and edited Star Wars Uncut, which won a 2010 Emmy for interactive media.",
+      "why": "His 15-second rule turned a whole feature film into a task a fan crowd could divide.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Star_Wars_Uncut"
+      },
+      "role_zh": "开发者，电影人",
+      "bio_zh": "美国网页开发者与电影人，制作并剪辑了 Star Wars Uncut，该片获得 2010 年互动媒体类艾美奖。",
+      "why_zh": "他的“15 秒”规则把一整部长片变成粉丝群体可以分工完成的任务。",
+      "based_zh": "美国",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    },
+    {
+      "id": "eric-whitacre",
+      "name": "Eric Whitacre",
+      "kind": "person",
+      "role": "Composer and conductor",
+      "based": "Los Angeles, US",
+      "bio": "American composer and conductor, born 1970, known for choral music and for the Virtual Choir series begun in 2010.",
+      "why": "He wrote a protocol for a choir whose singers never meet: a guide track, a conductor video and an upload link.",
+      "links": {
+        "site": "https://ericwhitacre.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eric_Whitacre"
+      },
+      "role_zh": "作曲家，指挥家",
+      "bio_zh": "美国作曲家与指挥家，生于 1970 年，以合唱作品和 2010 年开始的“虚拟合唱团”系列闻名。",
+      "why_zh": "他为一支歌手互不相见的合唱团写下协议：一条引导音轨、一段指挥视频和一个上传链接。",
+      "based_zh": "洛杉矶，美国",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    },
+    {
+      "id": "kevin-macdonald",
+      "name": "Kevin Macdonald",
+      "kind": "person",
+      "role": "Film director",
+      "based": "London, UK",
+      "bio": "Scottish documentary and feature director, born 1967, who directed the crowd-sourced film Life in a Day, produced with Ridley Scott and YouTube.",
+      "why": "He turned a single calendar date into a brief that tens of thousands of people filmed.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Macdonald_(director)"
+      },
+      "role_zh": "电影导演",
+      "bio_zh": "苏格兰纪录片与剧情片导演，生于 1967 年，执导了与 Ridley Scott 和 YouTube 合作的众包电影《浮生一日》（Life in a Day）。",
+      "why_zh": "他把一个日期变成一份拍摄任务，由数以万计的人去拍。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    },
+    {
+      "id": "darius-kazemi",
+      "name": "Darius Kazemi",
+      "kind": "person",
+      "role": "Artist and bot maker",
+      "based": "US",
+      "bio": "American programmer and internet artist, born 1983, known for Twitter bots and small-scale social software; co-founder, with Courtney Stanton, of the technology collective Feel Train.",
+      "why": "He turned a one-line joke into a yearly event that thousands of programmers join to write novel generators.",
+      "links": {
+        "site": "https://tinysubversions.com/",
+        "github": "https://github.com/dariusk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Darius_Kazemi"
+      },
+      "role_zh": "艺术家，机器人程序制作者",
+      "bio_zh": "美国程序员与网络艺术家，生于 1983 年，以 Twitter 机器人和小规模社交软件闻名；与 Courtney Stanton 共同创办技术团体 Feel Train。",
+      "why_zh": "他把一句玩笑变成每年一度的活动，吸引大批程序员加入，编写小说生成器。",
+      "based_zh": "美国",
+      "connected_to": [],
+      "discovered_via": "aaron-koblin"
+    }
+  ],
+  "works": [
+    {
+      "id": "kit-galloway--hole-in-space",
+      "creator_ids": [
+        "kit-galloway",
+        "sherrie-rabinowitz"
+      ],
+      "title": "Hole-In-Space",
+      "year": 1980,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "constraint"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "For three evenings in November 1980, a life-size satellite video link joined a sidewalk at Lincoln Center in New York with a shopping centre in Century City, Los Angeles. Passers-by on each coast suddenly saw and could talk with people on the other.",
+      "description_zh": "1980 年 11 月的三个晚上，一条真人大小的卫星视频连线把纽约林肯中心旁的人行道与洛杉矶世纪城的一家购物中心接在一起。两岸的路人突然看见对方，并能彼此交谈。",
+      "idea_en": "Leave the portal unexplained and let the public discover what to do with it.",
+      "idea_zh": "不解释这道门，让公众自己发现能用它做什么。",
+      "protocol": "The link was unannounced: no signs, logos, credits or explanation, and no self-view monitors, only full-body, life-size images and sound of the people on the other coast.",
+      "protocol_zh": "连线事先不作宣布：没有标识、商标、署名或说明，也没有看到自己的监视器，只有对岸人群真人大小的全身影像和声音。",
+      "collective": "The first evening was a discovery; on the second, people used word of mouth to arrange meetings; by the third, families and friends travelled to the sites to see relatives on the other coast, some for the first time in years.",
+      "collective_zh": "第一个晚上是意外发现；第二个晚上，人们口口相传约好碰面；到第三个晚上，家人和朋友专程赶到现场，与对岸的亲人相见，有些人多年未见。",
+      "keywords": [
+        "satellite",
+        "Mobile Image",
+        "Lincoln Center",
+        "Century City",
+        "video chat",
+        "public communication sculpture"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=SyIJJr6Ldg8"
+      },
+      "images": [
+        "https://ecafe.com/getty/HIS/images/H110/03/53.gif",
+        "https://ecafe.com/getty/HIS/images/H110/02/081.gif"
+      ],
+      "source_url": "https://ecafe.com/getty/HIS/"
+    },
+    {
+      "id": "robert-adrian--the-world-in-24-hours",
+      "creator_ids": [
+        "robert-adrian"
+      ],
+      "title": "The World in 24 Hours",
+      "year": 1982,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "network",
+      "kind": "score",
+      "description": "A 24-hour telecommunication project at Ars Electronica 1982 in which artists in fifteen cities, from Vienna to Sydney and Honolulu, each exchanged images, sound and text with Linz during their local midday.",
+      "description_zh": "1982 年电子艺术节上的一个 24 小时电信项目：从维也纳到悉尼、檀香山的十五座城市里的艺术家，在各自当地的正午时段与林茨交换图像、声音和文字。",
+      "idea_en": "Follow noon around the planet and give each city its hour on the line.",
+      "idea_zh": "追着正午绕地球一圈，每座城市轮到自己的一小时。",
+      "protocol": "The project ran from noon to noon in Linz (CET); each remote site had one hour, around its local midday, to exchange material with the Linz team over up to three phone lines using slow-scan TV, fax, the ARTEX computer network or telephone audio.",
+      "protocol_zh": "项目从林茨时间（中欧时间）正午持续到次日正午；每个远程站点在当地正午前后有一小时，通过最多三条电话线，用慢扫描电视、传真、ARTEX 计算机网络或电话音频与林茨团队交换材料。",
+      "collective": "Artists and groups in Vienna, Frankfurt, Amsterdam, Bath, Wellfleet, Pittsburgh, Toronto, San Francisco, Vancouver, Honolulu, Tokyo, Sydney, Istanbul, Florence and Athens sent and received material in sequence, producing a day-long relay of transmissions.",
+      "collective_zh": "维也纳、法兰克福、阿姆斯特丹、巴斯、韦尔弗利特、匹兹堡、多伦多、旧金山、温哥华、檀香山、东京、悉尼、伊斯坦布尔、佛罗伦萨和雅典的艺术家与小组依次收发材料，形成一场持续一整天的传输接力。",
+      "keywords": [
+        "Ars Electronica 1982",
+        "slow-scan TV",
+        "fax",
+        "ARTEX",
+        "telecommunication art"
+      ],
+      "images": [
+        "https://ars.electronica.art/outofthebox/files/2019/08/PIC_25485_AEC_FE_1982_die_welt_in_24_stunden_tiff-1.jpg"
+      ],
+      "source_url": "https://ars.electronica.art/outofthebox/en/24hours/"
+    },
+    {
+      "id": "wolfgang-staehle--the-thing",
+      "creator_ids": [
+        "wolfgang-staehle"
+      ],
+      "title": "The Thing",
+      "year": 1991,
+      "field": "network",
+      "sub": "open-infrastructure",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "A dial-up bulletin board system for artists started in New York in 1991, conceived on the model of Joseph Beuys's social sculpture. It grew into a web community, hosting service and mailing lists that shaped 1990s net art.",
+      "description_zh": "1991 年在纽约开始的一个面向艺术家的拨号电子公告板系统，以约瑟夫·博伊斯的“社会雕塑”为模型构想。它后来发展为网络社区、主机服务和邮件列表，塑造了 90 年代的网络艺术。",
+      "idea_en": "Build the infrastructure and let the community be the sculpture.",
+      "idea_zh": "搭好基础设施，让社群成为雕塑本身。",
+      "protocol": "Members dialled in by modem to read and post in threaded boards on art and theory; Staehle and collaborators set up the editorial structure, while members supplied the conversation and, later, their own sites on its servers.",
+      "protocol_zh": "会员通过调制解调器拨号进入，在关于艺术与理论的分主题讨论区阅读和发帖；Staehle 和合作者搭建了编辑结构，会员则提供讨论内容，后来还在其服务器上建立自己的网站。",
+      "collective": "Artists and critics used The Thing for debate, gossip and publishing; by the late 1990s it hosted dozens of member sites and bbs.thing.net, the first website devoted to net art.",
+      "collective_zh": "艺术家和评论家在 The Thing 上辩论、闲聊与发表；到 90 年代末，它托管了几十个会员网站，以及第一个专门展示网络艺术的网站 bbs.thing.net。",
+      "keywords": [
+        "BBS",
+        "social sculpture",
+        "Joseph Beuys",
+        "net art",
+        "hosting",
+        "New York"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Thing_screen.jpg",
+        "http://www.mediaartnet.org/assets/img/data/1649/bild.jpg"
+      ],
+      "source_url": "https://the.thing.net/about/about.html"
+    },
+    {
+      "id": "antoni-muntadas--the-file-room",
+      "creator_ids": [
+        "antoni-muntadas"
+      ],
+      "title": "The File Room",
+      "year": 1994,
+      "field": "network",
+      "sub": "crowdsourced",
+      "also": [
+        "theory"
+      ],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "An installation of filing cabinets at the Chicago Cultural Center with computers where visitors could read and add cases of cultural censorship, linked to an online archive that anyone could extend.",
+      "description_zh": "芝加哥文化中心里一间满是档案柜的装置，访客可以在其中的电脑上阅读并添加文化审查案例，这些内容接入一个任何人都能扩充的在线档案。",
+      "idea_en": "An archive that only grows if the public reports the cases.",
+      "idea_zh": "一个只有公众持续上报案例才会增长的档案。",
+      "protocol": "Visitors in the gallery or online could browse the database of censorship cases by date, place, medium or grounds, and submit new cases through a form; submissions were added to the shared archive.",
+      "protocol_zh": "展厅或网上的访客可以按日期、地点、媒介或理由浏览审查案例数据库，并通过表单提交新案例；提交内容加入共享档案。",
+      "collective": "Contributors worldwide added cases from historical to current, turning the installation into a growing public database; since 2001 it has been maintained by the National Coalition Against Censorship.",
+      "collective_zh": "世界各地的参与者添加了从历史到当下的案例，使装置成为不断增长的公共数据库；自 2001 年起由美国全国反审查联盟维护。",
+      "keywords": [
+        "censorship",
+        "archive",
+        "Randolph Street Gallery",
+        "Chicago Cultural Center",
+        "database"
+      ],
+      "images": [
+        "http://www.mediaartnet.org/assets/img/data/2021/bild.jpg",
+        "https://www.thefileroom.org/documents/sala.gif"
+      ],
+      "source_url": "https://www.thefileroom.org/"
+    },
+    {
+      "id": "eduardo-kac--teleporting-an-unknown-state",
+      "creator_ids": [
+        "eduardo-kac"
+      ],
+      "title": "Teleporting an Unknown State",
+      "year": 1996,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "autonomous"
+      ],
+      "mechanisms": [
+        "participation",
+        "time"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A seed in a pot of earth in a completely dark gallery, lit only by a video projector showing images of the sky sent by remote participants over internet videoconferencing. The plant grows only as long as people keep sending light.",
+      "description_zh": "漆黑展厅里一盆土中的一粒种子，唯一的光来自投影仪，投出远程参与者通过网络视频会议传来的天空影像。只要人们持续送来光，植物就能生长。",
+      "idea_en": "Use the internet as a life-support system that a crowd must keep running.",
+      "idea_zh": "把互联网当作一套必须由人群维持运转的生命支持系统。",
+      "protocol": "Participants in other cities pointed cameras at the sky and transmitted the live image via videoconferencing; the projector turned their incoming video into light over the seed. No verbal messages were exchanged.",
+      "protocol_zh": "其他城市的参与者把摄像头对准天空，通过视频会议传送实时影像；投影仪把传来的视频变成照在种子上的光。整个过程不交换任何言语信息。",
+      "collective": "Anonymous participants in several countries shared responsibility for the plant's photosynthesis, keeping it growing for as long as the exhibition was open.",
+      "collective_zh": "多个国家的匿名参与者共同承担植物光合作用的责任，让它在展期内一直生长。",
+      "keywords": [
+        "biotelematics",
+        "videoconferencing",
+        "photosynthesis",
+        "seed",
+        "light"
+      ],
+      "video": {
+        "url": "https://vimeo.com/319098037"
+      },
+      "images": [
+        "https://www.ekac.org/telepsim/center8.jpg"
+      ],
+      "paper": {
+        "url": "https://www.ekac.org/teleporting.html",
+        "doi": "10.1145/253607.253628",
+        "venue": "SIGGRAPH '96 Visual Proceedings",
+        "title": "Teleporting an unknown state"
+      },
+      "source_url": "https://www.ekac.org/teleporting.html"
+    },
+    {
+      "id": "rafael-lozano-hemmer--vectorial-elevation",
+      "creator_ids": [
+        "rafael-lozano-hemmer"
+      ],
+      "title": "Vectorial Elevation",
+      "year": 1999,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "Eighteen robotic searchlights around Mexico City's Zócalo, controlled by anyone on the internet, to mark the arrival of the year 2000. Each participant designed a light sculpture in a 3D web interface and saw it executed over the square.",
+      "description_zh": "为迎接 2000 年，墨西哥城宪法广场周围架起十八盏机器人探照灯，由任何网民控制。每位参与者在 3D 网页界面中设计一组光雕塑，并看到它在广场上空实现。",
+      "idea_en": "Hand the sky over a national square to anyone with a browser.",
+      "idea_zh": "把国家广场上空交给任何一个有浏览器的人。",
+      "protocol": "Online users designed a searchlight configuration in a 3D simulator and joined a queue; each design was executed in turn, photographed by webcams, and published on an uncensored personal page with the participant's name, dedication and comments.",
+      "protocol_zh": "网民在 3D 模拟器中设计探照灯组合并排队；每个设计依次执行，由网络摄像头拍下，发布在未经审查的个人页面上，附参与者的姓名、献词和留言。",
+      "collective": "Over two weeks, 800,000 people from 89 countries took part, leaving love poems, football scores, Zapatista slogans and twenty-seven marriage proposals in light and text.",
+      "collective_zh": "两周内，来自 89 个国家的 80 万人参与，用光和文字留下情诗、球赛比分、萨帕塔运动口号和二十七次求婚。",
+      "keywords": [
+        "relational architecture",
+        "Zócalo",
+        "searchlights",
+        "millennium",
+        "alzado.net"
+      ],
+      "video": {
+        "url": "https://vimeo.com/33988779"
+      },
+      "images": [
+        "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg"
+      ],
+      "source_url": "https://www.lozano-hemmer.com/vectorial_elevation.php"
+    },
+    {
+      "id": "olia-lialina--last-real-net-art-museum",
+      "creator_ids": [
+        "olia-lialina"
+      ],
+      "title": "Last Real Net Art Museum",
+      "year": 2000,
+      "field": "network",
+      "sub": "crowdsourced",
+      "mechanisms": [
+        "co-authorship",
+        "circulation"
+      ],
+      "substrate": "network",
+      "kind": "series",
+      "description": "An online museum that collects remakes, remixes and homages of Lialina's 1996 work My Boyfriend Came Back from the War made by other artists. It opened in March 2000 and is still being added to.",
+      "description_zh": "一座在线博物馆，收藏其他艺术家对 Lialina 1996 年作品《My Boyfriend Came Back from the War》的重制、混剪与致敬。它于 2000 年 3 月开馆，至今仍在增加藏品。",
+      "idea_en": "Let the copies be the collection.",
+      "idea_zh": "让副本成为馆藏。",
+      "protocol": "Any artist may make their own version of the work; Lialina links accepted versions from the museum, but each stays on its maker's own server and can be changed, replaced or deleted by them.",
+      "protocol_zh": "任何艺术家都可以做自己的版本；Lialina 在博物馆里链接收录的版本，但每个版本都留在创作者自己的服务器上，可由他们修改、替换或删除。",
+      "collective": "Artists including JODI, Constant Dullaart and Auriea Harvey & Michaël Samyn contributed versions over more than two decades, forming a living archive of how net art is copied and reinterpreted.",
+      "collective_zh": "JODI、Constant Dullaart、Auriea Harvey & Michaël Samyn 等艺术家在二十多年里陆续贡献版本，形成一个关于网络艺术如何被复制与重释的活档案。",
+      "keywords": [
+        "My Boyfriend Came Back from the War",
+        "remix",
+        "net.art",
+        "Rhizome Net Art Anthology",
+        "homage"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg/960px-Olia_Lialina_-_20_years_of_My_Boyfriend_Came_Back_From_The_War_%2825184857536%29.jpg"
+      ],
+      "source_url": "https://mbcbftw.museum/collection.html"
+    },
+    {
+      "id": "mark-napier--net-flag",
+      "creator_ids": [
+        "mark-napier"
+      ],
+      "title": "net.flag",
+      "year": 2002,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": [
+        "co-authorship",
+        "participation"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A flag for the internet, commissioned by the Guggenheim, that any visitor can redesign from the parts of the world's national flags. The current flag is always the last one saved.",
+      "description_zh": "古根海姆美术馆委托创作的一面互联网之旗，任何访客都可以用世界各国国旗的元素重新设计它。当前的旗帜永远是最后一个保存的版本。",
+      "idea_en": "A national symbol with no nation, owned by whoever touched it last.",
+      "idea_zh": "一个没有国家的国家象征，归最后一个动过它的人所有。",
+      "protocol": "Visitors choose colours, patterns and symbols broken out of all national flags, compose a new flag and save it; the saved flag replaces the previous one on the site, and all past versions stay browsable.",
+      "protocol_zh": "访客从拆解后的各国国旗元素中挑选颜色、图案和符号，组合出新旗帜并保存；保存的旗帜会替换网站上的前一面，所有旧版本都可浏览。",
+      "collective": "Visitors produced a running history of flags over a decade, about 23,000 of which were compiled into net.flag: ten years of flags (2002–2012), a record of claims and counterclaims on a shared emblem.",
+      "collective_zh": "访客在十年间留下了一部持续的旗帜史，其中约 23,000 面被汇编为《net.flag: ten years of flags (2002–2012)》，记录了人们对一个共享徽记的反复争夺。",
+      "keywords": [
+        "Guggenheim",
+        "flag",
+        "territory",
+        "Snow Crash",
+        "museum commission"
+      ],
+      "images": [
+        "https://www.guggenheim.org/wp-content/uploads/2002/01/2002.17_ph_web-1.jpg",
+        "https://www.bitforms.art/wp-content/uploads/2024/09/mn_mn_netflag_1_hr.png"
+      ],
+      "source_url": "https://www.guggenheim.org/artwork/10703"
+    },
+    {
+      "id": "jonah-brucker-cohen--bumplist",
+      "creator_ids": [
+        "jonah-brucker-cohen"
+      ],
+      "title": "BumpList: An Email Community for the Determined",
+      "year": 2003,
+      "field": "network",
+      "sub": "collective-games",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "constraint",
+        "scarcity",
+        "time"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "A mailing list that only six people can belong to at once. Each new subscriber 'bumps' the longest-standing member off the list, and a hall of fame ranks members by time on the list, posts and re-subscriptions.",
+      "description_zh": "一个同一时间只能容纳六人的邮件列表。每有新订阅者加入，就会把待得最久的成员“挤”出去；名人堂按在列时长、发帖数和重新订阅次数给成员排名。",
+      "idea_en": "One membership rule turns a mailing list into a game of staying present.",
+      "idea_zh": "一条会员规则，就把邮件列表变成一场“保持在场”的游戏。",
+      "protocol": "Membership is capped at six; when a new person subscribes, the first subscriber is automatically removed and must resubscribe to return. Statistics on time, posts and bumps are published.",
+      "protocol_zh": "会员上限六人；新人订阅时，最早的订阅者被自动移除，要回来只能重新订阅。在列时间、发帖和被挤出的统计数据都会公开。",
+      "collective": "Members posted urgently while they could and resubscribed repeatedly after being bumped, making visible the pressure to keep participating that online communities create.",
+      "collective_zh": "成员们趁还在列时抓紧发言，被挤出后一次次重新订阅，把网络社群制造的持续参与压力显现出来。",
+      "keywords": [
+        "mailing list",
+        "Whitney artport",
+        "membership",
+        "attention",
+        "rules"
+      ],
+      "images": [
+        "https://whitneymedia.org/assets/image/829398/large_bumplist_2023.png",
+        "http://www.medienkunstnetz.de/assets/img/data/3504/bild.jpg"
+      ],
+      "paper": {
+        "url": "https://web.media.mit.edu/~stefan/hc/publications/BruckerCohen04BumpListCHI.pdf",
+        "venue": "CHI 2004",
+        "title": "BumpList: Developing Beneficial Email List Structures"
+      },
+      "source_url": "https://whitney.org/exhibitions/jonah-brucker-cohen"
+    },
+    {
+      "id": "peter-edmunds--swarmsketch",
+      "creator_ids": [
+        "peter-edmunds"
+      ],
+      "title": "SwarmSketch",
+      "year": 2005,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": [
+        "constraint",
+        "governance",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "An online canvas where the public draws a picture of the week's popular search term, one short line per visitor. Everyone also votes on the darkness of other people's lines, so the crowd both draws and edits the sketch.",
+      "description_zh": "一块在线画布，公众一起画出本周的热门搜索词，每位访客只画一小段线。每个人还要给别人的线投票决定深浅，于是人群既画也改。",
+      "idea_en": "Limit each person's mark, then let the crowd weight every mark.",
+      "idea_zh": "限制每个人的笔迹，再让人群给每一笔加权。",
+      "protocol": "Each week the site picks a popular search term as the subject; each visit allows only a short line, after which the visitor votes on the opacity of lines by others. A line's darkness is the average of its votes, and a new sketch starts after a week or 1,000 lines.",
+      "protocol_zh": "网站每周选一个热门搜索词作为题目；每次访问只能画一小段线，之后访客要为他人的线投票决定透明度。每条线的深浅是所得票数的平均值，一周或满 1,000 条线后开始新的画。",
+      "collective": "Anonymous contributors produced a weekly series of sketches of news and pop culture topics, each drawn and moderated by the crowd over several years.",
+      "collective_zh": "匿名参与者多年间每周画出一幅关于新闻或流行文化话题的草图，每一幅都由人群共同绘制并审定。",
+      "keywords": [
+        "collective drawing",
+        "voting",
+        "University of Canberra",
+        "search trends",
+        "Rhizome ArtBase"
+      ],
+      "images": [
+        "http://web.archive.org/web/20090528061650im_/http://swarmsketch.com/_img/large/img000258.jpg"
+      ],
+      "paper": {
+        "url": "https://ojs.ruc.dk/index.php/pdc/article/view/361",
+        "venue": "PDC 2006",
+        "title": "SwarmSketch"
+      },
+      "source_url": "http://web.archive.org/web/20080110101609/http://swarmsketch.com:80/"
+    },
+    {
+      "id": "perry-bard--man-with-a-movie-camera-global-remake",
+      "creator_ids": [
+        "perry-bard"
+      ],
+      "title": "Man with a Movie Camera: The Global Remake",
+      "year": 2007,
+      "field": "network",
+      "sub": "crowdsourced",
+      "mechanisms": [
+        "co-authorship",
+        "chance",
+        "instruction"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A participatory remake of Dziga Vertov's 1929 film, broken down into its 1,276 shots, each of which anyone can reshoot and upload. The software assembles a new version every day from the submissions.",
+      "description_zh": "对吉加·维尔托夫 1929 年电影的参与式重拍：影片被拆成 1,276 个镜头，任何人都可以重拍其中任意一个并上传。软件每天用投稿组装出一个新版本。",
+      "idea_en": "Turn a film into a shot list and let the world fill it in.",
+      "idea_zh": "把一部电影变成一张分镜清单，让全世界来填写。",
+      "protocol": "Participants choose a shot from Vertov's film, interpret it however they like, and upload it; each day the system picks at random among the submissions for each shot and plays them side by side with the original.",
+      "protocol_zh": "参与者从维尔托夫的影片中挑一个镜头，以任意方式诠释并上传；系统每天为每个镜头从投稿中随机挑选一个，与原片并排播放。",
+      "collective": "Contributors from many countries filmed their own versions of Vertov's shots, so the remake is never the same twice.",
+      "collective_zh": "来自许多国家的参与者拍下自己版本的维尔托夫镜头，于是这部重拍片每次放映都不一样。",
+      "keywords": [
+        "Dziga Vertov",
+        "remake",
+        "database cinema",
+        "IDFA",
+        "shot-by-shot"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=uEykp9PsDkw"
+      },
+      "images": [
+        "https://docubase.mit.edu/wp-content/uploads/2013/11/Man-with-Movie-Camera-Remake.jpg"
+      ],
+      "source_url": "https://docubase.mit.edu/project/man-with-a-movie-camera-global-remake/"
+    },
+    {
+      "id": "casey-pugh--star-wars-uncut",
+      "creator_ids": [
+        "casey-pugh"
+      ],
+      "title": "Star Wars Uncut",
+      "year": 2009,
+      "field": "network",
+      "sub": "crowdsourced",
+      "mechanisms": [
+        "co-authorship",
+        "governance",
+        "instruction"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A shot-for-shot remake of the 1977 film Star Wars made by fans, 15 seconds at a time. Each segment is in a different style — live action, animation, Lego stop-motion — and the full film was released free on YouTube in 2010.",
+      "description_zh": "粉丝以每段 15 秒的方式逐镜重拍 1977 年的《星球大战》。每段风格各异——真人、动画、乐高定格——完整影片于 2010 年在 YouTube 免费发布。",
+      "idea_en": "Cut a feature film into 15-second claims and a fan crowd can remake all of it.",
+      "idea_zh": "把一部长片切成 15 秒的认领单元，粉丝群就能把它整部重拍。",
+      "protocol": "From July 2009 fans could sign up on the website to claim a 15-second scene and recreate it any way they liked; several versions were submitted per scene and votes decided which went into the final cut.",
+      "protocol_zh": "2009 年 7 月起，粉丝可以在网站上认领一段 15 秒的场景，并以任意方式重现；每个场景都有多个版本投稿，由投票决定哪个进入最终剪辑。",
+      "collective": "Contributors worldwide produced the 473 fifteen-second segments that make up the finished film, which won a 2010 Emmy for interactive media; a sequel remade The Empire Strikes Back in 2014.",
+      "collective_zh": "世界各地的参与者完成了构成整部影片的 473 个 15 秒片段，该片获得 2010 年互动媒体类艾美奖；2014 年的续作重拍了《帝国反击战》。",
+      "keywords": [
+        "Star Wars",
+        "fan film",
+        "remake",
+        "voting",
+        "Emmy"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7ezeYJUz-84"
+      },
+      "images": [
+        "http://files.starwarsuncut.com/assets/illo_howto-b8a57b5068d5069e0240fd1dabf4f3c8a8f432b60c4d55d5fe2f002a8d67b0cd.png"
+      ],
+      "source_url": "http://www.starwarsuncut.com/"
+    },
+    {
+      "id": "eric-whitacre--virtual-choir",
+      "creator_ids": [
+        "eric-whitacre"
+      ],
+      "title": "Virtual Choir",
+      "year": 2010,
+      "field": "network",
+      "sub": "crowdsourced",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "series",
+      "description": "A choir of singers who record their parts alone at home, following a video of Whitacre conducting, and upload them to be mixed into one performance. The first, 'Lux Aurumque', was released in March 2010.",
+      "description_zh": "一支合唱团：歌手们在家里跟着 Whitacre 的指挥视频独自录下各自声部并上传，再混合成一场演出。第一部《Lux Aurumque》于 2010 年 3 月发布。",
+      "idea_en": "A score, a conductor on video and an upload link are enough to make a choir that never meets.",
+      "idea_zh": "一份乐谱、一段指挥视频和一个上传链接，就足以组成一支从不见面的合唱团。",
+      "protocol": "Whitacre publishes the score, a guide track and a conducting video; singers download them, film themselves singing one part while watching the conductor, and upload the video; editors align and mix all submissions.",
+      "protocol_zh": "Whitacre 公开乐谱、引导音轨和指挥视频；歌手下载后看着指挥唱一个声部并自拍上传；剪辑团队把所有投稿对齐并混音。",
+      "collective": "Virtual Choir 1 combined 185 singers from 12 countries; Virtual Choir 2 ('Sleep', 2011) combined 2,051 singers from 58 countries, and later editions grew larger.",
+      "collective_zh": "第一部虚拟合唱团汇集了 12 个国家的 185 名歌手；第二部（《Sleep》，2011）汇集了 58 个国家的 2,051 名歌手，之后的版本规模更大。",
+      "keywords": [
+        "choir",
+        "YouTube",
+        "Lux Aurumque",
+        "remote performance",
+        "TED"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=D7o7BrlbaDs"
+      },
+      "images": [
+        "https://ericwhitacre.com/wp-content/uploads/vc1.jpg"
+      ],
+      "source_url": "https://ericwhitacre.com/the-virtual-choir"
+    },
+    {
+      "id": "kevin-macdonald--life-in-a-day",
+      "creator_ids": [
+        "kevin-macdonald"
+      ],
+      "title": "Life in a Day",
+      "year": 2010,
+      "field": "network",
+      "sub": "crowdsourced",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A feature documentary edited from videos that people around the world filmed on a single day, 24 July 2010, and uploaded to YouTube. It premiered at Sundance in January 2011.",
+      "description_zh": "一部纪录长片，剪辑自世界各地的人们在同一天——2010 年 7 月 24 日——拍摄并上传到 YouTube 的视频。影片于 2011 年 1 月在圣丹斯电影节首映。",
+      "idea_en": "One date as the whole brief: film your day, and the crowd becomes a portrait of the planet.",
+      "idea_zh": "一个日期就是全部任务：拍下你的一天，人群就成了一幅地球的肖像。",
+      "protocol": "Anyone could film anything on 24 July 2010 and upload it to a YouTube channel; contributors kept copyright but licensed the footage, and those whose clips were used were credited as co-directors.",
+      "protocol_zh": "任何人都可以在 2010 年 7 月 24 日拍摄任何内容并上传到指定 YouTube 频道；投稿者保留版权但授权使用素材，入选片段的作者都被署名为联合导演。",
+      "collective": "People in 192 nations sent 80,000 submissions totalling 4,500 hours of footage, edited into a 95-minute film.",
+      "collective_zh": "192 个国家的人发来 8 万份投稿，共 4,500 小时素材，剪成一部 95 分钟的影片。",
+      "keywords": [
+        "YouTube",
+        "Ridley Scott",
+        "Sundance 2011",
+        "24 July 2010",
+        "crowdsourced documentary"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/6/64/Lifeinaday_2011.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)"
+    },
+    {
+      "id": "darius-kazemi--nanogenmo",
+      "creator_ids": [
+        "darius-kazemi"
+      ],
+      "title": "NaNoGenMo (National Novel Generation Month)",
+      "year": 2013,
+      "field": "network",
+      "sub": "crowdsourced",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "constraint",
+        "participation"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "Every November, participants write code that generates a novel of at least 50,000 words and share it on GitHub. Kazemi started it in 2013 from a tweet, as a counterpart to National Novel Writing Month.",
+      "description_zh": "每年 11 月，参与者编写能生成至少 5 万字小说的程序，并在 GitHub 上分享。Kazemi 于 2013 年由一条推文发起，作为“全国小说写作月”的对应版本。",
+      "idea_en": "Write a rule for writing the rules: the crowd's generators are the literature.",
+      "idea_zh": "为“写规则”写一条规则：人群写出的生成器本身就是文学。",
+      "protocol": "Spend November writing code that generates a 'novel' of 50,000+ words, defined however you like; the only rule is to share at least one novel and your source code by the end. Participants declare intent and post progress as GitHub issues.",
+      "protocol_zh": "用 11 月编写一个生成 5 万字以上“小说”的程序，“小说”的定义随你；唯一的规则是月底前至少分享一部小说和源代码。参与者在 GitHub issue 中宣布参加并发布进展。",
+      "collective": "Programmers and writers have produced a large public archive of generated novels and open-source generators, with the event repeated every year since 2013.",
+      "collective_zh": "程序员和写作者积累了一个庞大的公开档案，包括生成的小说和开源生成器；活动自 2013 年起每年举办。",
+      "keywords": [
+        "generative literature",
+        "GitHub",
+        "NaNoWriMo",
+        "code",
+        "open source"
+      ],
+      "images": [
+        "https://opengraph.githubassets.com/e1a423ae4517b8b338094f65d3db4ad6450c8da4c2074cd063e59baf19847e76/dariusk/NaNoGenMo"
+      ],
+      "source_url": "https://github.com/dariusk/NaNoGenMo",
+      "code_url": "https://github.com/dariusk/NaNoGenMo"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Stelarc — Ping Body (1996)",
+      "why": "Muscles actuated by internet ping times; the body is moved by network data, not by participants acting under a rule.",
+      "link": "https://v2.nl/works/ping-body/",
+      "found_via": "ken-goldberg",
+      "status": "off_topic"
+    },
+    {
+      "name": "Stelarc — Fractal Flesh (1995)",
+      "why": "Audiences in Paris, Helsinki and Amsterdam remotely actuated Stelarc's body via a web interface; a stronger crowd case than Ping Body.",
+      "link": "http://www.medienkunstnetz.de/works/ping-body/",
+      "found_via": "ken-goldberg",
+      "status": "open"
+    },
+    {
+      "name": "Andrew Badr — Your World of Text (2009)",
+      "why": "Infinite shared text grid anyone can type on; needs a verifiable image.",
+      "link": "https://www.yourworldoftext.com/",
+      "found_via": "josh-wardle",
+      "status": "no_media"
+    },
+    {
+      "name": "Ze Frank — Earth Sandwich (2006)",
+      "why": "Challenge from the show with zefrank to place two slices of bread at antipodes simultaneously; realised by viewers in Spain and New Zealand.",
+      "link": "https://en.wikipedia.org/wiki/The_show_with_zefrank",
+      "found_via": "miranda-july",
+      "status": "no_media"
+    },
+    {
+      "name": "Paul Ford — tilde.club (2014)",
+      "why": "One unmodified Unix server where thousands made hand-coded homepages; an open-infrastructure case with a writer rather than artist as author.",
+      "link": "https://tilde.club/",
+      "found_via": "aram-bartholl",
+      "status": "open"
+    },
+    {
+      "name": "Joel Holmberg — Legendary Account (2007–2010)",
+      "why": "Earnest philosophical questions posted to Yahoo! Answers; the crowd's answers form the work.",
+      "link": "https://anthology.rhizome.org/legendary-account",
+      "found_via": "olia-lialina",
+      "status": "open"
+    },
+    {
+      "name": "Nick Thurston — Of the Subcontract (2013)",
+      "why": "Book of poems written by Mechanical Turk workers, with their pay listed.",
+      "link": "https://www.informationasmaterial.org/",
+      "found_via": "aaron-koblin",
+      "status": "open"
+    },
+    {
+      "name": "Blast Theory — Can You See Me Now? (2001)",
+      "why": "Online players chased by runners in real streets; telematic game with a crowd of remote players.",
+      "link": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/",
+      "found_via": "ken-goldberg",
+      "status": "open"
+    },
+    {
+      "name": "Kit Galloway & Sherrie Rabinowitz — Electronic Café (1984)",
+      "why": "Video and computer links between five Los Angeles community sites during the 1984 Olympic Arts Festival.",
+      "link": "https://ecafe.com/",
+      "found_via": "kit-galloway",
+      "status": "open"
+    },
+    {
+      "name": "Paul Sermon — Telematic Dreaming (1992)",
+      "why": "Two remote participants share a projected bed; intimate telepresence rather than a crowd protocol.",
+      "link": "http://www.paulsermon.org/dream/",
+      "found_via": "roy-ascott",
+      "status": "off_topic"
+    },
+    {
+      "name": "Alexei Shulgin — Desktop Is (1997)",
+      "why": "Invited people to send screenshots of their desktops; early crowdsourced net-art exhibition.",
+      "link": "http://www.easylife.org/desktop/",
+      "found_via": "heath-bunting",
+      "status": "open"
+    },
+    {
+      "name": "Luther Blissett (1994)",
+      "why": "Multiple-use name adopted by hundreds of activists and artists; open identity protocol, may fit autonomous-artists.",
+      "link": "https://en.wikipedia.org/wiki/Luther_Blissett_(nom_de_plume)",
+      "found_via": "heath-bunting",
+      "status": "open"
+    },
+    {
+      "name": "Rafael Lozano-Hemmer — Body Movies (2001) and other Relational Architecture works",
+      "why": "Public-space works where crowds' shadows reveal portraits; check scope overlap with the social batch.",
+      "link": "https://www.lozano-hemmer.com/",
+      "found_via": "rafael-lozano-hemmer",
+      "status": "open"
+    },
+    {
+      "name": "pxls.space and other r/place clones",
+      "why": "Fan-run canvases copying the r/place rule without a distinct author or artistic intent.",
+      "link": "https://pxls.space/",
+      "found_via": "josh-wardle",
+      "status": "off_topic"
+    }
+  ]
+}
