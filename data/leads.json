@@ -1064,6 +1064,70 @@
   "batch": "social"
  },
  {
+  "name": "The Swarm Effect: China's 2022 Covid Protests (anonymous, SoP23)",
+  "why": "Study of swarm and anti-swarm tactics in the 2022 protests; anonymous author, so not added as a creator.",
+  "link": "https://summerofprotocols.com/research/the-swarm-effect",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "Laura Sinisterra, Virtual Structures (SoP23)",
+  "why": "Isometric drawings of unbuildable structures exploring the unstated rules of architecture.",
+  "link": "https://summerofprotocols.com/research/virtual-structures",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "Protocolized (SoP science-fiction magazine) and Protocolized Anthology",
+  "why": "Magazine publishing 70+ issues of protocol fiction a year, with a printed anthology planned.",
+  "link": "https://summerofprotocols.com/protocolized-anthology",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "SoP24 PILL fiction: The Caucus (Randy Lubin), Below the API (Stephen Bailey), Memories of Us (Will Abramson), Terminal Highway (Sachin Benny), Technium Underground (Kay Yu)",
+  "why": "Short stories about liquid democracy, AI agents, memory sanctuaries and revived DApps; fiction, not participatory works.",
+  "link": "https://summerofprotocols.com/protocol-exhibition",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "Sevenfloor (Xiaoting Tan), Farflora (SoP24)",
+  "why": "Generative NFT where an AI agent drives a 'regenerating natural garden' protocol; check for collector rules.",
+  "link": "https://summerofprotocols.com/pills/farflora-ai-agent-regenerating-natural-garden-protocol",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "Guo Liu, A Pattern Language for Digital Spaces; Chenoe Hart, FutureRack; Willie Fineberg, protocol.guide (SoP24)",
+  "why": "Graphic/mini-site explorations of protocol literacy.",
+  "link": "https://summerofprotocols.com/protocol-exhibition",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "SoP24 case studies: E2EE in ActivityPub (Evan Prodromou, Tom Coates); ARC Regenerative Communities (Kaliya Young, Day Waterbury); Shoreline Adaptations",
+  "why": "Protocol engineering and governance case studies with symposium videos; weaker art relevance.",
+  "link": "https://summerofprotocols.com/case-studies",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "SoP25 fellows (Primavera De Filippi, Chen Qiufan, Vaughn Tan, Eric Alston, Andrés Monroy-Hernández, Felix Beer, Helena Rong…)",
+  "why": "2025 teaching fellows and Protocol School; outputs to research next.",
+  "link": "https://summerofprotocols.com/fellows",
+  "found_via": "summer-of-protocols",
+  "status": "open",
+  "batch": "summer-of-protocols"
+ },
+ {
   "name": "Gordon Berger",
   "why": "Generative crypto art and sculpture; no holder-driven or group-rule work checked yet.",
   "link": "https://www.gordonberger.com/",

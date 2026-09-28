@@ -504,6 +504,22 @@
   "batch": "social"
  },
  {
+  "name": "Wendi Yan, Micronaut Odyssey (SoP24)",
+  "why": "Animation of speculative xenobots as 'feral protocols'; no participatory rule.",
+  "link": "https://summerofprotocols.com/pills/micronaut-odyssey",
+  "found_via": "summer-of-protocols",
+  "status": "off_topic",
+  "batch": "summer-of-protocols"
+ },
+ {
+  "name": "Bridge Atlas (podcast series with Christine Kim)",
+  "why": "Series on Ethereum stewardship; not an artwork.",
+  "link": "https://summerofprotocols.com/bridge-atlas",
+  "found_via": "summer-of-protocols",
+  "status": "off_topic",
+  "batch": "summer-of-protocols"
+ },
+ {
   "name": "Sougwen Chung, D.O.U.G. robot drawing series",
   "why": "Artist paints with robotic arms trained on her own gestures; one artist and a machine, no group acting under rules.",
   "link": "https://sougwen.com/",

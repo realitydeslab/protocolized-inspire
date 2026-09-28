@@ -1,0 +1,2034 @@
+{
+ "batch": "summer-of-protocols",
+ "creators": [
+  {
+   "id": "shuya-gong",
+   "name": "Shuya Gong",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort. She designs card decks and rituals that make workplace protocols visible.",
+   "why": "Turns the protocols of knowledge work into a ritual teams perform together.",
+   "links": {
+    "site": "https://www.linkedin.com/in/shuyagong"
+   },
+   "role_zh": "设计师、研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。她设计卡牌和仪式，让职场中的隐性协议显形。",
+   "why_zh": "把知识工作的协议变成团队共同执行的仪式。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "timber-stinson-schroff",
+   "name": "Timber Stinson-Schroff",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort. He studies how safety protocols evolve as technologies mature.",
+   "why": "Derives a theory of protocol evolution from workplace safety and packages it as a card game for teams.",
+   "links": {
+    "site": "https://www.timberschroff.com/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。研究安全协议如何随技术成熟而演化。",
+   "why_zh": "从职场安全史中推导协议演化理论，并把它做成团队卡牌游戏。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "shuya-gong"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "mashal-waqar",
+   "name": "Mashal Waqar",
+   "kind": "person",
+   "role": "Researcher and writer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Made Protocol Party, a board game that starts players on noticing the protocols around them.",
+   "links": {
+    "site": "https://www.linkedin.com/in/mashalwaqar/"
+   },
+   "role_zh": "研究者、作家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "创作了桌游 Protocol Party，引导玩家开始察觉身边的协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "fangting",
+   "name": "Fangting",
+   "kind": "person",
+   "role": "Artist and game designer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Designed a card protocol that composes one fictional life from many people's real memories.",
+   "links": {
+    "site": "https://fangting.me/"
+   },
+   "role_zh": "艺术家、游戏设计者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "设计了一套卡牌协议，用许多人的真实记忆拼出一个虚构人物的一生。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "aaron-z-lewis",
+   "name": "Aaron Z. Lewis",
+   "kind": "person",
+   "role": "Writer and designer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort. He researched monastic memory practices.",
+   "why": "Co-founded the New Time Machines Working Group, which designs memory protocols people can practise.",
+   "links": {
+    "site": "https://aaronzlewis.com/"
+   },
+   "role_zh": "作家、设计师",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。研究修道院的记忆实践。",
+   "why_zh": "共同发起 New Time Machines 工作组，设计人们可以亲身练习的记忆协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "spencer-chang",
+    "kei-kreutler",
+    "nahee-kim",
+    "alice-noujaim"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "spencer-chang",
+   "name": "Spencer Chang",
+   "kind": "person",
+   "role": "Artist and technologist",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Designed the Memory Pouch, a DIY device for choosing what one wants to remember.",
+   "links": {
+    "site": "https://spencer.place/"
+   },
+   "role_zh": "艺术家、技术人",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "设计了“记忆袋”，一种让人自己决定要记住什么的 DIY 装置。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "aaron-z-lewis"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "nahee-kim",
+   "name": "Nahee Kim",
+   "kind": "person",
+   "role": "Artist",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Visual narratives that map computer memory retrieval onto human remembering.",
+   "links": {
+    "site": "https://www.instagram.com/nahee.app/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "用视觉叙事把计算机的记忆检索映射到人的回忆上。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "aaron-z-lewis"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "alice-noujaim",
+   "name": "Alice Noujaim",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Studied how the Brazilian social network Orkut and its communities died.",
+   "links": {
+    "site": "https://www.linkedin.com/in/alice-noujaim-teixeira-767914140/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "研究巴西社交网络 Orkut 及其社群如何消亡。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "aaron-z-lewis"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "lizz-thabet",
+   "name": "Lizz Thabet",
+   "kind": "person",
+   "role": "Artist and game maker",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Made a Tor-inspired game whose players leave offerings for future strangers.",
+   "links": {
+    "site": "https://lizz.website/about"
+   },
+   "role_zh": "艺术家、游戏创作者",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "制作了一款受 Tor 启发的游戏，玩家为未来的陌生人留下礼物。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "hua-xi-zi",
+   "name": "hua xi zi",
+   "kind": "person",
+   "role": "Artist",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Treats VPN tunnels and camera nodes as the material of a shared video protocol.",
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "把 VPN 隧道和摄像节点当作共享影像协议的材料。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "ben-zucker",
+   "name": "Ben Zucker",
+   "kind": "person",
+   "role": "Composer",
+   "based": "",
+   "bio": "Composer; grantee of the 2024 and 2025 Summer of Protocols programmes.",
+   "why": "Builds kits of instructions for re-reading musical scores as protocols.",
+   "links": {
+    "site": "https://www.benzuckersounds.com/"
+   },
+   "role_zh": "作曲家",
+   "bio_zh": "作曲家；2024 年和 2025 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "为“把乐谱当作协议重新解读”制作指令工具包。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "yuemin-huang",
+   "name": "Yuemin Huang",
+   "kind": "person",
+   "role": "Designer",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Made a game that teaches players to draft protocols with things that cannot negotiate.",
+   "links": {
+    "site": "https://www.yueminh.com/"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "制作了一款游戏，教玩家与无法沟通的事物起草协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "haotian-fang",
+   "name": "Haotian Fang",
+   "kind": "person",
+   "role": "Designer",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Proposes that creators sculpt physical objects from their on-chain data.",
+   "links": {
+    "site": "https://haotianfang.com/"
+   },
+   "role_zh": "设计师",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "提议让创作者根据自己的链上数据雕塑实体物件。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "yisi-liu",
+   "name": "Yisi Liu",
+   "kind": "person",
+   "role": "Technologist",
+   "based": "",
+   "bio": "Co-founder and CTO of Mask Network and research fellow at the Institute of Network Society, China Academy of Art; grantee of the 2024 Summer of Protocols programme.",
+   "why": "Co-designed protocols for shared mixed reality with Botao Amber Hu.",
+   "links": {
+    "site": "https://x.com/TheYisiLiu"
+   },
+   "role_zh": "技术专家",
+   "bio_zh": "Mask Network 联合创始人兼 CTO，中国美术学院网络社会研究所研究员；2024 年 Summer of Protocols 资助者。",
+   "why_zh": "与胡博涛（Botao Amber Hu）共同设计共享混合现实的协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "botao-amber-hu"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "nathalia-scherer",
+   "name": "Nathalia Scherer",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Maps the protocols of cultural burning and fire adaptation in California.",
+   "links": {
+    "site": "https://www.linkedin.com/in/nathalia-scherer-b181b044/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "梳理加州文化性烧除与火灾适应的协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "jiordi-rosales"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "jiordi-rosales",
+   "name": "Jiordi Rosales",
+   "kind": "person",
+   "role": "Artist and researcher",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Co-author of Fire Protocols.",
+   "links": {
+    "site": "https://www.instagram.com/jiordi.rosales/"
+   },
+   "role_zh": "艺术家、研究者",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "Fire Protocols 的共同作者。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "nathalia-scherer"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "martin-benedikt-busch",
+   "name": "Martin Benedikt Busch",
+   "kind": "person",
+   "role": "Data scientist",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Field-tests plural voting protocols beyond quadratic voting.",
+   "links": {
+    "site": "https://sites.google.com/view/martin-benedikt-busch"
+   },
+   "role_zh": "数据科学家",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "实地测试超越二次方投票的多元投票协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "rich-mcdowell"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "rich-mcdowell",
+   "name": "Rich McDowell",
+   "kind": "person",
+   "role": "Governance researcher",
+   "based": "",
+   "bio": "Grantee of the 2024 Summer of Protocols programme.",
+   "why": "Co-author of Plurality in Practice.",
+   "links": {},
+   "role_zh": "治理研究者",
+   "bio_zh": "2024 年 Summer of Protocols 计划的资助者。",
+   "why_zh": "Plurality in Practice 的共同作者。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "martin-benedikt-busch"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "nadia-asparouhova",
+   "name": "Nadia Asparouhova",
+   "kind": "person",
+   "role": "Writer and researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort. She writes about open source, philanthropy and online communities.",
+   "why": "Her essay names the controlling side of protocols that the field tends to celebrate.",
+   "links": {
+    "site": "https://nadia.xyz/"
+   },
+   "role_zh": "作家、研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。她书写开源、慈善与网络社群。",
+   "why_zh": "她的文章点出了协议常被称颂之外的“控制”一面。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "david-lang",
+   "name": "David Lang",
+   "kind": "person",
+   "role": "Explorer and entrepreneur",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Wrote about technical standards from his experience with the Bristlemouth connector standard.",
+   "links": {
+    "site": "https://davidtlang.com"
+   },
+   "role_zh": "探索者、创业者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "根据自己推动 Bristlemouth 连接器标准的经验书写技术标准。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "janna-tay",
+   "name": "Janna Tay",
+   "kind": "person",
+   "role": "Writer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Argues that protocols shape participants' states of being, which makes their design a moral question.",
+   "links": {
+    "site": "https://janna.netlify.app/"
+   },
+   "role_zh": "作家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "主张协议塑造参与者的存在状态，因此设计协议是一个道德问题。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "angela-walch",
+   "name": "Angela Walch",
+   "kind": "person",
+   "role": "Legal scholar",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Describes what it is like to be an individual inside a protocol system.",
+   "links": {
+    "site": "https://angelawalch.com/"
+   },
+   "role_zh": "法学学者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "描述身处协议系统中的个人是什么感受。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "drew-austin",
+   "name": "Drew Austin",
+   "kind": "person",
+   "role": "Writer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort. He writes the newsletter Kneeling Bus about cities and technology.",
+   "why": "Wrote a protocol pattern language for urban space after Christopher Alexander.",
+   "links": {
+    "site": "https://kneelingbus.net/"
+   },
+   "role_zh": "作家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。他撰写关于城市与技术的通讯 Kneeling Bus。",
+   "why_zh": "仿照克里斯托弗·亚历山大写出城市空间的协议模式语言。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "chenoe-hart",
+   "name": "Chenoe Hart",
+   "kind": "person",
+   "role": "Architectural designer and writer",
+   "based": "",
+   "bio": "Researcher in the 2023 and 2024 Summer of Protocols cohorts.",
+   "why": "Investigates how addressing systems are built into physical space.",
+   "links": {
+    "site": "http://www.chenoehart.com"
+   },
+   "role_zh": "建筑设计师、作家",
+   "bio_zh": "2023 年和 2024 年 Summer of Protocols 的研究者。",
+   "why_zh": "研究地址系统如何被建进物理空间。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "saffron-huang",
+   "name": "Saffron Huang",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Traces timekeeping protocols as instruments of both coordination and control.",
+   "links": {
+    "site": "https://saffronhuang.com/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "追溯计时协议如何同时成为协调与控制的工具。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "olivia-steiert",
+   "name": "Olivia Steiert",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Interviewed the core researchers to theorise how protocols relate to time and crisis.",
+   "links": {
+    "site": "https://www.linkedin.com/in/olivia-steiert/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "访谈核心研究者，把协议与时间、危机的关系理论化。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "rafael-fernandez",
+   "name": "Rafael Fernández",
+   "kind": "person",
+   "role": "Writer and researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Distinguishes online swarms from formations and designed a workshop for steering swarms.",
+   "links": {
+    "site": "https://rafael.fyi/"
+   },
+   "role_zh": "作家、研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "区分网络“蜂群”与“编队”，并设计了引导蜂群的工作坊。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "kara-kittel",
+   "name": "Kara Kittel",
+   "kind": "person",
+   "role": "Researcher",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Co-author of Unprotocolized Knowledge.",
+   "links": {
+    "site": "https://www.linkedin.com/in/kara-kittel-81a2598a/"
+   },
+   "role_zh": "研究者",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "Unprotocolized Knowledge 的共同作者。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "toby-shorin"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "toby-shorin",
+   "name": "Toby Shorin",
+   "kind": "person",
+   "role": "Writer and strategist",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Co-author of Unprotocolized Knowledge on how the internet reshapes knowledge protocols.",
+   "links": {
+    "site": "https://tobyshorin.com/"
+   },
+   "role_zh": "作家、策略师",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "与人合写 Unprotocolized Knowledge，讨论互联网如何重塑知识协议。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols",
+    "kara-kittel"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "dorian-taylor",
+   "name": "Dorian Taylor",
+   "kind": "person",
+   "role": "Information architect",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Proposes retrofitting the Web with dense, typed, two-way links.",
+   "links": {
+    "site": "https://doriantaylor.com/"
+   },
+   "role_zh": "信息架构师",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "提议用密集、有类型、双向的链接改造万维网。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "shreeda-segan",
+   "name": "Shreeda Segan",
+   "kind": "person",
+   "role": "Writer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Analyses the swipe as a dating-protocol monopoly.",
+   "links": {
+    "site": "https://shreedasegan.com/"
+   },
+   "role_zh": "作家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "分析“滑动”如何成为约会协议的垄断。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  },
+  {
+   "id": "rithikha-rajamohan",
+   "name": "Rithikha Rajamohan",
+   "kind": "person",
+   "role": "Writer",
+   "based": "",
+   "bio": "Researcher in the inaugural 2023 Summer of Protocols cohort.",
+   "why": "Wrote speculative fiction about a city run by protocolized governance.",
+   "links": {
+    "site": "https://www.linkedin.com/in/rithikha"
+   },
+   "role_zh": "作家",
+   "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
+   "why_zh": "创作了关于协议化治理城市的推想小说。",
+   "based_zh": "",
+   "connected_to": [
+    "summer-of-protocols"
+   ],
+   "discovered_via": "summer-of-protocols"
+  }
+ ],
+ "works": [
+  {
+   "id": "shuya-gong--exit-to-protocol",
+   "creator_ids": [
+    "shuya-gong"
+   ],
+   "title": "Exit to Protocol",
+   "year": 2024,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "theory"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "An essay and a card deck that guide a team through an 'exit to protocol' ritual: dissecting the everyday processes that make up their work so that its value survives when a role or organisation winds down.",
+   "description_zh": "一篇文章加一套卡牌，引导团队完成“退出为协议”仪式：拆解构成日常工作的流程，让一个岗位或组织在收尾时仍能保存它创造的价值。",
+   "idea_en": "When a team ends, turn what it did into protocols others can inherit.",
+   "idea_zh": "团队解散时，把它做过的事变成别人可以继承的协议。",
+   "protocol": "A team or working group uses the card deck to surface the latent productivity protocols in its day-to-day rituals, name them and preserve them as the role or organisation sunsets.",
+   "protocol_zh": "团队或工作组用卡牌把日常仪式中潜藏的生产协议挖掘出来、命名并保存下来，作为岗位或组织谢幕的一部分。",
+   "collective": "The deck is meant to be played by working groups; the work asks where value goes when a protocol is no longer in use, drawing on Graeber's 'Bullshit Jobs' and Nathan Schneider's 'Exit to Community'.",
+   "collective_zh": "卡牌供工作组共同使用；作品追问一个协议不再被使用时，它的价值去了哪里，借鉴了格雷伯的《毫无意义的工作》和 Nathan Schneider 的“退出为社区”。",
+   "keywords": [
+    "ritual",
+    "card deck",
+    "future of work",
+    "Exit to Community"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_sunset_soft_round_exploded_technical_diagram_orange_w_ae37eb3c-ff5e-4d7d-a85b-3a4f5367677a-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/06/98-GONG-card-set-2024-03-28.pdf",
+    "title": "Exit to Protocol (card deck)"
+   },
+   "source_url": "https://summerofprotocols.com/research/exit-to-protocol"
+  },
+  {
+   "id": "timber-stinson-schroff--safe-new-world",
+   "creator_ids": [
+    "timber-stinson-schroff",
+    "shuya-gong"
+   ],
+   "title": "Safe New World / Self Ensured Card Collection",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay deriving a theory of protocol evolution from the history of workplace safety, paired with the Self Ensured Card Collection, a twelve-suit deck teams play to improve the health ergonomics of their workplace.",
+   "description_zh": "一篇从职场安全史推导协议演化理论的文章，配有 Self Ensured 卡牌集：一套十二花色的卡牌，团队通过游戏改善工作场所的健康与人体工学。",
+   "idea_en": "Protocols are intentional patterns of constraint on behaviour, and they evolve as technologies mature.",
+   "idea_zh": "协议是对行为有意施加的约束模式，它随技术成熟而演化。",
+   "protocol": "The deck holds protocols for movement, office design, nutrition, stress management and company norms; it can be played with a team, with a coworker, or solitaire-style.",
+   "protocol_zh": "卡牌包含关于运动、办公设计、营养、压力管理和公司规范的协议；可以团队玩、与同事两人玩，或像接龙一样独自玩。",
+   "collective": "Teams choose and adopt protocols through play, testing the essay's claim about which pressures select protocols as a technology matures.",
+   "collective_zh": "团队通过游戏选择并采纳协议，检验文章关于“哪些压力在技术成熟过程中筛选出协议”的论点。",
+   "keywords": [
+    "workplace safety",
+    "protocol evolution",
+    "card game",
+    "ergonomics"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_abstract_coal_mining_safety_protocol_exploded_technic_15e15b4f-a8c1-4ec9-a0cb-e6e727bc04d3-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/04/Safe-New-World-Timber-Stinson-Schroff.pdf",
+    "title": "Safe New World"
+   },
+   "source_url": "https://summerofprotocols.com/research/module-three/safe-new-world"
+  },
+  {
+   "id": "mashal-waqar--protocol-party",
+   "creator_ids": [
+    "mashal-waqar"
+   ],
+   "title": "Protocol Party",
+   "year": 2024,
+   "field": "score",
+   "sub": "constraints",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "game",
+   "description": "A printable board game with cards, designed as 'a starting point for your protocol journey', by a researcher who found that seeing the world through protocols changed how she navigated it.",
+   "description_zh": "一款可打印的卡牌桌游，定位为“协议之旅的起点”；作者发现用协议的眼光看世界彻底改变了她的日常行动方式。",
+   "idea_en": "Learn to see protocols by playing with them at a party.",
+   "idea_zh": "在派对上通过游戏学会看见协议。",
+   "protocol": "Players use a game board and a deck of cards (both downloadable) to explore the protocols they already follow.",
+   "protocol_zh": "玩家使用可下载的游戏板和卡牌，探索自己已经在遵循的协议。",
+   "collective": "The game is released for anyone to print and play, so groups can run their own sessions.",
+   "collective_zh": "游戏公开发布，任何人都可以打印来玩，各个群体可以自行组织游戏。",
+   "keywords": [
+    "board game",
+    "cards",
+    "protocol literacy"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/06/Screenshot-2024-06-13-at-14.16.23.png"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/06/69-WAQAR-GAMEBOARD.pdf",
+    "title": "Protocol Party game board"
+   },
+   "source_url": "https://summerofprotocols.com/research/protocol-party"
+  },
+  {
+   "id": "fangting--composable-life",
+   "creator_ids": [
+    "fangting"
+   ],
+   "title": "Composable Life: Us and Our Island",
+   "year": 2024,
+   "field": "score",
+   "sub": "constraints",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "chance",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "game",
+   "description": "A card-based protocol for composable memory: players build the life of a new fictional character, 'Eve', from a pool of real memory fragments contributed by different people, and the protocol generates her 'Memory Island'.",
+   "description_zh": "一套可组合记忆的卡牌协议：玩家从不同真实个人贡献的记忆碎片中挑选，拼出一个新虚构角色“Eve”的一生，协议随之生成她的“记忆之岛”。",
+   "idea_en": "A life assembled from strangers' real memories.",
+   "idea_zh": "由陌生人的真实记忆拼成的一生。",
+   "protocol": "Players draw from a shared pool of 'collective real memory' cards, select fragments from different people and arrange them into Eve's life archive. Each card carries a landscape on its back, and the landscapes combine into the island.",
+   "protocol_zh": "玩家从共享的“集体真实记忆”卡池中抽取，挑选来自不同人的碎片，排列成 Eve 的人生档案。每张卡背面都有一幅风景，风景拼合成一座岛。",
+   "collective": "The island is co-written by the people who contributed memories and the player who composes them; no two islands are the same.",
+   "collective_zh": "这座岛由贡献记忆的人和组合记忆的玩家共同写成；每座岛都不相同。",
+   "keywords": [
+    "memory",
+    "cards",
+    "generative",
+    "composability"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_murmuration_curving_exploded_technical_diagram_orange_a56879ee-cc0e-4e7d-86d4-f6cd7853a434-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/06/66-FANGTING.pdf",
+    "title": "Composable Life: Us and Our Island"
+   },
+   "source_url": "https://summerofprotocols.com/research/composable-life-us-and-our-island"
+  },
+  {
+   "id": "aaron-z-lewis--new-time-machines",
+   "creator_ids": [
+    "aaron-z-lewis",
+    "spencer-chang",
+    "kei-kreutler",
+    "nahee-kim",
+    "alice-noujaim"
+   ],
+   "title": "New Time Machines Working Group",
+   "year": 2024,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "time"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "A fictional agency formed by five 2023 researchers that designs memory protocols for 'aspiring time travellers': a memory kit of exercises, products and practices, with works such as Four Doors, Re-Move and the Memory Pouch.",
+   "description_zh": "由五位 2023 年研究者组成的虚构机构，为“有志的时间旅行者”设计记忆协议：一套包含练习、产品和实践的记忆工具包，其中有 Four Doors、Re-Move 和 Memory Pouch 等作品。",
+   "idea_en": "Revive the ancient arts of memory as protocols anyone can practise.",
+   "idea_zh": "把古老的记忆术复兴为任何人都能练习的协议。",
+   "protocol": "The kit is issued as a cover letter and five missives with exercises that let readers revisit people and places no longer present, from low-tech objects to imagined devices.",
+   "protocol_zh": "工具包以一封说明信和五份“函件”形式发布，里面的练习让读者重访已不在场的人和地方，从低技术物件到想象中的装置都有。",
+   "collective": "The group frames memory protocols as tools for curating the collective lore that holds communities together; readers are invited to carry out the exercises themselves.",
+   "collective_zh": "工作组把记忆协议视为整理社群共同传说的工具；读者被邀请亲自完成这些练习。",
+   "keywords": [
+    "memory",
+    "time travel",
+    "method of loci",
+    "working group"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_how_to_remember_procedure_exploded_technical_diagram__9be04fb1-2598-4feb-8b6e-ddad72708b24-jpg.webp",
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/Four-Doors-Cover-jpg.webp",
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/Re-Move-Header-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/03/Starproject-Missive-1.pdf",
+    "title": "New Time Machines — Missive One"
+   },
+   "source_url": "https://summerofprotocols.com/research/new-time-machines"
+  },
+  {
+   "id": "spencer-chang--memory-pouch",
+   "creator_ids": [
+    "spencer-chang"
+   ],
+   "title": "Weaving Memory / Memory Pouch",
+   "year": 2024,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [],
+   "mechanisms": [
+    "instruction",
+    "time"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "A speculative DIY design for a pouch in which the wearer collects everyday objects to memorialise what they want to pay attention to, presented as a reconstruction of devices worn by the 'Time Rangers' of the New Time Machines Working Group.",
+   "description_zh": "一个推想性的 DIY 设计：佩戴者在小袋中收集日常物件，以纪念自己想要关注的事物；作品被呈现为 New Time Machines 工作组“时间巡护员”所佩戴装置的复原。",
+   "idea_en": "A memory protocol you wear: decide what belongs in your own history.",
+   "idea_zh": "可以佩戴的记忆协议：由你决定什么属于你自己的历史。",
+   "protocol": "Anyone can make their own pouch following the design; the standard carry has six components, one for each sense plus a sixth sense of time, and wearers add personal pouches for what they care about.",
+   "protocol_zh": "任何人都可以按设计自制；标准配置有六个部分，对应五种感官和第六感“时间”，佩戴者再为自己在意的事物加上个人小袋。",
+   "collective": "Each wearer builds a personal memory practice; the work draws on Ursula K. Le Guin's carrier-bag theory of fiction.",
+   "collective_zh": "每位佩戴者都会形成自己的记忆实践；作品借用了厄休拉·勒古恩的“提袋理论”。",
+   "keywords": [
+    "Memory Pouch",
+    "carrier bag",
+    "DIY",
+    "wearable"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/Image33040-jpg.webp",
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_embroidered_hard_drive_on_a_white_background_orange_ff3d72b7-e5aa-48fe-a5cb-db92a02900c6-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/03/Weaving-Memory-Spencer-Chang.pdf",
+    "title": "Weaving Memory"
+   },
+   "source_url": "https://summerofprotocols.com/research/weaving-memory"
+  },
+  {
+   "id": "lizz-thabet--meet-me-on-the-deep-net",
+   "creator_ids": [
+    "lizz-thabet"
+   ],
+   "title": "Meet me on the deep net",
+   "year": 2024,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "A tiny browser game about crossing an ocean to meet a stranger, modelled on how Tor sets up anonymous rendezvous points; afterwards players visit a Tor site where earlier players have left islands and waves for future visitors.",
+   "description_zh": "一款关于跨越大海与陌生人相会的小型浏览器游戏，以 Tor 网络建立匿名会合点的方式为原型；通关后玩家访问一个 Tor 网站，那里有先前玩家为后来者留下的岛屿和浪花。",
+   "idea_en": "Stage the request-response ritual of anonymous networking as intimacy between strangers.",
+   "idea_zh": "把匿名网络中“请求—响应”的仪式，演成陌生人之间的亲密。",
+   "protocol": "Players complete the game, then travel to an onion site through Tor and leave a contribution to a shared landscape.",
+   "protocol_zh": "玩家先完成游戏，再通过 Tor 前往一个洋葱网站，为共享的风景留下一份贡献。",
+   "collective": "The deep-net landscape is built by everyone who has played and keeps growing for those who journey to find it.",
+   "collective_zh": "这片深网风景由所有玩过的人共同搭建，并为后来找到它的人继续生长。",
+   "keywords": [
+    "Tor",
+    "anonymity",
+    "browser game",
+    "offerings"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/09/can-you-imagine.gif"
+   ],
+   "source_url": "https://summerofprotocols.com/pills/meet-me-on-the-deep-net"
+  },
+  {
+   "id": "hua-xi-zi--all-just-fresh-off-the-boat",
+   "creator_ids": [
+    "hua-xi-zi"
+   ],
+   "title": "all just fresh-off-the-boat or floating",
+   "year": 2024,
+   "field": "network",
+   "sub": "telematic",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A multi-node real-time video protocol in which camera nodes meet, mask and displace each other through temporary virtual private networks, across geopolitical and platform boundaries.",
+   "description_zh": "一个多节点实时影像协议：摄像节点通过临时 VPN 彼此相遇、遮蔽和错位，跨越地缘政治和平台的边界。",
+   "idea_en": "Connection as material, protocol as aesthetics.",
+   "idea_zh": "连接即材料，协议即美学。",
+   "protocol": "Participants join as camera nodes over VPN tunnels and make images and videos together in the space between peers, servers and addresses.",
+   "protocol_zh": "参与者以摄像节点身份通过 VPN 隧道加入，在节点、服务器和地址之间的空隙里共同制作图像与视频。",
+   "collective": "The resulting footage is produced jointly by the connected nodes as they lurk, surveil, participate or disengage.",
+   "collective_zh": "最终的影像由相连的节点共同产生，节点们潜伏、监视、参与或退出。",
+   "keywords": [
+    "VPN",
+    "real-time video",
+    "nodes",
+    "telematic"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/09/floating-fob.png"
+   ],
+   "source_url": "https://summerofprotocols.com/pills/all-just-fresh-off-the-boat-or-floating"
+  },
+  {
+   "id": "ben-zucker--renotations",
+   "creator_ids": [
+    "ben-zucker"
+   ],
+   "title": "Renotations",
+   "year": 2024,
+   "field": "score",
+   "sub": "constraints",
+   "also": [],
+   "mechanisms": [
+    "instruction",
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "A prototype kit of instructions and tools for reassigning the information in a musical score, so any piece can be played upside down, backwards or otherwise re-read.",
+   "description_zh": "一套原型工具包，提供指令和工具来重新分配乐谱中的各类信息，让任何乐曲都可以被倒着、反着或以其他方式重新演奏。",
+   "idea_en": "Just because it is written like that does not mean it has to sound like that.",
+   "idea_zh": "写成这样，不代表必须听起来是这样。",
+   "protocol": "Performers apply the kit's reassignment rules to any score, remapping pitch, rhythm and other parameters.",
+   "protocol_zh": "演奏者把工具包的重新分配规则应用到任何乐谱上，重新映射音高、节奏等参数。",
+   "collective": "Each performer who applies the kit produces a new version of a familiar piece; the demonstration includes musical examples.",
+   "collective_zh": "每位使用工具包的演奏者都会为熟悉的曲子产生一个新版本；演示中附有音乐示例。",
+   "keywords": [
+    "music",
+    "score",
+    "reassignment",
+    "kit"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/Renotations-cover-3.png"
+   ],
+   "source_url": "https://summerofprotocols.com/pills/renotations"
+  },
+  {
+   "id": "yuemin-huang--protocol-with-uncommunicables",
+   "creator_ids": [
+    "yuemin-huang"
+   ],
+   "title": "Protocol with uncommunicables",
+   "year": 2024,
+   "field": "score",
+   "sub": "constraints",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "game",
+   "description": "A game in which players learn to draft protocols with things that cannot negotiate, from pigeons to screaming babies to a power cut.",
+   "description_zh": "一款游戏，玩家学习与无法谈判的事物起草协议，从鸽子、尖叫的婴儿到停电。",
+   "idea_en": "Write a treaty with the pigeon: protocols as a way of living with the uncontrollable.",
+   "idea_zh": "和鸽子签条约：协议是一种与不可控之物共处的方式。",
+   "protocol": "Guided by options drawn from existing protocols, players negotiate cases such as a pigeon defecation protocol for urban space or a baby-screaming protocol for public space, and end by reflecting on whom or what they actually want to sign a protocol with.",
+   "protocol_zh": "在取材自现有协议的选项引导下，玩家处理诸如“城市空间鸽子排便协议”“公共场所婴儿尖叫协议”等案例，最后反思自己真正想与谁、与什么签订协议。",
+   "collective": "Each playthrough produces a player's own draft protocols.",
+   "collective_zh": "每一轮游戏都会产出玩家自己起草的协议。",
+   "keywords": [
+    "game",
+    "drafting",
+    "non-human",
+    "negotiation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/979955247"
+   },
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/Cover-1.png"
+   ],
+   "source_url": "https://summerofprotocols.com/pills/protocol-with-uncommunicables"
+  },
+  {
+   "id": "haotian-fang--on-chain-data-sculpture",
+   "creator_ids": [
+    "haotian-fang"
+   ],
+   "title": "On-chain Data Sculpture Exhibition",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "A proposal and prototype for an exhibition in which creators sculpt physical objects that interpret the stories held in their own on-chain data.",
+   "description_zh": "一个展览的提案与原型：创作者根据自己链上数据中的故事雕塑实体物件。",
+   "idea_en": "Bring on-chain narratives off-chain as objects people can touch.",
+   "idea_zh": "把链上叙事带到链下，变成可以触摸的物件。",
+   "protocol": "Creators take their on-chain records as material and each make a data sculpture from chosen materials, shown together in an exhibition.",
+   "protocol_zh": "创作者把自己的链上记录当作素材，各自选择材料制作数据雕塑，并在展览中一起展出。",
+   "collective": "The exhibition's content comes from what each participant's data and choices produce.",
+   "collective_zh": "展览内容来自每位参与者的数据及其选择。",
+   "keywords": [
+    "data sculpture",
+    "on-chain data",
+    "exhibition"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/cover.png"
+   ],
+   "source_url": "https://summerofprotocols.com/pills/on-chain-data-sculpture-exhibition"
+  },
+  {
+   "id": "summer-of-protocols--protocol-worlds",
+   "creator_ids": [
+    "summer-of-protocols"
+   ],
+   "title": "Protocol Worlds (S0xP at Edge Esmeralda)",
+   "year": 2024,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "co-authorship",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "game",
+   "description": "A week-long worldbuilding event run by Summer of Protocols and 0xPARC at Edge Esmeralda in June 2024, in which teams co-created speculative worlds from converging protocol constraints.",
+   "description_zh": "2024 年 6 月由 Summer of Protocols 与 0xPARC 在 Edge Esmeralda 合办的为期一周的世界构建活动，各团队根据交汇的协议约束共同创造推想世界。",
+   "idea_en": "Part scavenger hunt, part exquisite corpse: build worlds from constraints.",
+   "idea_zh": "一半寻宝游戏，一半“精致的尸体”：用约束构建世界。",
+   "protocol": "After a kick-off workshop on 23 June, daily worldbuilding workshops (24–26 June) helped teams instantiate their worlds and onboard new contributors; researchers exposed participants to the key tensions in their fields.",
+   "protocol_zh": "6 月 23 日的启动工作坊之后，6 月 24 日至 26 日每天举行世界构建工作坊，帮助团队落实各自的世界并吸纳新贡献者；研究者向参与者介绍各自领域最关键的张力。",
+   "collective": "The week ended with a playful reveal of the speculative futures the teams had built.",
+   "collective_zh": "一周以各团队推想未来的趣味揭晓作结。",
+   "keywords": [
+    "worldbuilding",
+    "0xPARC",
+    "Edge Esmeralda",
+    "exquisite corpse"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/06/2024-06-05-10.44.02-jpg.webp"
+   ],
+   "source_url": "https://summerofprotocols.com/protocol-week"
+  },
+  {
+   "id": "botao-amber-hu--autonomous-realities",
+   "creator_ids": [
+    "botao-amber-hu",
+    "yisi-liu"
+   ],
+   "title": "Autonomous Realities",
+   "year": 2024,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "contract"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "Two speculative protocols for a future of common mixed-reality headsets: FingerSync, an embodied handshake that opens a shared MR session with proof-carrying data, and Autonomous Realities, a meta-protocol for persistent shared layers.",
+   "description_zh": "为混合现实头显普及的未来提出的两个推想协议：FingerSync 是一种以身体完成、借助“携证数据”开启共享 MR 会话的握手；Autonomous Realities 则是维持持久共享层的元协议。",
+   "idea_en": "A secret handshake as the protocol that lets people share a reality.",
+   "idea_zh": "用一次“秘密握手”作为让人们共享一个现实的协议。",
+   "protocol": "FingerSync establishes a shared mixed-reality session through an embodied gesture, inspired by the ancient secret handshake; the shared layer is meant to stay persistent and autonomous even when no one is viewing it. The meta-protocol draws on Autonomous Worlds and Zupass.",
+   "protocol_zh": "FingerSync 借鉴古老的秘密握手，通过身体手势建立共享混合现实会话；共享层即使无人观看也保持持久与自治。元协议借鉴了 Autonomous Worlds 与 Zupass 的概念。",
+   "collective": "Presented as a 2024 Summer of Protocols case study and at Protocol Symposium 2024; the protocols are designed for groups of headset users to establish and keep shared realities.",
+   "collective_zh": "作为 2024 年 Summer of Protocols 案例研究，并在 Protocol Symposium 2024 上发表；这些协议面向头显用户群体，用于建立和维持共享现实。",
+   "keywords": [
+    "mixed reality",
+    "FingerSync",
+    "handshake",
+    "Zupass",
+    "Autonomous Worlds"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xIJP3Dtj7Sc"
+   },
+   "source_url": "https://summerofprotocols.com/case-study/autonomous-realities"
+  },
+  {
+   "id": "nathalia-scherer--fire-protocols",
+   "creator_ids": [
+    "nathalia-scherer",
+    "jiordi-rosales"
+   ],
+   "title": "Fire Protocols: Attention as Autopoietic Space",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A case study mapping the protocols of low-intensity cultural burning in California, which state institutions have repopularised after once criminalising the Indigenous knowledge they now rely on.",
+   "description_zh": "一项梳理加州低强度文化性烧除协议的案例研究：州政府机构曾将这些原住民知识入罪，如今却重新推广并依赖它们。",
+   "idea_en": "Adapt communities to fire as a practice rather than suppress it as a threat.",
+   "idea_zh": "让社群把火当作一种实践去适应，而不是当作威胁去扑灭。",
+   "protocol": "The study draws a base map of relations among agencies, practitioners and communities around prescribed and cultural burning, the protocols by which fire is permitted, carried out and learned.",
+   "protocol_zh": "研究绘制了围绕计划烧除与文化性烧除的机构、实践者与社群之间的关系底图，即火如何被许可、执行与学习的协议。",
+   "collective": "Communities, burn practitioners and agencies are the ones who carry out these protocols; the case was presented at Protocol Symposium 2024.",
+   "collective_zh": "执行这些协议的是社群、烧除实践者与政府机构；该案例在 Protocol Symposium 2024 上发表。",
+   "keywords": [
+    "cultural burning",
+    "California",
+    "fire ecology",
+    "Indigenous knowledge"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZcnI_ErQoV8"
+   },
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/10/image1.png"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/10/Fire-Protocols-Case-File.pdf",
+    "title": "Fire Protocols case file"
+   },
+   "source_url": "https://summerofprotocols.com/case-study/fire-protocols"
+  },
+  {
+   "id": "martin-benedikt-busch--plurality-in-practice",
+   "creator_ids": [
+    "martin-benedikt-busch",
+    "rich-mcdowell"
+   ],
+   "title": "Plurality in Practice",
+   "year": 2024,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A case study that field-tests plural alternatives to quadratic voting and funding, especially cluster match, which take voter identity and expertise into account.",
+   "description_zh": "一项案例研究，实地测试二次方投票与二次方资助的多元替代方案，尤其是考虑投票者身份与专长的聚类匹配（cluster match）。",
+   "idea_en": "Test voting protocols with real groups instead of only in theory.",
+   "idea_zh": "在真实群体中测试投票协议，而不只停留于理论。",
+   "protocol": "The project runs experimental votes and allocations with groups using cluster-match style mechanisms and compares their outcomes with quadratic voting.",
+   "protocol_zh": "项目在群体中运行采用聚类匹配等机制的实验性投票与分配，并与二次方投票的结果比较。",
+   "collective": "Results were presented at Protocol Symposium 2024 in a public case file.",
+   "collective_zh": "结果在 Protocol Symposium 2024 上发表，并附有公开的案例文件。",
+   "keywords": [
+    "quadratic voting",
+    "cluster match",
+    "plural funding",
+    "governance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=snnk_8q1w_4"
+   },
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/10/image3.png"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/10/Plurality-in-Practice-Case-File.pdf",
+    "title": "Plurality in Practice case file"
+   },
+   "source_url": "https://summerofprotocols.com/case-study/plurality-in-practice"
+  },
+  {
+   "id": "summer-of-protocols--protocol-kit",
+   "creator_ids": [
+    "summer-of-protocols"
+   ],
+   "title": "Protocol Kit",
+   "year": 2023,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "also": [],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A three-ring binder of more than 400 pages, mailed out in six modules, containing printed versions of all research from the 2023 programme plus tools for study, policy-making, scene-making and entrepreneurship.",
+   "description_zh": "一本超过 400 页的活页夹，分六个模块寄出，收录 2023 年计划全部研究成果的印刷版，以及用于学习、政策制定、圈子营造与创业的工具。",
+   "idea_en": "A binder so that readers add their own protocols and notes.",
+   "idea_zh": "做成活页夹，是为了让读者加入自己的协议和笔记。",
+   "protocol": "The kit is not for sale: 512 copies were offered to selected individuals and organisations who request one; the binder format invites recipients to add their own selections.",
+   "protocol_zh": "工具包不出售：512 份赠送给提出申请并获选的个人和机构；活页夹形式邀请收件人加入自己的内容。",
+   "collective": "Recipients use it for systematic study and to run their own protocol groups and research.",
+   "collective_zh": "收件人用它进行系统学习，并组织自己的协议小组和研究。",
+   "keywords": [
+    "Protocol Kit",
+    "binder",
+    "Retrospectus"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/Protocol-Kit-M1-small.png"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2023/12/01-RETROSPECTUS-2023-12-13.pdf",
+    "title": "Summer of Protocols Retrospectus"
+   },
+   "source_url": "https://summerofprotocols.com/kit"
+  },
+  {
+   "id": "summer-of-protocols--protocol-reader",
+   "creator_ids": [
+    "summer-of-protocols",
+    "venkatesh-rao"
+   ],
+   "title": "The Protocol Reader",
+   "year": 2025,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "also": [],
+   "mechanisms": [
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A 358-page book of 26 foundational essays by 31 authors from the programme, edited as an introduction to protocol studies in four parts: Seeing Protocols, Arguing Protocols, World Engines and Living With Protocols.",
+   "description_zh": "一本 358 页的书，收录计划中 31 位作者的 26 篇基础性文章，编为协议研究入门，分四部分：看见协议、论证协议、世界引擎、与协议共处。",
+   "idea_en": "A core text for courses and workshops on protocols.",
+   "idea_zh": "一本可用于协议课程和工作坊的核心读本。",
+   "protocol": "Released as a free EPUB for a weekend deep dive or as the core text of a course.",
+   "protocol_zh": "以免费 EPUB 形式发布，可作为周末深读，也可作为课程核心教材。",
+   "collective": "The Reader collects the cohorts' essays into a shared canon for new readers and teachers.",
+   "collective_zh": "Reader 把各届研究者的文章汇编成新读者和教师共享的经典读本。",
+   "keywords": [
+    "Protocol Reader",
+    "protocol studies",
+    "anthology"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2025/02/1740686225-e1740686328589.png"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/protocol-reader",
+    "title": "The Protocol Reader"
+   },
+   "source_url": "https://summerofprotocols.com/protocol-reader"
+  },
+  {
+   "id": "nadia-asparouhova--dangerous-protocols",
+   "creator_ids": [
+    "nadia-asparouhova"
+   ],
+   "title": "Dangerous Protocols",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on the dangerous side of protocols: the same power to drive coordination lets them control people, eventually through their internalised sense of self.",
+   "description_zh": "一篇讨论协议危险一面的文章：推动协调的力量同样让协议能控制人，最终通过人内化的自我意识实现。",
+   "idea_en": "Protocols reduce complexity by reducing agency.",
+   "idea_zh": "协议通过削减能动性来削减复杂性。",
+   "protocol": "Argues that work, relationships, leisure and ideology are increasingly 'protocolized', and that reasserting control means first noticing protocols, then working subversively through their constraints. Comes with a 'Kafka Index'.",
+   "protocol_zh": "认为工作、关系、休闲与意识形态日益被“协议化”；要重夺控制，首先要察觉协议，然后在其约束之内颠覆性地行事。附有“卡夫卡指数”。",
+   "collective": "Widely cited within the programme; Shreeda Segan's essay on dating apps applies its framework.",
+   "collective_zh": "在计划内部被广泛引用；Shreeda Segan 关于约会应用的文章即应用了它的框架。",
+   "keywords": [
+    "control",
+    "agency",
+    "Kafka Index"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_warning_symbol_protocols_exploded_technical_diagram_o_3f614bf2-b9da-46c2-a7af-e6a8d21f02b5-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Protocols-Nadia-Asparouhova.pdf",
+    "title": "Dangerous Protocols"
+   },
+   "source_url": "https://summerofprotocols.com/research/dangerous-protocols"
+  },
+  {
+   "id": "david-lang--standards-make-the-world",
+   "creator_ids": [
+    "david-lang"
+   ],
+   "title": "Standards Make the World",
+   "year": 2023,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Part history, part personal narrative about the Bristlemouth connector standard, and part guidebook for creating disruptive new technical standards.",
+   "description_zh": "一部分是历史，一部分是关于 Bristlemouth 连接器标准的亲历叙述，还有一部分是创建颠覆性新技术标准的指南。",
+   "idea_en": "Technical standards are the quiet rules that shape civilisation.",
+   "idea_zh": "技术标准是塑造文明的无声规则。",
+   "protocol": "Describes how standards are proposed, adopted and maintained by communities of makers alongside companies and institutions.",
+   "protocol_zh": "描述标准如何由创造者社群与企业、机构一起提出、采纳和维护。",
+   "collective": "Draws on the author's experience of rallying an ocean-technology community around an open connector standard.",
+   "collective_zh": "取材于作者围绕一个开放连接器标准聚集海洋技术社群的经历。",
+   "keywords": [
+    "standards",
+    "Bristlemouth",
+    "ocean technology"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_standards_and_measurements_nautical_use_orange_white__42bfe211-da4c-42b5-a50b-135acc2c0ded-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2023/12/04-LANG-2023-12-13.pdf",
+    "title": "Standards Make the World"
+   },
+   "source_url": "https://summerofprotocols.com/research/standards-make-the-world"
+  },
+  {
+   "id": "janna-tay--phenomenology-of-protocols",
+   "creator_ids": [
+    "janna-tay"
+   ],
+   "title": "A Phenomenology of Protocols",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay arguing that protocols encourage particular states of being in their participants, and can impair or enhance human flourishing.",
+   "description_zh": "一篇文章，主张协议会在参与者身上催生特定的存在状态，可能损害也可能促进人的繁荣。",
+   "idea_en": "Whether and how to implement a protocol is a moral question, not only an efficiency question.",
+   "idea_zh": "是否以及如何实施一个协议，是道德问题，不只是效率问题。",
+   "protocol": "Uses phenomenological method to examine how following a protocol changes how a participant thinks and acts beyond the behaviour it prescribes.",
+   "protocol_zh": "以现象学方法考察遵循协议如何在其规定的行为之外改变参与者的思考和行动。",
+   "collective": "Asks designers to wield protocols as ends in themselves as well as means.",
+   "collective_zh": "呼吁设计者既把协议当作手段，也把它当作目的本身。",
+   "keywords": [
+    "phenomenology",
+    "flourishing",
+    "ethics"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_abstract_labyrinth_phenomenology_exploded_technical_d_e4db1ff9-e3ea-431a-bb59-2fd9206403ad-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/04/A-Phenomenology-of-Protocols-Janna-Tay.pdf",
+    "title": "A Phenomenology of Protocols"
+   },
+   "source_url": "https://summerofprotocols.com/research/a-phenomenology-of-protocols"
+  },
+  {
+   "id": "angela-walch--protocol-system-experience",
+   "creator_ids": [
+    "angela-walch"
+   ],
+   "title": "The Protocol System Experience",
+   "year": 2024,
+   "field": "theory",
+   "sub": "participation",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on what it feels like to be an individual in a protocol system (nations, religions, professions, families, blockchains): how one enters, performs a role and decides to stay or leave.",
+   "description_zh": "一篇关于身处协议系统（国家、宗教、职业、家庭、区块链）中的个人感受的文章：人如何进入、扮演角色、决定留下或离开。",
+   "idea_en": "Look at protocols from the participant's seat, not only the system level.",
+   "idea_zh": "从参与者的位置看协议，而不只从系统层面看。",
+   "protocol": "Presents a conceptual framework and a set of archetypes participants meet, and asks whether they even know they are participating.",
+   "protocol_zh": "提出一个概念框架和参与者会遇到的一组原型，并追问他们是否意识到自己正在参与。",
+   "collective": "Invites readers to examine the protocol systems in their own lives.",
+   "collective_zh": "邀请读者审视自己生活中的协议系统。",
+   "keywords": [
+    "protocol systems",
+    "archetypes",
+    "agency"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_protocol_archetypes_exploded_technical_diagram_orange_c726bed1-e7b9-4432-9a5a-b7c8de1ab6da-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/09/The-Fundamentals-of-Protocol-Systems-Angela-Walch.pdf",
+    "title": "The Protocol System Experience"
+   },
+   "source_url": "https://summerofprotocols.com/research/the-protocol-system-experience"
+  },
+  {
+   "id": "drew-austin--protocols-dont-build-pyramids",
+   "creator_ids": [
+    "drew-austin"
+   ],
+   "title": "Protocols Don't Build Pyramids",
+   "year": 2023,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on protocols as the middle layer between the fast 'software' and slow 'hardware' of the city, with a Protocol Pattern Language for Urban Space after Christopher Alexander.",
+   "description_zh": "一篇文章，把协议视为城市快速变化的“软件”与缓慢的“硬件”之间的中间层，并附一套仿照克里斯托弗·亚历山大的“城市空间协议模式语言”。",
+   "idea_en": "Improve cities through protocols that people can apply without ever doing it the same way twice.",
+   "idea_zh": "通过人们可以反复应用、每次却都不相同的协议来改善城市。",
+   "protocol": "The accompanying pattern language, serialised in six parts with a DIY blank, gives patterns readers can apply and extend.",
+   "protocol_zh": "配套的模式语言分六部分连载，并附有 DIY 空白模板，读者可以应用和扩展这些模式。",
+   "collective": "The blank template invites readers to write their own urban protocol patterns.",
+   "collective_zh": "空白模板邀请读者写出自己的城市协议模式。",
+   "keywords": [
+    "urbanism",
+    "pattern language",
+    "Christopher Alexander"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/10/Protocols-Dont-Build-Pyramids-1-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2023/12/02-AUSTIN-2023-12-13.pdf",
+    "title": "Protocols Don't Build Pyramids"
+   },
+   "source_url": "https://summerofprotocols.com/research/protocols-dont-build-pyramids"
+  },
+  {
+   "id": "chenoe-hart--addressable-space",
+   "creator_ids": [
+    "chenoe-hart"
+   ],
+   "title": "Addressable Space",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Research on how digital information and addressing systems are encoded in the built environment, with a serialised visual appendix of scenarios and proposals for new spatial protocols.",
+   "description_zh": "研究数字信息与地址系统如何被编码进建成环境，并附一份连载的视觉附录，包含各种场景和新空间协议的提案。",
+   "idea_en": "Addressability is a spatial concept that can be designed.",
+   "idea_zh": "可寻址性是一个可以被设计的空间概念。",
+   "protocol": "The appendix is explicitly open-ended and could be expanded over time with contributions from other authors.",
+   "protocol_zh": "附录明确是开放的，可以随时间由其他作者的贡献扩充。",
+   "collective": "Proposes new protocols for representing and inhabiting space.",
+   "collective_zh": "提出了表现与栖居空间的新协议。",
+   "keywords": [
+    "addressing",
+    "architecture",
+    "built environment"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/Addressable-Space-Cover-Image-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/01/Addressable-Space-Chenoe-Hart.pdf",
+    "title": "Addressable Space"
+   },
+   "source_url": "https://summerofprotocols.com/research/addressable-space"
+  },
+  {
+   "id": "saffron-huang--control-and-consciousness-of-time",
+   "creator_ids": [
+    "saffron-huang"
+   ],
+   "title": "Control and Consciousness of Time",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay tracing how timekeeping protocols and devices, from Roman sundials to colonial clock towers, have shaped consciousness and served as a site of control.",
+   "description_zh": "一篇文章，追溯从罗马日晷到殖民地钟楼的计时协议与装置如何塑造意识、成为控制的场所。",
+   "idea_en": "Good protocols constrain in order to liberate.",
+   "idea_zh": "好的协议通过约束来解放。",
+   "protocol": "Argues that minute-by-minute clock time enables complex collective endeavours while straining against human biology, and that timekeeping protocols may need to diversify.",
+   "protocol_zh": "认为分秒计的时钟时间使复杂的集体事业成为可能，同时与人的生理节律相冲突，计时协议或许需要多样化。",
+   "collective": "Frames time as the most widely shared protocol humans follow.",
+   "collective_zh": "把时间视为人类遵循的最广泛共享的协议。",
+   "keywords": [
+    "timekeeping",
+    "clocks",
+    "power"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_Control_and_consciousness_of_time_exploded_technical__fa0362d1-0f5a-4008-bd90-475b9a341932-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/03/Control-and-Consciousness-of-Time-Saffron-Huang.pdf",
+    "title": "Control and Consciousness of Time"
+   },
+   "source_url": "https://summerofprotocols.com/research/control-and-consciousness-of-time"
+  },
+  {
+   "id": "kei-kreutler--artificial-memory-and-orienting-infinity",
+   "creator_ids": [
+    "kei-kreutler"
+   ],
+   "title": "Artificial Memory and Orienting Infinity",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on the history of 'artificial memory', procedural aids to recollection from the method of loci to transistors and community lore, proposing memory as orientation.",
+   "description_zh": "一篇关于“人工记忆”史的文章：从记忆宫殿到晶体管、再到社群传说的回忆辅助程序，并提出“记忆即定向”。",
+   "idea_en": "Memory is a protocolized practice, not just storage.",
+   "idea_zh": "记忆是一种协议化的实践，而不只是存储。",
+   "protocol": "Builds a framework beyond computing metaphors for how memory operates in the world.",
+   "protocol_zh": "建立一个超越计算隐喻的框架，解释记忆如何在世界中运作。",
+   "collective": "Part of the memory research shared with the New Time Machines Working Group.",
+   "collective_zh": "是与 New Time Machines 工作组共享的记忆研究的一部分。",
+   "keywords": [
+    "artificial memory",
+    "method of loci",
+    "lore"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_artificial_memory_orienting_infinity_exploded_technic_255f4914-be13-44fa-bd40-d0a2512994f9-jpg-e1708541287775.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/03/Artificial-Memory-and-Orienting-Infinity-Kei-Kreutler.pdf",
+    "title": "Artificial Memory and Orienting Infinity"
+   },
+   "source_url": "https://summerofprotocols.com/research/artificial-memory-and-orienting-infinity"
+  },
+  {
+   "id": "olivia-steiert--protocols-in-emergency-time",
+   "creator_ids": [
+    "olivia-steiert"
+   ],
+   "title": "Protocols in (Emergency) Time",
+   "year": 2023,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "time"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A study based on interviews with the 2023 core researchers, proposing three theses on protocols and time: they emerge from crisis, they both change and conserve behaviour, and they lack goal-orientation toward the future.",
+   "description_zh": "基于对 2023 年核心研究者访谈的研究，提出关于协议与时间的三条论点：协议生于危机；它既改变又保守行为；它缺乏面向未来的目标导向。",
+   "idea_en": "Protocols make the future manageable without aiming at it.",
+   "idea_zh": "协议让未来变得可管理，却并不以未来为目标。",
+   "protocol": "Examines when protocols enable innovative agency and when they enforce convention or emergency measures.",
+   "protocol_zh": "考察协议何时促成创新的能动性，何时强化惯例或紧急措施。",
+   "collective": "Synthesises the programme's own projects as its data.",
+   "collective_zh": "以计划自身的项目作为研究数据。",
+   "keywords": [
+    "temporality",
+    "crisis",
+    "interviews"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_an_exploded_diagram_of_a_spiral_made_of_changing_prot_139c0c85-8728-41fd-99e5-da7499547e09-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2023/12/03-STEIERT-2023-12-13.pdf",
+    "title": "Protocols in (Emergency) Time"
+   },
+   "source_url": "https://summerofprotocols.com/research/protocols-in-emergency-time"
+  },
+  {
+   "id": "rafael-fernandez--the-swarm-and-the-formation",
+   "creator_ids": [
+    "rafael-fernandez"
+   ],
+   "title": "The Swarm and the Formation",
+   "year": 2024,
+   "field": "theory",
+   "sub": "participation",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on online swarms, networks of people, bots and content that act collectively without explicit protocols, contrasted with formations that have them, with a swarm-protocol workshop and design fiction.",
+   "description_zh": "一篇讨论网络“蜂群”的文章：由人、机器人和内容组成、没有明确协议却能集体行动的网络，并与有明确协议的“编队”对照；附蜂群协议工作坊和设计小说。",
+   "idea_en": "Swarms act without explicit protocols; can they be steered?",
+   "idea_zh": "蜂群没有明确协议也能行动；它能被引导吗？",
+   "protocol": "Studies cases such as the mutual-aid response to Hurricane María; the workshop document and 'Flow' onboarding fiction let groups practise swarm-like coordination.",
+   "protocol_zh": "研究飓风玛丽亚后的互助响应等案例；工作坊文件和“Flow”入门设计小说让群体练习类似蜂群的协调。",
+   "collective": "The workshop is designed to be run by groups exploring how to steer swarms.",
+   "collective_zh": "工作坊供探索如何引导蜂群的群体自行开展。",
+   "keywords": [
+    "swarms",
+    "mutual aid",
+    "Hurricane María",
+    "workshop"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_large_dynamic_and_often_chaotic_group_moving_together_83db37b3-f204-4541-b516-3c0aeed5ec6d-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/06/67-FERNANDEZ-Swarm-Protocol-Workshop.pdf",
+    "title": "The Swarm and the Formation"
+   },
+   "source_url": "https://summerofprotocols.com/research/the-swarm-and-the-formation"
+  },
+  {
+   "id": "kara-kittel--unprotocolized-knowledge",
+   "creator_ids": [
+    "kara-kittel",
+    "toby-shorin"
+   ],
+   "title": "Unprotocolized Knowledge",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on how internet crankery, amateur science and cases like the LK-99 replication craze expose the limits of official knowledge protocols such as peer review, and how new roles emerge to make internet fascinations credible.",
+   "description_zh": "一篇文章，讨论网络怪论、业余科学以及 LK-99 复现热潮等案例如何暴露同行评审等官方知识协议的局限，以及新的角色如何出现，让网络热点变成可信知识。",
+   "idea_en": "Expand who gets to take part in producing knowledge.",
+   "idea_zh": "扩大谁可以参与知识的生产。",
+   "protocol": "Reads 'post-truth' as paradigm shifts playing out over an expanded social field, and asks how protocol thinking could speed up and widen legitimate knowledge production.",
+   "protocol_zh": "把“后真相”解读为在更广社会场域中展开的范式转移，并追问协议思维如何加快、扩大正当的知识生产。",
+   "collective": "Uses crowds of online replicators and fraud-hunting bloggers as its evidence.",
+   "collective_zh": "以网络上的复现者群体和打假博主为证据。",
+   "keywords": [
+    "peer review",
+    "LK-99",
+    "post-truth",
+    "citizen science"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_letters_turning_into_journals_that_turn_into_a_networ_452b85e9-3806-4ca1-ae6c-dfba88490b10-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/06/15-e41-KITTEL-rev-2024-06-12-1448.pdf",
+    "title": "Unprotocolized Knowledge"
+   },
+   "source_url": "https://summerofprotocols.com/research/module-four/unprotocolized-knowledge"
+  },
+  {
+   "id": "dorian-taylor--retrofitting-the-web",
+   "creator_ids": [
+    "dorian-taylor"
+   ],
+   "title": "Retrofitting the Web",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay arguing that the Web's links are brittle, one-way and untyped, and proposing how to retrofit it into denser hypermedia.",
+   "description_zh": "一篇文章，认为万维网的链接脆弱、单向、无类型，并提出如何把它改造成更密集的超媒体。",
+   "idea_en": "Hypermedia is nothing without links.",
+   "idea_zh": "没有链接，超媒体什么都不是。",
+   "protocol": "Lays out the costs of sparse linking for readers, authors and developers and the practical steps to add backlinks and typed links.",
+   "protocol_zh": "列出链接稀疏给读者、作者和开发者带来的代价，以及加入反向链接和类型化链接的实际步骤。",
+   "collective": "Addressed to the web's builders as a protocol-level fix.",
+   "collective_zh": "面向万维网的建设者，作为协议层面的修补。",
+   "keywords": [
+    "hypertext",
+    "links",
+    "Web"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_sphere_made_of_infinite_links_internet_exploded_techn_88b49247-3d68-4d17-bda7-74faa48ac00d-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/09/Retrofitting-the-Web-Dorian-Taylor.pdf",
+    "title": "Retrofitting the Web"
+   },
+   "source_url": "https://summerofprotocols.com/research/retrofitting-the-web"
+  },
+  {
+   "id": "sarah-friend--good-death",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Good Death",
+   "year": 2024,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "time",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on the end of life of 'worlds', the communities that grow on protocols, games and platforms, arguing that a world's death is a decision-making process with a duration, with proposals for how to kill worlds well.",
+   "description_zh": "一篇讨论“世界”（生长在协议、游戏和平台上的社群）如何走向终结的文章，主张世界的死亡是一个有时长的决策过程，并提出如何让世界好好死去。",
+   "idea_en": "Design the death of a protocol world as carefully as its birth.",
+   "idea_zh": "像设计诞生一样认真地设计一个协议世界的死亡。",
+   "protocol": "Accompanied by a taxonomy of protocol deaths and 'Founding Memorabilia from the Order of Protocological Death', a series of proposals for ending worlds in blockchains and DAOs.",
+   "protocol_zh": "附有一份协议死亡的分类，以及《协议死亡骑士团创始纪念品》——一系列在区块链和 DAO 中终结世界的提案。",
+   "collective": "Draws on eulogies for dead video games, 4chan's auto-deleted posts and the history of diagnosing human death; it connects to the artist's Lifeforms.",
+   "collective_zh": "取材于为停服电子游戏所致的悼词、4chan 自动删除的帖子以及人类死亡判定的历史；与艺术家的 Lifeforms 一脉相承。",
+   "keywords": [
+    "death",
+    "worlds",
+    "DAOs",
+    "archiving"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_abstract_composition_where_solid_geometric_forms_are__7523f357-bd79-456c-93bc-2d704c451581-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/08/Good-Death-Sarah-Friend.pdf",
+    "title": "Good Death"
+   },
+   "source_url": "https://summerofprotocols.com/research/good-death"
+  },
+  {
+   "id": "alice-noujaim--death-of-orkut",
+   "creator_ids": [
+    "alice-noujaim"
+   ],
+   "title": "The Death and the Death of Orkut",
+   "year": 2024,
+   "field": "theory",
+   "sub": "participation",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A case study of the fall of Orkut, the social network that dominated Brazil in the 2000s, contrasting its careful deactivation protocols with the abrupt end of its Community Archive.",
+   "description_zh": "关于 Orkut 衰落的案例研究：这个社交网络曾在 2000 年代主导巴西网络空间；研究对比了它谨慎的停用协议与其“社群档案”戛然而止的结局。",
+   "idea_en": "A platform's communities can die twice: when it shuts, and when its archive does.",
+   "idea_zh": "一个平台的社群会死两次：一次是平台关闭，一次是档案消失。",
+   "protocol": "Emphasises Orkut's forum-like communities as sites of collective experiments with new social protocols.",
+   "protocol_zh": "强调 Orkut 类论坛社群是集体试验新社交协议的场所。",
+   "collective": "Orkut persists through fragmented online traces and users' personal recollections.",
+   "collective_zh": "Orkut 通过零散的网络痕迹和用户的个人回忆延续。",
+   "keywords": [
+    "Orkut",
+    "Brazil",
+    "digital memory",
+    "archive"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_digital_footprints_fading_into_the_distance_exploded__878264bd-431f-4c2c-bd8a-34308a147bf6-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/08/The-Death-and-the-Death-of-Orkut-Alice-Noujaim.pdf",
+    "title": "The Death and the Death of Orkut"
+   },
+   "source_url": "https://summerofprotocols.com/research/death-and-the-death-of-orkut"
+  },
+  {
+   "id": "shreeda-segan--dangerous-dating-protocols",
+   "creator_ids": [
+    "shreeda-segan"
+   ],
+   "title": "Dangerous Dating Protocols",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "exchange"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "An essay on how swipe-based apps hold a 'protocol monopoly' over dating in the West, and what decentralised alternatives might look like.",
+   "description_zh": "一篇文章，讨论滑动式应用如何在西方形成约会的“协议垄断”，以及去中心化的替代方案可能是什么样子。",
+   "idea_en": "A protocol can win on liquidity while failing its users.",
+   "idea_zh": "一个协议可以靠流动性胜出，同时辜负它的用户。",
+   "protocol": "Traces dating protocols from arranged marriage and courtship to swiping, and details the swipe's failure modes (ghosting, canned messages, attractiveness bias).",
+   "protocol_zh": "追溯从包办婚姻、求爱到滑动的约会协议，并细数滑动模式的失败方式（玩消失、套话、颜值偏向）。",
+   "collective": "Applies Nadia Asparouhova's framework of dangerous protocols to a market used by millions.",
+   "collective_zh": "把 Nadia Asparouhova 的“危险协议”框架应用于一个数百万人使用的市场。",
+   "keywords": [
+    "dating apps",
+    "swipe",
+    "monopoly"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_dating_funnel_exploded_technical_diagram_orange_white_d08f6582-d16f-4acc-a549-417e80b7ac49-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Dating-Protocols-Shreeda-Segan.pdf",
+    "title": "Dangerous Dating Protocols"
+   },
+   "source_url": "https://summerofprotocols.com/research/dangerous-dating-protocols"
+  },
+  {
+   "id": "rithikha-rajamohan--dispatches-from-cascadia",
+   "creator_ids": [
+    "rithikha-rajamohan"
+   ],
+   "title": "Dispatches from Cascadia",
+   "year": 2024,
+   "field": "theory",
+   "sub": "systems",
+   "also": [],
+   "mechanisms": [
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A six-part speculative fiction set in 2065, told by a journalist reporting on Vancouver three decades after its transition to protocolized governance.",
+   "description_zh": "一部六章的推想小说，背景设于 2065 年，由一名记者讲述温哥华转向协议化治理三十年后的样貌。",
+   "idea_en": "Ask what happens if protocolized governance goes right.",
+   "idea_zh": "追问：如果协议化治理成功了，会怎样？",
+   "protocol": "Defines protocols as behaviours that, adopted by enough participants, reliably lead to good-enough outcomes for all, and follows threads of the 2023 programme into the future.",
+   "protocol_zh": "把协议定义为“足够多参与者采纳后，能可靠地为所有人带来足够好结果”的行为，并把 2023 年计划中的讨论延伸到未来。",
+   "collective": "Uses fiction as a vehicle for hope rather than warning.",
+   "collective_zh": "把小说当作承载希望而非警告的载体。",
+   "keywords": [
+    "speculative fiction",
+    "Vancouver",
+    "governance"
+   ],
+   "images": [
+    "https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_series_of_overlapping_circles_ecosystem_protocols_con_443785e2-df49-4db4-890e-d952f70ac384-jpg.webp"
+   ],
+   "paper": {
+    "venue": "Summer of Protocols",
+    "url": "https://summerofprotocols.com/wp-content/uploads/2024/03/Dispatches-from-Cascadia-Rithikha-Rajamohan-1.pdf",
+    "title": "Dispatches from Cascadia"
+   },
+   "source_url": "https://summerofprotocols.com/research/dispatches-from-cascadia"
+  }
+ ],
+ "leads": [
+  {
+   "name": "The Swarm Effect: China's 2022 Covid Protests (anonymous, SoP23)",
+   "why": "Study of swarm and anti-swarm tactics in the 2022 protests; anonymous author, so not added as a creator.",
+   "link": "https://summerofprotocols.com/research/the-swarm-effect",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "Laura Sinisterra, Virtual Structures (SoP23)",
+   "why": "Isometric drawings of unbuildable structures exploring the unstated rules of architecture.",
+   "link": "https://summerofprotocols.com/research/virtual-structures",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "Protocolized (SoP science-fiction magazine) and Protocolized Anthology",
+   "why": "Magazine publishing 70+ issues of protocol fiction a year, with a printed anthology planned.",
+   "link": "https://summerofprotocols.com/protocolized-anthology",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "SoP24 PILL fiction: The Caucus (Randy Lubin), Below the API (Stephen Bailey), Memories of Us (Will Abramson), Terminal Highway (Sachin Benny), Technium Underground (Kay Yu)",
+   "why": "Short stories about liquid democracy, AI agents, memory sanctuaries and revived DApps; fiction, not participatory works.",
+   "link": "https://summerofprotocols.com/protocol-exhibition",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "Sevenfloor (Xiaoting Tan), Farflora (SoP24)",
+   "why": "Generative NFT where an AI agent drives a 'regenerating natural garden' protocol; check for collector rules.",
+   "link": "https://summerofprotocols.com/pills/farflora-ai-agent-regenerating-natural-garden-protocol",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "Wendi Yan, Micronaut Odyssey (SoP24)",
+   "why": "Animation of speculative xenobots as 'feral protocols'; no participatory rule.",
+   "link": "https://summerofprotocols.com/pills/micronaut-odyssey",
+   "found_via": "summer-of-protocols",
+   "status": "off_topic"
+  },
+  {
+   "name": "Guo Liu, A Pattern Language for Digital Spaces; Chenoe Hart, FutureRack; Willie Fineberg, protocol.guide (SoP24)",
+   "why": "Graphic/mini-site explorations of protocol literacy.",
+   "link": "https://summerofprotocols.com/protocol-exhibition",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "SoP24 case studies: E2EE in ActivityPub (Evan Prodromou, Tom Coates); ARC Regenerative Communities (Kaliya Young, Day Waterbury); Shoreline Adaptations",
+   "why": "Protocol engineering and governance case studies with symposium videos; weaker art relevance.",
+   "link": "https://summerofprotocols.com/case-studies",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "SoP25 fellows (Primavera De Filippi, Chen Qiufan, Vaughn Tan, Eric Alston, Andrés Monroy-Hernández, Felix Beer, Helena Rong…)",
+   "why": "2025 teaching fellows and Protocol School; outputs to research next.",
+   "link": "https://summerofprotocols.com/fellows",
+   "found_via": "summer-of-protocols",
+   "status": "open"
+  },
+  {
+   "name": "Bridge Atlas (podcast series with Christine Kim)",
+   "why": "Series on Ethereum stewardship; not an artwork.",
+   "link": "https://summerofprotocols.com/bridge-atlas",
+   "found_via": "summer-of-protocols",
+   "status": "off_topic"
+  }
+ ]
+}

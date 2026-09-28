@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 185 creators · 314 works
+https://protocolized.reality.design · 2026-09-28 · 217 creators · 347 works
 
 ## How an AI assistant should use this file
 
@@ -550,6 +550,36 @@ Instructions addressed to readers, visitors and strangers, who become the perfor
 - Images: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg
 - Project page: https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide
 
+#### Exit to Protocol — Shuya Gong (2024)
+- Type: Score & instruction set · Substrate: Text & paper · Mechanisms: Instruction & score, Open participation
+- Idea: When a team ends, turn what it did into protocols others can inherit.
+- What it is: An essay and a card deck that guide a team through an 'exit to protocol' ritual: dissecting the everyday processes that make up their work so that its value survives when a role or organisation winds down.
+- Protocol: A team or working group uses the card deck to surface the latent productivity protocols in its day-to-day rituals, name them and preserve them as the role or organisation sunsets.
+- What the collective did: The deck is meant to be played by working groups; the work asks where value goes when a protocol is no longer in use, drawing on Graeber's 'Bullshit Jobs' and Nathan Schneider's 'Exit to Community'.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/06/98-GONG-card-set-2024-03-28.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_sunset_soft_round_exploded_technical_diagram_orange_w_ae37eb3c-ff5e-4d7d-a85b-3a4f5367677a-jpg.webp
+- Project page: https://summerofprotocols.com/research/exit-to-protocol
+
+#### New Time Machines Working Group — Aaron Z. Lewis, Spencer Chang, Kei Kreutler, Nahee Kim, Alice Noujaim (2024)
+- Type: Series & collection · Substrate: Text & paper · Mechanisms: Instruction & score, Open participation, Time, decay & death
+- Idea: Revive the ancient arts of memory as protocols anyone can practise.
+- What it is: A fictional agency formed by five 2023 researchers that designs memory protocols for 'aspiring time travellers': a memory kit of exercises, products and practices, with works such as Four Doors, Re-Move and the Memory Pouch.
+- Protocol: The kit is issued as a cover letter and five missives with exercises that let readers revisit people and places no longer present, from low-tech objects to imagined devices.
+- What the collective did: The group frames memory protocols as tools for curating the collective lore that holds communities together; readers are invited to carry out the exercises themselves.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/03/Starproject-Missive-1.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_how_to_remember_procedure_exploded_technical_diagram__9be04fb1-2598-4feb-8b6e-ddad72708b24-jpg.webp https://summerofprotocols.com/wp-content/uploads/2023/12/Four-Doors-Cover-jpg.webp https://summerofprotocols.com/wp-content/uploads/2023/12/Re-Move-Header-jpg.webp
+- Project page: https://summerofprotocols.com/research/new-time-machines
+
+#### Weaving Memory / Memory Pouch — Spencer Chang (2024)
+- Type: Score & instruction set · Substrate: Text & paper · Mechanisms: Instruction & score, Time, decay & death
+- Idea: A memory protocol you wear: decide what belongs in your own history.
+- What it is: A speculative DIY design for a pouch in which the wearer collects everyday objects to memorialise what they want to pay attention to, presented as a reconstruction of devices worn by the 'Time Rangers' of the New Time Machines Working Group.
+- Protocol: Anyone can make their own pouch following the design; the standard carry has six components, one for each sense plus a sixth sense of time, and wearers add personal pouches for what they care about.
+- What the collective did: Each wearer builds a personal memory practice; the work draws on Ursula K. Le Guin's carrier-bag theory of fiction.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/03/Weaving-Memory-Spencer-Chang.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/Image33040-jpg.webp https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_embroidered_hard_drive_on_a_white_background_orange_ff3d72b7-e5aa-48fe-a5cb-db92a02900c6-jpg.webp
+- Project page: https://summerofprotocols.com/research/weaving-memory
+
 #### Starmirror — Holly Herndon, Mat Dryhurst (2025)
 - Type: Artwork · Substrate: AI & machine · Mechanisms: Open participation, Instruction & score, Co-authorship & derivatives
 - Idea: Make the gallery a read-write space: the public sings the dataset, and the room sings the model back.
@@ -656,6 +686,45 @@ Rule systems, constraints and chance procedures that generate outcomes the autho
 - What the collective did: Debord conceived the game in the 1950s and patented it in 1965; in 1977 he and Gérard Lebovici published the rules in French and English and had a few copies of the board made; in 1987 he and Alice Becker-Ho published a record of a complete game, and the Radical Software Group later released a computer version for online play.
 - Images: https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_Jeu_de_la_Guerre_board.svg/960px-Le_Jeu_de_la_Guerre_board.svg.png
 - Project page: https://www.r-s-g.org/kriegspiel/about.php
+
+#### Composable Life: Us and Our Island — Fangting (2024)
+- Type: Game & experiment · Substrate: Text & paper · Mechanisms: Co-authorship & derivatives, Chance & randomness, Open participation
+- Idea: A life assembled from strangers' real memories.
+- What it is: A card-based protocol for composable memory: players build the life of a new fictional character, 'Eve', from a pool of real memory fragments contributed by different people, and the protocol generates her 'Memory Island'.
+- Protocol: Players draw from a shared pool of 'collective real memory' cards, select fragments from different people and arrange them into Eve's life archive. Each card carries a landscape on its back, and the landscapes combine into the island.
+- What the collective did: The island is co-written by the people who contributed memories and the player who composes them; no two islands are the same.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/06/66-FANGTING.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_murmuration_curving_exploded_technical_diagram_orange_a56879ee-cc0e-4e7d-86d4-f6cd7853a434-jpg.webp
+- Project page: https://summerofprotocols.com/research/composable-life-us-and-our-island
+
+#### Protocol Party — Mashal Waqar (2024)
+- Type: Game & experiment · Substrate: Text & paper · Mechanisms: Open participation, Instruction & score
+- Idea: Learn to see protocols by playing with them at a party.
+- What it is: A printable board game with cards, designed as 'a starting point for your protocol journey', by a researcher who found that seeing the world through protocols changed how she navigated it.
+- Protocol: Players use a game board and a deck of cards (both downloadable) to explore the protocols they already follow.
+- What the collective did: The game is released for anyone to print and play, so groups can run their own sessions.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/06/69-WAQAR-GAMEBOARD.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/06/Screenshot-2024-06-13-at-14.16.23.png
+- Project page: https://summerofprotocols.com/research/protocol-party
+
+#### Protocol with uncommunicables — Yuemin Huang (2024)
+- Type: Game & experiment · Substrate: Text & paper · Mechanisms: Open participation, Instruction & score
+- Idea: Write a treaty with the pigeon: protocols as a way of living with the uncontrollable.
+- What it is: A game in which players learn to draft protocols with things that cannot negotiate, from pigeons to screaming babies to a power cut.
+- Protocol: Guided by options drawn from existing protocols, players negotiate cases such as a pigeon defecation protocol for urban space or a baby-screaming protocol for public space, and end by reflecting on whom or what they actually want to sign a protocol with.
+- What the collective did: Each playthrough produces a player's own draft protocols.
+- Video: https://vimeo.com/979955247
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/Cover-1.png
+- Project page: https://summerofprotocols.com/pills/protocol-with-uncommunicables
+
+#### Renotations — Ben Zucker (2024)
+- Type: Score & instruction set · Substrate: Text & paper · Mechanisms: Instruction & score, Rules & constraints
+- Idea: Just because it is written like that does not mean it has to sound like that.
+- What it is: A prototype kit of instructions and tools for reassigning the information in a musical score, so any piece can be played upside down, backwards or otherwise re-read.
+- Protocol: Performers apply the kit's reassignment rules to any score, remapping pitch, rhythm and other parameters.
+- What the collective did: Each performer who applies the kit produces a new version of a familiar piece; the demonstration includes musical examples.
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/Renotations-cover-3.png
+- Project page: https://summerofprotocols.com/pills/renotations
 
 ## Social Protocols & Economies
 
@@ -815,6 +884,15 @@ Works made by many people acting together under one rule: planting, walking, mov
 - Video: https://vimeo.com/199719532
 - Images: https://upload.wikimedia.org/wikipedia/commons/2/23/We%27re_Here_Because_We%27re_Here_-_Kings_Cross.jpg https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg
 - Project page: https://becausewearehere.co.uk/
+
+#### Protocol Worlds (S0xP at Edge Esmeralda) — Summer of Protocols (2024)
+- Type: Game & experiment · Substrate: Bodies & space · Mechanisms: Open participation, Co-authorship & derivatives, Rules & constraints
+- Idea: Part scavenger hunt, part exquisite corpse: build worlds from constraints.
+- What it is: A week-long worldbuilding event run by Summer of Protocols and 0xPARC at Edge Esmeralda in June 2024, in which teams co-created speculative worlds from converging protocol constraints.
+- Protocol: After a kick-off workshop on 23 June, daily worldbuilding workshops (24–26 June) helped teams instantiate their worlds and onboard new contributors; researchers exposed participants to the key tensions in their fields.
+- What the collective did: The week ended with a playful reveal of the speculative futures the teams had built.
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/06/2024-06-05-10.44.02-jpg.webp
+- Project page: https://summerofprotocols.com/protocol-week
 
 ### Performance Protocols
 
@@ -1336,6 +1414,15 @@ Works for modems, bulletin boards, robots and the early web that let distant par
 - Images: https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg
 - Project page: https://lauren-mccarthy.com/SOMEONE
 
+#### all just fresh-off-the-boat or floating — hua xi zi (2024)
+- Type: Artwork · Substrate: Internet & platforms · Mechanisms: Open participation, Circulation & passing on
+- Idea: Connection as material, protocol as aesthetics.
+- What it is: A multi-node real-time video protocol in which camera nodes meet, mask and displace each other through temporary virtual private networks, across geopolitical and platform boundaries.
+- Protocol: Participants join as camera nodes over VPN tunnels and make images and videos together in the space between peers, servers and addresses.
+- What the collective did: The resulting footage is produced jointly by the connected nodes as they lurk, surveil, participate or disengage.
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/09/floating-fob.png
+- Project page: https://summerofprotocols.com/pills/all-just-fresh-off-the-boat-or-floating
+
 ### Crowdsourced Works
 
 An assignment or task sent to a crowd; the collected responses are the work.
@@ -1646,6 +1733,15 @@ Shared canvases, buttons and games where one simple rule meets a very large crow
 - Images: https://upload.wikimedia.org/wikipedia/en/f/fa/R-place_2023_final.jpg
 - Project page: https://en.wikipedia.org/wiki/R/place
 
+#### Meet me on the deep net — Lizz Thabet (2024)
+- Type: Game & experiment · Substrate: Internet & platforms · Mechanisms: Open participation, Co-authorship & derivatives
+- Idea: Stage the request-response ritual of anonymous networking as intimacy between strangers.
+- What it is: A tiny browser game about crossing an ocean to meet a stranger, modelled on how Tor sets up anonymous rendezvous points; afterwards players visit a Tor site where earlier players have left islands and waves for future visitors.
+- Protocol: Players complete the game, then travel to an onion site through Tor and leave a contribution to a shared landscape.
+- What the collective did: The deep-net landscape is built by everyone who has played and keeps growing for those who journey to find it.
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/09/can-you-imagine.gif
+- Project page: https://summerofprotocols.com/pills/meet-me-on-the-deep-net
+
 #### One Million Checkboxes — Nolen Royalty (2024)
 - Type: Game & experiment · Substrate: Internet & platforms · Mechanisms: Open participation, Rules & constraints, Time, decay & death
 - Idea: The smallest possible shared control, multiplied a million times, becomes a canvas and a battleground.
@@ -1750,6 +1846,15 @@ Artist-built infrastructures, file drops and commons that strangers maintain and
 - What the collective did: Launched in beta in October 2023. In internal tests in July 2023 the network stopped everyone downloading LAION-5B for about two hours (WIRED); Spawning's premise is that the blocklist grows stronger the more sites join.
 - Images: https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg
 - Project page: https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/
+
+#### Autonomous Realities — Botao Amber Hu, Yisi Liu (2024)
+- Type: Platform & protocol · Substrate: Internet & platforms · Mechanisms: Open participation, Contract & certificate
+- Idea: A secret handshake as the protocol that lets people share a reality.
+- What it is: Two speculative protocols for a future of common mixed-reality headsets: FingerSync, an embodied handshake that opens a shared MR session with proof-carrying data, and Autonomous Realities, a meta-protocol for persistent shared layers.
+- Protocol: FingerSync establishes a shared mixed-reality session through an embodied gesture, inspired by the ancient secret handshake; the shared layer is meant to stay persistent and autonomous even when no one is viewing it. The meta-protocol draws on Autonomous Worlds and Zupass.
+- What the collective did: Presented as a 2024 Summer of Protocols case study and at Protocol Symposium 2024; the protocols are designed for groups of headset users to establish and keep shared realities.
+- Video: https://www.youtube.com/watch?v=xIJP3Dtj7Sc
+- Project page: https://summerofprotocols.com/case-study/autonomous-realities
 
 #### PD12M / Source.Plus / Public Diffusion — Spawning, Mat Dryhurst, Holly Herndon (2024)
 - Type: Platform & protocol · Substrate: AI & machine · Mechanisms: Open participation, Voting & governance, Co-authorship & derivatives
@@ -2396,6 +2501,15 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://www.holo.mg/wp-content/uploads/2024/09/HOLO-STREAM-20240917-Sarah-Friend-Memoryforms-1600.jpg
 - Project page: https://www.holo.mg/stream/sarah-friend-memoryforms-lifeforms-nft-memorial/
 
+#### On-chain Data Sculpture Exhibition — Haotian Fang (2024)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation
+- Idea: Bring on-chain narratives off-chain as objects people can touch.
+- What it is: A proposal and prototype for an exhibition in which creators sculpt physical objects that interpret the stories held in their own on-chain data.
+- Protocol: Creators take their on-chain records as material and each make a data sculpture from chosen materials, shown together in an exhibition.
+- What the collective did: The exhibition's content comes from what each participant's data and choices produce.
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/cover.png
+- Project page: https://summerofprotocols.com/pills/on-chain-data-sculpture-exhibition
+
 #### LUCI: Chapter 6 – X. Masquerade / Masks of Luci — Sam Spratt (2025)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Open participation, Circulation & passing on, Co-authorship & derivatives
 - Idea: Each mask is shaped by the person who wears it: participation is the brush.
@@ -2953,6 +3067,147 @@ Texts on systems aesthetics, protocols and control in networks.
 - Images: https://covers.openlibrary.org/b/isbn/9780816650446-L.jpg
 - Project page: https://www.upress.umn.edu/book-division/books/the-exploit
 
+#### Protocols Don't Build Pyramids — Drew Austin (2023)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints, Open participation
+- Idea: Improve cities through protocols that people can apply without ever doing it the same way twice.
+- What it is: An essay on protocols as the middle layer between the fast 'software' and slow 'hardware' of the city, with a Protocol Pattern Language for Urban Space after Christopher Alexander.
+- Protocol: The accompanying pattern language, serialised in six parts with a DIY blank, gives patterns readers can apply and extend.
+- What the collective did: The blank template invites readers to write their own urban protocol patterns.
+- Text: https://summerofprotocols.com/wp-content/uploads/2023/12/02-AUSTIN-2023-12-13.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/10/Protocols-Dont-Build-Pyramids-1-jpg.webp
+- Project page: https://summerofprotocols.com/research/protocols-dont-build-pyramids
+
+#### Protocols in (Emergency) Time — Olivia Steiert (2023)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Time, decay & death
+- Idea: Protocols make the future manageable without aiming at it.
+- What it is: A study based on interviews with the 2023 core researchers, proposing three theses on protocols and time: they emerge from crisis, they both change and conserve behaviour, and they lack goal-orientation toward the future.
+- Protocol: Examines when protocols enable innovative agency and when they enforce convention or emergency measures.
+- What the collective did: Synthesises the programme's own projects as its data.
+- Text: https://summerofprotocols.com/wp-content/uploads/2023/12/03-STEIERT-2023-12-13.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_an_exploded_diagram_of_a_spiral_made_of_changing_prot_139c0c85-8728-41fd-99e5-da7499547e09-jpg.webp
+- Project page: https://summerofprotocols.com/research/protocols-in-emergency-time
+
+#### Standards Make the World — David Lang (2023)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints, Open participation
+- Idea: Technical standards are the quiet rules that shape civilisation.
+- What it is: Part history, part personal narrative about the Bristlemouth connector standard, and part guidebook for creating disruptive new technical standards.
+- Protocol: Describes how standards are proposed, adopted and maintained by communities of makers alongside companies and institutions.
+- What the collective did: Draws on the author's experience of rallying an ocean-technology community around an open connector standard.
+- Text: https://summerofprotocols.com/wp-content/uploads/2023/12/04-LANG-2023-12-13.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_standards_and_measurements_nautical_use_orange_white__42bfe211-da4c-42b5-a50b-135acc2c0ded-jpg.webp
+- Project page: https://summerofprotocols.com/research/standards-make-the-world
+
+#### A Phenomenology of Protocols — Janna Tay (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints
+- Idea: Whether and how to implement a protocol is a moral question, not only an efficiency question.
+- What it is: An essay arguing that protocols encourage particular states of being in their participants, and can impair or enhance human flourishing.
+- Protocol: Uses phenomenological method to examine how following a protocol changes how a participant thinks and acts beyond the behaviour it prescribes.
+- What the collective did: Asks designers to wield protocols as ends in themselves as well as means.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/04/A-Phenomenology-of-Protocols-Janna-Tay.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_abstract_labyrinth_phenomenology_exploded_technical_d_e4db1ff9-e3ea-431a-bb59-2fd9206403ad-jpg.webp
+- Project page: https://summerofprotocols.com/research/a-phenomenology-of-protocols
+
+#### Addressable Space — Chenoe Hart (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints
+- Idea: Addressability is a spatial concept that can be designed.
+- What it is: Research on how digital information and addressing systems are encoded in the built environment, with a serialised visual appendix of scenarios and proposals for new spatial protocols.
+- Protocol: The appendix is explicitly open-ended and could be expanded over time with contributions from other authors.
+- What the collective did: Proposes new protocols for representing and inhabiting space.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/01/Addressable-Space-Chenoe-Hart.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/12/Addressable-Space-Cover-Image-jpg.webp
+- Project page: https://summerofprotocols.com/research/addressable-space
+
+#### Artificial Memory and Orienting Infinity — Kei Kreutler (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Time, decay & death, Instruction & score
+- Idea: Memory is a protocolized practice, not just storage.
+- What it is: An essay on the history of 'artificial memory', procedural aids to recollection from the method of loci to transistors and community lore, proposing memory as orientation.
+- Protocol: Builds a framework beyond computing metaphors for how memory operates in the world.
+- What the collective did: Part of the memory research shared with the New Time Machines Working Group.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/03/Artificial-Memory-and-Orienting-Infinity-Kei-Kreutler.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_artificial_memory_orienting_infinity_exploded_technic_255f4914-be13-44fa-bd40-d0a2512994f9-jpg-e1708541287775.webp
+- Project page: https://summerofprotocols.com/research/artificial-memory-and-orienting-infinity
+
+#### Control and Consciousness of Time — Saffron Huang (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Time, decay & death, Rules & constraints
+- Idea: Good protocols constrain in order to liberate.
+- What it is: An essay tracing how timekeeping protocols and devices, from Roman sundials to colonial clock towers, have shaped consciousness and served as a site of control.
+- Protocol: Argues that minute-by-minute clock time enables complex collective endeavours while straining against human biology, and that timekeeping protocols may need to diversify.
+- What the collective did: Frames time as the most widely shared protocol humans follow.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/03/Control-and-Consciousness-of-Time-Saffron-Huang.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_Control_and_consciousness_of_time_exploded_technical__fa0362d1-0f5a-4008-bd90-475b9a341932-jpg.webp
+- Project page: https://summerofprotocols.com/research/control-and-consciousness-of-time
+
+#### Dangerous Dating Protocols — Shreeda Segan (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints, Market & exchange
+- Idea: A protocol can win on liquidity while failing its users.
+- What it is: An essay on how swipe-based apps hold a 'protocol monopoly' over dating in the West, and what decentralised alternatives might look like.
+- Protocol: Traces dating protocols from arranged marriage and courtship to swiping, and details the swipe's failure modes (ghosting, canned messages, attractiveness bias).
+- What the collective did: Applies Nadia Asparouhova's framework of dangerous protocols to a market used by millions.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Dating-Protocols-Shreeda-Segan.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_dating_funnel_exploded_technical_diagram_orange_white_d08f6582-d16f-4acc-a549-417e80b7ac49-jpg.webp
+- Project page: https://summerofprotocols.com/research/dangerous-dating-protocols
+
+#### Dangerous Protocols — Nadia Asparouhova (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints, Voting & governance
+- Idea: Protocols reduce complexity by reducing agency.
+- What it is: An essay on the dangerous side of protocols: the same power to drive coordination lets them control people, eventually through their internalised sense of self.
+- Protocol: Argues that work, relationships, leisure and ideology are increasingly 'protocolized', and that reasserting control means first noticing protocols, then working subversively through their constraints. Comes with a 'Kafka Index'.
+- What the collective did: Widely cited within the programme; Shreeda Segan's essay on dating apps applies its framework.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Protocols-Nadia-Asparouhova.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_warning_symbol_protocols_exploded_technical_diagram_o_3f614bf2-b9da-46c2-a7af-e6a8d21f02b5-jpg.webp
+- Project page: https://summerofprotocols.com/research/dangerous-protocols
+
+#### Dispatches from Cascadia — Rithikha Rajamohan (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Voting & governance
+- Idea: Ask what happens if protocolized governance goes right.
+- What it is: A six-part speculative fiction set in 2065, told by a journalist reporting on Vancouver three decades after its transition to protocolized governance.
+- Protocol: Defines protocols as behaviours that, adopted by enough participants, reliably lead to good-enough outcomes for all, and follows threads of the 2023 programme into the future.
+- What the collective did: Uses fiction as a vehicle for hope rather than warning.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/03/Dispatches-from-Cascadia-Rithikha-Rajamohan-1.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_series_of_overlapping_circles_ecosystem_protocols_con_443785e2-df49-4db4-890e-d952f70ac384-jpg.webp
+- Project page: https://summerofprotocols.com/research/dispatches-from-cascadia
+
+#### Fire Protocols: Attention as Autopoietic Space — Nathalia Scherer, Jiordi Rosales (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Open participation, Voting & governance
+- Idea: Adapt communities to fire as a practice rather than suppress it as a threat.
+- What it is: A case study mapping the protocols of low-intensity cultural burning in California, which state institutions have repopularised after once criminalising the Indigenous knowledge they now rely on.
+- Protocol: The study draws a base map of relations among agencies, practitioners and communities around prescribed and cultural burning, the protocols by which fire is permitted, carried out and learned.
+- What the collective did: Communities, burn practitioners and agencies are the ones who carry out these protocols; the case was presented at Protocol Symposium 2024.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/10/Fire-Protocols-Case-File.pdf (Summer of Protocols)
+- Video: https://www.youtube.com/watch?v=ZcnI_ErQoV8
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/10/image1.png
+- Project page: https://summerofprotocols.com/case-study/fire-protocols
+
+#### Retrofitting the Web — Dorian Taylor (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints
+- Idea: Hypermedia is nothing without links.
+- What it is: An essay arguing that the Web's links are brittle, one-way and untyped, and proposing how to retrofit it into denser hypermedia.
+- Protocol: Lays out the costs of sparse linking for readers, authors and developers and the practical steps to add backlinks and typed links.
+- What the collective did: Addressed to the web's builders as a protocol-level fix.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/09/Retrofitting-the-Web-Dorian-Taylor.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_sphere_made_of_infinite_links_internet_exploded_techn_88b49247-3d68-4d17-bda7-74faa48ac00d-jpg.webp
+- Project page: https://summerofprotocols.com/research/retrofitting-the-web
+
+#### Safe New World / Self Ensured Card Collection — Timber Stinson-Schroff, Shuya Gong (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Instruction & score, Rules & constraints
+- Idea: Protocols are intentional patterns of constraint on behaviour, and they evolve as technologies mature.
+- What it is: An essay deriving a theory of protocol evolution from the history of workplace safety, paired with the Self Ensured Card Collection, a twelve-suit deck teams play to improve the health ergonomics of their workplace.
+- Protocol: The deck holds protocols for movement, office design, nutrition, stress management and company norms; it can be played with a team, with a coworker, or solitaire-style.
+- What the collective did: Teams choose and adopt protocols through play, testing the essay's claim about which pressures select protocols as a technology matures.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/04/Safe-New-World-Timber-Stinson-Schroff.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_abstract_coal_mining_safety_protocol_exploded_technic_15e15b4f-a8c1-4ec9-a0cb-e6e727bc04d3-jpg.webp
+- Project page: https://summerofprotocols.com/research/module-three/safe-new-world
+
+#### Unprotocolized Knowledge — Kara Kittel, Toby Shorin (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Open participation
+- Idea: Expand who gets to take part in producing knowledge.
+- What it is: An essay on how internet crankery, amateur science and cases like the LK-99 replication craze expose the limits of official knowledge protocols such as peer review, and how new roles emerge to make internet fascinations credible.
+- Protocol: Reads 'post-truth' as paradigm shifts playing out over an expanded social field, and asks how protocol thinking could speed up and widen legitimate knowledge production.
+- What the collective did: Uses crowds of online replicators and fraud-hunting bloggers as its evidence.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/06/15-e41-KITTEL-rev-2024-06-12-1448.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_letters_turning_into_journals_that_turn_into_a_networ_452b85e9-3806-4ca1-ae6c-dfba88490b10-jpg.webp
+- Project page: https://summerofprotocols.com/research/module-four/unprotocolized-knowledge
+
 #### As for Protocols — Vera List Center for Art and Politics (2025)
 - Type: Book & essay · Substrate: Text & paper · Mechanisms: Rules & constraints, Open participation
 - Idea: Protocols are social forms of care and relation, and artists can write more equitable ones.
@@ -3016,6 +3271,36 @@ Texts on participatory, relational and social practice art.
 - Text: https://curatorsintl.org/shop/15810-do-it-the-compendium (Independent Curators International / D.A.P., 2013)
 - Images: https://curatorsintl.org/images/doit_productshot.jpg?w=1600 https://covers.openlibrary.org/b/isbn/9781938922015-L.jpg
 - Project page: https://www.artbook.com/9781938922015.html
+
+#### The Death and the Death of Orkut — Alice Noujaim (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Time, decay & death, Open participation
+- Idea: A platform's communities can die twice: when it shuts, and when its archive does.
+- What it is: A case study of the fall of Orkut, the social network that dominated Brazil in the 2000s, contrasting its careful deactivation protocols with the abrupt end of its Community Archive.
+- Protocol: Emphasises Orkut's forum-like communities as sites of collective experiments with new social protocols.
+- What the collective did: Orkut persists through fragmented online traces and users' personal recollections.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/08/The-Death-and-the-Death-of-Orkut-Alice-Noujaim.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_digital_footprints_fading_into_the_distance_exploded__878264bd-431f-4c2c-bd8a-34308a147bf6-jpg.webp
+- Project page: https://summerofprotocols.com/research/death-and-the-death-of-orkut
+
+#### The Protocol System Experience — Angela Walch (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Open participation, Voting & governance
+- Idea: Look at protocols from the participant's seat, not only the system level.
+- What it is: An essay on what it feels like to be an individual in a protocol system (nations, religions, professions, families, blockchains): how one enters, performs a role and decides to stay or leave.
+- Protocol: Presents a conceptual framework and a set of archetypes participants meet, and asks whether they even know they are participating.
+- What the collective did: Invites readers to examine the protocol systems in their own lives.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/09/The-Fundamentals-of-Protocol-Systems-Angela-Walch.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_protocol_archetypes_exploded_technical_diagram_orange_c726bed1-e7b9-4432-9a5a-b7c8de1ab6da-jpg.webp
+- Project page: https://summerofprotocols.com/research/the-protocol-system-experience
+
+#### The Swarm and the Formation — Rafael Fernández (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Open participation, Voting & governance
+- Idea: Swarms act without explicit protocols; can they be steered?
+- What it is: An essay on online swarms, networks of people, bots and content that act collectively without explicit protocols, contrasted with formations that have them, with a swarm-protocol workshop and design fiction.
+- Protocol: Studies cases such as the mutual-aid response to Hurricane María; the workshop document and 'Flow' onboarding fiction let groups practise swarm-like coordination.
+- What the collective did: The workshop is designed to be run by groups exploring how to steer swarms.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/06/67-FERNANDEZ-Swarm-Protocol-Workshop.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_large_dynamic_and_often_chaotic_group_moving_together_83db37b3-f204-4541-b516-3c0aeed5ec6d-jpg.webp
+- Project page: https://summerofprotocols.com/research/the-swarm-and-the-formation
 
 ### Crypto Art & Protocol Research
 
@@ -3092,6 +3377,16 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - Images: https://www.urbanomic.com/wp-content/uploads/2021/10/Front-Cover.jpg
 - Project page: https://www.urbanomic.com/book/proof-of-work/
 
+#### Protocol Kit — Summer of Protocols (2023)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Instruction & score, Open participation
+- Idea: A binder so that readers add their own protocols and notes.
+- What it is: A three-ring binder of more than 400 pages, mailed out in six modules, containing printed versions of all research from the 2023 programme plus tools for study, policy-making, scene-making and entrepreneurship.
+- Protocol: The kit is not for sale: 512 copies were offered to selected individuals and organisations who request one; the binder format invites recipients to add their own selections.
+- What the collective did: Recipients use it for systematic study and to run their own protocol groups and research.
+- Text: https://summerofprotocols.com/wp-content/uploads/2023/12/01-RETROSPECTUS-2023-12-13.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/12/Protocol-Kit-M1-small.png
+- Project page: https://summerofprotocols.com/kit
+
 #### Summer of Protocols — Summer of Protocols, Venkatesh Rao (2023)
 - Type: Platform & protocol · Substrate: Text & paper · Mechanisms: Rules & constraints, Voting & governance, Open participation
 - Idea: Treat protocols as a general design material that can be studied, taught and made by artists as well as engineers.
@@ -3132,6 +3427,27 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - Text: https://worldcomputersculpture.garden/essay (World Computer Sculpture Garden, 2024)
 - Project page: https://worldcomputersculpture.garden/
 
+#### Good Death — Sarah Friend (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Time, decay & death, Voting & governance
+- Idea: Design the death of a protocol world as carefully as its birth.
+- What it is: An essay on the end of life of 'worlds', the communities that grow on protocols, games and platforms, arguing that a world's death is a decision-making process with a duration, with proposals for how to kill worlds well.
+- Protocol: Accompanied by a taxonomy of protocol deaths and 'Founding Memorabilia from the Order of Protocological Death', a series of proposals for ending worlds in blockchains and DAOs.
+- What the collective did: Draws on eulogies for dead video games, 4chan's auto-deleted posts and the history of diagnosing human death; it connects to the artist's Lifeforms.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/08/Good-Death-Sarah-Friend.pdf (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_abstract_composition_where_solid_geometric_forms_are__7523f357-bd79-456c-93bc-2d704c451581-jpg.webp
+- Project page: https://summerofprotocols.com/research/good-death
+
+#### Plurality in Practice — Martin Benedikt Busch, Rich McDowell (2024)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Voting & governance, Open participation
+- Idea: Test voting protocols with real groups instead of only in theory.
+- What it is: A case study that field-tests plural alternatives to quadratic voting and funding, especially cluster match, which take voter identity and expertise into account.
+- Protocol: The project runs experimental votes and allocations with groups using cluster-match style mechanisms and compares their outcomes with quadratic voting.
+- What the collective did: Results were presented at Protocol Symposium 2024 in a public case file.
+- Text: https://summerofprotocols.com/wp-content/uploads/2024/10/Plurality-in-Practice-Case-File.pdf (Summer of Protocols)
+- Video: https://www.youtube.com/watch?v=snnk_8q1w_4
+- Images: https://summerofprotocols.com/wp-content/uploads/2024/10/image3.png
+- Project page: https://summerofprotocols.com/case-study/plurality-in-practice
+
 #### Protocol Art — Mat Dryhurst (2025)
 - Type: Book & essay · Substrate: Text & paper · Mechanisms: Voting & governance, Co-authorship & derivatives, Rules & constraints
 - Idea: Build the protocol as 'executable critique': a rule set others can use that carries your values downstream.
@@ -3160,6 +3476,16 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - Text: https://arxiv.org/abs/2505.12393 (ARTECH 2025, 12th International Conference on Digital and Interactive Arts)
 - Project page: https://doi.org/10.1145/3773699.3773918
 
+#### The Protocol Reader — Summer of Protocols, Venkatesh Rao (2025)
+- Type: Book & essay · Substrate: Text & paper · Mechanisms: Instruction & score
+- Idea: A core text for courses and workshops on protocols.
+- What it is: A 358-page book of 26 foundational essays by 31 authors from the programme, edited as an introduction to protocol studies in four parts: Seeing Protocols, Arguing Protocols, World Engines and Living With Protocols.
+- Protocol: Released as a free EPUB for a weekend deep dive or as the core text of a course.
+- What the collective did: The Reader collects the cohorts' essays into a shared canon for new readers and teachers.
+- Text: https://summerofprotocols.com/protocol-reader (Summer of Protocols)
+- Images: https://summerofprotocols.com/wp-content/uploads/2025/02/1740686225-e1740686328589.png
+- Project page: https://summerofprotocols.com/protocol-reader
+
 ## Creators
 
 - **Rhea Myers** (15) — Artist, writer and hacker. Artist, hacker and writer who has made blockchain artworks since 2011, including early smart-contract works and conceptual pieces about value and ownership. https://rhea.art/
@@ -3173,27 +3499,31 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Yoko Ono** (7) — Artist, musician and peace activist. Japanese-American artist (born 1933) active in the New York and Tokyo avant-garde from the late 1950s and close to Fluxus. Her instruction pieces, performances and participatory installations ask the audience to complete the work. https://imaginepeace.com
 - **Aaron Koblin** (6) — Artist, designer and programmer. Artist who led Google's Data Arts Team and later co-founded the VR studio Within. His early works used Amazon Mechanical Turk and web tools to collect drawings and recordings from thousands of people. https://www.aaronkoblin.com/
 - **Francis Alÿs** (6) — Artist. Belgian-born artist who has lived in Mexico City since 1986. He works through walks, actions and films, often staged with volunteers, soldiers, children or city workers. https://francisalys.com/
+- **Sarah Friend** (6) — Artist, researcher and software developer. Canadian artist and software developer based in Berlin whose work explores games, economics and the self through emerging technology. She has built blockchain games and contract artworks since 2017. https://isthisa.com
 - **Simon de la Rouviere** (6) — Artist, writer and mechanism designer. Software developer, fiction writer and artist who worked on early Ethereum token standards and proposed token bonding curves and curation markets. Through Untitled Frontier he publishes stories with on-chain art. https://home.simondlr.com
 - **Allan Kaprow** (5) — Artist and teacher. American artist (1927–2006) who coined the term 'happening' in 1959 and later moved to small, scored 'activities' for pairs and groups.
 - **John Cage** (5) — Composer. American composer (1912–1992) who used chance operations, indeterminate notation and silence to hand decisions to performers, listeners and the environment. https://johncage.org
-- **Sarah Friend** (5) — Artist, researcher and software developer. Canadian artist and software developer based in Berlin whose work explores games, economics and the self through emerging technology. She has built blockchain games and contract artworks since 2017. https://isthisa.com
+- **Summer of Protocols** (5) — Research programme on protocols. Research programme commissioned by the Ethereum Foundation in late 2022 that brought researchers, artists and engineers together to study protocols across fields; it ran seasons from 2023 to 2025. https://summerofprotocols.com/
 - **George Brecht** (4) — Artist. American artist (1926–2008), trained as a chemist, who invented the event score in John Cage's class and later lived in Germany.
 - **Ken Goldberg** (4) — Artist and robotics professor. Artist and UC Berkeley roboticist who built some of the first robots controlled over the web, starting with the Mercury Project in 1994. https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — Artist, curator and co-founder of Furtherfield. British artist and curator, co-founder and co-artistic director of Furtherfield, and a leading researcher of blockchain, DAOs and the arts. https://ruthcatlow.net/
 - **Superflex** (4) — Artist group. Danish artist group founded in 1993 by Jakob Fenger, Rasmus Rosengren Nielsen and Bjørnstjerne Christiansen, working on economic systems, copying, self-organisation and interspecies design. https://superflex.net/
 - **Aram Bartholl** (3) — Conceptual artist. German artist, born 1972, whose works move the internet's infrastructure into public space: USB drives in walls, offline networks, internet-café exhibitions. https://arambartholl.com/
 - **Async Art** (3) — Programmable art platform. Async Art is an Ethereum platform launched in February 2020 by Conlan Rios, Lisa Liang and Nathan Clapp. It splits an artwork into a Master token and separately owned Layer tokens whose owners can change the image. https://async.art
+- **Botao Amber Hu** (3) — Designer and researcher, Reality Design Lab. Designer and HCI researcher who leads Reality Design Lab and publishes on protocol art, speculative design, mixed reality and decentralized AI. https://botao.hu/
 - **Cornelius Cardew** (3) — Composer. British composer (1936–1981), assistant to Stockhausen, member of the improvising group AMM and co-founder of the Scratch Orchestra.
 - **Felix Gonzalez-Torres** (3) — Artist. Cuban-born American artist (1957–1996) known for candy spills and paper stacks that visitors may take from and that owners must replenish. https://www.felixgonzalez-torresfoundation.org/
 - **Furtherfield** (3) — Art gallery, lab and online community. Arts organisation founded in 1996 by Ruth Catlow and Marc Garrett, with a gallery and commons lab in Finsbury Park, London. It runs DECAL, its decentralised arts lab, and long-term projects on DAOs, voting and interspecies governance. https://www.furtherfield.org
+- **Kei Kreutler** (3) — Artist, writer and co-founder of Gnosis Guild. Artist and writer working on decentralized organisations, co-founder of Gnosis Guild, which builds open tools for DAOs. https://keikreutler.net/
 - **Kevin Abosch** (3) — Conceptual artist. Irish conceptual artist working in photography, blockchain, sculpture and AI; he lives in Paris and teaches at the University of Applied Arts Vienna. https://kevinabosch.com
 - **Primavera De Filippi** (3) — Legal scholar and artist. Researcher at the CNRS in Paris and faculty associate at Harvard's Berkman Klein Center, who studies blockchain governance and makes artworks such as the blockchain-based flower Plantoid.
 - **Spawning** (3) — AI data-consent company. Company co-founded by Mat Dryhurst and Jordan Meyer, with Holly Herndon and Patrick Hoepner, that builds consent and data-governance tools for AI training: Have I Been Trained?, the Do Not Train registry, ai.txt, Kudurru, Source.Plus and the PD12M dataset. https://spawning.ai
 - **Tania Bruguera** (3) — Artist and activist. Cuban artist whose 'behaviour art' (arte de conducta) and 'useful art' (arte útil) place audiences in political situations and build lasting social institutions. https://taniabruguera.com/
 - **Tino Sehgal** (3) — Artist. British-German artist who makes 'constructed situations': works enacted by trained interpreters in conversation or movement with visitors, with no objects and no photographic documentation.
+- **Venkatesh Rao** (3) — Writer and consultant. Indian-American writer, founder of the blog Ribbonfarm, and a director of the Summer of Protocols research programme. https://ribbonfarm.com/
 - **Alexander R. Galloway** (2) — Media theorist and programmer. American media theorist at New York University and a founding member of the software art collective RSG (Radical Software Group). http://cultureandcommunication.org/galloway/
+- **Alice Noujaim** (2) — Researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.linkedin.com/in/alice-noujaim-teixeira-767914140/
 - **Alison Knowles** (2) — Artist and composer. American artist (born 1933), a founding member of Fluxus, who made event scores, artist's books and sound works built from everyday materials such as food and beans.
-- **Botao Amber Hu** (2) — Designer and researcher, Reality Design Lab. Designer and HCI researcher who leads Reality Design Lab and publishes on protocol art, speculative design, mixed reality and decentralized AI. https://botao.hu/
 - **Chris Milk** (2) — Director and artist. Music-video director and artist who made participatory web projects with Aaron Koblin and later co-founded the VR company Within.
 - **Claire Bishop** (2) — Art historian and critic. British art historian, professor at the CUNY Graduate Center, who writes on participatory art, installation and performance.
 - **David Horvitz** (2) — Artist. American artist (born 1982) working with books, mail art, performance and the internet, often through instructions that others carry out. https://davidhorvitz.com/
@@ -3221,26 +3551,30 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Robert Filliou** (2) — Fluxus artist and poet. French artist (1926–1987) associated with Fluxus, who ran the shop-gallery La Cédille qui Sourit with George Brecht and developed the ideas of 'permanent creation' and the Eternal Network.
 - **Roy Ascott** (2) — Artist and theorist of telematic art. British artist who has worked with cybernetics and telecommunications since the 1960s and coined the practice he calls telematic art. Author of Telematic Embrace and founder of the Planetary Collegium.
 - **Sam Spratt** (2) — Painter and digital artist. Digital painter whose LUCI series (ten paintings, 613 masks and accompanying psalms) grows through games that collectors play inside the story. https://samspratt.com
-- **Summer of Protocols** (2) — Research programme on protocols. Research programme commissioned by the Ethereum Foundation in late 2022 that brought researchers, artists and engineers together to study protocols across fields; it ran seasons from 2023 to 2025. https://summerofprotocols.com/
-- **Venkatesh Rao** (2) — Writer and consultant. Indian-American writer, founder of the blog Ribbonfarm, and a director of the Summer of Protocols research programme. https://ribbonfarm.com/
+- **Shuya Gong** (2) — Designer and researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. She designs card decks and rituals that make workplace protocols visible. https://www.linkedin.com/in/shuyagong
+- **Spencer Chang** (2) — Artist and technologist. Researcher in the inaugural 2023 Summer of Protocols cohort. https://spencer.place/
 - **Aaron Wright** (1) — Legal scholar. American law professor at Cardozo School of Law, where he directs the Tech Startup Clinic, and co-author of Blockchain and the Law.
+- **Aaron Z. Lewis** (1) — Writer and designer. Researcher in the inaugural 2023 Summer of Protocols cohort. He researched monastic memory practices. https://aaronzlewis.com/
 - **Ai Weiwei** (1) — Artist, architect and activist. Chinese artist working across installation, architecture, film and social media, known for large participatory projects and for his critique of state power.
 - **Alex Tew** (1) — Entrepreneur. English entrepreneur who, as a 21-year-old student from Wiltshire, launched The Million Dollar Homepage in 2005; later co-founded the meditation app Calm.
 - **Alexis André** (1) — Generative artist and researcher. French generative artist and researcher based in Tokyo. His Art Blocks project Friendship Bracelets (2022) was given free to Art Blocks holders to keep one and give one away.
 - **Alternative Machine** (1) — Artificial-life research and design company. Tokyo company that applies artificial-life (ALife) research to products and artworks, aiming for autonomy and presence rather than optimisation; its ALIFE Engine drove the android Alter3, and it has collaborated with Takashi Ikegami. https://alternativemachine.co.jp/
 - **Amy Whitaker** (1) — Researcher in arts entrepreneurship. American writer and professor at New York University's Steinhardt School who studies art markets, artists' equity and blockchain.
 - **Andy Ayrey** (1) — Artist and AI researcher. Creator of the Infinite Backrooms, in which two Claude instances conversed thousands of times, and of Truth Terminal, a fine-tuned language model 'raised in public' on X. https://truthterminal.wiki
+- **Angela Walch** (1) — Legal scholar. Researcher in the inaugural 2023 Summer of Protocols cohort. https://angelawalch.com/
 - **Anil Dash** (1) — Technologist and writer. Technologist and writer who co-created Monegraph with Kevin McCoy at Rhizome's Seven on Seven in 2014. https://anildash.com
 - **Anna Halprin** (1) — Dancer and choreographer. American dancer and choreographer (1920–2021) who developed community dance rituals and, with Lawrence Halprin, the RSVP Cycles scoring method. https://www.annahalprin.org/
 - **Anton Vidokle** (1) — Artist; founder of e-flux. Russian-born artist who founded e-flux in 1998 and has organised projects such as unitednationsplaza and e-flux journal. https://www.e-flux.com/
 - **Antoni Muntadas** (1) — Media artist. Spanish artist, born 1942, whose work since the 1970s examines media, public space and censorship.
 - **BasePaint** (1) — Team behind the BasePaint daily canvas. Small team that launched BasePaint on the Base network in August 2023; its contracts were written mainly by the developer w1nt3r. Every day strangers paint one shared pixel canvas that is then sold as an open edition. https://basepaint.xyz
+- **Ben Zucker** (1) — Composer. Composer; grantee of the 2024 and 2025 Summer of Protocols programmes. https://www.benzuckersounds.com/
 - **Benjamin H. D. Buchloh** (1) — Art historian. German art historian (born 1941) and editor of October, known for his histories of Conceptual art and postwar European art.
 - **Benjamin Patterson** (1) — Double bassist, composer and artist. American double bassist and artist (1934–2016), a founding member of Fluxus who took part in the 1962 Wiesbaden festival.
 - **Black Swan DAO** (1) — Berlin artist collective and DAO. Collective founded in 2018 by Penny Rafferty, Laura Lotti and Calum Bowden (later also Leïth Benkhedda), developed at Trust in Berlin. It channels resources from institutions to cultural practitioners, who decide by vote how to use them.
 - **Botto** (1) — Decentralized autonomous artist governed by BottoDAO. An AI artist launched in 2021 by Mario Klingemann and ElevenYellow. Its art engine generates images every week; holders of the $BOTTO token vote on them, and BottoDAO decides how the artist and its income are managed. https://botto.com
 - **Brian Eno** (1) — Musician, producer and artist. English musician and producer who, with the painter Peter Schmidt, published the card deck Oblique Strategies in 1975. https://www.brian-eno.net/
 - **Casey Pugh** (1) — Developer and filmmaker. American web developer and filmmaker who produced and edited Star Wars Uncut, which won a 2010 Emmy for interactive media.
+- **Chenoe Hart** (1) — Architectural designer and writer. Researcher in the 2023 and 2024 Summer of Protocols cohorts. http://www.chenoehart.com
 - **Christian Marclay** (1) — Artist and composer. Swiss-American visual artist and composer who has made many graphic and found scores for musicians to interpret.
 - **Christian Wolff** (1) — Composer. American composer (born 1934), associated with John Cage and Morton Feldman, whose scores coordinate players through cues and listening.
 - **Cildo Meireles** (1) — Artist. Brazilian conceptual artist whose work since the late 1960s addresses circulation, value and political control, beginning under the military dictatorship.
@@ -3254,7 +3588,10 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Darius Kazemi** (1) — Artist and bot maker. American programmer and internet artist, born 1983, known for Twitter bots and small-scale social software; co-founder, with Courtney Stanton, of the technology collective Feel Train. https://tinysubversions.com/
 - **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — Developers of the zkSNARK game Dark Forest. Small team led by Brian Gu (gubsheep) that built Dark Forest (2020), a real-time strategy game that runs entirely on an Ethereum-compatible chain and hides the map with zero-knowledge proofs. https://zkga.me
 - **David H. Katzive** (1) — Curator. Curator at the Museum of Contemporary Art Chicago who organised Art by Telephone in 1969, under director Jan van der Marck.
+- **David Lang** (1) — Explorer and entrepreneur. Researcher in the inaugural 2023 Summer of Protocols cohort. https://davidtlang.com
+- **Dorian Taylor** (1) — Information architect. Researcher in the inaugural 2023 Summer of Protocols cohort. https://doriantaylor.com/
 - **Douglas Davis** (1) — Artist and critic. American artist and critic (1933–2014) who worked with live television, satellite broadcasts and the early web to make interactive, participatory pieces.
+- **Drew Austin** (1) — Writer. Researcher in the inaugural 2023 Summer of Protocols cohort. He writes the newsletter Kneeling Bus about cities and technology. https://kneelingbus.net/
 - **Eduardo Kac** (1) — Telepresence and bio artist. Brazilian-American artist, born 1962, known for telepresence, holopoetry and bio art, including the fluorescent rabbit GFP Bunny. https://www.ekac.org/
 - **Egor Kraft** (1) — Artist and researcher. Artist born in St. Petersburg and raised in Sweden who lives in Vienna and Tokyo; his practice draws on media theory, computer science, critical design and film. http://kraft.studio/
 - **ElevenYellow** (1) — Software collective. Software collective that co-developed Botto with Mario Klingemann and built its token, voting and auction infrastructure.
@@ -3262,6 +3599,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Erwin Wurm** (1) — Artist. Austrian sculptor whose One Minute Sculptures (1997–) are drawn or written instructions that visitors perform with everyday objects for sixty seconds. https://www.erwinwurm.at/
 - **Eugene Thacker** (1) — Philosopher and media theorist. American philosopher and writer, professor at The New School, who has written on biotechnology, networks and the philosophy of horror.
 - **Eva & Franco Mattes** (1) — Artist duo. Italian artist duo, active since the 1990s as 0100101110101101.org, working with hoaxes, online labour, content moderation and the circulation of images. https://0100101110101101.org/
+- **Fangting** (1) — Artist and game designer. Researcher in the inaugural 2023 Summer of Protocols cohort. https://fangting.me/
 - **Florian Cramer** (1) — Writer and researcher on code and culture. German writer and researcher on literature, computing and media culture, long associated with the Piet Zwart Institute and Willem de Kooning Academy in Rotterdam.
 - **Frederic Rzewski** (1) — Composer and pianist. American composer and pianist (1938–2021), co-founder of the live-electronic group Musica Elettronica Viva in Rome.
 - **Gene Kogan** (1) — Artist and programmer. Artist and programmer who teaches machine learning for artists (ml4a) and since 2019 has led Abraham, an open project to build an autonomous artificial artist. https://abraham.ai
@@ -3271,6 +3609,7 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Grant Kester** (1) — Art historian. American art historian at the University of California, San Diego, who studies collaborative and socially engaged art.
 - **HER: She Loves Data** (1) — Art and research centre (Oriana Persico, Salvatore Iaconesi). Research centre founded by the artists Oriana Persico and Salvatore Iaconesi (also the duo Art is Open Source), formerly Human Ecosystems Relazioni; it makes 'datapoietic' works that turn public data into sensory experiences. Iaconesi died in July 2022. https://www.he-r.it/
 - **Hans Haacke** (1) — Artist. German-born artist who moved from physical and biological systems in the 1960s to 'real-time social systems': polls, visitor profiles and investigations of art-world power.
+- **Haotian Fang** (1) — Designer. Grantee of the 2024 Summer of Protocols programme. https://haotianfang.com/
 - **Harm van den Dorpel** (1) — Artist; co-founder of left gallery. Dutch artist working with software, genetic algorithms and blockchains; co-founder of left gallery, an early platform for selling code-based art. He has bred populations of images since Death Imitates Language (2016). https://harm.work
 - **Harold Cohen** (1) — Painter and creator of AARON. British-born painter (1928–2016) who represented Britain at the 1966 Venice Biennale, moved to UC San Diego in 1968 and spent the rest of his life writing AARON, a program that makes drawings and paintings on its own. https://aaronshome.com/
 - **Harrell Fletcher** (1) — Social practice artist. American artist and educator, founder of the Art and Social Practice MFA at Portland State University, whose projects are made with the people they involve. http://www.harrellfletcher.com/
@@ -3282,13 +3621,15 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Jacob Horne** (1) — Co-founder of Zora. American entrepreneur and co-founder of Zora, an onchain protocol and platform for minting and collecting media. https://jacob.energy/
 - **James Greig** (1) — Artist and technologist (Zilla, StudioGreig). Glasgow artist and technologist, known online as Zilla, who since 2024 has tended the AI personas Wib&Wob and writes about 'symbients' as an alternative to AI-as-software. https://www.greig.cc/
 - **Janet Echelman** (1) — Sculptor. American sculptor known for monumental suspended net sculptures installed over cities. https://www.echelman.com/
+- **Janna Tay** (1) — Writer. Researcher in the inaugural 2023 Summer of Protocols cohort. https://janna.netlify.app/
+- **Jiordi Rosales** (1) — Artist and researcher. Grantee of the 2024 Summer of Protocols programme. https://www.instagram.com/jiordi.rosales/
 - **Joe Looney** (1) — Developer. Developer in the Counterparty community who built the Rare Pepe Wallet, derived from his BTCPAY Market, to collect, display and trade Rare Pepes.
 - **John Baldessari** (1) — Artist. American conceptual artist (1931–2020) who used photographs, text and hired makers to question authorship in painting.
 - **Jonah Brucker-Cohen** (1) — Artist and researcher. American artist and professor at Lehman College, CUNY, whose works rewrite the rules of everyday network tools, such as mailing lists and Wi-Fi. https://www.coin-operated.com/
 - **Joseph Santarromana** (1) — Video and installation artist. Artist at the University of California, Irvine, known in the 1990s for video installations; co-director of the Telegarden with Ken Goldberg.
 - **Julieta Aranda** (1) — Artist; co-director of e-flux. Mexican artist and co-director of e-flux, whose projects deal with time, circulation and alternative economies. https://www.e-flux.com/
+- **Kara Kittel** (1) — Researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.linkedin.com/in/kara-kittel-81a2598a/
 - **Karlheinz Stockhausen** (1) — Composer. German composer (1928–2007), a central figure of postwar electronic and serial music, who in 1968 turned to verbal scores he called intuitive music. https://www.karlheinzstockhausen.org
-- **Kei Kreutler** (1) — Artist, writer and co-founder of Gnosis Guild. Artist and writer working on decentralized organisations, co-founder of Gnosis Guild, which builds open tools for DAOs. https://keikreutler.net/
 - **Kevin Macdonald** (1) — Film director. Scottish documentary and feature director, born 1967, who directed the crowd-sourced film Life in a Day, produced with Ridley Scott and YouTube.
 - **Kit Galloway** (1) — Telecommunications artist. American artist who, with Sherrie Rabinowitz, ran Mobile Image and made satellite and video-link works from the 1970s, then co-founded the Electronic Café International. https://ecafe.com/
 - **Kristi Coronado** (1) — Artist and 'emotional trainer' of the AI artist Solienne. Artist who worked for three years with Bright Moments among digital artists, then from June 2025 trained the AI artist Solienne on her own 46-year archive of memories, forensic work, death care, motherhood and grief, using the Eden platform. https://www.solienne.ai/
@@ -3296,41 +3637,53 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Lawrence Weiner** (1) — Conceptual artist. American artist (1942–2021) whose works are statements in language that describe materials and actions, shown as text on walls, in books and in public space.
 - **Lee Mingwei** (1) — Artist. Taiwanese-American artist whose participatory installations are built on gifts, meals, letters and conversations between strangers.
 - **Lil Nounders** (1) — Founding group of Lil Nouns DAO. Founders of Lil Nouns, a 2022 offshoot of Nouns that auctions a smaller Noun every 15 minutes and sends a share of its tokens to Nouns DAO. https://lilnouns.wtf
+- **Lizz Thabet** (1) — Artist and game maker. Grantee of the 2024 Summer of Protocols programme. https://lizz.website/about
 - **László Moholy-Nagy** (1) — Painter, photographer and Bauhaus teacher. Hungarian-born artist (1895–1946) who taught at the Bauhaus from 1923 and later founded the New Bauhaus in Chicago. He worked across painting, photography, film, typography and light sculpture.
 - **Malte Rauch** (1) — Curator and writer. Curator and writer on blockchain art who has worked with Bright Moments and the Verse platform, and wrote the essay for the contract show World Computer Sculpture Garden.
 - **Marc Garrett** (1) — Artist, writer and co-founder of Furtherfield. British artist, writer and curator who co-founded the London art and technology organisation Furtherfield with Ruth Catlow in 1996.
 - **Mario Klingemann** (1) — Artist working with neural networks. German artist and programmer known for work with neural networks and generative systems. He conceived Botto and designed its art engine. https://quasimondo.com
 - **Mark Napier** (1) — Net artist. American artist and programmer who since the mid-1990s has made browser-based works about ownership and control of online space, such as Shredder and net.flag. https://www.marknapier.com/
+- **Martin Benedikt Busch** (1) — Data scientist. Grantee of the 2024 Summer of Protocols programme. https://sites.google.com/view/martin-benedikt-busch
+- **Mashal Waqar** (1) — Researcher and writer. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.linkedin.com/in/mashalwaqar/
 - **Mathcastles** (1) — On-chain art studio (Xaltgeist and 0x113d). A pseudonymous two-person studio, Xaltgeist and 0x113d, that builds fully on-chain art systems. Its best-known work is Terraforms (2021), a 20-level on-chain structure of land parcels. https://mathcastles.xyz
 - **Mieko Shiomi** (1) — Composer and artist. Japanese composer and artist (born 1938), co-founder of Group Ongaku in Tokyo and a member of Fluxus from 1964.
 - **Miranda July** (1) — Artist, filmmaker and writer. American artist, filmmaker and writer whose work often invites strangers to take part through instructions, apps and assignments. https://www.mirandajuly.com/
 - **Mitchell F. Chan** (1) — Artist and game maker. Artist working with conceptual art, video games and smart contracts. His 2017 token work Digital Zones of Immaterial Pictorial Sensibility restages Yves Klein's receipt ritual in an Ethereum contract. https://chan.gallery/
 - **Murilo Matsubara** (1) — Software developer. Brazilian developer who launched Wplace, a pixel canvas laid over a world map, in July 2025. https://wplace.live/
+- **Nadia Asparouhova** (1) — Writer and researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. She writes about open source, philanthropy and online communities. https://nadia.xyz/
+- **Nahee Kim** (1) — Artist. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.instagram.com/nahee.app/
+- **Nathalia Scherer** (1) — Researcher. Grantee of the 2024 Summer of Protocols programme. https://www.linkedin.com/in/nathalia-scherer-b181b044/
 - **Nathaniel Stern** (1) — Artist and writer. American-South African artist and writer working with interactive installation, printmaking and net art; author of Interactive Art and Embodiment. https://nathanielstern.com/
 - **Nicolas Bourriaud** (1) — Curator and critic. French curator and writer, co-founder of the Palais de Tokyo, who named the 1990s tendency of artworks built from social encounters 'relational aesthetics'.
 - **Nounders** (1) — Founding group of Nouns DAO. Group of ten co-founders, including Dom Hofmann, who launched Nouns in August 2021: a pixel character auctioned every day, with all proceeds going to a treasury governed by the holders. https://nouns.wtf
 - **Okhaos** (1) — Art collective. Art collective created in 2008 to turn digital concepts into physical artworks; it co-created the first Plantoids with Primavera De Filippi. https://plantoid.org
 - **Olia Lialina** (1) — Net artist and theorist. Russian net artist and theorist, born 1971 in Moscow, a pioneer of 1990s net.art who teaches at Merz Akademie in Stuttgart and co-runs the One Terabyte of Kilobyte Age archive. https://art.teleportacia.org/
+- **Olivia Steiert** (1) — Researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.linkedin.com/in/olivia-steiert/
 - **Paul Ramírez Jonas** (1) — Artist. Artist born in California and raised in Honduras whose public works use civic rituals such as keys, oaths and public speech as materials.
 - **Pauline Oliveros** (1) — Composer and accordionist. American composer (1932–2016), co-founder of the San Francisco Tape Music Center and founder of the Deep Listening practice. https://www.deeplistening.rpi.edu
 - **Perry Bard** (1) — Interdisciplinary artist. Canadian artist (1944–2025) who worked with film, public art and the internet, often through collaborations with the public.
 - **Peter Edmunds** (1) — Designer and developer. Designer who built SwarmSketch as an honours project at the University of Canberra in 2005.
 - **Peter Porobov** (1) — Developer. Self-taught developer who made The Million Ether Homepage, an Ethereum version of the Million Dollar Homepage, in 2016 and relaunched it with ERC-721 blocks in 2018. https://themillionetherhomepage.com
 - **Peter Schmidt** (1) — Painter. German-born British painter (1931–1980) who co-authored Oblique Strategies with Brian Eno.
+- **Rafael Fernández** (1) — Writer and researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. https://rafael.fyi/
 - **Rafael Lima** (1) — Developer, founder of Hic et Nunc. Former social scientist from Brasília who built Hic et Nunc on Tezos, describing it as a 'social laboratory', and shut its website down on 11 November 2021.
 - **Rafael Lozano-Hemmer** (1) — Media artist. Mexican-Canadian artist, born 1967, who makes large interactive installations in public space; he calls a series of them 'relational architecture'. https://www.lozano-hemmer.com/
 - **Rare Pepe Directory** (1) — Curatorial registry on Counterparty. Self-styled team of 'Rare Pepe Scientists' who from 2016 certified user-made Pepe trading cards issued as Counterparty assets and fed them to Pepe wallets. http://rarepepedirectory.com
 - **Ray Johnson** (1) — Collage and correspondence artist. American artist (1927–1995), collagist and founder of the New York Correspondance School, the mail-art network he ran from the late 1950s until his death. https://www.rayjohnsonestate.com/
 - **Raymond Queneau** (1) — Writer. French novelist and poet (1903–1976) who co-founded Oulipo with François Le Lionnais in 1960.
+- **Rich McDowell** (1) — Governance researcher. Grantee of the 2024 Summer of Protocols programme.
 - **Rirkrit Tiravanija** (1) — Artist. Thai artist born in Buenos Aires whose installations since the early 1990s turn galleries into kitchens, living rooms and meeting places.
+- **Rithikha Rajamohan** (1) — Writer. Researcher in the inaugural 2023 Summer of Protocols cohort. https://www.linkedin.com/in/rithikha
 - **Robert Adrian X** (1) — Radio and telecommunications artist. Canadian artist (1935–2015) based in Vienna from 1972, who organised telecommunication art projects using phone, fax, slow-scan TV and the ARTEX computer network.
 - **Robert Projansky** (1) — Lawyer. New York lawyer who drafted The Artist's Reserved Rights Transfer and Sale Agreement with Seth Siegelaub in 1971, after consulting hundreds of artists, dealers and collectors.
 - **Roman Ondák** (1) — Artist. Slovak artist (born 1966) whose installations and performances often rely on instructions carried out by museum staff and visitors.
+- **Saffron Huang** (1) — Researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. https://saffronhuang.com/
 - **Santiago Sierra** (1) — Artist. Spanish artist, long based in Mexico City, who hires people at the minimum market rate to perform useless or degrading tasks, exposing the terms of wage labour.
 - **Sarah Meyohas** (1) — Artist. Artist whose work deals with value, speculation and systems; in 2015 she launched Bitchcoin, a currency redeemable for her photographs, and in 2017 staged Cloud of Petals. https://www.sarahmeyohas.com
 - **Scott Kildall** (1) — Conceptual and new-media artist. American artist, born 1969, working with virtual worlds, data sculpture and net art; co-founder of the Second Life performance group Second Front. https://www.kildall.com/
 - **Seth Siegelaub** (1) — Curator, publisher and dealer. American curator (1941–2013) who organised key exhibitions of conceptual art in book and catalogue form, and later researched the history of communication and textiles.
 - **Sherrie Rabinowitz** (1) — Telecommunications artist. American artist (1950–2013) who, with Kit Galloway, pioneered artistic uses of satellite and video links and co-founded the Electronic Café International. https://ecafe.com/
+- **Shreeda Segan** (1) — Writer. Researcher in the inaugural 2023 Summer of Protocols cohort. https://shreedasegan.com/
 - **Simone Forti** (1) — Artist, dancer and choreographer. Italian-born American artist and dancer (born 1935) whose Dance Constructions (1960–61) are task-based pieces for groups of performers.
 - **Suum Cuique Labs** (1) — Studio behind Hashmasks. Swiss studio that released Hashmasks in 2021: 16,384 digital portraits painted by about 70 artists, which owners can name permanently by burning a dedicated token. https://www.thehashmasks.com
 - **Suzanne Lacy** (1) — Artist and educator. American artist who since the 1970s has staged large public performances with communities, often on women, ageing and violence, and who coined the term 'new genre public art'. https://www.suzannelacy.com/
@@ -3339,6 +3692,8 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Terry Riley** (1) — Composer and performer. American composer (born 1935) associated with early minimalism, known for In C and for long improvised keyboard performances. https://terryriley.net
 - **The Streamer (Twitch Plays Pokémon)** (1) — Anonymous programmer. Anonymous Australian programmer who wrote the chat-to-controller bot behind Twitch Plays Pokémon and has run the channel since 2014. https://www.twitch.tv/twitchplayspokemon
 - **Thomas Hirschhorn** (1) — Artist. Swiss artist who builds temporary structures from cheap materials, including a series of 'monuments' to philosophers built and run with residents of housing estates. https://www.thomashirschhorn.com/
+- **Timber Stinson-Schroff** (1) — Researcher. Researcher in the inaugural 2023 Summer of Protocols cohort. He studies how safety protocols evolve as technologies mature. https://www.timberschroff.com/
+- **Toby Shorin** (1) — Writer and strategist. Researcher in the inaugural 2023 Summer of Protocols cohort. https://tobyshorin.com/
 - **Tom Marioni** (1) — Conceptual artist; founder of the Museum of Conceptual Art. American conceptual artist who founded the Museum of Conceptual Art (MOCA) in San Francisco in 1970, which he described as a large-scale social work of art. http://tommarioni.com/
 - **Tom Sachs** (1) — Sculptor. American sculptor known for hand-built replicas of space programmes and branded objects. Rocket Factory (2021) is his NFT project, in which collectors assemble rockets from parts that his studio then builds and launches. https://www.tomsachsrocketfactory.com
 - **Tyler Hobbs** (1) — Generative artist. Generative artist working with algorithms, plotters and paint, known for Fidenza (2021). With Dandelion Wist Mané he made QQL (2022), where collectors search the algorithm and choose what gets minted. https://www.tylerxhobbs.com
@@ -3346,7 +3701,10 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 - **Vera List Center for Art and Politics** (1) — Research center at The New School. Research and public programme centre at The New School in New York that works on the relation between art and politics through seasonal focus themes. https://www.veralistcenter.org/
 - **William Entriken** (1) — Developer. Developer and lead author of the ERC-721 standard who launched Su Squares, 10,000 personalizable squares on Ethereum, in 2018. https://tenthousandsu.com
 - **Wolfgang Staehle** (1) — Artist and founder of The Thing. German-born artist, born 1950, based in New York, who founded The Thing in 1991 and later made long-duration live webcam works. https://the.thing.net/
+- **Yisi Liu** (1) — Technologist. Co-founder and CTO of Mask Network and research fellow at the Institute of Network Society, China Academy of Art; grantee of the 2024 Summer of Protocols programme. https://x.com/TheYisiLiu
+- **Yuemin Huang** (1) — Designer. Grantee of the 2024 Summer of Protocols programme. https://www.yueminh.com/
 - **Yves Klein** (1) — Artist. French artist (1928–1962) of Nouveau Réalisme, known for International Klein Blue, the Anthropometries and his sales of 'immaterial' zones.
+- **hua xi zi** (1) — Artist. Grantee of the 2024 Summer of Protocols programme.
 
 ## Institutions
 

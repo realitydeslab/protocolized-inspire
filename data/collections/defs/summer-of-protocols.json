@@ -1,0 +1,21 @@
+[
+ {
+  "id": "summer-of-protocols",
+  "type": "venue",
+  "en": "Summer of Protocols",
+  "zh": "Summer of Protocols（协议之夏）",
+  "desc_en": "Ethereum Foundation-commissioned research programme (2023–2025) funding researchers, artists and engineers to study protocols.",
+  "desc_zh": "以太坊基金会委托的研究计划（2023–2025），资助研究者、艺术家和工程师研究协议。",
+  "url": "https://summerofprotocols.com",
+  "work": "summer-of-protocols--program"
+ },
+ {
+  "id": "sop24-protocol-exhibition",
+  "type": "exhibition",
+  "en": "Protocol Exhibition (SoP24 PILL, Protocol Symposium 2024)",
+  "zh": "协议展（SoP24 PILL 计划，Protocol Symposium 2024）",
+  "desc_en": "Virtual exhibition of small grants exploring protocol lore and literacy through art, fiction and games, 16–30 September 2024.",
+  "desc_zh": "通过艺术、小说和游戏探索协议知识与素养的小额资助作品线上展，2024 年 9 月 16–30 日。",
+  "url": "https://summerofprotocols.com/protocol-exhibition"
+ }
+]

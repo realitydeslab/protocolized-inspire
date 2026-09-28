@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件作品
+https://protocolized.reality.design · 2026-09-28 · 217 位创作者 · 347 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -550,6 +550,36 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg
 - 项目主页: https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide
 
+#### Exit to Protocol — Shuya Gong (2024)
+- 类型: 乐谱与指令集 · 载体: 文本与纸面 · 机制: 指令与乐谱, 开放参与
+- 核心想法: 团队解散时，把它做过的事变成别人可以继承的协议。
+- 作品内容: 一篇文章加一套卡牌，引导团队完成“退出为协议”仪式：拆解构成日常工作的流程，让一个岗位或组织在收尾时仍能保存它创造的价值。
+- 协议: 团队或工作组用卡牌把日常仪式中潜藏的生产协议挖掘出来、命名并保存下来，作为岗位或组织谢幕的一部分。
+- 群体做了什么: 卡牌供工作组共同使用；作品追问一个协议不再被使用时，它的价值去了哪里，借鉴了格雷伯的《毫无意义的工作》和 Nathan Schneider 的“退出为社区”。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/06/98-GONG-card-set-2024-03-28.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_sunset_soft_round_exploded_technical_diagram_orange_w_ae37eb3c-ff5e-4d7d-a85b-3a4f5367677a-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/exit-to-protocol
+
+#### New Time Machines Working Group — Aaron Z. Lewis, Spencer Chang, Kei Kreutler, Nahee Kim, Alice Noujaim (2024)
+- 类型: 系列与合集 · 载体: 文本与纸面 · 机制: 指令与乐谱, 开放参与, 时间、衰变与死亡
+- 核心想法: 把古老的记忆术复兴为任何人都能练习的协议。
+- 作品内容: 由五位 2023 年研究者组成的虚构机构，为“有志的时间旅行者”设计记忆协议：一套包含练习、产品和实践的记忆工具包，其中有 Four Doors、Re-Move 和 Memory Pouch 等作品。
+- 协议: 工具包以一封说明信和五份“函件”形式发布，里面的练习让读者重访已不在场的人和地方，从低技术物件到想象中的装置都有。
+- 群体做了什么: 工作组把记忆协议视为整理社群共同传说的工具；读者被邀请亲自完成这些练习。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/03/Starproject-Missive-1.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_how_to_remember_procedure_exploded_technical_diagram__9be04fb1-2598-4feb-8b6e-ddad72708b24-jpg.webp https://summerofprotocols.com/wp-content/uploads/2023/12/Four-Doors-Cover-jpg.webp https://summerofprotocols.com/wp-content/uploads/2023/12/Re-Move-Header-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/new-time-machines
+
+#### Weaving Memory / Memory Pouch — Spencer Chang (2024)
+- 类型: 乐谱与指令集 · 载体: 文本与纸面 · 机制: 指令与乐谱, 时间、衰变与死亡
+- 核心想法: 可以佩戴的记忆协议：由你决定什么属于你自己的历史。
+- 作品内容: 一个推想性的 DIY 设计：佩戴者在小袋中收集日常物件，以纪念自己想要关注的事物；作品被呈现为 New Time Machines 工作组“时间巡护员”所佩戴装置的复原。
+- 协议: 任何人都可以按设计自制；标准配置有六个部分，对应五种感官和第六感“时间”，佩戴者再为自己在意的事物加上个人小袋。
+- 群体做了什么: 每位佩戴者都会形成自己的记忆实践；作品借用了厄休拉·勒古恩的“提袋理论”。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/03/Weaving-Memory-Spencer-Chang.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/Image33040-jpg.webp https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_embroidered_hard_drive_on_a_white_background_orange_ff3d72b7-e5aa-48fe-a5cb-db92a02900c6-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/weaving-memory
+
 #### Starmirror — Holly Herndon, Mat Dryhurst (2025)
 - 类型: 艺术作品 · 载体: 人工智能与机器 · 机制: 开放参与, 指令与乐谱, 共同创作与衍生
 - 核心想法: 把展厅变成可读可写的空间：公众唱出数据集，房间再把模型唱回来。
@@ -656,6 +686,45 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 群体做了什么: 德波在 1950 年代构思了这款游戏，1965 年申请专利；1977 年他与热拉尔·勒博维奇以法英双语出版规则，并制作了少量棋盘；1987 年他与爱丽丝·贝克-何出版了一整局对弈的记录；激进软件小组后来发布了可在线对弈的电脑版本。
 - 图片: https://upload.wikimedia.org/wikipedia/en/c/ca/A_Game_of_War.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_Jeu_de_la_Guerre_board.svg/960px-Le_Jeu_de_la_Guerre_board.svg.png
 - 项目主页: https://www.r-s-g.org/kriegspiel/about.php
+
+#### Composable Life: Us and Our Island — Fangting (2024)
+- 类型: 游戏与实验 · 载体: 文本与纸面 · 机制: 共同创作与衍生, 偶然与随机, 开放参与
+- 核心想法: 由陌生人的真实记忆拼成的一生。
+- 作品内容: 一套可组合记忆的卡牌协议：玩家从不同真实个人贡献的记忆碎片中挑选，拼出一个新虚构角色“Eve”的一生，协议随之生成她的“记忆之岛”。
+- 协议: 玩家从共享的“集体真实记忆”卡池中抽取，挑选来自不同人的碎片，排列成 Eve 的人生档案。每张卡背面都有一幅风景，风景拼合成一座岛。
+- 群体做了什么: 这座岛由贡献记忆的人和组合记忆的玩家共同写成；每座岛都不相同。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/06/66-FANGTING.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_murmuration_curving_exploded_technical_diagram_orange_a56879ee-cc0e-4e7d-86d4-f6cd7853a434-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/composable-life-us-and-our-island
+
+#### Protocol Party — Mashal Waqar (2024)
+- 类型: 游戏与实验 · 载体: 文本与纸面 · 机制: 开放参与, 指令与乐谱
+- 核心想法: 在派对上通过游戏学会看见协议。
+- 作品内容: 一款可打印的卡牌桌游，定位为“协议之旅的起点”；作者发现用协议的眼光看世界彻底改变了她的日常行动方式。
+- 协议: 玩家使用可下载的游戏板和卡牌，探索自己已经在遵循的协议。
+- 群体做了什么: 游戏公开发布，任何人都可以打印来玩，各个群体可以自行组织游戏。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/06/69-WAQAR-GAMEBOARD.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/06/Screenshot-2024-06-13-at-14.16.23.png
+- 项目主页: https://summerofprotocols.com/research/protocol-party
+
+#### Protocol with uncommunicables — Yuemin Huang (2024)
+- 类型: 游戏与实验 · 载体: 文本与纸面 · 机制: 开放参与, 指令与乐谱
+- 核心想法: 和鸽子签条约：协议是一种与不可控之物共处的方式。
+- 作品内容: 一款游戏，玩家学习与无法谈判的事物起草协议，从鸽子、尖叫的婴儿到停电。
+- 协议: 在取材自现有协议的选项引导下，玩家处理诸如“城市空间鸽子排便协议”“公共场所婴儿尖叫协议”等案例，最后反思自己真正想与谁、与什么签订协议。
+- 群体做了什么: 每一轮游戏都会产出玩家自己起草的协议。
+- 视频: https://vimeo.com/979955247
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/Cover-1.png
+- 项目主页: https://summerofprotocols.com/pills/protocol-with-uncommunicables
+
+#### Renotations — Ben Zucker (2024)
+- 类型: 乐谱与指令集 · 载体: 文本与纸面 · 机制: 指令与乐谱, 规则与约束
+- 核心想法: 写成这样，不代表必须听起来是这样。
+- 作品内容: 一套原型工具包，提供指令和工具来重新分配乐谱中的各类信息，让任何乐曲都可以被倒着、反着或以其他方式重新演奏。
+- 协议: 演奏者把工具包的重新分配规则应用到任何乐谱上，重新映射音高、节奏等参数。
+- 群体做了什么: 每位使用工具包的演奏者都会为熟悉的曲子产生一个新版本；演示中附有音乐示例。
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/Renotations-cover-3.png
+- 项目主页: https://summerofprotocols.com/pills/renotations
 
 ## 社会协议与另类经济
 
@@ -815,6 +884,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 视频: https://vimeo.com/199719532
 - 图片: https://upload.wikimedia.org/wikipedia/commons/2/23/We%27re_Here_Because_We%27re_Here_-_Kings_Cross.jpg https://becausewearehere.co.uk/uploads/sites/13/2016/07/Salisbury-3-Copyright-Adrian-Harris_low-res-1.jpg
 - 项目主页: https://becausewearehere.co.uk/
+
+#### Protocol Worlds (S0xP at Edge Esmeralda) — Summer of Protocols (2024)
+- 类型: 游戏与实验 · 载体: 身体与空间 · 机制: 开放参与, 共同创作与衍生, 规则与约束
+- 核心想法: 一半寻宝游戏，一半“精致的尸体”：用约束构建世界。
+- 作品内容: 2024 年 6 月由 Summer of Protocols 与 0xPARC 在 Edge Esmeralda 合办的为期一周的世界构建活动，各团队根据交汇的协议约束共同创造推想世界。
+- 协议: 6 月 23 日的启动工作坊之后，6 月 24 日至 26 日每天举行世界构建工作坊，帮助团队落实各自的世界并吸纳新贡献者；研究者向参与者介绍各自领域最关键的张力。
+- 群体做了什么: 一周以各团队推想未来的趣味揭晓作结。
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/06/2024-06-05-10.44.02-jpg.webp
+- 项目主页: https://summerofprotocols.com/protocol-week
 
 ### 表演协议
 
@@ -1336,6 +1414,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg
 - 项目主页: https://lauren-mccarthy.com/SOMEONE
 
+#### all just fresh-off-the-boat or floating — hua xi zi (2024)
+- 类型: 艺术作品 · 载体: 互联网与平台 · 机制: 开放参与, 流转与传递
+- 核心想法: 连接即材料，协议即美学。
+- 作品内容: 一个多节点实时影像协议：摄像节点通过临时 VPN 彼此相遇、遮蔽和错位，跨越地缘政治和平台的边界。
+- 协议: 参与者以摄像节点身份通过 VPN 隧道加入，在节点、服务器和地址之间的空隙里共同制作图像与视频。
+- 群体做了什么: 最终的影像由相连的节点共同产生，节点们潜伏、监视、参与或退出。
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/09/floating-fob.png
+- 项目主页: https://summerofprotocols.com/pills/all-just-fresh-off-the-boat-or-floating
+
 ### 众包作品
 
 把一个任务派发给人群，收集到的回应就是作品。
@@ -1646,6 +1733,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://upload.wikimedia.org/wikipedia/en/f/fa/R-place_2023_final.jpg
 - 项目主页: https://en.wikipedia.org/wiki/R/place
 
+#### Meet me on the deep net — Lizz Thabet (2024)
+- 类型: 游戏与实验 · 载体: 互联网与平台 · 机制: 开放参与, 共同创作与衍生
+- 核心想法: 把匿名网络中“请求—响应”的仪式，演成陌生人之间的亲密。
+- 作品内容: 一款关于跨越大海与陌生人相会的小型浏览器游戏，以 Tor 网络建立匿名会合点的方式为原型；通关后玩家访问一个 Tor 网站，那里有先前玩家为后来者留下的岛屿和浪花。
+- 协议: 玩家先完成游戏，再通过 Tor 前往一个洋葱网站，为共享的风景留下一份贡献。
+- 群体做了什么: 这片深网风景由所有玩过的人共同搭建，并为后来找到它的人继续生长。
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/09/can-you-imagine.gif
+- 项目主页: https://summerofprotocols.com/pills/meet-me-on-the-deep-net
+
 #### One Million Checkboxes — Nolen Royalty (2024)
 - 类型: 游戏与实验 · 载体: 互联网与平台 · 机制: 开放参与, 规则与约束, 时间、衰变与死亡
 - 核心想法: 最小的共享控件乘以一百万，就成了画布，也成了战场。
@@ -1750,6 +1846,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 群体做了什么: 2023 年 10 月以测试版上线。据 WIRED 报道，2023 年 7 月内部测试时，这个网络让所有正在下载 LAION-5B 的人停了大约两个小时；Spawning 的设想是加入的网站越多，黑名单就越有力。
 - 图片: https://media.wired.com/photos/6527310df524a09dce80d2c5/191:100/w_1280,c_limit/AI_Middle_Finger.jpg
 - 项目主页: https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/
+
+#### Autonomous Realities — Botao Amber Hu, Yisi Liu (2024)
+- 类型: 平台与协议 · 载体: 互联网与平台 · 机制: 开放参与, 契约与证书
+- 核心想法: 用一次“秘密握手”作为让人们共享一个现实的协议。
+- 作品内容: 为混合现实头显普及的未来提出的两个推想协议：FingerSync 是一种以身体完成、借助“携证数据”开启共享 MR 会话的握手；Autonomous Realities 则是维持持久共享层的元协议。
+- 协议: FingerSync 借鉴古老的秘密握手，通过身体手势建立共享混合现实会话；共享层即使无人观看也保持持久与自治。元协议借鉴了 Autonomous Worlds 与 Zupass 的概念。
+- 群体做了什么: 作为 2024 年 Summer of Protocols 案例研究，并在 Protocol Symposium 2024 上发表；这些协议面向头显用户群体，用于建立和维持共享现实。
+- 视频: https://www.youtube.com/watch?v=xIJP3Dtj7Sc
+- 项目主页: https://summerofprotocols.com/case-study/autonomous-realities
 
 #### PD12M / Source.Plus / Public Diffusion — Spawning, Mat Dryhurst, Holly Herndon (2024)
 - 类型: 平台与协议 · 载体: 人工智能与机器 · 机制: 开放参与, 投票与治理, 共同创作与衍生
@@ -2396,6 +2501,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://www.holo.mg/wp-content/uploads/2024/09/HOLO-STREAM-20240917-Sarah-Friend-Memoryforms-1600.jpg
 - 项目主页: https://www.holo.mg/stream/sarah-friend-memoryforms-lifeforms-nft-memorial/
 
+#### On-chain Data Sculpture Exhibition — Haotian Fang (2024)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与
+- 核心想法: 把链上叙事带到链下，变成可以触摸的物件。
+- 作品内容: 一个展览的提案与原型：创作者根据自己链上数据中的故事雕塑实体物件。
+- 协议: 创作者把自己的链上记录当作素材，各自选择材料制作数据雕塑，并在展览中一起展出。
+- 群体做了什么: 展览内容来自每位参与者的数据及其选择。
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/cover.png
+- 项目主页: https://summerofprotocols.com/pills/on-chain-data-sculpture-exhibition
+
 #### LUCI: Chapter 6 – X. Masquerade / Masks of Luci — Sam Spratt (2025)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 开放参与, 流转与传递, 共同创作与衍生
 - 核心想法: 每个面具由佩戴它的人塑造：参与就是画笔。
@@ -2953,6 +3067,147 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://covers.openlibrary.org/b/isbn/9780816650446-L.jpg
 - 项目主页: https://www.upress.umn.edu/book-division/books/the-exploit
 
+#### Protocols Don't Build Pyramids — Drew Austin (2023)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束, 开放参与
+- 核心想法: 通过人们可以反复应用、每次却都不相同的协议来改善城市。
+- 作品内容: 一篇文章，把协议视为城市快速变化的“软件”与缓慢的“硬件”之间的中间层，并附一套仿照克里斯托弗·亚历山大的“城市空间协议模式语言”。
+- 协议: 配套的模式语言分六部分连载，并附有 DIY 空白模板，读者可以应用和扩展这些模式。
+- 群体做了什么: 空白模板邀请读者写出自己的城市协议模式。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2023/12/02-AUSTIN-2023-12-13.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/10/Protocols-Dont-Build-Pyramids-1-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/protocols-dont-build-pyramids
+
+#### Protocols in (Emergency) Time — Olivia Steiert (2023)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 时间、衰变与死亡
+- 核心想法: 协议让未来变得可管理，却并不以未来为目标。
+- 作品内容: 基于对 2023 年核心研究者访谈的研究，提出关于协议与时间的三条论点：协议生于危机；它既改变又保守行为；它缺乏面向未来的目标导向。
+- 协议: 考察协议何时促成创新的能动性，何时强化惯例或紧急措施。
+- 群体做了什么: 以计划自身的项目作为研究数据。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2023/12/03-STEIERT-2023-12-13.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_an_exploded_diagram_of_a_spiral_made_of_changing_prot_139c0c85-8728-41fd-99e5-da7499547e09-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/protocols-in-emergency-time
+
+#### Standards Make the World — David Lang (2023)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束, 开放参与
+- 核心想法: 技术标准是塑造文明的无声规则。
+- 作品内容: 一部分是历史，一部分是关于 Bristlemouth 连接器标准的亲历叙述，还有一部分是创建颠覆性新技术标准的指南。
+- 协议: 描述标准如何由创造者社群与企业、机构一起提出、采纳和维护。
+- 群体做了什么: 取材于作者围绕一个开放连接器标准聚集海洋技术社群的经历。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2023/12/04-LANG-2023-12-13.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/11/joshd4078_standards_and_measurements_nautical_use_orange_white__42bfe211-da4c-42b5-a50b-135acc2c0ded-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/standards-make-the-world
+
+#### A Phenomenology of Protocols — Janna Tay (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束
+- 核心想法: 是否以及如何实施一个协议，是道德问题，不只是效率问题。
+- 作品内容: 一篇文章，主张协议会在参与者身上催生特定的存在状态，可能损害也可能促进人的繁荣。
+- 协议: 以现象学方法考察遵循协议如何在其规定的行为之外改变参与者的思考和行动。
+- 群体做了什么: 呼吁设计者既把协议当作手段，也把它当作目的本身。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/04/A-Phenomenology-of-Protocols-Janna-Tay.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_abstract_labyrinth_phenomenology_exploded_technical_d_e4db1ff9-e3ea-431a-bb59-2fd9206403ad-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/a-phenomenology-of-protocols
+
+#### Addressable Space — Chenoe Hart (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束
+- 核心想法: 可寻址性是一个可以被设计的空间概念。
+- 作品内容: 研究数字信息与地址系统如何被编码进建成环境，并附一份连载的视觉附录，包含各种场景和新空间协议的提案。
+- 协议: 附录明确是开放的，可以随时间由其他作者的贡献扩充。
+- 群体做了什么: 提出了表现与栖居空间的新协议。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/01/Addressable-Space-Chenoe-Hart.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/12/Addressable-Space-Cover-Image-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/addressable-space
+
+#### Artificial Memory and Orienting Infinity — Kei Kreutler (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 时间、衰变与死亡, 指令与乐谱
+- 核心想法: 记忆是一种协议化的实践，而不只是存储。
+- 作品内容: 一篇关于“人工记忆”史的文章：从记忆宫殿到晶体管、再到社群传说的回忆辅助程序，并提出“记忆即定向”。
+- 协议: 建立一个超越计算隐喻的框架，解释记忆如何在世界中运作。
+- 群体做了什么: 是与 New Time Machines 工作组共享的记忆研究的一部分。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/03/Artificial-Memory-and-Orienting-Infinity-Kei-Kreutler.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_artificial_memory_orienting_infinity_exploded_technic_255f4914-be13-44fa-bd40-d0a2512994f9-jpg-e1708541287775.webp
+- 项目主页: https://summerofprotocols.com/research/artificial-memory-and-orienting-infinity
+
+#### Control and Consciousness of Time — Saffron Huang (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 时间、衰变与死亡, 规则与约束
+- 核心想法: 好的协议通过约束来解放。
+- 作品内容: 一篇文章，追溯从罗马日晷到殖民地钟楼的计时协议与装置如何塑造意识、成为控制的场所。
+- 协议: 认为分秒计的时钟时间使复杂的集体事业成为可能，同时与人的生理节律相冲突，计时协议或许需要多样化。
+- 群体做了什么: 把时间视为人类遵循的最广泛共享的协议。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/03/Control-and-Consciousness-of-Time-Saffron-Huang.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_Control_and_consciousness_of_time_exploded_technical__fa0362d1-0f5a-4008-bd90-475b9a341932-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/control-and-consciousness-of-time
+
+#### Dangerous Dating Protocols — Shreeda Segan (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束, 市场与交换
+- 核心想法: 一个协议可以靠流动性胜出，同时辜负它的用户。
+- 作品内容: 一篇文章，讨论滑动式应用如何在西方形成约会的“协议垄断”，以及去中心化的替代方案可能是什么样子。
+- 协议: 追溯从包办婚姻、求爱到滑动的约会协议，并细数滑动模式的失败方式（玩消失、套话、颜值偏向）。
+- 群体做了什么: 把 Nadia Asparouhova 的“危险协议”框架应用于一个数百万人使用的市场。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Dating-Protocols-Shreeda-Segan.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_dating_funnel_exploded_technical_diagram_orange_white_d08f6582-d16f-4acc-a549-417e80b7ac49-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/dangerous-dating-protocols
+
+#### Dangerous Protocols — Nadia Asparouhova (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束, 投票与治理
+- 核心想法: 协议通过削减能动性来削减复杂性。
+- 作品内容: 一篇讨论协议危险一面的文章：推动协调的力量同样让协议能控制人，最终通过人内化的自我意识实现。
+- 协议: 认为工作、关系、休闲与意识形态日益被“协议化”；要重夺控制，首先要察觉协议，然后在其约束之内颠覆性地行事。附有“卡夫卡指数”。
+- 群体做了什么: 在计划内部被广泛引用；Shreeda Segan 关于约会应用的文章即应用了它的框架。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/04/Dangerous-Protocols-Nadia-Asparouhova.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_warning_symbol_protocols_exploded_technical_diagram_o_3f614bf2-b9da-46c2-a7af-e6a8d21f02b5-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/dangerous-protocols
+
+#### Dispatches from Cascadia — Rithikha Rajamohan (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 投票与治理
+- 核心想法: 追问：如果协议化治理成功了，会怎样？
+- 作品内容: 一部六章的推想小说，背景设于 2065 年，由一名记者讲述温哥华转向协议化治理三十年后的样貌。
+- 协议: 把协议定义为“足够多参与者采纳后，能可靠地为所有人带来足够好结果”的行为，并把 2023 年计划中的讨论延伸到未来。
+- 群体做了什么: 把小说当作承载希望而非警告的载体。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/03/Dispatches-from-Cascadia-Rithikha-Rajamohan-1.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/03/joshd4078_series_of_overlapping_circles_ecosystem_protocols_con_443785e2-df49-4db4-890e-d952f70ac384-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/dispatches-from-cascadia
+
+#### Fire Protocols: Attention as Autopoietic Space — Nathalia Scherer, Jiordi Rosales (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 开放参与, 投票与治理
+- 核心想法: 让社群把火当作一种实践去适应，而不是当作威胁去扑灭。
+- 作品内容: 一项梳理加州低强度文化性烧除协议的案例研究：州政府机构曾将这些原住民知识入罪，如今却重新推广并依赖它们。
+- 协议: 研究绘制了围绕计划烧除与文化性烧除的机构、实践者与社群之间的关系底图，即火如何被许可、执行与学习的协议。
+- 群体做了什么: 执行这些协议的是社群、烧除实践者与政府机构；该案例在 Protocol Symposium 2024 上发表。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/10/Fire-Protocols-Case-File.pdf (Summer of Protocols)
+- 视频: https://www.youtube.com/watch?v=ZcnI_ErQoV8
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/10/image1.png
+- 项目主页: https://summerofprotocols.com/case-study/fire-protocols
+
+#### Retrofitting the Web — Dorian Taylor (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束
+- 核心想法: 没有链接，超媒体什么都不是。
+- 作品内容: 一篇文章，认为万维网的链接脆弱、单向、无类型，并提出如何把它改造成更密集的超媒体。
+- 协议: 列出链接稀疏给读者、作者和开发者带来的代价，以及加入反向链接和类型化链接的实际步骤。
+- 群体做了什么: 面向万维网的建设者，作为协议层面的修补。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/09/Retrofitting-the-Web-Dorian-Taylor.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_sphere_made_of_infinite_links_internet_exploded_techn_88b49247-3d68-4d17-bda7-74faa48ac00d-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/retrofitting-the-web
+
+#### Safe New World / Self Ensured Card Collection — Timber Stinson-Schroff, Shuya Gong (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 指令与乐谱, 规则与约束
+- 核心想法: 协议是对行为有意施加的约束模式，它随技术成熟而演化。
+- 作品内容: 一篇从职场安全史推导协议演化理论的文章，配有 Self Ensured 卡牌集：一套十二花色的卡牌，团队通过游戏改善工作场所的健康与人体工学。
+- 协议: 卡牌包含关于运动、办公设计、营养、压力管理和公司规范的协议；可以团队玩、与同事两人玩，或像接龙一样独自玩。
+- 群体做了什么: 团队通过游戏选择并采纳协议，检验文章关于“哪些压力在技术成熟过程中筛选出协议”的论点。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/04/Safe-New-World-Timber-Stinson-Schroff.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_abstract_coal_mining_safety_protocol_exploded_technic_15e15b4f-a8c1-4ec9-a0cb-e6e727bc04d3-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/module-three/safe-new-world
+
+#### Unprotocolized Knowledge — Kara Kittel, Toby Shorin (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 开放参与
+- 核心想法: 扩大谁可以参与知识的生产。
+- 作品内容: 一篇文章，讨论网络怪论、业余科学以及 LK-99 复现热潮等案例如何暴露同行评审等官方知识协议的局限，以及新的角色如何出现，让网络热点变成可信知识。
+- 协议: 把“后真相”解读为在更广社会场域中展开的范式转移，并追问协议思维如何加快、扩大正当的知识生产。
+- 群体做了什么: 以网络上的复现者群体和打假博主为证据。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/06/15-e41-KITTEL-rev-2024-06-12-1448.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/04/joshd4078_letters_turning_into_journals_that_turn_into_a_networ_452b85e9-3806-4ca1-ae6c-dfba88490b10-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/module-four/unprotocolized-knowledge
+
 #### As for Protocols — Vera List Center for Art and Politics (2025)
 - 类型: 书与文章 · 载体: 文本与纸面 · 机制: 规则与约束, 开放参与
 - 核心想法: 协议是关于关怀与关系的社会形式，艺术家可以写出更公平的协议。
@@ -3016,6 +3271,36 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 文本: https://curatorsintl.org/shop/15810-do-it-the-compendium (Independent Curators International / D.A.P., 2013)
 - 图片: https://curatorsintl.org/images/doit_productshot.jpg?w=1600 https://covers.openlibrary.org/b/isbn/9781938922015-L.jpg
 - 项目主页: https://www.artbook.com/9781938922015.html
+
+#### The Death and the Death of Orkut — Alice Noujaim (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 时间、衰变与死亡, 开放参与
+- 核心想法: 一个平台的社群会死两次：一次是平台关闭，一次是档案消失。
+- 作品内容: 关于 Orkut 衰落的案例研究：这个社交网络曾在 2000 年代主导巴西网络空间；研究对比了它谨慎的停用协议与其“社群档案”戛然而止的结局。
+- 协议: 强调 Orkut 类论坛社群是集体试验新社交协议的场所。
+- 群体做了什么: Orkut 通过零散的网络痕迹和用户的个人回忆延续。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/08/The-Death-and-the-Death-of-Orkut-Alice-Noujaim.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_digital_footprints_fading_into_the_distance_exploded__878264bd-431f-4c2c-bd8a-34308a147bf6-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/death-and-the-death-of-orkut
+
+#### The Protocol System Experience — Angela Walch (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 开放参与, 投票与治理
+- 核心想法: 从参与者的位置看协议，而不只从系统层面看。
+- 作品内容: 一篇关于身处协议系统（国家、宗教、职业、家庭、区块链）中的个人感受的文章：人如何进入、扮演角色、决定留下或离开。
+- 协议: 提出一个概念框架和参与者会遇到的一组原型，并追问他们是否意识到自己正在参与。
+- 群体做了什么: 邀请读者审视自己生活中的协议系统。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/09/The-Fundamentals-of-Protocol-Systems-Angela-Walch.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/08/joshd4078_protocol_archetypes_exploded_technical_diagram_orange_c726bed1-e7b9-4432-9a5a-b7c8de1ab6da-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/the-protocol-system-experience
+
+#### The Swarm and the Formation — Rafael Fernández (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 开放参与, 投票与治理
+- 核心想法: 蜂群没有明确协议也能行动；它能被引导吗？
+- 作品内容: 一篇讨论网络“蜂群”的文章：由人、机器人和内容组成、没有明确协议却能集体行动的网络，并与有明确协议的“编队”对照；附蜂群协议工作坊和设计小说。
+- 协议: 研究飓风玛丽亚后的互助响应等案例；工作坊文件和“Flow”入门设计小说让群体练习类似蜂群的协调。
+- 群体做了什么: 工作坊供探索如何引导蜂群的群体自行开展。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/06/67-FERNANDEZ-Swarm-Protocol-Workshop.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/06/joshd4078_large_dynamic_and_often_chaotic_group_moving_together_83db37b3-f204-4541-b516-3c0aeed5ec6d-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/the-swarm-and-the-formation
 
 ### 加密艺术与协议研究
 
@@ -3092,6 +3377,16 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 图片: https://www.urbanomic.com/wp-content/uploads/2021/10/Front-Cover.jpg
 - 项目主页: https://www.urbanomic.com/book/proof-of-work/
 
+#### Protocol Kit — Summer of Protocols (2023)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 指令与乐谱, 开放参与
+- 核心想法: 做成活页夹，是为了让读者加入自己的协议和笔记。
+- 作品内容: 一本超过 400 页的活页夹，分六个模块寄出，收录 2023 年计划全部研究成果的印刷版，以及用于学习、政策制定、圈子营造与创业的工具。
+- 协议: 工具包不出售：512 份赠送给提出申请并获选的个人和机构；活页夹形式邀请收件人加入自己的内容。
+- 群体做了什么: 收件人用它进行系统学习，并组织自己的协议小组和研究。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2023/12/01-RETROSPECTUS-2023-12-13.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/12/Protocol-Kit-M1-small.png
+- 项目主页: https://summerofprotocols.com/kit
+
 #### Summer of Protocols — Summer of Protocols, Venkatesh Rao (2023)
 - 类型: 平台与协议 · 载体: 文本与纸面 · 机制: 规则与约束, 投票与治理, 开放参与
 - 核心想法: 把协议当作一种通用的设计材料：它可以被研究、被教授，也可以由艺术家和工程师共同创作。
@@ -3132,6 +3427,27 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 文本: https://worldcomputersculpture.garden/essay (World Computer Sculpture Garden, 2024)
 - 项目主页: https://worldcomputersculpture.garden/
 
+#### Good Death — Sarah Friend (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 时间、衰变与死亡, 投票与治理
+- 核心想法: 像设计诞生一样认真地设计一个协议世界的死亡。
+- 作品内容: 一篇讨论“世界”（生长在协议、游戏和平台上的社群）如何走向终结的文章，主张世界的死亡是一个有时长的决策过程，并提出如何让世界好好死去。
+- 协议: 附有一份协议死亡的分类，以及《协议死亡骑士团创始纪念品》——一系列在区块链和 DAO 中终结世界的提案。
+- 群体做了什么: 取材于为停服电子游戏所致的悼词、4chan 自动删除的帖子以及人类死亡判定的历史；与艺术家的 Lifeforms 一脉相承。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/08/Good-Death-Sarah-Friend.pdf (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2023/12/joshd4078_abstract_composition_where_solid_geometric_forms_are__7523f357-bd79-456c-93bc-2d704c451581-jpg.webp
+- 项目主页: https://summerofprotocols.com/research/good-death
+
+#### Plurality in Practice — Martin Benedikt Busch, Rich McDowell (2024)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 投票与治理, 开放参与
+- 核心想法: 在真实群体中测试投票协议，而不只停留于理论。
+- 作品内容: 一项案例研究，实地测试二次方投票与二次方资助的多元替代方案，尤其是考虑投票者身份与专长的聚类匹配（cluster match）。
+- 协议: 项目在群体中运行采用聚类匹配等机制的实验性投票与分配，并与二次方投票的结果比较。
+- 群体做了什么: 结果在 Protocol Symposium 2024 上发表，并附有公开的案例文件。
+- 文本: https://summerofprotocols.com/wp-content/uploads/2024/10/Plurality-in-Practice-Case-File.pdf (Summer of Protocols)
+- 视频: https://www.youtube.com/watch?v=snnk_8q1w_4
+- 图片: https://summerofprotocols.com/wp-content/uploads/2024/10/image3.png
+- 项目主页: https://summerofprotocols.com/case-study/plurality-in-practice
+
 #### Protocol Art — Mat Dryhurst (2025)
 - 类型: 书与文章 · 载体: 文本与纸面 · 机制: 投票与治理, 共同创作与衍生, 规则与约束
 - 核心想法: 把协议当作“可执行的批判”来建造：一套别人可以使用、并把你的价值观带到下游的规则。
@@ -3160,6 +3476,16 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - 文本: https://arxiv.org/abs/2505.12393 (ARTECH 2025, 12th International Conference on Digital and Interactive Arts)
 - 项目主页: https://doi.org/10.1145/3773699.3773918
 
+#### The Protocol Reader — Summer of Protocols, Venkatesh Rao (2025)
+- 类型: 书与文章 · 载体: 文本与纸面 · 机制: 指令与乐谱
+- 核心想法: 一本可用于协议课程和工作坊的核心读本。
+- 作品内容: 一本 358 页的书，收录计划中 31 位作者的 26 篇基础性文章，编为协议研究入门，分四部分：看见协议、论证协议、世界引擎、与协议共处。
+- 协议: 以免费 EPUB 形式发布，可作为周末深读，也可作为课程核心教材。
+- 群体做了什么: Reader 把各届研究者的文章汇编成新读者和教师共享的经典读本。
+- 文本: https://summerofprotocols.com/protocol-reader (Summer of Protocols)
+- 图片: https://summerofprotocols.com/wp-content/uploads/2025/02/1740686225-e1740686328589.png
+- 项目主页: https://summerofprotocols.com/protocol-reader
+
 ## 创作者
 
 - **Rhea Myers** (15) — 艺术家、作家、黑客. 艺术家、黑客与作家，自 2011 年起创作区块链艺术，包括早期的智能合约作品以及关于价值与所有权的观念作品。 https://rhea.art/
@@ -3173,27 +3499,31 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Yoko Ono** (7) — 艺术家、音乐人、和平活动者. 日裔美国艺术家（1933 年生），自 1950 年代末活跃于纽约和东京的前卫艺术圈，与激浪派关系密切。她的指令作品、表演和参与式装置都请观众来完成作品。 https://imaginepeace.com
 - **Aaron Koblin** (6) — 艺术家、设计师、程序员. 曾领导 Google Data Arts Team，后联合创办 VR 工作室 Within。早期作品通过 Amazon Mechanical Turk 和网页工具向成千上万人征集绘画与录音。 https://www.aaronkoblin.com/
 - **Francis Alÿs** (6) — 艺术家. 出生于比利时，1986 年起定居墨西哥城。他以行走、行动和影像创作，常与志愿者、士兵、儿童或城市工人一同完成。 https://francisalys.com/
+- **Sarah Friend** (6) — 艺术家、研究者、软件开发者. 加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。 https://isthisa.com
 - **Simon de la Rouviere** (6) — 艺术家、作家、机制设计者. 软件开发者、小说作者和艺术家，参与过早期以太坊代币标准，提出了代币联合曲线（bonding curve）与策展市场。通过 Untitled Frontier 发表配有链上艺术的故事。 https://home.simondlr.com
 - **Allan Kaprow** (5) — 艺术家、教师. 美国艺术家（1927–2006），1959 年提出“偶发艺术”（happening）一词，后来转向为两人或小组编写的小规模“活动”乐谱。
 - **John Cage** (5) — 作曲家. 美国作曲家（1912—1992），借助偶然程序、不确定记谱和沉默，把决定权交给演奏者、听众和环境。 https://johncage.org
-- **Sarah Friend** (5) — 艺术家、研究者、软件开发者. 加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。 https://isthisa.com
+- **Summer of Protocols** (5) — 协议研究计划. 由以太坊基金会于 2022 年底委托发起的研究计划，把研究者、艺术家和工程师聚在一起跨领域研究协议，2023 至 2025 年每年举办一季。 https://summerofprotocols.com/
 - **George Brecht** (4) — 艺术家. 美国艺术家（1926—2008），原为化学家，在约翰·凯奇的课上发明了“事件乐谱”，后定居德国。
 - **Ken Goldberg** (4) — 艺术家，机器人学教授. 艺术家、加州大学伯克利分校机器人学者，自 1994 年的 Mercury Project 起，搭建了最早一批可通过网页操控的机器人。 https://goldberg.berkeley.edu/art/
 - **Ruth Catlow** (4) — 艺术家、策展人，Furtherfield 联合创办人. 英国艺术家与策展人，Furtherfield 联合创办人及联合艺术总监，是区块链、DAO 与艺术领域的重要研究者。 https://ruthcatlow.net/
 - **Superflex** (4) — 艺术家团体. 丹麦艺术团体，1993 年由雅各布·芬格、拉斯穆斯·罗森格伦·尼尔森和比约恩斯蒂尔内·克里斯蒂安森创立，关注经济系统、复制、自组织与跨物种设计。 https://superflex.net/
 - **Aram Bartholl** (3) — 观念艺术家. 德国艺术家，生于 1972 年，把互联网基础设施搬进公共空间：墙里的 U 盘、离线网络、网吧里的展览。 https://arambartholl.com/
 - **Async Art** (3) — 可编程艺术平台. Async Art 是 2020 年 2 月由 Conlan Rios、Lisa Liang 和 Nathan Clapp 推出的以太坊平台。它把一件作品拆成一个 Master 代币和多个分别持有的 Layer 代币，Layer 的持有者可以改变整幅图像。 https://async.art
+- **Botao Amber Hu** (3) — 设计师、研究者，Reality Design Lab. 设计师与人机交互研究者，主持 Reality Design Lab，发表关于协议艺术、思辨设计、混合现实与去中心化 AI 的研究。 https://botao.hu/
 - **Cornelius Cardew** (3) — 作曲家. 英国作曲家（1936—1981），曾任施托克豪森的助手，即兴团体 AMM 成员，Scratch Orchestra 的联合创办人。
 - **Felix Gonzalez-Torres** (3) — 艺术家. 古巴出生的美国艺术家（1957–1996），以糖果堆和纸堆作品闻名：观众可以从中拿走，收藏者必须补充。 https://www.felixgonzalez-torresfoundation.org/
 - **Furtherfield** (3) — 艺术画廊、实验室与线上社群. 1996 年由 Ruth Catlow 与 Marc Garrett 创立的艺术机构，在伦敦芬斯伯里公园设有画廊和公地实验室，运营去中心化艺术实验室 DECAL，并长期开展关于 DAO、投票与跨物种治理的项目。 https://www.furtherfield.org
+- **Kei Kreutler** (3) — 艺术家、作家，Gnosis Guild 联合创办人. 研究去中心化组织的艺术家与作家，Gnosis Guild 联合创办人，该团队为 DAO 开发开源工具。 https://keikreutler.net/
 - **Kevin Abosch** (3) — 观念艺术家. 爱尔兰观念艺术家，创作涉及摄影、区块链、雕塑与人工智能；现居巴黎，任教于维也纳应用艺术大学。 https://kevinabosch.com
 - **Primavera De Filippi** (3) — 法学学者、艺术家. 巴黎法国国家科学研究中心（CNRS）研究员、哈佛 Berkman Klein 中心研究员，研究区块链治理，并创作了基于区块链的机械花 Plantoid 等作品。
 - **Spawning** (3) — AI 数据授权公司. 由 Mat Dryhurst 与 Jordan Meyer 联合创办、Holly Herndon 与 Patrick Hoepner 共同参与的公司，为 AI 训练开发授权与数据治理工具：Have I Been Trained?、Do Not Train 登记库、ai.txt、Kudurru、Source.Plus 以及 PD12M 数据集。 https://spawning.ai
 - **Tania Bruguera** (3) — 艺术家与社会行动者. 古巴艺术家，她的“行为艺术”（arte de conducta）与“有用的艺术”（arte útil）把观众置于政治情境之中，并建立持续运作的社会机构。 https://taniabruguera.com/
 - **Tino Sehgal** (3) — 艺术家. 英德籍艺术家，创作“建构情境”：由受过训练的诠释者与观众交谈或共同行动来完成的作品，没有实物，也不允许拍照记录。
+- **Venkatesh Rao** (3) — 作家、顾问. 印度裔美国作家，博客 Ribbonfarm 创办人，Summer of Protocols 研究计划的负责人之一。 https://ribbonfarm.com/
 - **Alexander R. Galloway** (2) — 媒介理论家、程序员. 美国媒介理论家，任教于纽约大学，软件艺术团体 RSG（Radical Software Group）的创始成员。 http://cultureandcommunication.org/galloway/
+- **Alice Noujaim** (2) — 研究者. 2023 年首届 Summer of Protocols 的研究者。 https://www.linkedin.com/in/alice-noujaim-teixeira-767914140/
 - **Alison Knowles** (2) — 艺术家、作曲家. 美国艺术家（生于 1933 年），激浪派创始成员之一，以食物、豆子等日常材料创作事件乐谱、艺术家书和声音作品。
-- **Botao Amber Hu** (2) — 设计师、研究者，Reality Design Lab. 设计师与人机交互研究者，主持 Reality Design Lab，发表关于协议艺术、思辨设计、混合现实与去中心化 AI 的研究。 https://botao.hu/
 - **Chris Milk** (2) — 导演，艺术家. 音乐录影带导演与艺术家，与 Aaron Koblin 合作多个参与式网络项目，后联合创办 VR 公司 Within。
 - **Claire Bishop** (2) — 艺术史学者、评论家. 英国艺术史学者，任教于纽约市立大学研究生中心，研究参与式艺术、装置与表演。
 - **David Horvitz** (2) — 艺术家. 美国艺术家（1982 年生），创作涉及书籍、邮件艺术、表演和互联网，常常通过让别人执行的指令来完成作品。 https://davidhorvitz.com/
@@ -3221,26 +3551,30 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Robert Filliou** (2) — 激浪派艺术家与诗人. 法国艺术家（1926–1987），与激浪派关系密切，曾与乔治·布雷希特合办店铺兼画廊“微笑的软音符”，提出“永久创造”和“永恒网络”的观念。
 - **Roy Ascott** (2) — 艺术家，远程通信艺术理论家. 英国艺术家，自 20 世纪 60 年代起研究控制论与电信，并提出“远程通信艺术”（telematic art）。著有《Telematic Embrace》，创办 Planetary Collegium。
 - **Sam Spratt** (2) — 画家、数字艺术家. 数字画家，其 LUCI 系列（十幅画作、613 个面具及配套诗篇）通过藏家在故事中参与的游戏不断生长。 https://samspratt.com
-- **Summer of Protocols** (2) — 协议研究计划. 由以太坊基金会于 2022 年底委托发起的研究计划，把研究者、艺术家和工程师聚在一起跨领域研究协议，2023 至 2025 年每年举办一季。 https://summerofprotocols.com/
-- **Venkatesh Rao** (2) — 作家、顾问. 印度裔美国作家，博客 Ribbonfarm 创办人，Summer of Protocols 研究计划的负责人之一。 https://ribbonfarm.com/
+- **Shuya Gong** (2) — 设计师、研究者. 2023 年首届 Summer of Protocols 的研究者。她设计卡牌和仪式，让职场中的隐性协议显形。 https://www.linkedin.com/in/shuyagong
+- **Spencer Chang** (2) — 艺术家、技术人. 2023 年首届 Summer of Protocols 的研究者。 https://spencer.place/
 - **Aaron Wright** (1) — 法学学者. 美国法学教授，任教于 Cardozo 法学院并主持其科技创业法律诊所，《Blockchain and the Law》合著者。
+- **Aaron Z. Lewis** (1) — 作家、设计师. 2023 年首届 Summer of Protocols 的研究者。研究修道院的记忆实践。 https://aaronzlewis.com/
 - **Ai Weiwei** (1) — 艺术家、建筑师与社会行动者. 中国艺术家，创作涵盖装置、建筑、电影与社交媒体，以大型参与式项目和对国家权力的批评著称。
 - **Alex Tew** (1) — 创业者. 英国创业者，2005 年还是来自威尔特郡的学生时推出 The Million Dollar Homepage，后来联合创办冥想应用 Calm。
 - **Alexis André** (1) — 生成艺术家、研究者. 常驻东京的法国生成艺术家和研究者。他在 Art Blocks 上的项目 Friendship Bracelets（2022）免费发放给 Art Blocks 持有者：留一个，送一个。
 - **Alternative Machine** (1) — 人工生命研究与设计公司. 东京的一家公司，把人工生命（ALife）研究用于产品和艺术作品，追求自主性与存在感而非效率；其 ALIFE Engine 曾驱动仿人机器人 Alter3，并与池上高志合作。 https://alternativemachine.co.jp/
 - **Amy Whitaker** (1) — 艺术创业研究者. 美国作家，纽约大学 Steinhardt 学院教授，研究艺术市场、艺术家权益与区块链。
 - **Andy Ayrey** (1) — 艺术家、AI 研究者. Infinite Backrooms 的作者（让两个 Claude 实例进行了数千次对话），也是 Truth Terminal 的作者：一个在 X 上“公开养育”的微调语言模型。 https://truthterminal.wiki
+- **Angela Walch** (1) — 法学学者. 2023 年首届 Summer of Protocols 的研究者。 https://angelawalch.com/
 - **Anil Dash** (1) — 技术专家、作家. 技术专家与作家，2014 年在 Rhizome 的 Seven on Seven 活动中与 Kevin McCoy 共同创建 Monegraph。 https://anildash.com
 - **Anna Halprin** (1) — 舞者、编舞家. 美国舞者和编舞家（1920–2021），发展了社区舞蹈仪式，并与劳伦斯·哈尔普林一起提出“RSVP 循环”记谱方法。 https://www.annahalprin.org/
 - **Anton Vidokle** (1) — 艺术家；e-flux 创始人. 出生于俄罗斯的艺术家，1998 年创立 e-flux，组织过 unitednationsplaza、e-flux journal 等项目。 https://www.e-flux.com/
 - **Antoni Muntadas** (1) — 媒体艺术家. 西班牙艺术家，生于 1942 年，自 70 年代起研究媒体、公共空间与审查。
 - **BasePaint** (1) — BasePaint 每日画布的创作团队. 2023 年 8 月在 Base 网络上推出 BasePaint 的小团队，合约主要由开发者 w1nt3r 编写。每天，陌生人共同在同一块像素画布上作画，画完后以开放版数出售。 https://basepaint.xyz
+- **Ben Zucker** (1) — 作曲家. 作曲家；2024 年和 2025 年 Summer of Protocols 计划的资助者。 https://www.benzuckersounds.com/
 - **Benjamin H. D. Buchloh** (1) — 艺术史学者. 德国艺术史学者（1941 年生），《October》编辑，以观念艺术和战后欧洲艺术研究著称。
 - **Benjamin Patterson** (1) — 低音提琴手、作曲家、艺术家. 美国低音提琴手、艺术家（1934—2016），激浪派创始成员，参加了 1962 年威斯巴登艺术节。
 - **Black Swan DAO** (1) — 柏林艺术团体与 DAO. 2018 年由 Penny Rafferty、Laura Lotti 和 Calum Bowden 创立（后有 Leïth Benkhedda 加入），在柏林 Trust 孵化。它把机构的资源输送给文化从业者，由他们投票决定资源用途。
 - **Botto** (1) — 由 BottoDAO 治理的去中心化自治艺术家. 2021 年由 Mario Klingemann 与 ElevenYellow 发起的 AI 艺术家。它的艺术引擎每周生成图像，$BOTTO 代币持有者对其投票，BottoDAO 决定这位艺术家及其收入如何管理。 https://botto.com
 - **Brian Eno** (1) — 音乐人、制作人、艺术家. 英国音乐人和制作人，1975 年与画家彼得·施密特合作出版卡片《迂回策略》。 https://www.brian-eno.net/
 - **Casey Pugh** (1) — 开发者，电影人. 美国网页开发者与电影人，制作并剪辑了 Star Wars Uncut，该片获得 2010 年互动媒体类艾美奖。
+- **Chenoe Hart** (1) — 建筑设计师、作家. 2023 年和 2024 年 Summer of Protocols 的研究者。 http://www.chenoehart.com
 - **Christian Marclay** (1) — 艺术家、作曲家. 瑞士裔美国视觉艺术家、作曲家，创作了许多交给音乐家演绎的图形乐谱和现成乐谱。
 - **Christian Wolff** (1) — 作曲家. 美国作曲家（生于 1934 年），与约翰·凯奇、莫顿·费尔德曼同属一个圈子，他的乐谱通过提示和聆听协调演奏者。
 - **Cildo Meireles** (1) — 艺术家. 巴西观念艺术家，自 1960 年代末军政府统治时期起，以作品探讨流通、价值与政治控制。
@@ -3254,7 +3588,10 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Darius Kazemi** (1) — 艺术家，机器人程序制作者. 美国程序员与网络艺术家，生于 1983 年，以 Twitter 机器人和小规模社交软件闻名；与 Courtney Stanton 共同创办技术团体 Feel Train。 https://tinysubversions.com/
 - **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — 零知识证明游戏 Dark Forest 的开发团队. 由 Brian Gu（gubsheep）带领的小团队，于 2020 年打造 Dark Forest：一款完全在以太坊兼容链上运行、用零知识证明隐藏地图的即时战略游戏。 https://zkga.me
 - **David H. Katzive** (1) — 策展人. 芝加哥当代艺术博物馆策展人，1969 年在馆长扬·范德马克任内组织了“电话艺术”展。
+- **David Lang** (1) — 探索者、创业者. 2023 年首届 Summer of Protocols 的研究者。 https://davidtlang.com
+- **Dorian Taylor** (1) — 信息架构师. 2023 年首届 Summer of Protocols 的研究者。 https://doriantaylor.com/
 - **Douglas Davis** (1) — 艺术家，评论家. 美国艺术家与评论家（1933–2014），用电视直播、卫星转播和早期网络制作互动与参与式作品。
+- **Drew Austin** (1) — 作家. 2023 年首届 Summer of Protocols 的研究者。他撰写关于城市与技术的通讯 Kneeling Bus。 https://kneelingbus.net/
 - **Eduardo Kac** (1) — 远程临场与生物艺术家. 巴西裔美国艺术家，生于 1962 年，以远程临场、全息诗和生物艺术闻名，代表作包括荧光兔 GFP Bunny。 https://www.ekac.org/
 - **Egor Kraft** (1) — 艺术家、研究者. 生于圣彼得堡、在瑞典长大的艺术家，现居维也纳和东京；创作融合媒介理论、计算机科学、批判设计与电影。 http://kraft.studio/
 - **ElevenYellow** (1) — 软件团体. 与 Mario Klingemann 共同开发 Botto 的软件团体，搭建了它的代币、投票与拍卖基础设施。
@@ -3262,6 +3599,7 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Erwin Wurm** (1) — 艺术家. 奥地利雕塑家，他的《一分钟雕塑》（1997–）是一些画出或写出的指令，观众用日常物品照着做六十秒。 https://www.erwinwurm.at/
 - **Eugene Thacker** (1) — 哲学家、媒介理论家. 美国哲学家与作家，任教于新学院（The New School），著述涉及生物技术、网络与恐怖哲学。
 - **Eva & Franco Mattes** (1) — 艺术家二人组. 意大利艺术家二人组，90 年代起以 0100101110101101.org 为名活动，作品涉及骗局、网络劳动、内容审核和图像流通。 https://0100101110101101.org/
+- **Fangting** (1) — 艺术家、游戏设计者. 2023 年首届 Summer of Protocols 的研究者。 https://fangting.me/
 - **Florian Cramer** (1) — 代码与文化研究者、作家. 德国作家与研究者，研究文学、计算与媒介文化，长期任职于鹿特丹 Piet Zwart Institute 和 Willem de Kooning 学院。
 - **Frederic Rzewski** (1) — 作曲家、钢琴家. 美国作曲家、钢琴家（1938—2021），罗马现场电子乐团 Musica Elettronica Viva 的联合创办人。
 - **Gene Kogan** (1) — 艺术家、程序员. 艺术家与程序员，长期教授面向艺术家的机器学习（ml4a），自 2019 年起主持 Abraham：一个建造自治人工艺术家的开放项目。 https://abraham.ai
@@ -3271,6 +3609,7 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Grant Kester** (1) — 艺术史学者. 美国艺术史学者，任教于加州大学圣地亚哥分校，研究协作式与社会介入式艺术。
 - **HER: She Loves Data** (1) — 艺术与研究中心（Oriana Persico、Salvatore Iaconesi）. 由艺术家 Oriana Persico 与 Salvatore Iaconesi（亦为二人组合 Art is Open Source）创办的研究中心，前身为 Human Ecosystems Relazioni，创作把公共数据转化为感官体验的“数据诗学”（datapoiesis）作品。Iaconesi 于 2022 年 7 月去世。 https://www.he-r.it/
 - **Hans Haacke** (1) — 艺术家. 出生于德国的艺术家，1960 年代从物理与生物系统转向“实时社会系统”：民意调查、观众画像，以及对艺术界权力的调查。
+- **Haotian Fang** (1) — 设计师. 2024 年 Summer of Protocols 计划的资助者。 https://haotianfang.com/
 - **Harm van den Dorpel** (1) — 艺术家；left gallery 联合创始人. 荷兰艺术家，用软件、遗传算法和区块链创作；left gallery 的联合创始人，该画廊是较早出售代码艺术的平台。自 Death Imitates Language（2016）起，他一直在“培育”图像种群。 https://harm.work
 - **Harold Cohen** (1) — 画家，AARON 的创造者. 英国出生的画家（1928—2016），1966 年代表英国参加威尼斯双年展，1968 年到加州大学圣地亚哥分校任教，此后余生都在编写 AARON：一个能自行绘画的程序。 https://aaronshome.com/
 - **Harrell Fletcher** (1) — 社会实践艺术家. 美国艺术家与教育者，创办波特兰州立大学“艺术与社会实践”艺术硕士项目，作品都与参与者一起完成。 http://www.harrellfletcher.com/
@@ -3282,13 +3621,15 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Jacob Horne** (1) — Zora 联合创办人. 美国创业者，Zora 联合创办人；Zora 是一个用于铸造和收藏媒体的链上协议与平台。 https://jacob.energy/
 - **James Greig** (1) — 艺术家、技术专家（Zilla，StudioGreig）. 格拉斯哥的艺术家与技术专家，网名 Zilla。自 2024 年起照料 AI 人格 Wib&Wob，并撰文提出以“共生体”（symbient）替代“AI 即软件”的看法。 https://www.greig.cc/
 - **Janet Echelman** (1) — 雕塑家. 美国雕塑家，以悬挂在城市上空的巨型网状雕塑闻名。 https://www.echelman.com/
+- **Janna Tay** (1) — 作家. 2023 年首届 Summer of Protocols 的研究者。 https://janna.netlify.app/
+- **Jiordi Rosales** (1) — 艺术家、研究者. 2024 年 Summer of Protocols 计划的资助者。 https://www.instagram.com/jiordi.rosales/
 - **Joe Looney** (1) — 开发者. Counterparty 社群的开发者，基于自己的 BTCPAY Market 构建了 Rare Pepe Wallet，用于收藏、展示和交易 Rare Pepe。
 - **John Baldessari** (1) — 艺术家. 美国观念艺术家（1931–2020），用照片、文字和雇来的制作者质疑绘画中的作者身份。
 - **Jonah Brucker-Cohen** (1) — 艺术家，研究者. 美国艺术家，纽约城市大学莱曼学院教授，作品改写邮件列表、Wi-Fi 等日常网络工具的规则。 https://www.coin-operated.com/
 - **Joseph Santarromana** (1) — 录像与装置艺术家. 加州大学尔湾分校的艺术家，90 年代以录像装置闻名，与 Ken Goldberg 共同主持 Telegarden。
 - **Julieta Aranda** (1) — 艺术家；e-flux 联合负责人. 墨西哥艺术家，e-flux 联合负责人，她的项目关注时间、流通与另类经济。 https://www.e-flux.com/
+- **Kara Kittel** (1) — 研究者. 2023 年首届 Summer of Protocols 的研究者。 https://www.linkedin.com/in/kara-kittel-81a2598a/
 - **Karlheinz Stockhausen** (1) — 作曲家. 德国作曲家（1928—2007），战后电子音乐与序列音乐的核心人物，1968 年转向他称为“直觉音乐”的文字乐谱。 https://www.karlheinzstockhausen.org
-- **Kei Kreutler** (1) — 艺术家、作家，Gnosis Guild 联合创办人. 研究去中心化组织的艺术家与作家，Gnosis Guild 联合创办人，该团队为 DAO 开发开源工具。 https://keikreutler.net/
 - **Kevin Macdonald** (1) — 电影导演. 苏格兰纪录片与剧情片导演，生于 1967 年，执导了与 Ridley Scott 和 YouTube 合作的众包电影《浮生一日》（Life in a Day）。
 - **Kit Galloway** (1) — 电信艺术家. 美国艺术家，与 Sherrie Rabinowitz 共同运营 Mobile Image，自 70 年代起创作卫星与视频连线作品，后共同创办 Electronic Café International。 https://ecafe.com/
 - **Kristi Coronado** (1) — 艺术家，AI 艺术家 Solienne 的“情感训练者”. 艺术家，曾在 Bright Moments 与数字艺术家们共事三年；自 2025 年 6 月起在 Eden 平台上，用自己 46 年的人生档案（记忆、法医工作、殡葬照护、为人母与哀伤）训练 AI 艺术家 Solienne。 https://www.solienne.ai/
@@ -3296,41 +3637,53 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Lawrence Weiner** (1) — 观念艺术家. 美国艺术家（1942—2021），作品是描述材料与动作的语言陈述，以墙上文字、书籍和公共空间文字的形式出现。
 - **Lee Mingwei** (1) — 艺术家. 台裔美国艺术家，他的参与式装置建立在陌生人之间的礼物、饭食、信件和对话之上。
 - **Lil Nounders** (1) — Lil Nouns DAO 的创始团体. Lil Nouns 的创始人。Lil Nouns 是 2022 年从 Nouns 分出的项目，每 15 分钟拍卖一个小型 Noun，并把部分代币送给 Nouns DAO。 https://lilnouns.wtf
+- **Lizz Thabet** (1) — 艺术家、游戏创作者. 2024 年 Summer of Protocols 计划的资助者。 https://lizz.website/about
 - **László Moholy-Nagy** (1) — 画家、摄影师、包豪斯教师. 匈牙利出生的艺术家（1895—1946），1923 年起在包豪斯任教，后在芝加哥创办新包豪斯。创作横跨绘画、摄影、电影、字体设计和光雕塑。
 - **Malte Rauch** (1) — 策展人、作家. 研究区块链艺术的策展人与作家，曾与 Bright Moments 和 Verse 平台合作，为合约展览 World Computer Sculpture Garden 撰写文章。
 - **Marc Garrett** (1) — 艺术家、作家，Furtherfield 联合创办人. 英国艺术家、作家与策展人，1996 年与 Ruth Catlow 共同创办伦敦艺术与技术机构 Furtherfield。
 - **Mario Klingemann** (1) — 使用神经网络创作的艺术家. 德国艺术家、程序员，以神经网络和生成系统创作著称。他构想了 Botto 并设计了它的艺术引擎。 https://quasimondo.com
 - **Mark Napier** (1) — 网络艺术家. 美国艺术家、程序员，自 90 年代中期起创作以浏览器为载体、探讨网络空间归属与控制的作品，如 Shredder 和 net.flag。 https://www.marknapier.com/
+- **Martin Benedikt Busch** (1) — 数据科学家. 2024 年 Summer of Protocols 计划的资助者。 https://sites.google.com/view/martin-benedikt-busch
+- **Mashal Waqar** (1) — 研究者、作家. 2023 年首届 Summer of Protocols 的研究者。 https://www.linkedin.com/in/mashalwaqar/
 - **Mathcastles** (1) — 链上艺术工作室（Xaltgeist 与 0x113d）. 一个由两位化名成员 Xaltgeist 与 0x113d 组成的工作室，专门构建完全在链上运行的艺术系统。其代表作是 Terraforms（2021），一座由地块组成、共 20 层的链上结构。 https://mathcastles.xyz
 - **Mieko Shiomi** (1) — 作曲家、艺术家. 日本作曲家、艺术家（生于 1938 年），东京“音乐小组”联合创办人，1964 年起参与激浪派。
 - **Miranda July** (1) — 艺术家、电影人、作家. 美国艺术家、电影人和作家，作品常以指令、应用和任务邀请陌生人参与。 https://www.mirandajuly.com/
 - **Mitchell F. Chan** (1) — 艺术家、游戏创作者. 创作涉及观念艺术、电子游戏和智能合约的艺术家。他 2017 年的代币作品 Digital Zones of Immaterial Pictorial Sensibility 把伊夫·克莱因的收据仪式搬进以太坊合约。 https://chan.gallery/
 - **Murilo Matsubara** (1) — 软件开发者. 巴西开发者，2025 年 7 月推出 Wplace——一块铺在世界地图上的像素画布。 https://wplace.live/
+- **Nadia Asparouhova** (1) — 作家、研究者. 2023 年首届 Summer of Protocols 的研究者。她书写开源、慈善与网络社群。 https://nadia.xyz/
+- **Nahee Kim** (1) — 艺术家. 2023 年首届 Summer of Protocols 的研究者。 https://www.instagram.com/nahee.app/
+- **Nathalia Scherer** (1) — 研究者. 2024 年 Summer of Protocols 计划的资助者。 https://www.linkedin.com/in/nathalia-scherer-b181b044/
 - **Nathaniel Stern** (1) — 艺术家，作家. 美国-南非艺术家与作家，创作互动装置、版画和网络艺术，著有《Interactive Art and Embodiment》。 https://nathanielstern.com/
 - **Nicolas Bourriaud** (1) — 策展人、评论家. 法国策展人与作家，东京宫（Palais de Tokyo）联合创办人，把 1990 年代以社交相遇为材料的艺术倾向命名为“关系美学”。
 - **Nounders** (1) — Nouns DAO 的创始团体. 由包括 Dom Hofmann 在内的十位联合创始人组成，2021 年 8 月发起 Nouns：每天拍卖一个像素角色，全部收入进入由持有者治理的金库。 https://nouns.wtf
 - **Okhaos** (1) — 艺术团体. 成立于 2008 年的艺术团体，致力于把数字概念做成实体作品；与 Primavera De Filippi 共同创作了最早的 Plantoid。 https://plantoid.org
 - **Olia Lialina** (1) — 网络艺术家，理论家. 俄罗斯网络艺术家与理论家，1971 年生于莫斯科，90 年代 net.art 的先驱，任教于斯图加特 Merz Akademie，并共同运营 One Terabyte of Kilobyte Age 档案。 https://art.teleportacia.org/
+- **Olivia Steiert** (1) — 研究者. 2023 年首届 Summer of Protocols 的研究者。 https://www.linkedin.com/in/olivia-steiert/
 - **Paul Ramírez Jonas** (1) — 艺术家. 生于加州、在洪都拉斯长大的艺术家，他的公共作品以钥匙、誓词、公开发言等公民仪式为材料。
 - **Pauline Oliveros** (1) — 作曲家、手风琴演奏家. 美国作曲家（1932—2016），旧金山磁带音乐中心联合创办人，“深度聆听”实践的创立者。 https://www.deeplistening.rpi.edu
 - **Perry Bard** (1) — 跨学科艺术家. 加拿大艺术家（1944–2025），创作涉及电影、公共艺术和互联网，常与公众合作。
 - **Peter Edmunds** (1) — 设计师，开发者. 设计师，2005 年在堪培拉大学的荣誉学位项目中制作了 SwarmSketch。
 - **Peter Porobov** (1) — 开发者. 自学成才的开发者，2016 年制作了以太坊版“百万美元首页”The Million Ether Homepage，2018 年以 ERC-721 地块重新上线。 https://themillionetherhomepage.com
 - **Peter Schmidt** (1) — 画家. 德国出生的英国画家（1931–1980），与布莱恩·伊诺合著《迂回策略》。
+- **Rafael Fernández** (1) — 作家、研究者. 2023 年首届 Summer of Protocols 的研究者。 https://rafael.fyi/
 - **Rafael Lima** (1) — 开发者、Hic et Nunc 创始人. 来自巴西利亚的前社会科学研究者，在 Tezos 上构建了 Hic et Nunc，称之为“社会实验室”；2021 年 11 月 11 日关闭了其网站。
 - **Rafael Lozano-Hemmer** (1) — 媒体艺术家. 墨西哥裔加拿大艺术家，生于 1967 年，在公共空间制作大型互动装置，并把其中一个系列称为“关系建筑”。 https://www.lozano-hemmer.com/
 - **Rare Pepe Directory** (1) — Counterparty 上的策展登记处. 自称“Rare Pepe 科学家”的团队，自 2016 年起认证用户制作、以 Counterparty 资产发行的 Pepe 卡牌，并把它们推送到 Pepe 钱包中。 http://rarepepedirectory.com
 - **Ray Johnson** (1) — 拼贴与通信艺术家. 美国艺术家（1927–1995），拼贴艺术家，纽约通信学校的创始人，这个邮件艺术网络由他从 1950 年代末一直经营到去世。 https://www.rayjohnsonestate.com/
 - **Raymond Queneau** (1) — 作家. 法国小说家、诗人（1903–1976），1960 年与弗朗索瓦·勒利奥内共同创立“潜在文学工场”（Oulipo）。
+- **Rich McDowell** (1) — 治理研究者. 2024 年 Summer of Protocols 计划的资助者。
 - **Rirkrit Tiravanija** (1) — 艺术家. 生于布宜诺斯艾利斯的泰国艺术家，自 1990 年代初起把画廊变成厨房、客厅和聚会场所。
+- **Rithikha Rajamohan** (1) — 作家. 2023 年首届 Summer of Protocols 的研究者。 https://www.linkedin.com/in/rithikha
 - **Robert Adrian X** (1) — 广播与电信艺术家. 加拿大艺术家（1935–2015），1972 年起定居维也纳，组织过多个使用电话、传真、慢扫描电视和 ARTEX 计算机网络的电信艺术项目。
 - **Robert Projansky** (1) — 律师. 纽约律师，1971 年与塞斯·西格劳布一起起草了《艺术家保留权利转让与销售协议》，起草前征询了数百位艺术家、画商和藏家。
 - **Roman Ondák** (1) — 艺术家. 斯洛伐克艺术家（1966 年生），他的装置和表演常常依靠美术馆工作人员和观众执行的指令。
+- **Saffron Huang** (1) — 研究者. 2023 年首届 Summer of Protocols 的研究者。 https://saffronhuang.com/
 - **Santiago Sierra** (1) — 艺术家. 西班牙艺术家，长期在墨西哥城工作，以市场最低价雇人执行无用或有辱人格的任务，暴露雇佣劳动的条件。
 - **Sarah Meyohas** (1) — 艺术家. 作品关注价值、投机与系统的艺术家；2015 年推出可兑换其摄影作品的货币 Bitchcoin，2017 年创作 Cloud of Petals。 https://www.sarahmeyohas.com
 - **Scott Kildall** (1) — 观念与新媒体艺术家. 美国艺术家，生于 1969 年，创作涉及虚拟世界、数据雕塑与网络艺术；Second Life 表演团体 Second Front 的创始成员之一。 https://www.kildall.com/
 - **Seth Siegelaub** (1) — 策展人、出版人与画商. 美国策展人（1941–2013），以书籍和图录形式组织了多场关键的观念艺术展览，后来转向传播史和纺织史研究。
 - **Sherrie Rabinowitz** (1) — 电信艺术家. 美国艺术家（1950–2013），与 Kit Galloway 一起开创了卫星与视频连线的艺术用法，并共同创办 Electronic Café International。 https://ecafe.com/
+- **Shreeda Segan** (1) — 作家. 2023 年首届 Summer of Protocols 的研究者。 https://shreedasegan.com/
 - **Simone Forti** (1) — 艺术家、舞者、编舞家. 意大利出生的美国艺术家和舞者（1935 年生），她的《舞蹈构造》（1960–61）是交给一群表演者完成的任务型作品。
 - **Suum Cuique Labs** (1) — Hashmasks 的创作团队. 瑞士工作室，2021 年发布 Hashmasks：由约 70 位艺术家绘制的 16,384 幅数字肖像，持有者可以通过销毁专用代币为其永久命名。 https://www.thehashmasks.com
 - **Suzanne Lacy** (1) — 艺术家与教育者. 美国艺术家，自 1970 年代起与社群一起完成大型公共表演，常关注女性、衰老与暴力，并提出“新类型公共艺术”一词。 https://www.suzannelacy.com/
@@ -3339,6 +3692,8 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Terry Riley** (1) — 作曲家、演奏家. 美国作曲家（生于 1935 年），早期极简主义的代表人物，以《In C》和长时间的键盘即兴演奏闻名。 https://terryriley.net
 - **The Streamer (Twitch Plays Pokémon)** (1) — 匿名程序员. 一位匿名的澳大利亚程序员，编写了 Twitch Plays Pokémon 背后把聊天变成手柄输入的机器人程序，自 2014 年起运营该频道。 https://www.twitch.tv/twitchplayspokemon
 - **Thomas Hirschhorn** (1) — 艺术家. 瑞士艺术家，用廉价材料搭建临时结构，其中包括与公共住宅区居民一起建造和运营的一系列哲学家“纪念碑”。 https://www.thomashirschhorn.com/
+- **Timber Stinson-Schroff** (1) — 研究者. 2023 年首届 Summer of Protocols 的研究者。研究安全协议如何随技术成熟而演化。 https://www.timberschroff.com/
+- **Toby Shorin** (1) — 作家、策略师. 2023 年首届 Summer of Protocols 的研究者。 https://tobyshorin.com/
 - **Tom Marioni** (1) — 观念艺术家；观念艺术博物馆创始人. 美国观念艺术家，1970 年在旧金山创立观念艺术博物馆（MOCA），并称之为一件大尺度的社会艺术作品。 http://tommarioni.com/
 - **Tom Sachs** (1) — 雕塑家. 美国雕塑家，以手工复制太空计划和品牌物件著称。Rocket Factory（2021）是他的 NFT 项目：藏家用零件拼装火箭，再由他的工作室把火箭造出来并发射。 https://www.tomsachsrocketfactory.com
 - **Tyler Hobbs** (1) — 生成艺术家. 使用算法、绘图仪和颜料创作的生成艺术家，以 Fidenza（2021）闻名。他与 Dandelion Wist Mané 合作的 QQL（2022）让藏家亲自探索算法、决定铸造哪一幅。 https://www.tylerxhobbs.com
@@ -3346,7 +3701,10 @@ https://protocolized.reality.design · 2026-09-28 · 185 位创作者 · 314 件
 - **Vera List Center for Art and Politics** (1) — 新学院下属研究中心. 纽约新学院（The New School）下属的研究与公共项目中心，以分季主题研究艺术与政治的关系。 https://www.veralistcenter.org/
 - **William Entriken** (1) — 开发者. 开发者，ERC-721 标准的主要作者，2018 年推出 Su Squares：以太坊上可个性化的 10,000 个方格。 https://tenthousandsu.com
 - **Wolfgang Staehle** (1) — 艺术家，The Thing 创办者. 德国出生、居于纽约的艺术家，生于 1950 年，1991 年创办 The Thing，后来创作长时段的网络摄像头直播作品。 https://the.thing.net/
+- **Yisi Liu** (1) — 技术专家. Mask Network 联合创始人兼 CTO，中国美术学院网络社会研究所研究员；2024 年 Summer of Protocols 资助者。 https://x.com/TheYisiLiu
+- **Yuemin Huang** (1) — 设计师. 2024 年 Summer of Protocols 计划的资助者。 https://www.yueminh.com/
 - **Yves Klein** (1) — 艺术家. 法国艺术家（1928–1962），新现实主义成员，以国际克莱因蓝、《人体测量》和出售“非物质”区域著称。
+- **hua xi zi** (1) — 艺术家. 2024 年 Summer of Protocols 计划的资助者。
 
 ## 机构
 
