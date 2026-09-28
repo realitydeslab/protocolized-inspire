@@ -451,3 +451,9 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .res__desc { font-size: 13px; color: var(--muted); margin: 6px 0 0; }
 .res__works { display: flex; flex-wrap: wrap; gap: 4px; align-items: baseline; margin-top: 8px; font-size: 10px; color: var(--muted); }
 a.chip { text-decoration: none; }
+
+/* ---------- mobile performance: skip layout/paint of off-screen items; sentinel for progressive rendering ---------- */
+.grid > .cardwrap { content-visibility: auto; contain-intrinsic-size: auto 380px; }
+.creator { content-visibility: auto; contain-intrinsic-size: auto 560px; }
+.tl__row { content-visibility: auto; contain-intrinsic-size: auto 84px; }
+.more { height: 1px; width: 100%; }

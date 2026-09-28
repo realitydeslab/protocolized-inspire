@@ -100,12 +100,22 @@
     return arr;
   }
 
+  /* ---------- light images: resized copies via wsrv.nl, original as fallback (phones choke on 4000px originals) ---------- */
+  const NO_RESIZE = /^(data:|blob:|https:\/\/(i\.ytimg\.com|i\.vimeocdn\.com|wsrv\.nl|images\.weserv\.nl)\/)|\.svg(\?|$)/i;
+  const sized = (u, width) => (!u || NO_RESIZE.test(u) ? u : `https://wsrv.nl/?url=${encodeURIComponent(u)}&w=${width}&we&output=webp&q=72`);
+  // first failure: try the original URL; second failure: placeholder (data-ph) or remove
+  window.protoImgFail = (img) => {
+    if (img.dataset.orig && img.getAttribute("src") !== img.dataset.orig) { img.src = img.dataset.orig; return; }
+    if (img.dataset.ph) img.outerHTML = img.dataset.ph; else img.remove();
+  };
+  const img = (u, width, extra = "") => `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(sized(u, width))}" data-orig="${esc(u)}" onerror="protoImgFail(this)" ${extra}>`;
+
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
   const textPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || kindName(w.kind))}</span><span class="ph__title">${esc(w.title)}</span></div>`;
   function thumb(w) {
     const p = poster(w);
-    if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(textPh(w))}">`;
+    if (p) return img(p, 640, `alt="" data-ph="${esc(textPh(w))}"`);
     if (w.video?.platform === "mp4") return `<video muted playsinline preload="none" data-src="${esc(w.video.url)}#t=0.8"></video>`;
     return textPh(w);
   }
@@ -214,15 +224,18 @@
         <p class="starred__lede">${esc(zh() ? f.desc_zh : f.desc_en)}</p><p class="count mono">${esc(S().field_count(primary.length, also.length))}</p></div>
       <div class="chips scat-chips">${chip("", S().all_cats, primary.length + also.length)}${cats.map((c) => { const n = listOf(c.id).length; return n ? chip(c.id, nm(c), n) : ""; }).join("")}</div>`;
     const section = (c) => { const ws = listOf(c.id); return ws.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(nm(c))}</h3><span class="scat__n mono">${ws.length}</span></div>
-        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid">${ws.map(card).join("")}</div></section>` : ""; };
-    const shown = state.sub ? cats.filter((c) => c.id === state.sub) : cats;
+        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid"></div></section>` : ""; };
+    const shown = (state.sub ? cats.filter((c) => c.id === state.sub) : cats).filter((c) => listOf(c.id).length);
     $("#fieldGrid").innerHTML = shown.map(section).join("");
+    // sections render their first cards now and the rest as the reader scrolls
+    $("#fieldGrid").querySelectorAll(".grid").forEach((g, k) => fill(g, listOf(shown[k].id), card, state.sub ? PAGE : 12));
     currentList = shown.flatMap((c) => listOf(c.id));
     return currentList.length;
   }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
-    $("#grid").innerHTML = currentList.map(card).join("");
+    $("#grid").innerHTML = "";
+    fill($("#grid"), currentList, card);
     $("#worksCount").textContent = S().n_works(currentList.length);
     return currentList.length;
   }
@@ -230,14 +243,15 @@
     currentList = DATA.works.filter((w) => matches(w)).sort((a, b) => (a.year || 9999) - (b.year || 9999) || a.title.localeCompare(b.title));
     const decades = [...new Set(currentList.map((w) => Math.floor((w.year || 0) / 10) * 10))];
     const row = (w) => `<li class="tl__row"><span class="tl__year mono">${w.year || ""}</span>
-        <button class="tl__thumb" data-open="${esc(w.id)}" tabindex="-1" aria-hidden="true">${poster(w) ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(poster(w))}" alt="" onerror="this.remove()">` : ""}</button>
+        <button class="tl__thumb" data-open="${esc(w.id)}" tabindex="-1" aria-hidden="true">${poster(w) ? img(poster(w), 200, 'alt=""') : ""}</button>
         <div class="tl__body"><button class="tl__title" data-open="${esc(w.id)}">${esc(w.title)}</button>
           <div class="tl__who mono">${esc(creatorNames(w).join(", "))} · ${esc(subsName(w.substrate))}</div>
           <div class="tl__idea">${esc(TX.work(w, lang).idea || "")}</div></div>
         <button class="tag tag--field tl__field" data-go="${esc(w.field)}" data-go-sub="${esc(w.sub || "")}">${esc(nm(fieldById[w.field] || {}))}</button></li>`;
     $("#timelineHead").innerHTML = `<p class="count mono">${esc(S().n_works(currentList.length))} · ${esc(S().timeline_lede)}</p>`;
-    $("#timelineList").innerHTML = decades.map((d) => `<section class="tl__decade"><h3 class="tl__dhead mono">${d}s</h3>
-      <ol class="tl__list">${currentList.filter((w) => Math.floor((w.year || 0) / 10) * 10 === d).map(row).join("")}</ol></section>`).join("");
+    const inDecade = (d) => currentList.filter((w) => Math.floor((w.year || 0) / 10) * 10 === d);
+    $("#timelineList").innerHTML = decades.map((d) => `<section class="tl__decade"><h3 class="tl__dhead mono">${d}s</h3><ol class="tl__list"></ol></section>`).join("");
+    $("#timelineList").querySelectorAll(".tl__list").forEach((ol, k) => fill(ol, inDecade(decades[k]), row, 20));
     return currentList.length;
   }
   function renderCreators() {
@@ -247,7 +261,8 @@
       .filter(({ c, works }) => works.length || (q && [c.name, c.bio, c.bio_zh, c.role].join(" ").toLowerCase().includes(q)))
       .sort((a, b) => b.works.length - a.works.length || a.c.name.localeCompare(b.c.name));
     currentList = rows.flatMap((r) => r.works);
-    $("#creatorList").innerHTML = rows.map(({ c, works }) => {
+    $("#creatorList").innerHTML = "";
+    fill($("#creatorList"), rows, ({ c, works }) => {
       const t = TX.creator(c, lang);
       const links = Object.entries(c.links || {}).filter(([, u]) => u).map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(k)} ↗</a>`).join("");
       const conn = (c.connected_to || []).filter((id) => creatorsById[id]).map((id) => `<button data-creator="${esc(id)}">${esc(creatorsById[id].name)}</button>`).join("");
@@ -260,7 +275,7 @@
           <div class="links">${links}</div>
           ${conn ? `<div class="web">${esc(S().connected)} ${conn}</div>` : ""}
         </div><div class="strip">${works.map(card).join("")}</div></article>`;
-    }).join("");
+    }, 8);
     return rows.length;
   }
   function renderResources() {
@@ -304,7 +319,8 @@
           <button class="btn mono" data-export="list">${esc(S().export_bib)}</button>
           <button class="btn mono" data-export="copy">${esc(S().copy_md)}</button>
           <button class="btn btn--quiet mono" data-export="clear">${esc(S().clear_stars)}</button></div>` : `<p class="starred__empty">${esc(S().starred_empty)}</p>`}</div>`;
-    $("#starGrid").innerHTML = list.map(card).join("");
+    $("#starGrid").innerHTML = "";
+    fill($("#starGrid"), list, card);
     return 1;
   }
 
@@ -320,6 +336,7 @@
     $("#hasVideo").setAttribute("aria-pressed", state.video);
     $("#hasContract").setAttribute("aria-pressed", state.contract);
     $("#starCount").textContent = stars.size ? stars.size : "";
+    resetFill();
     renderChips();
     const n = f ? renderField(f) : { atlas: renderAtlas, timeline: renderTimeline, collections: renderCollections, works: renderWorks, creators: renderCreators, resources: renderResources, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
@@ -331,6 +348,30 @@
     entries.forEach((e) => { if (e.isIntersecting) { e.target.src = e.target.dataset.src; e.target.preload = "metadata"; io.unobserve(e.target); } });
   }, { rootMargin: "300px" }) : null;
   function lazyVideos() { document.querySelectorAll("video[data-src]:not([src])").forEach((v) => (io ? io.observe(v) : (v.src = v.dataset.src))); }
+
+  /* ---------- progressive rendering: put `step` items in the DOM, add more when a sentinel nears the viewport ---------- */
+  const PAGE = 24;
+  let sentinels = [];
+  const moreIO = "IntersectionObserver" in window ? new IntersectionObserver((entries) => {
+    entries.forEach((e) => { if (e.isIntersecting) e.target.more(); });
+  }, { rootMargin: "1200px 0px" }) : null;
+  function resetFill() { sentinels.forEach((s) => { moreIO?.unobserve(s); s.remove(); }); sentinels = []; }
+  function fill(el, items, html, step = PAGE) {
+    if (!moreIO) { el.insertAdjacentHTML("beforeend", items.map(html).join("")); return; }
+    let i = 0;
+    const s = Object.assign(document.createElement("div"), { className: "more", ariaHidden: "true" });
+    s.more = () => {
+      moreIO.unobserve(s);
+      el.insertAdjacentHTML("beforeend", items.slice(i, i + step).map(html).join(""));
+      i += step;
+      lazyVideos();
+      if (i < items.length) moreIO.observe(s); // re-observing reports the current state, so a still-visible sentinel loads the next chunk
+      else { s.remove(); sentinels = sentinels.filter((x) => x !== s); }
+    };
+    el.after(s);
+    sentinels.push(s);
+    s.more();
+  }
 
   /* ---------- player ---------- */
   function embed(v) {
@@ -357,9 +398,9 @@
     if (!m) main = `<div class="paperview"><span class="mono ph__venue">${esc(w.paper?.venue || kindName(w.kind))}</span><h3>${esc(w.title)}</h3>
       <p class="mono">${esc(creatorNames(w).join(", "))}${w.year ? ` · ${w.year}` : ""}</p>${w.paper?.url ? `<a class="btn btn--accent mono" href="${esc(w.paper.url)}" target="_blank" rel="noopener">${esc(S().read_paper)}</a>` : ""}</div>`;
     else if (m.type === "video") main = embed(w.video);
-    else main = `<img class="player__img" referrerpolicy="no-referrer" src="${esc(m.url)}" alt="${esc(w.title)}">`;
+    else main = img(m.url, 1600, `class="player__img" alt="${esc(w.title)}"`).replace('loading="lazy" ', "");
     const strip = items.length > 1 ? `<div class="mstrip">${items.map((it, i) => `<button class="mstrip__item" data-media="${i}" aria-pressed="${i === mediaIndex}">
-        ${it.type === "video" ? (w.video.thumbnail ? `<img referrerpolicy="no-referrer" src="${esc(w.video.thumbnail)}" alt="">` : "") + '<span class="mstrip__play">▶</span>' : `<img referrerpolicy="no-referrer" src="${esc(it.url)}" alt="">`}</button>`).join("")}</div>` : "";
+        ${it.type === "video" ? (w.video.thumbnail ? img(w.video.thumbnail, 240, 'alt=""') : "") + '<span class="mstrip__play">▶</span>' : img(it.url, 240, 'alt=""')}</button>`).join("")}</div>` : "";
     $("#playerMedia").innerHTML = `<div class="player__main">${main}</div>${strip}`;
   }
   function openWork(id) {
