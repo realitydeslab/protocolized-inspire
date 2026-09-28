@@ -9,7 +9,10 @@
       "based": "London, UK / Shanghai, CN",
       "bio": "British artist who has worked with cybernetics and telecommunications since the 1960s and coined the practice he calls telematic art. Author of Telematic Embrace and founder of the Planetary Collegium.",
       "why": "His networked projects of the early 1980s treated authorship as something distributed across many remote participants.",
-      "links": { "site": "", "wikipedia": "https://en.wikipedia.org/wiki/Roy_Ascott" },
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roy_Ascott"
+      },
       "role_zh": "艺术家，远程通信艺术理论家",
       "bio_zh": "英国艺术家，自 20 世纪 60 年代起研究控制论与电信，并提出“远程通信艺术”（telematic art）。著有《Telematic Embrace》，创办 Planetary Collegium。",
       "why_zh": "他在 80 年代初的网络项目把作者身份分散给许多远方的参与者。",
@@ -25,12 +28,17 @@
       "based": "Berkeley, US",
       "bio": "Artist and UC Berkeley roboticist who built some of the first robots controlled over the web, starting with the Mercury Project in 1994.",
       "why": "His telerobotic works turn a crowd of anonymous web users into the collective operator of a physical machine.",
-      "links": { "site": "https://goldberg.berkeley.edu/art/", "wikipedia": "https://en.wikipedia.org/wiki/Ken_Goldberg" },
+      "links": {
+        "site": "https://goldberg.berkeley.edu/art/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ken_Goldberg"
+      },
       "role_zh": "艺术家，机器人学教授",
       "bio_zh": "艺术家、加州大学伯克利分校机器人学者，自 1994 年的 Mercury Project 起，搭建了最早一批可通过网页操控的机器人。",
       "why_zh": "他的远程机器人作品让一群匿名网民共同操作一台实体机器。",
       "based_zh": "伯克利，美国",
-      "connected_to": ["joseph-santarromana"],
+      "connected_to": [
+        "joseph-santarromana"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -46,7 +54,9 @@
       "bio_zh": "加州大学尔湾分校的艺术家，90 年代以录像装置闻名，与 Ken Goldberg 共同主持 Telegarden。",
       "why_zh": "共同创作了 Telegarden，最早由网络社群长期照料的作品之一。",
       "based_zh": "加利福尼亚，美国",
-      "connected_to": ["ken-goldberg"],
+      "connected_to": [
+        "ken-goldberg"
+      ],
       "discovered_via": "ken-goldberg"
     },
     {
@@ -57,7 +67,9 @@
       "based": "New York, US",
       "bio": "American artist and critic (1933–2014) who worked with live television, satellite broadcasts and the early web to make interactive, participatory pieces.",
       "why": "His endless online sentence is one of the first artworks written by the public of the World Wide Web.",
-      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Davis_(artist)" },
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Davis_(artist)"
+      },
       "role_zh": "艺术家，评论家",
       "bio_zh": "美国艺术家与评论家（1933–2014），用电视直播、卫星转播和早期网络制作互动与参与式作品。",
       "why_zh": "他那句没有句号的网上长句，是最早由万维网公众共同书写的艺术作品之一。",
@@ -73,7 +85,10 @@
       "based": "Bristol, UK",
       "bio": "British artist, born 1966, a founder of irational.org and a central figure of 1990s net.art, working across networks, borders and street interventions.",
       "why": "He used the web to post simple instructions that pulled strangers into real-world actions.",
-      "links": { "site": "https://www.irational.org/", "wikipedia": "https://en.wikipedia.org/wiki/Heath_Bunting" },
+      "links": {
+        "site": "https://www.irational.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Heath_Bunting"
+      },
       "role_zh": "网络艺术家",
       "bio_zh": "英国艺术家，生于 1966 年，irational.org 创办者之一，90 年代 net.art 的核心人物，作品横跨网络、边境与街头介入。",
       "why_zh": "他把简单的指令贴到网上，把陌生人拉进现实中的行动。",
@@ -89,12 +104,20 @@
       "based": "Los Angeles, US",
       "bio": "Artist who led Google's Data Arts Team and later co-founded the VR studio Within. His early works used Amazon Mechanical Turk and web tools to collect drawings and recordings from thousands of people.",
       "why": "He made crowd labour itself the medium: each work is a set of tiny tasks whose sum only the crowd could produce.",
-      "links": { "site": "https://www.aaronkoblin.com/", "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Koblin" },
+      "links": {
+        "site": "https://www.aaronkoblin.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Koblin"
+      },
       "role_zh": "艺术家、设计师、程序员",
       "bio_zh": "曾领导 Google Data Arts Team，后联合创办 VR 工作室 Within。早期作品通过 Amazon Mechanical Turk 和网页工具向成千上万人征集绘画与录音。",
       "why_zh": "他把群体劳动本身当作媒介：每件作品都由许多微小任务组成，总和只有人群才能完成。",
       "based_zh": "洛杉矶，美国",
-      "connected_to": ["chris-milk", "takashi-kawashima", "daniel-massey", "janet-echelman"],
+      "connected_to": [
+        "chris-milk",
+        "takashi-kawashima",
+        "daniel-massey",
+        "janet-echelman"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -105,12 +128,16 @@
       "based": "San Francisco, US",
       "bio": "Japanese-born designer and artist who co-created Ten Thousand Cents with Aaron Koblin.",
       "why": "Co-author of a work that split a $100 bill into 10,000 paid micro-tasks.",
-      "links": { "site": "http://www.takashikawashima.com/" },
+      "links": {
+        "site": "http://www.takashikawashima.com/"
+      },
       "role_zh": "设计师，艺术家",
       "bio_zh": "日本出生的设计师与艺术家，与 Aaron Koblin 共同创作 Ten Thousand Cents。",
       "why_zh": "与人合作把一张 100 美元钞票拆成一万个付费微任务。",
       "based_zh": "旧金山，美国",
-      "connected_to": ["aaron-koblin"],
+      "connected_to": [
+        "aaron-koblin"
+      ],
       "discovered_via": "aaron-koblin"
     },
     {
@@ -121,12 +148,16 @@
       "based": "US",
       "bio": "Artist and developer who co-created Bicycle Built for Two Thousand with Aaron Koblin.",
       "why": "Co-author of a song assembled from thousands of crowdsourced voice fragments.",
-      "links": { "site": "https://www.daniel-massey.com/" },
+      "links": {
+        "site": "https://www.daniel-massey.com/"
+      },
       "role_zh": "艺术家，技术专家",
       "bio_zh": "艺术家与开发者，与 Aaron Koblin 共同创作 Bicycle Built for Two Thousand。",
       "why_zh": "与人合作，用数千段众包人声拼出一首歌。",
       "based_zh": "美国",
-      "connected_to": ["aaron-koblin"],
+      "connected_to": [
+        "aaron-koblin"
+      ],
       "discovered_via": "aaron-koblin"
     },
     {
@@ -137,12 +168,16 @@
       "based": "Los Angeles, US",
       "bio": "Music-video director and artist who made participatory web projects with Aaron Koblin and later co-founded the VR company Within.",
       "why": "He brought crowd-drawn animation into music videos and museum commissions.",
-      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Chris_Milk" },
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chris_Milk"
+      },
       "role_zh": "导演，艺术家",
       "bio_zh": "音乐录影带导演与艺术家，与 Aaron Koblin 合作多个参与式网络项目，后联合创办 VR 公司 Within。",
       "why_zh": "他把由人群手绘的动画带进音乐录影带和美术馆委托项目。",
       "based_zh": "洛杉矶，美国",
-      "connected_to": ["aaron-koblin"],
+      "connected_to": [
+        "aaron-koblin"
+      ],
       "discovered_via": "aaron-koblin"
     },
     {
@@ -153,12 +188,17 @@
       "based": "Boston, US",
       "bio": "American sculptor known for monumental suspended net sculptures installed over cities.",
       "why": "Her net sculpture became a canvas that a crowd painted with light from their phones.",
-      "links": { "site": "https://www.echelman.com/", "wikipedia": "https://en.wikipedia.org/wiki/Janet_Echelman" },
+      "links": {
+        "site": "https://www.echelman.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Janet_Echelman"
+      },
       "role_zh": "雕塑家",
       "bio_zh": "美国雕塑家，以悬挂在城市上空的巨型网状雕塑闻名。",
       "why_zh": "她的网状雕塑成了一块由人群用手机光线共同作画的画布。",
       "based_zh": "波士顿，美国",
-      "connected_to": ["aaron-koblin"],
+      "connected_to": [
+        "aaron-koblin"
+      ],
       "discovered_via": "aaron-koblin"
     },
     {
@@ -169,12 +209,17 @@
       "based": "Los Angeles, US",
       "bio": "American artist, filmmaker and writer whose work often invites strangers to take part through instructions, apps and assignments.",
       "why": "With Harrell Fletcher she ran a seven-year project of assignments that thousands of strangers completed.",
-      "links": { "site": "https://www.mirandajuly.com/", "wikipedia": "https://en.wikipedia.org/wiki/Miranda_July" },
+      "links": {
+        "site": "https://www.mirandajuly.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miranda_July"
+      },
       "role_zh": "艺术家、电影人、作家",
       "bio_zh": "美国艺术家、电影人和作家，作品常以指令、应用和任务邀请陌生人参与。",
       "why_zh": "她与 Harrell Fletcher 持续七年发布任务，由数千名陌生人完成。",
       "based_zh": "洛杉矶，美国",
-      "connected_to": ["harrell-fletcher"],
+      "connected_to": [
+        "harrell-fletcher"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -185,12 +230,17 @@
       "based": "Portland, US",
       "bio": "American artist and educator, founder of the Art and Social Practice MFA at Portland State University, whose projects are made with the people they involve.",
       "why": "Co-author of Learning to Love You More, a model for assignment-based collective art online.",
-      "links": { "site": "http://www.harrellfletcher.com/", "wikipedia": "https://en.wikipedia.org/wiki/Harrell_Fletcher" },
+      "links": {
+        "site": "http://www.harrellfletcher.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harrell_Fletcher"
+      },
       "role_zh": "社会实践艺术家",
       "bio_zh": "美国艺术家与教育者，创办波特兰州立大学“艺术与社会实践”艺术硕士项目，作品都与参与者一起完成。",
       "why_zh": "Learning to Love You More 的共同作者，这是网上以任务为基础的集体艺术的范本。",
       "based_zh": "波特兰，美国",
-      "connected_to": ["miranda-july"],
+      "connected_to": [
+        "miranda-july"
+      ],
       "discovered_via": "miranda-july"
     },
     {
@@ -201,7 +251,9 @@
       "based": "UK / US",
       "bio": "English entrepreneur who, as a 21-year-old student from Wiltshire, launched The Million Dollar Homepage in 2005; later co-founded the meditation app Calm.",
       "why": "His pixel-selling page is an early template for shared canvases where the rule sets the price of space.",
-      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Alex_Tew" },
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Alex_Tew"
+      },
       "role_zh": "创业者",
       "bio_zh": "英国创业者，2005 年还是来自威尔特郡的学生时推出 The Million Dollar Homepage，后来联合创办冥想应用 Calm。",
       "why_zh": "他出售像素的网页是共享画布的早期模板：规则决定空间的价格。",
@@ -217,12 +269,16 @@
       "based": "Brooklyn, US",
       "bio": "Welsh engineer with an MFA in Digital Art who joined Reddit as an artist in 2011 and led its April Fools' social experiments; later made the word game Wordle.",
       "why": "He designed The Button and Place, two of the largest collective experiments driven by a single rule.",
-      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Josh_Wardle" },
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Josh_Wardle"
+      },
       "role_zh": "软件工程师，艺术家",
       "bio_zh": "威尔士工程师，拥有数字艺术艺术硕士学位，2011 年以艺术家身份加入 Reddit，主导其愚人节社会实验；后来制作了文字游戏 Wordle。",
       "why_zh": "他设计了 The Button 和 Place，两场由单一规则驱动的规模最大的集体实验。",
       "based_zh": "布鲁克林，美国",
-      "connected_to": ["reddit"],
+      "connected_to": [
+        "reddit"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -233,12 +289,17 @@
       "based": "San Francisco, US",
       "bio": "Online community platform organised into subreddits. Its staff restaged Josh Wardle's Place in 2022 and 2023 with larger canvases and new rules.",
       "why": "Its r/place editions are the largest runs of the one-pixel-per-cooldown canvas protocol.",
-      "links": { "site": "https://www.reddit.com/", "wikipedia": "https://en.wikipedia.org/wiki/Reddit" },
+      "links": {
+        "site": "https://www.reddit.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reddit"
+      },
       "role_zh": "社交平台，r/place 各届的发布方",
       "bio_zh": "以子版块组织的在线社区平台。其团队在 2022 年和 2023 年以更大的画布和新规则重新举办了 Josh Wardle 的 Place。",
       "why_zh": "它举办的 r/place 是“冷却时间内只能放一个像素”画布协议规模最大的几次运行。",
       "based_zh": "旧金山，美国",
-      "connected_to": ["josh-wardle"],
+      "connected_to": [
+        "josh-wardle"
+      ],
       "discovered_via": "josh-wardle"
     },
     {
@@ -249,7 +310,9 @@
       "based": "Australia",
       "bio": "Anonymous Australian programmer who wrote the chat-to-controller bot behind Twitch Plays Pokémon and has run the channel since 2014.",
       "why": "Showed that a chat room parsing every message as a button press could play a whole game as one body.",
-      "links": { "site": "https://www.twitch.tv/twitchplayspokemon" },
+      "links": {
+        "site": "https://www.twitch.tv/twitchplayspokemon"
+      },
       "role_zh": "匿名程序员",
       "bio_zh": "一位匿名的澳大利亚程序员，编写了 Twitch Plays Pokémon 背后把聊天变成手柄输入的机器人程序，自 2014 年起运营该频道。",
       "why_zh": "证明了一个把每条消息都当作按键的聊天室，可以像一个身体那样玩完整部游戏。",
@@ -265,12 +328,17 @@
       "based": "San Francisco, US",
       "bio": "American artist, born 1969, working with virtual worlds, data sculpture and net art; co-founder of the Second Life performance group Second Front.",
       "why": "Co-authored an artwork that existed only as long as Wikipedia's editors let it.",
-      "links": { "site": "https://www.kildall.com/", "wikipedia": "https://en.wikipedia.org/wiki/Scott_Kildall" },
+      "links": {
+        "site": "https://www.kildall.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Scott_Kildall"
+      },
       "role_zh": "观念与新媒体艺术家",
       "bio_zh": "美国艺术家，生于 1969 年，创作涉及虚拟世界、数据雕塑与网络艺术；Second Life 表演团体 Second Front 的创始成员之一。",
       "why_zh": "共同创作了一件只在维基百科编辑者允许期间存在的作品。",
       "based_zh": "旧金山，美国",
-      "connected_to": ["nathaniel-stern"],
+      "connected_to": [
+        "nathaniel-stern"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -281,12 +349,16 @@
       "based": "Milwaukee, US",
       "bio": "American-South African artist and writer working with interactive installation, printmaking and net art; author of Interactive Art and Embodiment.",
       "why": "Co-authored Wikipedia Art, a work written into and against the rules of Wikipedia.",
-      "links": { "site": "https://nathanielstern.com/" },
+      "links": {
+        "site": "https://nathanielstern.com/"
+      },
       "role_zh": "艺术家，作家",
       "bio_zh": "美国-南非艺术家与作家，创作互动装置、版画和网络艺术，著有《Interactive Art and Embodiment》。",
       "why_zh": "共同创作了 Wikipedia Art，一件写进维基百科规则、又与之对抗的作品。",
       "based_zh": "密尔沃基，美国",
-      "connected_to": ["scott-kildall"],
+      "connected_to": [
+        "scott-kildall"
+      ],
       "discovered_via": "scott-kildall"
     },
     {
@@ -297,7 +369,10 @@
       "based": "Berlin, DE",
       "bio": "German artist, born 1972, whose works move the internet's infrastructure into public space: USB drives in walls, offline networks, internet-café exhibitions.",
       "why": "He writes do-it-yourself formats that strangers adopt and run without him.",
-      "links": { "site": "https://arambartholl.com/", "wikipedia": "https://en.wikipedia.org/wiki/Aram_Bartholl" },
+      "links": {
+        "site": "https://arambartholl.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aram_Bartholl"
+      },
       "role_zh": "观念艺术家",
       "bio_zh": "德国艺术家，生于 1972 年，把互联网基础设施搬进公共空间：墙里的 U 盘、离线网络、网吧里的展览。",
       "why_zh": "他写下可以自己动手的格式，陌生人接过去，在没有他的情况下继续运行。",
@@ -313,7 +388,10 @@
       "based": "New York, US",
       "bio": "Italian artist duo, active since the 1990s as 0100101110101101.org, working with hoaxes, online labour, content moderation and the circulation of images.",
       "why": "They hire anonymous online workers to carry out their instructions, making the gig economy the performer.",
-      "links": { "site": "https://0100101110101101.org/", "wikipedia": "https://en.wikipedia.org/wiki/Eva_and_Franco_Mattes" },
+      "links": {
+        "site": "https://0100101110101101.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eva_and_Franco_Mattes"
+      },
       "role_zh": "艺术家二人组",
       "bio_zh": "意大利艺术家二人组，90 年代起以 0100101110101101.org 为名活动，作品涉及骗局、网络劳动、内容审核和图像流通。",
       "why_zh": "他们雇用匿名网络劳工执行指令，让零工经济成为表演者。",
@@ -329,12 +407,18 @@
       "based": "Los Angeles, US",
       "bio": "American artist who works with code, computer vision and machine learning, and a long-time contributor to openFrameworks.",
       "why": "He builds tools that let a crowd annotate, watch and describe itself.",
-      "links": { "site": "https://kylemcdonald.net/", "github": "https://github.com/kylemcdonald", "wikipedia": "https://en.wikipedia.org/wiki/Kyle_McDonald_(artist)" },
+      "links": {
+        "site": "https://kylemcdonald.net/",
+        "github": "https://github.com/kylemcdonald",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kyle_McDonald_(artist)"
+      },
       "role_zh": "媒体艺术家，程序员",
       "bio_zh": "美国艺术家，使用代码、计算机视觉和机器学习创作，长期为 openFrameworks 做贡献。",
       "why_zh": "他搭建工具，让人群标注、观看和描述自己。",
       "based_zh": "洛杉矶，美国",
-      "connected_to": ["lauren-lee-mccarthy"],
+      "connected_to": [
+        "lauren-lee-mccarthy"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -345,12 +429,17 @@
       "based": "Los Angeles, US",
       "bio": "American artist and UCLA professor whose performances examine surveillance, automation and care; creator of the open-source library p5.js.",
       "why": "She hands control of intimate situations to paid crowds and gallery visitors, then lives with the result.",
-      "links": { "site": "https://lauren-mccarthy.com/", "wikipedia": "https://en.wikipedia.org/wiki/Lauren_McCarthy" },
+      "links": {
+        "site": "https://lauren-mccarthy.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lauren_McCarthy"
+      },
       "role_zh": "艺术家，p5.js 创建者",
       "bio_zh": "美国艺术家、加州大学洛杉矶分校教授，表演作品探讨监控、自动化与照护；开源库 p5.js 的创建者。",
       "why_zh": "她把私密情境的控制权交给付费人群和美术馆观众，然后承受其结果。",
       "based_zh": "洛杉矶，美国",
-      "connected_to": ["kyle-mcdonald"],
+      "connected_to": [
+        "kyle-mcdonald"
+      ],
       "discovered_via": "seed"
     },
     {
@@ -361,7 +450,10 @@
       "based": "Brooklyn, US",
       "bio": "American engineer who publishes small multiplayer web games as eieio.games, including staring contests and rock-paper-scissors with strangers.",
       "why": "His One Million Checkboxes showed how a trivial shared control becomes a collective medium.",
-      "links": { "site": "https://eieio.games/", "wikipedia": "https://en.wikipedia.org/wiki/One_Million_Checkboxes" },
+      "links": {
+        "site": "https://eieio.games/",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Million_Checkboxes"
+      },
       "role_zh": "软件工程师，游戏制作者",
       "bio_zh": "美国工程师，以 eieio.games 为名发布小型多人网页游戏，比如与陌生人比赛瞪眼、玩石头剪刀布。",
       "why_zh": "他的 One Million Checkboxes 展示了一个微不足道的共享控件如何变成集体媒介。",
@@ -377,7 +469,10 @@
       "based": "Brazil",
       "bio": "Brazilian developer who launched Wplace, a pixel canvas laid over a world map, in July 2025.",
       "why": "Moved the r/place protocol onto a map of the Earth, where territory on the canvas mirrors territory in the world.",
-      "links": { "site": "https://wplace.live/", "wikipedia": "https://en.wikipedia.org/wiki/Wplace" },
+      "links": {
+        "site": "https://wplace.live/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wplace"
+      },
       "role_zh": "软件开发者",
       "bio_zh": "巴西开发者，2025 年 7 月推出 Wplace——一块铺在世界地图上的像素画布。",
       "why_zh": "把 r/place 的协议搬到地球地图上，画布上的领地对应现实中的领土。",
@@ -389,23 +484,34 @@
   "works": [
     {
       "id": "roy-ascott--la-plissure-du-texte",
-      "creator_ids": ["roy-ascott"],
+      "creator_ids": [
+        "roy-ascott"
+      ],
       "title": "La Plissure du Texte",
       "year": 1983,
       "field": "network",
       "sub": "telematic",
-      "mechanisms": ["co-authorship", "participation"],
+      "mechanisms": [
+        "co-authorship",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
-      "description": "A 'planetary fairy tale' written over twelve days on the I.P. Sharp ARTEX computer network for the Electra exhibition in Paris. Groups in eleven cities in Europe, North America and Australia each played a character and typed the story together.",
-      "description_zh": "为巴黎 Electra 展览、通过 I.P. Sharp 的 ARTEX 计算机网络写成的一则“星球童话”。欧洲、北美和澳大利亚十一个城市的小组各自扮演一个角色，共同键入这个故事。",
+      "description": "A 'planetary fairy tale' written on the ARTEX computer network for the Electra exhibition at the Musée d'Art Moderne de la Ville de Paris. Groups in eleven cities in Europe, North America and Australia each played a character and typed the story together.",
+      "description_zh": "为巴黎市立现代艺术博物馆 Electra 展览、通过 ARTEX 计算机网络写成的一则“星球童话”。欧洲、北美和澳大利亚十一个城市的小组各自扮演一个角色，共同键入这个故事。",
       "idea_en": "Give each node of a network a role, and a story writes itself between them.",
       "idea_zh": "给网络中的每个节点一个角色，故事就会在它们之间自己写出来。",
       "protocol": "Ascott assigned each participating site a fairy-tale character (magician, princess, beast and so on); each site could read everything posted and add text or ASCII images in character, with no central editor.",
       "protocol_zh": "Ascott 给每个参与站点分配一个童话角色（魔法师、公主、野兽等）；每个站点都能读到全部内容，并以角色身份添加文字或 ASCII 图像，没有中央编辑。",
       "collective": "Artists and groups at eleven locations improvised an open-ended narrative in shared text files, producing a distributed, multi-voice text that no single author planned.",
       "collective_zh": "十一个地点的艺术家和小组在共享文本中即兴展开一个没有结局的故事，形成一部多声部、分布式的文本，没有任何一位作者事先规划。",
-      "keywords": ["ARTEX", "I.P. Sharp", "Electra 1983", "telematic art", "distributed authorship", "Roland Barthes"],
+      "keywords": [
+        "ARTEX",
+        "Electra 1983",
+        "telematic art",
+        "distributed authorship",
+        "Roland Barthes"
+      ],
       "images": [
         "https://artelectronicmedia.com/wp-content/uploads/images/u17/laplissuredutexte1.png",
         "http://artelectronicmedia.com/wp-content/uploads/laplissuredutexte-2.jpg"
@@ -414,12 +520,17 @@
     },
     {
       "id": "ken-goldberg--mercury-project",
-      "creator_ids": ["ken-goldberg"],
+      "creator_ids": [
+        "ken-goldberg"
+      ],
       "title": "The Mercury Project",
       "year": 1994,
       "field": "network",
       "sub": "telematic",
-      "mechanisms": ["participation", "co-authorship"],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A robot arm over a sandbox in a USC lab that anyone on the web could steer, blowing bursts of air to uncover buried objects. Players pooled their findings in a log to guess the book the objects came from.",
@@ -430,31 +541,59 @@
       "protocol_zh": "访客通过网页轮流移动机械臂上的摄像头，并向沙中喷出短促气流；每次五分钟操作结束后，系统请他们把发现和推测写进公开的“操作员日志”。所有埋藏物都出自同一本未具名的 19 世纪著作。",
       "collective": "Between 1 August 1994 and 1 February 1995 the site logged 1,968,637 hits from 52,153 unique hosts. Users collectively worked out the source, announced in March 1995 as Jules Verne's Journey to the Center of the Earth.",
       "collective_zh": "1994 年 8 月 1 日至 1995 年 2 月 1 日，网站记录了来自 52,153 个独立主机的 1,968,637 次访问。用户共同推断出答案，1995 年 3 月公布：凡尔纳的《地心游记》。",
-      "keywords": ["telerobotics", "first web robot", "USC", "excavation", "Jules Verne"],
-      "images": ["https://goldberg.berkeley.edu/art/big-images/Mercury-screenshot.gif"],
-      "paper": { "url": "https://goldberg.berkeley.edu/pubs/ramag.pdf", "doi": "10.1109/100.833573", "venue": "IEEE Robotics & Automation Magazine", "title": "The Mercury Project: a feasibility study for Internet robots" },
+      "keywords": [
+        "telerobotics",
+        "first web robot",
+        "USC",
+        "excavation",
+        "Jules Verne"
+      ],
+      "images": [
+        "https://goldberg.berkeley.edu/art/big-images/Mercury-screenshot.gif"
+      ],
+      "paper": {
+        "url": "https://goldberg.berkeley.edu/pubs/ramag.pdf",
+        "doi": "10.1109/100.833573",
+        "venue": "IEEE Robotics & Automation Magazine",
+        "title": "The Mercury Project: a feasibility study for Internet robots"
+      },
       "source_url": "https://goldberg.berkeley.edu/art/"
     },
     {
       "id": "ken-goldberg--telegarden",
-      "creator_ids": ["ken-goldberg", "joseph-santarromana"],
+      "creator_ids": [
+        "ken-goldberg",
+        "joseph-santarromana"
+      ],
       "title": "The Telegarden",
       "year": 1995,
       "field": "network",
       "sub": "telematic",
-      "also": ["autonomous"],
-      "mechanisms": ["participation", "time", "co-authorship"],
+      "also": [
+        "autonomous"
+      ],
+      "mechanisms": [
+        "participation",
+        "time",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A small living garden tended by an industrial robot arm that web users controlled. It ran online for nine years, first at USC and from 1996 in the lobby of the Ars Electronica Center in Linz.",
       "description_zh": "一座由工业机械臂照料的小型花园，机械臂由网民远程操控。它在网上运行了九年，先在南加州大学，1996 年起移至林茨电子艺术中心大厅。",
       "idea_en": "A garden that only survives if a scattered online community keeps showing up to water it.",
       "idea_zh": "一座花园，只有分散各地的网络社群不断回来浇水，它才能活下去。",
-      "protocol": "Anyone online could view the garden; registered members could move the arm to water plants, and after a period of care earned the right to plant seeds. The garden's condition depended entirely on members' actions.",
-      "protocol_zh": "任何人都能在线观看花园；注册会员可以移动机械臂浇水，照料一段时间后才获得播种权。花园的状态完全取决于会员的行动。",
+      "protocol": "Anyone online could view the garden through the robot's camera; registered members could move the arm to water plants and plant seeds. The garden's condition depended entirely on what members did.",
+      "protocol_zh": "任何人都能通过机械臂上的摄像头在线观看花园；注册会员可以移动机械臂浇水和播种。花园的状态完全取决于会员的行动。",
       "collective": "Over 9,000 members helped cultivate the garden in its first year, and it stayed online from June 1995 until August 2004. Members became protective of their plants and formed a small online community around the garden.",
       "collective_zh": "第一年有 9,000 多名会员参与耕作，花园从 1995 年 6 月一直在线到 2004 年 8 月。会员们对自己的植物产生了保护欲，围绕花园形成一个小型网络社群。",
-      "keywords": ["telerobotics", "Ars Electronica Center", "garden", "commons", "Adept-1"],
+      "keywords": [
+        "telerobotics",
+        "Ars Electronica Center",
+        "garden",
+        "commons",
+        "Adept-1"
+      ],
       "images": [
         "https://goldberg.berkeley.edu/art/big-images/telegarden-150dpi-2.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/31/Telegarden.jpg"
@@ -463,12 +602,17 @@
     },
     {
       "id": "ken-goldberg--ouija-2000",
-      "creator_ids": ["ken-goldberg"],
+      "creator_ids": [
+        "ken-goldberg"
+      ],
       "title": "Ouija 2000",
       "year": 2000,
       "field": "network",
       "sub": "telematic",
-      "mechanisms": ["participation", "chance"],
+      "mechanisms": [
+        "participation",
+        "chance"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "An online Ouija board whose planchette is held by an industrial robot arm. Web players move their mice together and the robot follows the combined motion to spell answers to questions about the new millennium.",
@@ -479,7 +623,13 @@
       "protocol_zh": "每次最多 20 名远程玩家把双手放在鼠标上；每个细微动作都传到伯克利的服务器，服务器把输入合成为机械臂的一个动作。玩家通过直播视频观看指针移动。",
       "collective": "Players around the world jointly steered one physical robot for the first time, producing answers that no individual player controlled. The work was shown at the 2000 Whitney Biennial and as MATRIX 186 at the Berkeley Art Museum.",
       "collective_zh": "世界各地的玩家首次共同操纵同一台实体机器人，得出的答案没有任何一位玩家能单独控制。作品在 2000 年惠特尼双年展和伯克利艺术博物馆 MATRIX 186 展出。",
-      "keywords": ["Ouija", "telerobotics", "Whitney Biennial 2000", "BAMPFA", "central limit theorem"],
+      "keywords": [
+        "Ouija",
+        "telerobotics",
+        "Whitney Biennial 2000",
+        "BAMPFA",
+        "central limit theorem"
+      ],
       "images": [
         "https://goldberg.berkeley.edu/art/ouija/ouija-hands.jpg",
         "https://goldberg.berkeley.edu/art/ouija/osplash-reg.jpg"
@@ -488,12 +638,17 @@
     },
     {
       "id": "ken-goldberg--tele-actor",
-      "creator_ids": ["ken-goldberg"],
+      "creator_ids": [
+        "ken-goldberg"
+      ],
       "title": "Tele-Actor",
       "year": 2001,
       "field": "network",
       "sub": "telematic",
-      "mechanisms": ["governance", "participation"],
+      "mechanisms": [
+        "governance",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A human actor wearing cameras and a microphone moves through a real place while an online audience decides, vote by vote, where they go and what they do.",
@@ -502,22 +657,42 @@
       "idea_zh": "把人群的点击变成一个人的下一步。",
       "protocol": "Remote participants place coloured markers on a live 'election image' to show where the actor should move or act; a clustering algorithm (Spatial Dynamic Voting) turns the votes into a single command, which the actor carries out.",
       "protocol_zh": "远程参与者在实时“选举图像”上放置彩色标记，指明演员应该移动或行动的位置；聚类算法（空间动态投票）把选票合成一条指令，由演员执行。",
-      "collective": "In a July 2001 field test, 56 remote users jointly directed the actor's movements; later sessions guided actors through events and classrooms.",
-      "collective_zh": "在 2001 年 7 月的一次实地测试中，56 名远程用户共同指挥演员的行动；此后的场次带领演员穿过各类活动与课堂。",
-      "keywords": ["Spatial Dynamic Voting", "telepresence", "collective control", "human avatar"],
-      "images": ["https://goldberg.berkeley.edu/art/big-images/Tele-Actor-18-Nov-Kids-hi-res.jpg"],
-      "paper": { "url": "https://goldberg.berkeley.edu/pubs/teleactor-icra02.pdf", "doi": "10.1109/ROBOT.2002.1014703", "venue": "IEEE ICRA 2002", "title": "Collaborative online teleoperation with spatial dynamic voting and a human \"Tele-Actor\"" },
+      "collective": "In a July 2001 field test, 56 remote users jointly directed the actor's movements; later performances guided the actor through remote environments and social events.",
+      "collective_zh": "在 2001 年 7 月的一次实地测试中，56 名远程用户共同指挥演员的行动；此后的演出引导演员穿行于各种远方环境和社交场合。",
+      "keywords": [
+        "Spatial Dynamic Voting",
+        "telepresence",
+        "collective control",
+        "human avatar"
+      ],
+      "images": [
+        "https://goldberg.berkeley.edu/art/big-images/Tele-Actor-18-Nov-Kids-hi-res.jpg"
+      ],
+      "paper": {
+        "url": "https://goldberg.berkeley.edu/pubs/teleactor-icra02.pdf",
+        "doi": "10.1109/ROBOT.2002.1014703",
+        "venue": "IEEE ICRA 2002",
+        "title": "Collaborative online teleoperation with spatial dynamic voting and a human \"Tele-Actor\""
+      },
       "source_url": "http://teleactor.berkeley.edu/"
     },
     {
       "id": "douglas-davis--worlds-first-collaborative-sentence",
-      "creator_ids": ["douglas-davis"],
+      "creator_ids": [
+        "douglas-davis"
+      ],
       "title": "The World's First Collaborative Sentence",
       "year": 1994,
       "field": "network",
       "sub": "telematic",
-      "also": ["score"],
-      "mechanisms": ["co-authorship", "participation", "constraint"],
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "participation",
+        "constraint"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A single sentence without an end, started by Davis at the Lehman College Art Gallery in 1994 and continued online by anyone who wanted to add to it. The Whitney Museum holds it and restored it in 2013.",
@@ -528,7 +703,13 @@
       "protocol_zh": "任何人都可以通过网页、电子邮件、邮寄或到访美术馆，往句子里加入文字、图像、声音、视频或链接；唯一的规则是不能用句号结束它。",
       "collective": "Contributors wrote in dozens of languages, producing more than 200,000 contributions by early 2000 and an unedited record of early web voices.",
       "collective_zh": "参与者用几十种语言书写，到 2000 年初累计 20 多万条贡献，留下了早期网络声音的未经编辑的记录。",
-      "keywords": ["Whitney artport", "Lehman College", "net art", "endless sentence", "restoration 2013"],
+      "keywords": [
+        "Whitney artport",
+        "Lehman College",
+        "net art",
+        "endless sentence",
+        "restoration 2013"
+      ],
       "images": [
         "https://whitneymedia.org/assets/artwork/10237/95_253_vw1_still.jpg",
         "https://whitneymedia.org/assets/image/482059/large_davis-01.jpg"
@@ -537,13 +718,21 @@
     },
     {
       "id": "heath-bunting--kings-cross-phone-in",
-      "creator_ids": ["heath-bunting"],
+      "creator_ids": [
+        "heath-bunting"
+      ],
       "title": "King's Cross Phone-In",
       "year": 1994,
       "field": "network",
       "sub": "telematic",
-      "also": ["social"],
-      "mechanisms": ["instruction", "participation", "chance"],
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "chance"
+      ],
       "substrate": "network",
       "kind": "score",
       "description": "Bunting posted online the numbers of the payphones at London's King's Cross station and asked people to call them on 5 August 1994. The station concourse filled with ringing phones and conversations between strangers.",
@@ -554,31 +743,55 @@
       "protocol_zh": "Bunting 在他的 Cybercafe 网站和邮件列表上列出 36 个公用电话号码，按电话亭的平面位置排列，邀请人们任选其一：让电话响一会儿再挂断、按某种图案拨打、和接听的人聊天、亲自去车站接电话，或者做点别的，活动集中在格林尼治时间 18:00 前后。",
       "collective": "By mid-afternoon the booths were ringing continuously; commuters and passers-by picked up and found themselves talking with callers from other countries, an early instance of a web-coordinated crowd action.",
       "collective_zh": "到下午，电话亭里的铃声此起彼伏；通勤者和路人拿起话筒，发现自己在和其他国家的来电者交谈，这是早期由网络协调的群体行动之一。",
-      "keywords": ["irational.org", "Cybercafe", "payphones", "proto flash mob", "net.art"],
-      "video": { "url": "https://www.youtube.com/watch?v=ITTgMwxg5zA" },
-      "images": ["https://live.staticflickr.com/2176/2524624568_087dfcc3bc_z.jpg"],
+      "keywords": [
+        "irational.org",
+        "Cybercafe",
+        "payphones",
+        "proto flash mob",
+        "net.art"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ITTgMwxg5zA"
+      },
+      "images": [
+        "https://live.staticflickr.com/2176/2524624568_087dfcc3bc_z.jpg"
+      ],
       "source_url": "http://www.irational.org/cybercafe/xrel.html"
     },
     {
       "id": "aaron-koblin--the-sheep-market",
-      "creator_ids": ["aaron-koblin"],
+      "creator_ids": [
+        "aaron-koblin"
+      ],
       "title": "The Sheep Market",
       "year": 2006,
       "field": "network",
       "sub": "crowdsourced",
-      "mechanisms": ["instruction", "exchange", "participation"],
+      "mechanisms": [
+        "instruction",
+        "exchange",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
-      "description": "A collection of 10,000 sheep drawn by workers on Amazon Mechanical Turk, each paid two cents to 'draw a sheep facing to the left'. The drawings, with animations of how each was made, are displayed and sold as a flock.",
-      "description_zh": "一万只羊的合集，由 Amazon Mechanical Turk 上的工人绘制，每人拿两美分，任务是“画一只朝左的羊”。每幅画连同绘制过程动画一起展示，并作为羊群出售。",
+      "description": "A collection of 10,000 sheep drawn by workers on Amazon Mechanical Turk, each paid two cents to 'draw a sheep facing to the left'. Each sheep is shown with an animation of how it was drawn.",
+      "description_zh": "一万只羊的合集，由 Amazon Mechanical Turk 上的工人绘制，每人拿两美分，任务是“画一只朝左的羊”。每只羊都附有其绘制过程的动画。",
       "idea_en": "One absurd micro-task, repeated for 10,000 strangers, shows the crowd behind digital labour.",
       "idea_zh": "一个荒诞的微任务交给一万个陌生人重复，照出数字劳动背后的人群。",
       "protocol": "Koblin posted a paid task on Mechanical Turk with one instruction, 'draw a sheep facing to the left', a simple drawing tool that recorded every stroke, and a fixed fee of $0.02 per drawing.",
       "protocol_zh": "Koblin 在 Mechanical Turk 上发布付费任务，只有一条指令“画一只朝左的羊”，配一个记录每一笔的简单绘图工具，每幅画固定报酬 0.02 美元。",
       "collective": "Anonymous workers produced 10,000 sheep that range from careful drawings to scribbles and refusals, a record of how a paid crowd interprets an instruction.",
       "collective_zh": "匿名工人画出一万只羊，从精心描绘到随手涂鸦乃至敷衍拒绝都有，记录了一个付费人群如何理解一条指令。",
-      "keywords": ["Amazon Mechanical Turk", "crowd labour", "Le Petit Prince", "Processing", "sheep"],
-      "video": { "url": "https://vimeo.com/3199933" },
+      "keywords": [
+        "Amazon Mechanical Turk",
+        "crowd labour",
+        "Le Petit Prince",
+        "Processing",
+        "sheep"
+      ],
+      "video": {
+        "url": "https://vimeo.com/3199933"
+      },
       "images": [
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/the-sheep-market-hero.jpg",
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/sheep-market-additional.jpg"
@@ -587,12 +800,19 @@
     },
     {
       "id": "aaron-koblin--ten-thousand-cents",
-      "creator_ids": ["aaron-koblin", "takashi-kawashima"],
+      "creator_ids": [
+        "aaron-koblin",
+        "takashi-kawashima"
+      ],
       "title": "Ten Thousand Cents",
       "year": 2008,
       "field": "network",
       "sub": "crowdsourced",
-      "mechanisms": ["exchange", "currency", "instruction"],
+      "mechanisms": [
+        "exchange",
+        "currency",
+        "instruction"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "An image of a US $100 bill split into 10,000 tiles, each redrawn by a different Mechanical Turk worker for one cent without knowing what the whole would be. The finished piece is shown as a video of all 10,000 parts being drawn at once.",
@@ -603,19 +823,36 @@
       "protocol_zh": "每个工人只拿到一块图块和一个定制绘图工具，报酬 0.01 美元，不被告知整体任务。印刷品每张售价 100 美元，收入捐给“每个孩子一台笔记本电脑”项目。",
       "collective": "Workers in 51 countries drew the 10,000 tiles between November 2007 and March 2008, for a total labour cost of 10,000 cents.",
       "collective_zh": "2007 年 11 月至 2008 年 3 月，51 个国家的工人画完了一万块图块，总劳动成本为一万美分。",
-      "keywords": ["Amazon Mechanical Turk", "$100 bill", "digital labour", "OLPC", "crowdsourcing"],
-      "video": { "url": "https://vimeo.com/873019" },
-      "images": ["https://www.aaronkoblin.com/wp-content/uploads/2015/10/10kc-hero.jpg"],
+      "keywords": [
+        "Amazon Mechanical Turk",
+        "$100 bill",
+        "digital labour",
+        "OLPC",
+        "crowdsourcing"
+      ],
+      "video": {
+        "url": "https://vimeo.com/873019"
+      },
+      "images": [
+        "https://www.aaronkoblin.com/wp-content/uploads/2015/10/10kc-hero.jpg"
+      ],
       "source_url": "http://www.tenthousandcents.com/"
     },
     {
       "id": "aaron-koblin--bicycle-built-for-two-thousand",
-      "creator_ids": ["aaron-koblin", "daniel-massey"],
+      "creator_ids": [
+        "aaron-koblin",
+        "daniel-massey"
+      ],
       "title": "Bicycle Built for Two Thousand",
       "year": 2009,
       "field": "network",
       "sub": "crowdsourced",
-      "mechanisms": ["instruction", "exchange", "co-authorship"],
+      "mechanisms": [
+        "instruction",
+        "exchange",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "The song 'Daisy Bell', the first song sung by a computer in 1961, rebuilt from 2,088 voice recordings by online workers who each imitated a short sound clip without knowing the song.",
@@ -626,31 +863,55 @@
       "protocol_zh": "Mechanical Turk 上的工人拿报酬听一小段声音，并录下自己的模仿；这些录音再按顺序放回，组成整首歌。",
       "collective": "2,088 separate recordings from workers who never heard each other were assembled into a single performance of the song.",
       "collective_zh": "2,088 段互不相闻的工人录音被组装成这首歌的一次完整演唱。",
-      "keywords": ["Daisy Bell", "IBM 704", "Amazon Mechanical Turk", "voice", "crowdsourcing"],
-      "video": { "url": "https://vimeo.com/3571124" },
-      "images": ["https://www.aaronkoblin.com/wp-content/uploads/2015/10/bb2k-hero.jpg"],
+      "keywords": [
+        "Daisy Bell",
+        "IBM 704",
+        "Amazon Mechanical Turk",
+        "voice",
+        "crowdsourcing"
+      ],
+      "video": {
+        "url": "https://vimeo.com/3571124"
+      },
+      "images": [
+        "https://www.aaronkoblin.com/wp-content/uploads/2015/10/bb2k-hero.jpg"
+      ],
       "source_url": "https://www.aaronkoblin.com/project/bicycle-built-for-two-thousand/"
     },
     {
       "id": "aaron-koblin--johnny-cash-project",
-      "creator_ids": ["aaron-koblin", "chris-milk"],
+      "creator_ids": [
+        "aaron-koblin",
+        "chris-milk"
+      ],
       "title": "The Johnny Cash Project",
       "year": 2010,
       "field": "network",
       "sub": "crowdsourced",
-      "mechanisms": ["co-authorship", "participation", "governance"],
+      "mechanisms": [
+        "co-authorship",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A music video for Johnny Cash's 'Ain't No Grave' in which every frame is drawn by a different person over a frame of archival footage. The video keeps changing as new drawings are added.",
       "description_zh": "Johnny Cash《Ain't No Grave》的音乐录影带，每一帧都由不同的人在档案影像上描绘。随着新画作加入，录影带不断变化。",
       "idea_en": "Split a film into frames and hand each frame to a stranger.",
       "idea_zh": "把一部影片拆成单帧，每一帧交给一个陌生人。",
-      "protocol": "Visitors picked a frame, traced it with a web drawing tool in one of several styles, and submitted it; other visitors rated drawings, and the player assembles the video from the submitted frames.",
-      "protocol_zh": "访客选择一帧，用网页绘图工具以几种风格之一描绘并提交；其他访客给画作评分，播放器用提交的帧拼出录影带。",
-      "collective": "Contributors from many countries drew the frames, so the video plays as a flicker of different hands and styles and can be viewed in several versions drawn from different sets of drawings.",
-      "collective_zh": "来自许多国家的参与者画出了这些帧，录影带播放时是不同手笔与风格的闪烁，并可按不同画作组合观看多个版本。",
-      "keywords": ["Johnny Cash", "Ain't No Grave", "Rick Rubin", "crowdsourced music video", "rotoscope"],
-      "video": { "url": "https://www.youtube.com/watch?v=WwNVlNt9iDk" },
+      "protocol": "Each visitor received a single frame of archival footage as a template, drew over it with an online tool and submitted it; each submission took that frame's place in a continuously updated video.",
+      "protocol_zh": "每位访客拿到一帧档案影像作为模板，用在线工具在上面作画并提交；每份提交都会替换该帧，成为持续更新的录影带的一部分。",
+      "collective": "Contributors from many countries drew the frames, so the video flickers between different hands and styles and keeps changing as new drawings are added.",
+      "collective_zh": "来自许多国家的参与者画出了这些帧，录影带在不同手笔与风格之间闪烁，并随新画作的加入不断变化。",
+      "keywords": [
+        "Johnny Cash",
+        "Ain't No Grave",
+        "Rick Rubin",
+        "crowdsourced music video",
+        "rotoscope"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=WwNVlNt9iDk"
+      },
       "images": [
         "https://www.aaronkoblin.com/wp-content/uploads/2015/10/0435_1920.png",
         "https://www.aaronkoblin.com/wp-content/uploads/2015/10/0862_1920.png"
@@ -659,13 +920,21 @@
     },
     {
       "id": "aaron-koblin--this-exquisite-forest",
-      "creator_ids": ["aaron-koblin", "chris-milk"],
+      "creator_ids": [
+        "aaron-koblin",
+        "chris-milk"
+      ],
       "title": "This Exquisite Forest",
       "year": 2012,
       "field": "network",
       "sub": "crowdsourced",
-      "also": ["score"],
-      "mechanisms": ["co-authorship", "participation"],
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "An online animation tool, presented by Tate Modern and Google, in which invited artists began short animations and the public added new segments. Each story grows like a tree, splitting into branches when several people continue the same segment.",
@@ -676,8 +945,16 @@
       "protocol_zh": "艺术家为每棵树画下第一段动画并给出主题；任何人都能用在线工具为已有片段画一段续篇，每段续篇成为一根新枝。",
       "collective": "From 2012 to 2014 visitors online and in the gallery extended the seeded animations into branching narratives, shown as trees at Tate Modern.",
       "collective_zh": "2012 至 2014 年间，线上和展厅里的访客把最初的动画扩展成分叉的叙事，在泰特现代以树的形式展示。",
-      "keywords": ["Tate Modern", "Google Chrome Experiments", "exquisite corpse", "animation", "branching narrative"],
-      "video": { "url": "https://vimeo.com/45472189" },
+      "keywords": [
+        "Tate Modern",
+        "Google Chrome Experiments",
+        "exquisite corpse",
+        "animation",
+        "branching narrative"
+      ],
+      "video": {
+        "url": "https://vimeo.com/45472189"
+      },
       "images": [
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/hero-image2.jpg",
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/tef-01.jpg"
@@ -686,12 +963,18 @@
     },
     {
       "id": "janet-echelman--unnumbered-sparks",
-      "creator_ids": ["janet-echelman", "aaron-koblin"],
+      "creator_ids": [
+        "janet-echelman",
+        "aaron-koblin"
+      ],
       "title": "Unnumbered Sparks",
       "year": 2014,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["participation", "co-authorship"],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A giant net sculpture floating over Vancouver's waterfront during the 2014 TED conference, lit by projections that visitors drew in real time from their phones.",
@@ -702,7 +985,13 @@
       "protocol_zh": "访客用手机连接网页应用，用手指作画；每个人的笔触都与其他人的一起实时投射到网上。",
       "collective": "The crowd on the waterfront continuously repainted the sculpture with overlapping strokes, so its appearance was set by whoever was drawing at that moment.",
       "collective_zh": "海滨上的人群不断用交叠的笔触重绘雕塑，它此刻的样子由正在作画的人决定。",
-      "keywords": ["TED 2014", "Vancouver", "net sculpture", "mobile phones", "projection"],
+      "keywords": [
+        "TED 2014",
+        "Vancouver",
+        "net sculpture",
+        "mobile phones",
+        "projection"
+      ],
       "images": [
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/hero-image.jpg",
         "https://www.aaronkoblin.com/wp-content/uploads/2015/08/gallery-01.jpg"
@@ -711,13 +1000,21 @@
     },
     {
       "id": "miranda-july--learning-to-love-you-more",
-      "creator_ids": ["miranda-july", "harrell-fletcher"],
+      "creator_ids": [
+        "miranda-july",
+        "harrell-fletcher"
+      ],
       "title": "Learning to Love You More",
       "year": 2002,
       "field": "network",
       "sub": "crowdsourced",
-      "also": ["score"],
-      "mechanisms": ["instruction", "participation"],
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "series",
       "description": "A website of numbered assignments — 'Make an encouraging banner', 'Take a flash photo under your bed' — that anyone could complete and send in. Reports were posted online and shown in exhibitions, screenings and a book.",
@@ -728,19 +1025,32 @@
       "protocol_zh": "July 和 Fletcher 在网站上逐条发布任务，每条附简短说明；参与者在自己的生活中完成任务并提交报告（照片、文字、视频或声音），由艺术家发布。",
       "collective": "Over seven years more than 8,000 people responded to 70 assignments; the project ended in 2009 with 'Say goodbye', and SFMOMA acquired it in 2010.",
       "collective_zh": "七年间 8,000 多人回应了 70 项任务；项目在 2009 年以“说再见”收尾，2010 年被旧金山现代艺术博物馆收藏。",
-      "keywords": ["assignments", "SFMOMA", "Yuri Ono", "participatory art", "instructions"],
-      "images": ["https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20195322/2010.264_01_H02.jpg"],
-      "paper": { "url": "https://en.wikipedia.org/wiki/Learning_to_Love_You_More", "title": "Learning to Love You More (Prestel, 2007)" },
+      "keywords": [
+        "assignments",
+        "SFMOMA",
+        "Yuri Ono",
+        "participatory art",
+        "instructions"
+      ],
+      "images": [
+        "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20195322/2010.264_01_H02.jpg"
+      ],
       "source_url": "http://www.learningtoloveyoumore.com/"
     },
     {
       "id": "alex-tew--million-dollar-homepage",
-      "creator_ids": ["alex-tew"],
+      "creator_ids": [
+        "alex-tew"
+      ],
       "title": "The Million Dollar Homepage",
       "year": 2005,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["exchange", "scarcity", "participation"],
+      "mechanisms": [
+        "exchange",
+        "scarcity",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "platform",
       "description": "A 1000 × 1000 pixel web page whose pixels were sold for $1 each in 10 × 10 blocks. Buyers filled their blocks with tiny linked ads, and the page became a dense patchwork of logos.",
@@ -751,18 +1061,32 @@
       "protocol_zh": "任何人都可以按每像素 1 美元买下至少 100 像素的一块，提供小图片、链接和悬停标语；格子永久保留，页面总面积固定为一百万像素。",
       "collective": "Launched on 26 August 2005, the page sold out within months; the last 1,000 pixels were auctioned on eBay in January 2006 for $38,100, bringing gross income to $1,037,100. Many of its links have since rotted.",
       "collective_zh": "页面于 2005 年 8 月 26 日上线，几个月内售罄；最后 1,000 像素在 2006 年 1 月的 eBay 拍卖中以 38,100 美元成交，总收入达 1,037,100 美元。此后许多链接已失效。",
-      "keywords": ["pixel advertising", "eBay", "link rot", "internet phenomenon", "1000x1000"],
-      "images": ["https://upload.wikimedia.org/wikipedia/en/3/3f/The_Million_Dollar_Homepage.png"],
+      "keywords": [
+        "pixel advertising",
+        "eBay",
+        "link rot",
+        "internet phenomenon",
+        "1000x1000"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Million_Dollar_Homepage.png"
+      ],
       "source_url": "http://www.milliondollarhomepage.com/"
     },
     {
       "id": "josh-wardle--the-button",
-      "creator_ids": ["josh-wardle"],
+      "creator_ids": [
+        "josh-wardle"
+      ],
       "title": "The Button",
       "year": 2015,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["constraint", "time", "scarcity"],
+      "mechanisms": [
+        "constraint",
+        "time",
+        "scarcity"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "A button and a 60-second countdown on Reddit for April Fools' Day 2015. Every press reset the timer for everyone; each account could press only once, and the experiment ended when the timer finally reached zero two months later.",
@@ -771,20 +1095,34 @@
       "idea_zh": "一次性的行动、一个共享的时钟、一枚标明你何时出手的记号，就足以制造派系。",
       "protocol": "Only accounts created before 1 April 2015 could press, and only once; pressing reset the global 60-second timer and gave the presser a coloured flair showing the seconds left when they pressed. Non-pressers kept a grey flair.",
       "protocol_zh": "只有 2015 年 4 月 1 日之前注册的账户可以按，且只能按一次；按下会重置全局 60 秒计时器，并给按者一个彩色标识，显示按下时剩余的秒数。没按的人保持灰色标识。",
-      "collective": "Over one million accounts clicked, logging 1,008,316 presses. Users formed 'cults' around flair colours, from purple early pressers to those who waited for red, until no one pressed on 5 June 2015.",
-      "collective_zh": "超过一百万个账户参与，共记录 1,008,316 次按压。用户围绕标识颜色结成各种“教派”，从最早按下的紫色派到坚持等到红色的人，直到 2015 年 6 月 5 日再无人按下。",
-      "keywords": ["Reddit", "April Fools", "countdown", "flair", "r/thebutton"],
-      "images": ["https://upload.wikimedia.org/wikipedia/en/3/31/The_Button_%28Reddit%29.gif"],
+      "collective": "Over one million accounts clicked, logging 1,008,316 presses. Users formed 'cults' around flair colours, from purple (pressed with most time left) to those who held out for red, until no one pressed on 5 June 2015.",
+      "collective_zh": "超过一百万个账户参与，共记录 1,008,316 次按压。用户围绕标识颜色结成各种“教派”，从剩余时间最多时按下的紫色派，到坚持等到红色的人，直到 2015 年 6 月 5 日再无人按下。",
+      "keywords": [
+        "Reddit",
+        "April Fools",
+        "countdown",
+        "flair",
+        "r/thebutton"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/31/The_Button_%28Reddit%29.gif"
+      ],
       "source_url": "https://en.wikipedia.org/wiki/The_Button_(Reddit)"
     },
     {
       "id": "josh-wardle--place",
-      "creator_ids": ["josh-wardle"],
+      "creator_ids": [
+        "josh-wardle"
+      ],
       "title": "Place (r/place 2017)",
       "year": 2017,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["constraint", "co-authorship", "participation"],
+      "mechanisms": [
+        "constraint",
+        "co-authorship",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "A blank 1000 × 1000 pixel canvas on Reddit where any user could place one coloured tile, then had to wait minutes before placing another. Over 72 hours communities organised to draw flags, logos and artworks, and fought over space.",
@@ -795,7 +1133,13 @@
       "protocol_zh": "登录用户可以从 16 色调色板中选一种颜色涂一个方块，然后等待冷却（活动大部分时间为五分钟）才能再放；任何人都可以覆盖方块，每次放置都实时广播。",
       "collective": "According to Reddit, over a million users placed 16.5 million tiles in 72 hours. Subreddits and nations formed alliances and rivalries; the bottom-right corner alone changed colour 37,214 times by 23,798 users as r/TheBlueCorner held it.",
       "collective_zh": "据 Reddit 公布，72 小时内一百多万用户放置了 1,650 万个方块。各子版块和国家结盟又对立；仅右下角就被 23,798 名用户改色 37,214 次，最终由 r/TheBlueCorner 守住。",
-      "keywords": ["Reddit", "April Fools 2017", "pixel art", "cooldown", "Place Atlas"],
+      "keywords": [
+        "Reddit",
+        "April Fools 2017",
+        "pixel art",
+        "cooldown",
+        "Place Atlas"
+      ],
       "images": [
         "https://redditinc.com/hubfs/Reddit%20Inc/Blog/Imported_Blog_Media/place-final.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Place_2017.svg/960px-Place_2017.svg.png"
@@ -804,12 +1148,18 @@
     },
     {
       "id": "reddit--place-2022",
-      "creator_ids": ["reddit"],
+      "creator_ids": [
+        "reddit"
+      ],
       "title": "r/place 2022",
       "year": 2022,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["constraint", "co-authorship", "time"],
+      "mechanisms": [
+        "constraint",
+        "co-authorship",
+        "time"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "Reddit's second run of Place, which lasted 87 hours. The canvas started at 1000 × 1000 and was expanded twice, to 2000 × 2000, and ended with a phase where only white tiles could be placed.",
@@ -818,9 +1168,15 @@
       "idea_zh": "在游戏中途改变规则——更多空间、更多颜色、最后只剩白色——看人群如何重新组织。",
       "protocol": "Logged-in users could place one tile every five minutes; Reddit expanded the canvas and the palette (up to 32 colours) during the event, and in the final phase allowed only white, erasing the canvas.",
       "protocol_zh": "登录用户每五分钟可放一个方块；活动期间 Reddit 扩大了画布和调色板（最多 32 色），最后阶段只允许白色，把画布抹白。",
-      "collective": "Reddit reported more than 10.4 million redditors placing over 160 million tiles, with participants from 236 countries and territories; streamers coordinated large audiences, and the final white-out was itself a collective act.",
-      "collective_zh": "Reddit 公布，逾 1,040 万用户放置了超过 1.6 亿个方块，参与者来自 236 个国家和地区；主播们调动大量观众协作，最后的“抹白”本身也成了一次集体行动。",
-      "keywords": ["Reddit", "April Fools 2022", "pixel war", "streamers", "whiteout"],
+      "collective": "Reddit reported more than 10.4 million redditors placing over 160 million tiles, with participants from 236 countries and territories. The final white-only phase turned the erasure of the canvas into one more collective act.",
+      "collective_zh": "Reddit 公布，逾 1,040 万用户放置了超过 1.6 亿个方块，参与者来自 236 个国家和地区。最后只许放白色的阶段，让抹去画布本身也成了一次集体行动。",
+      "keywords": [
+        "Reddit",
+        "April Fools 2022",
+        "pixel war",
+        "streamers",
+        "whiteout"
+      ],
       "images": [
         "https://upload.wikimedia.org/wikipedia/en/0/01/RPlace2022.png",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Place_2022.svg/960px-Place_2022.svg.png"
@@ -829,12 +1185,18 @@
     },
     {
       "id": "reddit--place-2023",
-      "creator_ids": ["reddit"],
+      "creator_ids": [
+        "reddit"
+      ],
       "title": "r/place 2023",
       "year": 2023,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["constraint", "governance", "co-authorship"],
+      "mechanisms": [
+        "constraint",
+        "governance",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "The third r/place, launched on 20 July 2023. It began at 1000 × 1000 with eight colours and grew to 3000 × 2000 with 32, amid user protests against Reddit's new API pricing.",
@@ -845,18 +1207,32 @@
       "protocol_zh": "沿用前几届一次一格加冷却的规则，画布和调色板分阶段扩大；Reddit 管理员可以无限放置方块，并删除他们认为冒犯的内容。",
       "collective": "Alongside the usual flags and fandom art, users repeatedly wrote messages against Reddit's CEO over the API changes; administrators overwrote them, making moderation visible on the canvas.",
       "collective_zh": "除了常见的国旗和粉丝创作，用户一再写下针对 Reddit CEO 的 API 抗议标语；管理员将其覆盖，使审核过程直接显现在画布上。",
-      "keywords": ["Reddit", "API protest", "moderation", "pixel art", "2023"],
-      "images": ["https://upload.wikimedia.org/wikipedia/en/f/fa/R-place_2023_final.jpg"],
+      "keywords": [
+        "Reddit",
+        "API protest",
+        "moderation",
+        "pixel art",
+        "2023"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/f/fa/R-place_2023_final.jpg"
+      ],
       "source_url": "https://en.wikipedia.org/wiki/R/place"
     },
     {
       "id": "twitch-plays-pokemon-streamer--twitch-plays-pokemon",
-      "creator_ids": ["twitch-plays-pokemon-streamer"],
+      "creator_ids": [
+        "twitch-plays-pokemon-streamer"
+      ],
       "title": "Twitch Plays Pokémon",
       "year": 2014,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["participation", "chance", "governance"],
+      "mechanisms": [
+        "participation",
+        "chance",
+        "governance"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "A live stream of Pokémon Red controlled by the stream's chat: every message that named a button was sent to the emulator. The chaotic crowd finished the game after more than 16 days.",
@@ -867,19 +1243,36 @@
       "protocol_zh": "一个 IRC 机器人读取“up”“a”“start”等聊天消息，逐条作为按键传给游戏；后来主播加入了“无政府”（执行每条指令）与“民主”（限时投票决定下一步）两种模式的切换，由聊天投票决定。",
       "collective": "Twitch estimated that over 1.16 million people took part, with peak simultaneous participation of 121,000 and 55 million views, completing Pokémon Red on 1 March 2014; players built a mythology around in-game accidents.",
       "collective_zh": "据 Twitch 估计，超过 116 万人参与，同时在线参与峰值 12.1 万，总观看 5,500 万次，于 2014 年 3 月 1 日通关；玩家围绕游戏中的意外编出一整套神话。",
-      "keywords": ["Twitch", "Pokémon Red", "anarchy vs democracy", "IRC bot", "Guinness World Record"],
-      "images": ["https://upload.wikimedia.org/wikipedia/en/1/15/Twitch_plays_pokemon_animated.gif"],
+      "keywords": [
+        "Twitch",
+        "Pokémon Red",
+        "anarchy vs democracy",
+        "IRC bot",
+        "Guinness World Record"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/1/15/Twitch_plays_pokemon_animated.gif"
+      ],
       "source_url": "https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon"
     },
     {
       "id": "scott-kildall--wikipedia-art",
-      "creator_ids": ["scott-kildall", "nathaniel-stern"],
+      "creator_ids": [
+        "scott-kildall",
+        "nathaniel-stern"
+      ],
       "title": "Wikipedia Art",
       "year": 2009,
       "field": "network",
       "sub": "crowdsourced",
-      "also": ["theory"],
-      "mechanisms": ["co-authorship", "constraint", "participation"],
+      "also": [
+        "theory"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "constraint",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "An artwork that was also a Wikipedia article about itself: whatever the article said, backed by citations, was the work. Editors deleted it after about 15 hours, and the ensuing dispute, including a trademark letter from the Wikimedia Foundation, became part of the piece.",
@@ -890,18 +1283,33 @@
       "protocol_zh": "作品就是“Wikipedia Art”这一维基百科条目在任何时刻的内容；任何人都可以依照维基百科规则编辑，因此关于作品的公开文章可以被引用来改变作品。",
       "collective": "Wikipedia editors debated and removed the article within hours; press coverage, blog posts and legal correspondence that followed extended the work, which was later shown in the 2009 Venice Biennale's Internet Pavilion.",
       "collective_zh": "维基百科编辑在数小时内展开辩论并删除条目；随后的报道、博客和法律往来延续了作品，它之后在 2009 年威尼斯双年展的互联网馆展出。",
-      "keywords": ["Wikipedia", "notability", "citation", "deletion", "Wikimedia Foundation", "Venice Biennale 2009"],
-      "images": ["https://upload.wikimedia.org/wikipedia/commons/1/16/Wikipedia_Art.png"],
+      "keywords": [
+        "Wikipedia",
+        "notability",
+        "citation",
+        "deletion",
+        "Wikimedia Foundation",
+        "Venice Biennale 2009"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Wikipedia_Art.png"
+      ],
       "source_url": "https://en.wikipedia.org/wiki/Scott_Kildall"
     },
     {
       "id": "aram-bartholl--dead-drops",
-      "creator_ids": ["aram-bartholl"],
+      "creator_ids": [
+        "aram-bartholl"
+      ],
       "title": "Dead Drops",
       "year": 2010,
       "field": "network",
       "sub": "open-infrastructure",
-      "mechanisms": ["instruction", "participation", "circulation"],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
       "substrate": "network",
       "kind": "platform",
       "description": "USB flash drives cemented into walls, buildings and curbs, open to anyone who plugs in a laptop. Bartholl installed the first five in New York in 2010 and published instructions so anyone could add more.",
@@ -912,7 +1320,14 @@
       "protocol_zh": "每个投放点安装时除了一份说明项目的 readme.txt 之外是空的；任何人都可以放入或取走文件。想新增节点，按公开教程操作，再把位置和照片提交到项目数据库。",
       "collective": "Strangers installed dead drops worldwide; Bartholl's site reports more than 1,400 in dozens of countries, with contents left and taken anonymously.",
       "collective_zh": "陌生人在世界各地安装投放点；据 Bartholl 网站，已有 1,400 多个分布在数十个国家，内容匿名存取。",
-      "keywords": ["USB", "dead drop", "offline network", "file sharing", "public space", "DIY"],
+      "keywords": [
+        "USB",
+        "dead drop",
+        "offline network",
+        "file sharing",
+        "public space",
+        "DIY"
+      ],
       "images": [
         "https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_dead_drops_2010_01-e1526384395486-1024x683.jpg",
         "https://deaddrops.com/wp-content/uploads/2010/11/deaddrops1-600x400.jpg"
@@ -921,13 +1336,21 @@
     },
     {
       "id": "aram-bartholl--speed-show",
-      "creator_ids": ["aram-bartholl"],
+      "creator_ids": [
+        "aram-bartholl"
+      ],
       "title": "Speed Show",
       "year": 2010,
       "field": "network",
       "sub": "open-infrastructure",
-      "also": ["score"],
-      "mechanisms": ["instruction", "constraint", "participation"],
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "constraint",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "score",
       "description": "An exhibition format for browser-based art: rent every computer in an internet café for one night and hold an opening there. Bartholl published the rules, and curators in many cities have staged their own.",
@@ -938,7 +1361,13 @@
       "protocol_zh": "在网吧正常营业时间内包下所有电脑一个晚上；所有作品必须在线，并在标准浏览器和标准插件中运行；不得使用定制软件、离线文件，也不得对网吧做物理改动；展览对公众开放。",
       "collective": "Curators have run Speed Shows under the rules in Berlin, New York, Los Angeles, Beijing, Hong Kong, Tel Aviv, Dublin, Montreal and other cities, each documented on speedshow.net.",
       "collective_zh": "策展人按这套规则在柏林、纽约、洛杉矶、北京、香港、特拉维夫、都柏林、蒙特利尔等城市举办过 Speed Show，均记录在 speedshow.net。",
-      "keywords": ["internet café", "exhibition format", "browser art", "manifesto", "DIY curating"],
+      "keywords": [
+        "internet café",
+        "exhibition format",
+        "browser art",
+        "manifesto",
+        "DIY curating"
+      ],
       "images": [
         "https://arambartholl.com/wp-content/uploads/2018/05/Aram_Bartholl_Speedshow_01-1024x681.jpg",
         "https://arambartholl.com/wp-content/uploads/2019/12/speed-show-face-the-face-aram-bartholl-link-in-bio-mdbk-2019-01-1024x683.jpg"
@@ -947,12 +1376,18 @@
     },
     {
       "id": "aram-bartholl--keepalive",
-      "creator_ids": ["aram-bartholl"],
+      "creator_ids": [
+        "aram-bartholl"
+      ],
       "title": "Keepalive",
       "year": 2015,
       "field": "network",
       "sub": "open-infrastructure",
-      "mechanisms": ["participation", "time", "constraint"],
+      "mechanisms": [
+        "participation",
+        "time",
+        "constraint"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A boulder in a field in Lower Saxony with a thermoelectric generator and an offline Wi-Fi router inside. Visitors must build a fire next to the stone to power the router and reach its library of survival guides.",
@@ -963,7 +1398,13 @@
       "protocol_zh": "路由器不连接互联网，只在火焰加热石头时开启；连上的人可以下载 PDF 求生指南，也可以向石头的数据库上传任何内容。",
       "collective": "Visitors who make the fire keep the network alive and add to the stone's collection, so its content grows with each gathering around it.",
       "collective_zh": "生火的访客维持网络在线，并往石头的收藏里添加内容，每一次围聚都让它的内容增长。",
-      "keywords": ["PirateBox", "thermoelectric", "offline network", "survival guides", "Springhornhof"],
+      "keywords": [
+        "PirateBox",
+        "thermoelectric",
+        "offline network",
+        "survival guides",
+        "Springhornhof"
+      ],
       "images": [
         "https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_01-1024x683.jpg",
         "https://arambartholl.com/wp-content/uploads/2018/03/aram_bartholl_keepalive_2015_03-1024x683.jpg"
@@ -972,24 +1413,38 @@
     },
     {
       "id": "eva-and-franco-mattes--befnoed",
-      "creator_ids": ["eva-and-franco-mattes"],
+      "creator_ids": [
+        "eva-and-franco-mattes"
+      ],
       "title": "BEFNOED (By Everyone, For No One, Every Day)",
       "year": 2014,
       "field": "network",
       "sub": "crowdsourced",
-      "also": ["score"],
-      "mechanisms": ["instruction", "exchange", "circulation"],
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "exchange",
+        "circulation"
+      ],
       "substrate": "network",
       "kind": "series",
-      "description": "Short videos of anonymous people performing odd instructions — licking a rim, saluting with a bucket on their head — commissioned through crowdsourcing platforms. Begun in 2013 and first exhibited in 2014, the videos are shown on awkwardly placed monitors and seeded on obscure social networks.",
-      "description_zh": "一系列短视频：匿名者执行古怪指令——舔杯沿、头顶水桶敬礼——通过众包平台委托拍摄。项目始于 2013 年，2014 年首次展出，视频装在位置别扭的显示器上，并投放到冷门社交网络中。",
+      "description": "Short videos of anonymous people performing odd instructions, with titles such as Licking Rim, Bucket Salute and Watering Fish, commissioned through crowdsourcing platforms. Begun in 2013 and first exhibited in 2014, the videos are shown on awkwardly placed monitors and seeded on obscure social networks.",
+      "description_zh": "一系列短视频：匿名者执行古怪指令，片名如 Licking Rim、Bucket Salute、Watering Fish，均通过众包平台委托拍摄。项目始于 2013 年，2014 年首次展出，视频装在位置别扭的显示器上，并投放到冷门社交网络中。",
       "idea_en": "Outsource performance art to the gig economy and keep the performers unknown.",
       "idea_zh": "把行为艺术外包给零工经济，并让表演者始终无名。",
       "protocol": "The artists write instructions and hire workers on crowdsourcing sites to film themselves carrying them out; the workers' identities, locations and motives stay unknown to the artists and the audience.",
       "protocol_zh": "艺术家写下指令，在众包网站雇工人拍下自己执行指令的过程；工人的身份、所在地和动机对艺术家和观众都保持未知。",
       "collective": "Anonymous workers produced a growing archive of strange, deadpan performances, which circulate online detached from their makers and are installed in museums so viewers must crouch or crane to watch.",
       "collective_zh": "匿名工人拍出一个不断扩大的、古怪又面无表情的表演档案；它们脱离创作者在网上流通，并在美术馆中以迫使观众蹲下或仰头观看的方式展出。",
-      "keywords": ["crowdsourcing", "gig economy", "anonymous performers", "Postmasters", "Carroll / Fletcher"],
+      "keywords": [
+        "crowdsourcing",
+        "gig economy",
+        "anonymous performers",
+        "Postmasters",
+        "Carroll / Fletcher"
+      ],
       "images": [
         "https://0100101110101101.org/blog/wp-content/uploads/befnoed-screenshot-ladder-somewhere-1-1024x577.jpg",
         "https://0100101110101101.org/blog/wp-content/uploads/exhib-carrollfletcher-befnoed-monitor-bottom-with-person-1024x683.jpg"
@@ -998,12 +1453,17 @@
     },
     {
       "id": "kyle-mcdonald--exhausting-a-crowd",
-      "creator_ids": ["kyle-mcdonald"],
+      "creator_ids": [
+        "kyle-mcdonald"
+      ],
       "title": "Exhausting a Crowd",
       "year": 2015,
       "field": "network",
       "sub": "crowdsourced",
-      "mechanisms": ["participation", "co-authorship"],
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "Twelve hours of video of London's Piccadilly Circus, put online so that anyone could click on a passer-by and write a note about them. The piece borrows its method from Georges Perec's attempt to record everything happening in a Paris square.",
@@ -1014,20 +1474,36 @@
       "protocol_zh": "访客在网站上拖动录像，点击任何人或事件，输入一条注解并固定在上面；之后的观看者都会看到所有注解。",
       "collective": "Online viewers layered the footage with observations, jokes and invented stories about strangers; the format was repeated in the Netherlands, Birmingham, Gwangju and Beijing.",
       "collective_zh": "网上的观看者给录像叠加了大量观察、玩笑和关于陌生人的虚构故事；这一形式后来在荷兰、伯明翰、光州和北京重复进行。",
-      "keywords": ["Georges Perec", "V&A", "All of This Belongs to You", "surveillance", "annotation"],
-      "images": ["http://exhaustingacrowd.com/og_image.jpg"],
+      "keywords": [
+        "Georges Perec",
+        "V&A",
+        "All of This Belongs to You",
+        "surveillance",
+        "annotation"
+      ],
+      "images": [
+        "http://exhaustingacrowd.com/og_image.jpg"
+      ],
       "source_url": "https://www.exhaustingacrowd.com/",
       "code_url": "https://github.com/kylemcdonald/ExhaustingACrowd"
     },
     {
       "id": "lauren-lee-mccarthy--social-turkers",
-      "creator_ids": ["lauren-lee-mccarthy"],
+      "creator_ids": [
+        "lauren-lee-mccarthy"
+      ],
       "title": "Social Turkers",
       "year": 2013,
       "field": "network",
       "sub": "crowdsourced",
-      "also": ["social"],
-      "mechanisms": ["instruction", "exchange", "participation"],
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "exchange",
+        "participation"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "McCarthy went on twenty OkCupid dates while streaming them to paid Mechanical Turk workers, who watched and texted her what to do or say next.",
@@ -1038,19 +1514,34 @@
       "protocol_zh": "远程工人拿报酬观看直播、解读现场情况并发送指令；McCarthy 必须立即执行每条指令。",
       "collective": "Anonymous workers steered twenty real dates, producing a record of how strangers read and redirect an intimate encounter.",
       "collective_zh": "匿名工人操控了二十场真实约会，记录下陌生人如何解读并改写一次亲密相遇。",
-      "keywords": ["Amazon Mechanical Turk", "OkCupid", "dating", "live stream", "performance"],
-      "images": ["https://freight.cargo.site/w/1200/i/9b389b3d29bfe5b74dfb7cbbf9ad0b611e789b2a8df6703f1c89aa91896e7194/ustream1_anon.jpg"],
+      "keywords": [
+        "Amazon Mechanical Turk",
+        "OkCupid",
+        "dating",
+        "live stream",
+        "performance"
+      ],
+      "images": [
+        "https://freight.cargo.site/w/1200/i/9b389b3d29bfe5b74dfb7cbbf9ad0b611e789b2a8df6703f1c89aa91896e7194/ustream1_anon.jpg"
+      ],
       "source_url": "https://lauren-mccarthy.com/Social-Turkers"
     },
     {
       "id": "lauren-lee-mccarthy--someone",
-      "creator_ids": ["lauren-lee-mccarthy"],
+      "creator_ids": [
+        "lauren-lee-mccarthy"
+      ],
       "title": "SOMEONE",
       "year": 2019,
       "field": "network",
       "sub": "telematic",
-      "also": ["social"],
-      "mechanisms": ["participation", "instruction"],
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
       "substrate": "network",
       "kind": "artwork",
       "description": "A human version of a smart-home assistant: for two months, four homes in the US were fitted with cameras, microphones and networked devices controlled from a gallery in New York, where visitors took turns acting as the assistant.",
@@ -1061,18 +1552,32 @@
       "protocol_zh": "当住户喊出“Someone”，指挥中心里坐在笔记本电脑前的画廊访客可以观看住宅画面，并远程控制灯光、门锁和电器来回应请求。",
       "collective": "A rotating crowd of gallery visitors served four households, deciding how to help, how much to watch and when to intervene.",
       "collective_zh": "一批批轮换的画廊访客为四户人家服务，自行决定如何帮忙、看多少、何时介入。",
-      "keywords": ["smart home", "Alexa", "surveillance", "205 Hudson Gallery", "care"],
-      "images": ["https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg"],
+      "keywords": [
+        "smart home",
+        "Alexa",
+        "surveillance",
+        "205 Hudson Gallery",
+        "care"
+      ],
+      "images": [
+        "https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg"
+      ],
       "source_url": "https://lauren-mccarthy.com/SOMEONE"
     },
     {
       "id": "nolen-royalty--one-million-checkboxes",
-      "creator_ids": ["nolen-royalty"],
+      "creator_ids": [
+        "nolen-royalty"
+      ],
       "title": "One Million Checkboxes",
       "year": 2024,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["participation", "constraint", "time"],
+      "mechanisms": [
+        "participation",
+        "constraint",
+        "time"
+      ],
       "substrate": "network",
       "kind": "game",
       "description": "A web page with one million checkboxes shared by everyone: checking a box checks it for all visitors. Built in two days, it went viral and ran for two weeks before being frozen.",
@@ -1083,7 +1588,13 @@
       "protocol_zh": "任何访客都可以勾选或取消任何一个框，每次改动都实时同步给所有访客；运行后期，保持勾选足够久的框会被锁定。",
       "collective": "Players made more than 650 million check and uncheck actions. Some raced to check or uncheck as many boxes as possible; others used bots and scripts to draw pictures and hide messages in the grid.",
       "collective_zh": "玩家共进行了超过 6.5 亿次勾选与取消。有人比拼勾选或取消的数量，有人用机器人和脚本在网格中画画、藏信息。",
-      "keywords": ["checkbox", "real-time sync", "bots", "eieio.games", "viral"],
+      "keywords": [
+        "checkbox",
+        "real-time sync",
+        "bots",
+        "eieio.games",
+        "viral"
+      ],
       "images": [
         "https://eieio.games/images/one-million-checkboxes/main-image.png",
         "https://upload.wikimedia.org/wikipedia/en/0/00/One_Million_Checkboxes_mobile_2024-07-04.jpg"
@@ -1092,34 +1603,52 @@
     },
     {
       "id": "nolen-royalty--one-million-chessboards",
-      "creator_ids": ["nolen-royalty"],
+      "creator_ids": [
+        "nolen-royalty"
+      ],
       "title": "One Million Chessboards",
       "year": 2025,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["participation", "constraint"],
+      "mechanisms": [
+        "participation",
+        "constraint"
+      ],
       "substrate": "network",
       "kind": "game",
-      "description": "One million chessboards laid out as a single shared grid, where anyone can move any piece and pieces can cross from one board into the next. The successor to One Million Checkboxes.",
-      "description_zh": "一百万张棋盘排成一个共享网格，任何人都能移动任何棋子，棋子还能从一张棋盘走到相邻的另一张。One Million Checkboxes 的续作。",
+      "description": "A 1000 × 1000 grid of chessboards shared by everyone, where moving a piece moves it for all players instantly and pieces can cross from one board to the next. The successor to One Million Checkboxes.",
+      "description_zh": "一个由所有人共享的 1000 × 1000 棋盘网格，移动一枚棋子会立即对所有玩家生效，棋子还能从一张棋盘走到相邻的另一张。One Million Checkboxes 的续作。",
       "idea_en": "Remove turns and ownership from chess and see what rules a crowd keeps.",
       "idea_zh": "拿掉国际象棋的回合和归属，看看人群还会保留哪些规则。",
-      "protocol": "Pieces move according to chess rules, but there are no turns and no assigned sides; any visitor can move any piece, and every move is shown to all players in real time.",
-      "protocol_zh": "棋子按国际象棋规则移动，但没有回合，也没有固定阵营；任何访客都能移动任何棋子，每一步都实时展示给所有玩家。",
-      "collective": "Players across the grid improvised games, raids across board edges and collective arrangements of pieces, sharing one continuous board-world.",
-      "collective_zh": "网格上的玩家即兴对弈，越过棋盘边界突袭，或集体摆出各种棋子图案，共享同一个连续的棋盘世界。",
-      "keywords": ["chess", "real-time", "eieio.games", "massively multiplayer"],
-      "images": ["https://eieio.games/images/a-million-realtime-chess-boards-in-a-single-process/og-image.png"],
-      "source_url": "https://onemillionchessboards.com/"
+      "protocol": "Pieces move by chess rules, but there are no turns and no assigned sides; any visitor can move any piece, pieces may move between boards, but may not capture pieces on another board.",
+      "protocol_zh": "棋子按国际象棋规则移动，但没有回合，也没有固定阵营；任何访客都能移动任何棋子，棋子可以跨棋盘移动，但不能吃掉另一张棋盘上的棋子。",
+      "collective": "In the ten days after launch in 2025, over 150,000 players made more than 15 million moves. Players exploited the no-capture-across-boards rule to build indestructible formations, nicknamed Rooklyn and Queens.",
+      "collective_zh": "2025 年上线后的十天里，超过 15 万名玩家走了 1,500 多万步。玩家利用“不能跨棋盘吃子”的规则搭出无法摧毁的阵型，被戏称为 Rooklyn 和 Queens。",
+      "keywords": [
+        "chess",
+        "real-time",
+        "eieio.games",
+        "massively multiplayer"
+      ],
+      "images": [
+        "https://eieio.games/images/a-million-realtime-chess-boards-in-a-single-process/og-image.png"
+      ],
+      "source_url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
     },
     {
       "id": "murilo-matsubara--wplace",
-      "creator_ids": ["murilo-matsubara"],
+      "creator_ids": [
+        "murilo-matsubara"
+      ],
       "title": "Wplace",
       "year": 2025,
       "field": "network",
       "sub": "collective-games",
-      "mechanisms": ["constraint", "currency", "co-authorship"],
+      "mechanisms": [
+        "constraint",
+        "currency",
+        "co-authorship"
+      ],
       "substrate": "network",
       "kind": "platform",
       "description": "A collaborative pixel canvas laid over a map of the whole world, where users paint pixels onto real places. Inspired by r/place, it drew over a million users in its first four days in July 2025.",
@@ -1130,7 +1659,13 @@
       "protocol_zh": "每个用户持有一个像素池（起始 30 个），每 30 秒恢复一个；放置像素能升级并获得游戏内货币“水滴”，可用来扩充容量、购买额外颜色或一面国旗——在该国境内放置像素时可返还一部分。",
       "collective": "Users covered cities with fan art, flags and memorial murals and fought frequent wars over territory; the pay-to-win features and server outages drew complaints that the developer addressed publicly in August 2025.",
       "collective_zh": "用户在城市上画满同人作品、国旗和纪念壁画，并频繁为地盘开战；付费取胜的机制和服务器宕机引发不满，开发者于 2025 年 8 月公开回应。",
-      "keywords": ["r/place", "world map", "pixel war", "droplets", "pay to win"],
+      "keywords": [
+        "r/place",
+        "world map",
+        "pixel war",
+        "droplets",
+        "pay to win"
+      ],
       "images": [
         "https://wplace.live/img/og-image.png",
         "https://upload.wikimedia.org/wikipedia/en/a/af/Wplace_Tokyo.png"
@@ -1139,18 +1674,96 @@
     }
   ],
   "leads": [
-    { "name": "Constant Dullaart — High Retention, Slow Delivery (2014)", "why": "Bought 2.5 million fake Instagram followers and gave art-world accounts 100,000 each; the 'crowd' is purchased bot accounts, so no participants act under the rule.", "link": "https://constantdullaart.com/projects/high-retention-slow-delivery", "found_via": "seed", "status": "off_topic" },
-    { "name": "Lauren Lee McCarthy — Follower (2016)", "why": "One-to-one performance in which the artist follows a single user for a day; no group acts under the rule.", "link": "https://lauren-mccarthy.com/Follower", "found_via": "lauren-lee-mccarthy", "status": "off_topic" },
-    { "name": "Lauren Lee McCarthy — LAUREN (2017)", "why": "The artist herself acts as a human Alexa for one household at a time; not a crowd protocol (its crowd version is SOMEONE).", "link": "https://lauren-mccarthy.com/LAUREN", "found_via": "lauren-lee-mccarthy", "status": "off_topic" },
-    { "name": "Lauren Lee McCarthy — Crowdpilot (2014)", "why": "App letting strangers listen to a conversation and advise the user in real time; project page currently empty.", "link": "https://lauren-mccarthy.com/Crowdpilot", "found_via": "lauren-lee-mccarthy", "status": "no_media" },
-    { "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)", "why": "A 'crowdsourced robot' whose actions are carried out by Mechanical Turk workers via a natural-language interface.", "link": "http://instructables.com/id/Noodle-a-crowdsourced-robot/", "found_via": "kyle-mcdonald", "status": "open" },
-    { "name": "Reddit — Robin (2016), Sequence (2019), Second (2021)", "why": "Later Reddit April Fools' crowd experiments (vote to grow/stay/leave chats; crowd-sequenced film; guess the second most popular option); authorship not confirmed.", "link": "https://en.wikipedia.org/wiki/List_of_Reddit_April_Fools%27_Day_events", "found_via": "josh-wardle", "status": "open" },
-    { "name": "Josh Wardle — Wordle (2021)", "why": "Single-player daily word game; the shared puzzle creates a social ritual but players do not act together under a rule.", "link": "https://en.wikipedia.org/wiki/Wordle", "found_via": "josh-wardle", "status": "off_topic" },
-    { "name": "Eva & Franco Mattes — Emily's Video (2012), No Fun (2010), The Bots (2020)", "why": "Reaction videos of respondents, a staged suicide on Chatroulette, and actors reenacting moderators; people are recorded rather than acting under a published rule.", "link": "https://0100101110101101.org/works", "found_via": "eva-and-franco-mattes", "status": "off_topic" },
-    { "name": "Aram Bartholl — DVD Dead Drop (2012) and OFFLINE ART (2013)", "why": "Read-only DVD burner in the Museum of the Moving Image wall, and an offline-router exhibition format; weaker crowd role than Dead Drops.", "link": "https://arambartholl.com/dvd-dead-drop/", "found_via": "aram-bartholl", "status": "open" },
-    { "name": "Kyle McDonald — Who Pays Artists? (2014)", "why": "Anonymous crowdsourced board where artists share what they were paid and by whom.", "link": "https://kylemcdonald.net/", "found_via": "kyle-mcdonald", "status": "open" },
-    { "name": "Neal Agarwal — Infinite Craft and other web toys", "why": "Mostly single-player browser games; shared 'first discoveries' are a side effect, not a collective rule.", "link": "https://neal.fun/", "found_via": "seed", "status": "off_topic" },
-    { "name": "Google Creative Lab — Quick, Draw! (2016)", "why": "Drawing game that collects doodles into a dataset for machine learning; a corporate data product rather than an authored crowd work.", "link": "https://quickdraw.withgoogle.com/", "found_via": "aaron-koblin", "status": "off_topic" },
-    { "name": "Aaron Koblin — Flight Patterns (2005), New York Talk Exchange (2008)", "why": "Visualisations of aircraft and telecom data; no participants acting under a rule.", "link": "https://www.aaronkoblin.com/", "found_via": "aaron-koblin", "status": "off_topic" }
+    {
+      "name": "Constant Dullaart — High Retention, Slow Delivery (2014)",
+      "why": "Bought 2.5 million fake Instagram followers and gave art-world accounts 100,000 each; the 'crowd' is purchased bot accounts, so no participants act under the rule.",
+      "link": "https://constantdullaart.com/projects/high-retention-slow-delivery",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Lauren Lee McCarthy — Follower (2016)",
+      "why": "One-to-one performance in which the artist follows a single user for a day; no group acts under the rule.",
+      "link": "https://lauren-mccarthy.com/Follower",
+      "found_via": "lauren-lee-mccarthy",
+      "status": "off_topic"
+    },
+    {
+      "name": "Lauren Lee McCarthy — LAUREN (2017)",
+      "why": "The artist herself acts as a human Alexa for one household at a time; not a crowd protocol (its crowd version is SOMEONE).",
+      "link": "https://lauren-mccarthy.com/LAUREN",
+      "found_via": "lauren-lee-mccarthy",
+      "status": "off_topic"
+    },
+    {
+      "name": "Lauren Lee McCarthy — Crowdpilot (2014)",
+      "why": "App letting strangers listen to a conversation and advise the user in real time; project page currently empty.",
+      "link": "https://lauren-mccarthy.com/Crowdpilot",
+      "found_via": "lauren-lee-mccarthy",
+      "status": "no_media"
+    },
+    {
+      "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)",
+      "why": "A 'crowdsourced robot' whose actions are carried out by Mechanical Turk workers via a natural-language interface.",
+      "link": "http://instructables.com/id/Noodle-a-crowdsourced-robot/",
+      "found_via": "kyle-mcdonald",
+      "status": "open"
+    },
+    {
+      "name": "Reddit — Robin (2016), Sequence (2019), Second (2021)",
+      "why": "Later Reddit April Fools' crowd experiments (vote to grow/stay/leave chats; crowd-sequenced film; guess the second most popular option); authorship not confirmed.",
+      "link": "https://en.wikipedia.org/wiki/List_of_Reddit_April_Fools%27_Day_events",
+      "found_via": "josh-wardle",
+      "status": "open"
+    },
+    {
+      "name": "Josh Wardle — Wordle (2021)",
+      "why": "Single-player daily word game; the shared puzzle creates a social ritual but players do not act together under a rule.",
+      "link": "https://en.wikipedia.org/wiki/Wordle",
+      "found_via": "josh-wardle",
+      "status": "off_topic"
+    },
+    {
+      "name": "Eva & Franco Mattes — Emily's Video (2012), No Fun (2010), The Bots (2020)",
+      "why": "Reaction videos of respondents, a staged suicide on Chatroulette, and actors reenacting moderators; people are recorded rather than acting under a published rule.",
+      "link": "https://0100101110101101.org/works",
+      "found_via": "eva-and-franco-mattes",
+      "status": "off_topic"
+    },
+    {
+      "name": "Aram Bartholl — DVD Dead Drop (2012) and OFFLINE ART (2013)",
+      "why": "Read-only DVD burner in the Museum of the Moving Image wall, and an offline-router exhibition format; weaker crowd role than Dead Drops.",
+      "link": "https://arambartholl.com/dvd-dead-drop/",
+      "found_via": "aram-bartholl",
+      "status": "open"
+    },
+    {
+      "name": "Kyle McDonald — Who Pays Artists? (2014)",
+      "why": "Anonymous crowdsourced board where artists share what they were paid and by whom.",
+      "link": "https://kylemcdonald.net/",
+      "found_via": "kyle-mcdonald",
+      "status": "open"
+    },
+    {
+      "name": "Neal Agarwal — Infinite Craft and other web toys",
+      "why": "Mostly single-player browser games; shared 'first discoveries' are a side effect, not a collective rule.",
+      "link": "https://neal.fun/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Google Creative Lab — Quick, Draw! (2016)",
+      "why": "Drawing game that collects doodles into a dataset for machine learning; a corporate data product rather than an authored crowd work.",
+      "link": "https://quickdraw.withgoogle.com/",
+      "found_via": "aaron-koblin",
+      "status": "off_topic"
+    },
+    {
+      "name": "Aaron Koblin — Flight Patterns (2005), New York Talk Exchange (2008)",
+      "why": "Visualisations of aircraft and telecom data; no participants acting under a rule.",
+      "link": "https://www.aaronkoblin.com/",
+      "found_via": "aaron-koblin",
+      "status": "off_topic"
+    }
   ]
 }

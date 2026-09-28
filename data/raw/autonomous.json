@@ -1,0 +1,1925 @@
+{
+ "batch": "autonomous",
+ "creators": [
+  {
+   "id": "terra0",
+   "name": "terra0",
+   "kind": "collective",
+   "role": "Art and research group (Paul Seidler, Paul Kolling, Max Hampshire)",
+   "based": "Berlin, DE",
+   "bio": "Group founded in 2015/16 by Paul Seidler and Paul Kolling in Joachim Sauter's New Media class at the Berlin University of the Arts, joined by Max Hampshire. It builds smart contracts, sensors and legal structures that let forests and plants act as economic agents.",
+   "why": "terra0 wrote the founding scenario of the self-owning forest and has kept testing it for a decade, from a whitepaper to a DAO that buys real forest land.",
+   "links": {
+    "site": "https://terra0.org",
+    "github": "https://github.com/terra0project"
+   },
+   "role_zh": "艺术与研究小组（Paul Seidler、Paul Kolling、Max Hampshire）",
+   "bio_zh": "2015–2016 年由 Paul Seidler 与 Paul Kolling 在柏林艺术大学 Joachim Sauter 的新媒体课上创立，之后 Max Hampshire 加入。小组用智能合约、传感器和法律结构，让森林和植物成为经济主体。",
+   "why_zh": "terra0 写下了“自我拥有的森林”这一原型设想，并用十年时间不断测试它：从白皮书一直到真正购买林地的 DAO。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "jonas-lund"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "okhaos",
+   "name": "Okhaos",
+   "kind": "collective",
+   "role": "Art collective",
+   "bio": "Art collective created in 2008 to turn digital concepts into physical artworks; it co-created the first Plantoids with Primavera De Filippi.",
+   "why": "Okhaos gave the Plantoid its welded-metal body, the part of the work that attracts the humans it needs to reproduce.",
+   "links": {
+    "site": "https://plantoid.org"
+   },
+   "role_zh": "艺术团体",
+   "bio_zh": "成立于 2008 年的艺术团体，致力于把数字概念做成实体作品；与 Primavera De Filippi 共同创作了最早的 Plantoid。",
+   "why_zh": "Okhaos 为 Plantoid 焊出了金属身体，而正是这具身体吸引人类为它“授粉”、让它繁殖。",
+   "connected_to": [
+    "primavera-de-filippi"
+   ],
+   "discovered_via": "primavera-de-filippi"
+  },
+  {
+   "id": "botto",
+   "name": "Botto",
+   "kind": "dao",
+   "role": "Decentralized autonomous artist governed by BottoDAO",
+   "bio": "An AI artist launched in 2021 by Mario Klingemann and ElevenYellow. Its art engine generates images every week; holders of the $BOTTO token vote on them, and BottoDAO decides how the artist and its income are managed.",
+   "why": "Botto is the clearest working case of an artist identity whose taste is trained by a voting public and whose treasury belongs to that public.",
+   "links": {
+    "site": "https://botto.com",
+    "x": "https://x.com/bottoproject"
+   },
+   "role_zh": "由 BottoDAO 治理的去中心化自治艺术家",
+   "bio_zh": "2021 年由 Mario Klingemann 与 ElevenYellow 发起的 AI 艺术家。它的艺术引擎每周生成图像，$BOTTO 代币持有者对其投票，BottoDAO 决定这位艺术家及其收入如何管理。",
+   "why_zh": "Botto 是目前最清晰、且真正在运转的案例：一个艺术家身份的审美由投票的公众训练，它的金库也归这群公众所有。",
+   "connected_to": [
+    "mario-klingemann",
+    "elevenyellow"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mario-klingemann",
+   "name": "Mario Klingemann",
+   "kind": "person",
+   "role": "Artist working with neural networks",
+   "based": "Munich, DE",
+   "bio": "German artist and programmer known for work with neural networks and generative systems. He conceived Botto and designed its art engine.",
+   "why": "He designed Botto so that no single human, including himself, steers the artist beyond the community vote.",
+   "links": {
+    "site": "https://quasimondo.com"
+   },
+   "role_zh": "使用神经网络创作的艺术家",
+   "bio_zh": "德国艺术家、程序员，以神经网络和生成系统创作著称。他构想了 Botto 并设计了它的艺术引擎。",
+   "why_zh": "他把 Botto 设计成除社区投票之外无人（包括他自己）能操控的艺术家。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [
+    "botto",
+    "elevenyellow"
+   ],
+   "discovered_via": "botto"
+  },
+  {
+   "id": "elevenyellow",
+   "name": "ElevenYellow",
+   "kind": "studio",
+   "role": "Software collective",
+   "bio": "Software collective that co-developed Botto with Mario Klingemann and built its token, voting and auction infrastructure.",
+   "why": "ElevenYellow turned the idea of an autonomous artist into a running economy of votes, auctions and rewards.",
+   "links": {},
+   "role_zh": "软件团体",
+   "bio_zh": "与 Mario Klingemann 共同开发 Botto 的软件团体，搭建了它的代币、投票与拍卖基础设施。",
+   "why_zh": "ElevenYellow 把“自治艺术家”的想法变成了一个由投票、拍卖和奖励组成、真正运转的经济系统。",
+   "connected_to": [
+    "botto",
+    "mario-klingemann"
+   ],
+   "discovered_via": "botto"
+  },
+  {
+   "id": "holly-herndon",
+   "name": "Holly Herndon",
+   "kind": "person",
+   "role": "Composer and artist",
+   "based": "Berlin, DE",
+   "bio": "American composer and artist based in Berlin, with a PhD from Stanford's CCRMA. With Mat Dryhurst she makes works about AI, voice and collective training data, including PROTO, Holly+, xhairymutantx and The Call.",
+   "why": "She turned her own voice and likeness into shared protocols: a DAO decides how her digital twin is used, and choirs co-own the models trained on their singing.",
+   "links": {
+    "site": "https://holly.plus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holly_Herndon"
+   },
+   "role_zh": "作曲家、艺术家",
+   "bio_zh": "常驻柏林的美国作曲家与艺术家，毕业于斯坦福大学 CCRMA（博士）。她与 Mat Dryhurst 合作关于 AI、声音和集体训练数据的作品，包括 PROTO、Holly+、xhairymutantx 和 The Call。",
+   "why_zh": "她把自己的声音和形象变成共享的协议：由一个 DAO 决定她的数字分身如何被使用，合唱团则共同拥有用他们歌声训练的模型。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "mat-dryhurst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nounders",
+   "name": "Nounders",
+   "kind": "collective",
+   "role": "Founding group of Nouns DAO",
+   "bio": "Group of ten co-founders, including Dom Hofmann, who launched Nouns in August 2021: a pixel character auctioned every day, with all proceeds going to a treasury governed by the holders.",
+   "why": "They wrote a perpetual auction-and-treasury rule that turned an NFT collection into a self-funding public organisation with CC0 art.",
+   "links": {
+    "site": "https://nouns.wtf"
+   },
+   "role_zh": "Nouns DAO 的创始团体",
+   "bio_zh": "由包括 Dom Hofmann 在内的十位联合创始人组成，2021 年 8 月发起 Nouns：每天拍卖一个像素角色，全部收入进入由持有者治理的金库。",
+   "why_zh": "他们写下一条永续的“拍卖加金库”规则，把一个 NFT 系列变成了用 CC0 艺术自我供血的公共组织。",
+   "connected_to": [
+    "dom-hofmann",
+    "lil-nounders"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lil-nounders",
+   "name": "Lil Nounders",
+   "kind": "collective",
+   "role": "Founding group of Lil Nouns DAO",
+   "bio": "Founders of Lil Nouns, a 2022 offshoot of Nouns that auctions a smaller Noun every 15 minutes and sends a share of its tokens to Nouns DAO.",
+   "why": "Lil Nouns shows how a CC0 protocol can be forked with a new tempo and a built-in tie to its parent DAO.",
+   "links": {
+    "site": "https://lilnouns.wtf"
+   },
+   "role_zh": "Lil Nouns DAO 的创始团体",
+   "bio_zh": "Lil Nouns 的创始人。Lil Nouns 是 2022 年从 Nouns 分出的项目，每 15 分钟拍卖一个小型 Noun，并把部分代币送给 Nouns DAO。",
+   "why_zh": "Lil Nouns 展示了一个 CC0 协议如何被分叉：换一种节奏，同时与母 DAO 保持内置的联系。",
+   "connected_to": [
+    "nounders"
+   ],
+   "discovered_via": "nounders"
+  },
+  {
+   "id": "jonas-lund",
+   "name": "Jonas Lund",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "Swedish artist (born 1984) who makes systems, contracts and games about power, optimisation and the art market, from GPS-tracked paintings to a token that lets shareholders vote on his career.",
+   "why": "Lund repeatedly hands decisions about his own practice to other people through written rules: contracts on paintings, tokens, votes and role-play.",
+   "links": {
+    "site": "https://jonaslund.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Lund"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "瑞典艺术家（1984 年生），创作关于权力、优化与艺术市场的系统、契约和游戏，从装有 GPS 追踪器的画作，到让股东投票决定他艺术生涯的代币。",
+   "why_zh": "Lund 一再通过成文规则把关于自身创作的决定交给别人：画上的契约、代币、投票与角色扮演。",
+   "connected_to": [
+    "terra0"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "furtherfield",
+   "name": "Furtherfield",
+   "kind": "collective",
+   "role": "Art gallery, lab and online community",
+   "based": "London, UK",
+   "bio": "Arts organisation founded in 1996 by Ruth Catlow and Marc Garrett, with a gallery and commons lab in Finsbury Park, London. It runs DECAL, its decentralised arts lab, and long-term projects on DAOs, voting and interspecies governance.",
+   "why": "Furtherfield has turned governance itself into public artwork: role-play labs for DAOs, blockchain voting in a park, and a treaty played out by humans on behalf of other species.",
+   "links": {
+    "site": "https://www.furtherfield.org"
+   },
+   "role_zh": "艺术画廊、实验室与线上社群",
+   "bio_zh": "1996 年由 Ruth Catlow 与 Marc Garrett 创立的艺术机构，在伦敦芬斯伯里公园设有画廊和公地实验室，运营去中心化艺术实验室 DECAL，并长期开展关于 DAO、投票与跨物种治理的项目。",
+   "why_zh": "Furtherfield 把治理本身做成了公共艺术：DAO 角色扮演实验室、公园里的区块链投票，以及由人类代表其他物种演出的条约。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "ruth-catlow",
+    "marc-garrett",
+    "penny-rafferty"
+   ],
+   "discovered_via": "ruth-catlow"
+  },
+  {
+   "id": "black-swan-dao",
+   "name": "Black Swan DAO",
+   "kind": "collective",
+   "role": "Berlin artist collective and DAO",
+   "based": "Berlin, DE",
+   "bio": "Collective founded in 2018 by Penny Rafferty, Laura Lotti and Calum Bowden (later also Leïth Benkhedda), developed at Trust in Berlin. It channels resources from institutions to cultural practitioners, who decide by vote how to use them.",
+   "why": "Black Swan used games and a DAO to test what an art institution looks like when practitioners, not gatekeepers, allocate its resources.",
+   "links": {},
+   "role_zh": "柏林艺术团体与 DAO",
+   "bio_zh": "2018 年由 Penny Rafferty、Laura Lotti 和 Calum Bowden 创立（后有 Leïth Benkhedda 加入），在柏林 Trust 孵化。它把机构的资源输送给文化从业者，由他们投票决定资源用途。",
+   "why_zh": "Black Swan 用游戏和 DAO 检验：当分配资源的是从业者而不是守门人时，一个艺术机构会是什么样子。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "penny-rafferty",
+    "furtherfield"
+   ],
+   "discovered_via": "ruth-catlow"
+  },
+  {
+   "id": "andy-ayrey",
+   "name": "Andy Ayrey",
+   "kind": "person",
+   "role": "Artist and AI researcher",
+   "bio": "Creator of the Infinite Backrooms, in which two Claude instances conversed thousands of times, and of Truth Terminal, a fine-tuned language model 'raised in public' on X.",
+   "why": "Truth Terminal showed that an AI agent with a public voice and a wallet can pull a crowd into writing its story, including a memecoin nobody planned.",
+   "links": {
+    "site": "https://truthterminal.wiki"
+   },
+   "role_zh": "艺术家、AI 研究者",
+   "bio_zh": "Infinite Backrooms 的作者（让两个 Claude 实例进行了数千次对话），也是 Truth Terminal 的作者：一个在 X 上“公开养育”的微调语言模型。",
+   "why_zh": "Truth Terminal 表明，一个拥有公开声音和钱包的 AI 代理能把人群卷入书写它的故事，包括一枚无人计划过的迷因币。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gene-kogan",
+   "name": "Gene Kogan",
+   "kind": "person",
+   "role": "Artist and programmer",
+   "bio": "Artist and programmer who teaches machine learning for artists (ml4a) and since 2019 has led Abraham, an open project to build an autonomous artificial artist.",
+   "why": "His Abraham proposal defined the 'autonomous artificial artist' whose data, code, curation and governance are crowd-sourced, a model Botto and later AI agents follow.",
+   "links": {
+    "site": "https://abraham.ai",
+    "github": "https://github.com/genekogan"
+   },
+   "role_zh": "艺术家、程序员",
+   "bio_zh": "艺术家与程序员，长期教授面向艺术家的机器学习（ml4a），自 2019 年起主持 Abraham：一个建造自治人工艺术家的开放项目。",
+   "why_zh": "他的 Abraham 提案定义了“自治人工艺术家”：其数据、代码、策展与治理全部众包，Botto 和后来的 AI 代理都沿用了这一模式。",
+   "connected_to": [
+    "botto"
+   ],
+   "discovered_via": "botto"
+  }
+ ],
+ "works": [
+  {
+   "id": "terra0--self-owning-forest",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "terra0: Can an augmented forest own and utilise itself?",
+   "year": 2016,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain",
+    "theory"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "contract",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A proposal and prototype for a forest that sells licences to log its own trees through smart contracts, pays back its initial owners, and ends up owning itself. The first prototype was a 0.1-hectare plot of about 100 conifers in Brandenburg, east of Berlin.",
+   "description_zh": "一个关于森林的提案与原型：森林通过智能合约出售砍伐自身树木的许可，偿还最初的所有者，最终拥有自己。第一个原型是柏林以东勃兰登堡的一块 0.1 公顷林地，约有 100 棵针叶树。",
+   "idea_en": "Give a non-human a contract and a revenue stream, and it can buy itself out of human ownership.",
+   "idea_zh": "给非人类一份合约和一条收入来源，它就能把自己从人类的所有权中赎买出来。",
+   "protocol": "The initiators buy land and sign it over to a smart contract that represents the forest as a non-human actor, in exchange for terra0 tokens (debt). Using satellite and sensor data, the contract sells logging licences for only as much wood as the forest regrows, and uses the income to buy the tokens back; when no tokens remain with humans, the forest is its own sole shareholder and can buy more land.",
+   "protocol_zh": "发起人买下土地，把它转让给代表森林这一“非人类主体”的智能合约，换取 terra0 代币（即债权）。合约依据卫星与传感器数据，只出售与森林再生量相当的砍伐许可，并用收入回购代币；当人类手中不再有代币时，森林就成为自己唯一的股东，并可以继续买地。",
+   "collective": "The scenario addresses the buyers of logging licences and the token holders, whose payments and sales carry the forest to self-ownership. The whitepaper circulated widely after transmediale 2017 and the book Artists Re:Thinking the Blockchain, and became a reference point for later self-owning-nature projects.",
+   "collective_zh": "这个设想面向砍伐许可的购买者和代币持有者，正是他们的付款与出售把森林推向自我拥有。白皮书在 2017 年 transmediale 和《Artists Re:Thinking the Blockchain》一书之后广泛流传，成为后来“自我拥有的自然”类项目的参照。",
+   "keywords": [
+    "self-owning forest",
+    "smart contract",
+    "non-human actor",
+    "whitepaper",
+    "Brandenburg",
+    "UdK Berlin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n7nXUA6ddTI"
+   },
+   "images": [
+    "https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2016/09/TERRAO-PIC-1024x683.jpg",
+    "https://weirdeconomies.com/media/pages/contributions/the-development-of-terra0/79013cf76f-1766699358/terra0_forest_02.jpg"
+   ],
+   "paper": {
+    "url": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+    "title": "terra0: Can an augmented forest own and utilise itself?",
+    "venue": "Berlin University of the Arts, May 2016"
+   },
+   "source_url": "https://terra0.org",
+   "code_url": "https://github.com/terra0project"
+  },
+  {
+   "id": "terra0--flowertokens",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Flowertokens",
+   "year": 2018,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "exchange",
+    "time",
+    "circulation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "One hundred dwarf dahlias grown on a rack at the Trust space in Berlin, each tied to an ERC-721 token whose data (height, growth rate, blooming) was updated from camera images. Users bought, traded and speculated on the living flowers through a web marketplace until the project was archived on 1 November 2018.",
+   "description_zh": "柏林 Trust 空间的架子上种着 100 株矮生大丽花，每一株都绑定一枚 ERC-721 代币，代币数据（高度、生长速度、是否开花）根据摄像头图像更新。用户通过网页市场买卖、投机这些活的花，直到项目在 2018 年 11 月 1 日归档。",
+   "idea_en": "A token can be a live claim on a living thing, and its price becomes a bet on how the thing grows.",
+   "idea_zh": "代币可以是对一个活物的实时权利，它的价格就变成对这个活物如何生长的押注。",
+   "protocol": "Anyone with MetaMask could buy a Flowertoken from terra0 and resell it to other collectors on the site. A camera photographed the rack every 13 minutes and a PlantCV oracle updated each token once a day. Every trade carried a 10% fee: half paid running costs, half went to a Blooming Pool contract that issued a share to the owner of each flower the oracle recognised as blooming.",
+   "protocol_zh": "任何装有 MetaMask 的人都可以从 terra0 买一枚 Flowertoken，再在网站上转卖给其他藏家。摄像头每 13 分钟拍一次花架，PlantCV 预言机每天更新一次代币状态。每笔交易收取 10% 费用：一半支付运营成本，一半进入“开花池”合约；预言机一旦识别出某株花开放，就给这株花的持有者发一份份额。",
+   "collective": "A small community of 'crypto-flower collectors' bought and traded the tokens, valuing their flowers from oracle data and the livestream, and joined terra0's first community call. When the flowers began to wilt in autumn and a MetaMask change broke the site, terra0 ended trading and invited holders to collect their physical flowers.",
+   "collective_zh": "一个小规模的“加密花卉藏家”社群买卖这些代币，依据预言机数据和直播画面为自己的花估价，并参加了 terra0 的第一次社区电话会。秋天花开始枯萎、MetaMask 的更新又让网站失效后，terra0 停止了交易，并邀请持有者来领取他们的实体花。",
+   "keywords": [
+    "ERC-721",
+    "dahlia",
+    "oracle",
+    "PlantCV",
+    "Blooming Pool",
+    "Trust Berlin"
+   ],
+   "images": [
+    "https://cdn-images-1.medium.com/max/1024/1*Y_P5sGc-n5Q6wOnF5VWH9w.jpeg",
+    "https://cdn-images-1.medium.com/max/1024/1*FL6C3S8uUf6wSJVgExT-EA.jpeg",
+    "https://cdn-images-1.medium.com/max/1024/1*tM-apbyeV40fLOaZ8tybeQ.jpeg"
+   ],
+   "paper": {
+    "url": "https://terra0.medium.com/everything-you-wanted-to-know-about-flowertokens-but-were-afraid-to-ask-part-1-general-concept-ea50427b718b",
+    "title": "Everything you wanted to know about Flowertokens but were afraid to ask (Parts 1-4)",
+    "venue": "terra0 on Medium, 2018"
+   },
+   "source_url": "https://flowertokens.terra0.org",
+   "contract_url": "https://etherscan.io/address/0x1B0AebafEB9452C7ABBDa0B920bB1a272182AaCB",
+   "code_url": "https://github.com/terra0project/source/tree/min_dapp/ERC721"
+  },
+  {
+   "id": "terra0--premna-daemon",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Premna Daemon",
+   "year": 2018,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "mechanisms": [
+    "autonomy",
+    "contract",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A bonsai tree (Premna microphylla) with sensors, cameras, a web interface and an Ethereum smart contract, shown in the exhibition Proof of Work at Schinkel Pavillon, Berlin, curated by Simon Denny. The tree paid the gallery for its own care.",
+   "description_zh": "一棵装有传感器、摄像头、网页界面和以太坊智能合约的盆景树（小叶豆腐柴），在柏林 Schinkel Pavillon 由 Simon Denny 策展的展览 Proof of Work 中展出。这棵树向画廊付钱，换取对自己的照料。",
+   "idea_en": "Make the artwork the employer: the plant pays the institution, and care happens only when it is paid for.",
+   "idea_zh": "让作品成为雇主：植物付钱给机构，只有付了钱，照料才会发生。",
+   "protocol": "Visitors donate ether to the tree through a web interface. When the tree needs watering, light or trimming, it sends ether from its own wallet to a wallet owned by the gallery; the exhibition staff committed to care for it only when such a request arrives.",
+   "protocol_zh": "观众通过网页界面向这棵树捐赠以太币。当树需要浇水、光照或修剪时，它从自己的钱包把以太币转到画廊的钱包；展览工作人员承诺只有收到这样的请求时才去照料它。",
+   "collective": "Donors kept the tree solvent and the staff worked for it under a financially mediated social contract. terra0 noted that some donors were unhappy that their contribution left no visible trace in the work, which led directly to the certificate design of Seed Capital.",
+   "collective_zh": "捐赠者维持着这棵树的偿付能力，工作人员则在一份以金钱为中介的社会契约下为它工作。terra0 注意到，一些捐赠者不满自己的贡献在作品中没有留下可见的痕迹，这直接促成了 Seed Capital 的证书设计。",
+   "keywords": [
+    "bonsai",
+    "Schinkel Pavillon",
+    "Proof of Work",
+    "Simon Denny",
+    "donation",
+    "social contract"
+   ],
+   "images": [
+    "https://cdn-images-1.medium.com/max/1024/1*4cQxoARfF5nEjf3Nk0nN0g.jpeg",
+    "https://cdn-images-1.medium.com/max/1024/1*rctMibXSdb0mBqmaGnmIfQ.jpeg"
+   ],
+   "paper": {
+    "url": "https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2",
+    "title": "Premna Daemon: An Introduction via a History of Autonomy in the Cryptosphere",
+    "venue": "terra0 on Medium, 2018"
+   },
+   "source_url": "https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2"
+  },
+  {
+   "id": "terra0--two-degrees",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Two Degrees",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "burn",
+    "time",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "An NFT of a LiDAR scan of a forest in southern Germany, offered in Sotheby's 'Natively Digital' sale in June 2021. An oracle contract stores the average global temperature rise; once it passes 2°C, anyone may burn the token.",
+   "description_zh": "一件 NFT，内容是德国南部一片森林的激光雷达扫描，2021 年 6 月在苏富比“Natively Digital”拍卖中推出。一个预言机合约记录全球平均升温；一旦超过 2°C，任何人都可以销毁这枚代币。",
+   "idea_en": "Tie an asset's life to a planetary threshold, so that owning it becomes a stake in that threshold.",
+   "idea_zh": "把一件资产的存续绑定到一个行星尺度的阈值上，拥有它就等于在这个阈值上押了注。",
+   "protocol": "The TemperatureToken (ERC-721) checks an oracle contract that records the annual average temperature rise reported by NASA. While the value stays below 2°C the token behaves like any NFT; above it, the contract lets any address call the burn function.",
+   "protocol_zh": "TemperatureToken（ERC-721）读取一个预言机合约，该合约记录 NASA 报告的年平均升温。数值低于 2°C 时，它就是一枚普通 NFT；一旦超过，合约允许任何地址调用销毁函数。",
+   "collective": "Whether the work survives depends on the emissions of everyone, not on its owner; the collector buys an asset whose value is a hedge against collective failure. terra0 presented it as a model for how artists can create assets that push owners to act.",
+   "collective_zh": "作品能否存续取决于所有人的排放，而不是它的持有者；藏家买下的是一件以集体失败为对冲对象的资产。terra0 把它看作一种模型：艺术家可以创造促使持有者行动的资产。",
+   "keywords": [
+    "oracle",
+    "NASA",
+    "LiDAR",
+    "Sotheby's",
+    "Natively Digital",
+    "climate",
+    "burn"
+   ],
+   "images": [
+    "https://cdn-images-1.medium.com/max/1024/1*pYg6uq7XCJb8MTw7pviAkg.jpeg"
+   ],
+   "paper": {
+    "url": "https://terra0.medium.com/two-degrees-nft-5af1263bfcc",
+    "title": "Two Degrees NFT",
+    "venue": "terra0 on Medium, 2021"
+   },
+   "source_url": "https://terra0.medium.com/two-degrees-nft-5af1263bfcc",
+   "contract_url": "https://etherscan.io/address/0xabf5c7c066a48a06524438f6f51bdceb6e670dad"
+  },
+  {
+   "id": "terra0--seed-capital",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Seed Capital",
+   "year": 2022,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "scarcity",
+    "time",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A palm (Dypsis lutescens) on a metal bench sculpture with sensors and displays, first shown at Art Dubai 2022 with Fingerprints DAO. Visitors mint 'Certificates of Growth', on-chain NFTs drawn from the plant's signed sensor readings.",
+   "description_zh": "一株散尾葵立在带有传感器和显示屏的金属长椅雕塑上，2022 年与 Fingerprints DAO 合作首展于 Art Dubai。观众可以铸造“生长证书”：一种由植物签名的传感器读数生成的链上 NFT。",
+   "idea_en": "Let the institution's care for a living work set the supply of its tokens.",
+   "idea_zh": "让机构对一件活作品的照料程度，决定这件作品代币的供应量。",
+   "protocol": "At a fixed interval (exhibition minutes divided by 400; 15 minutes at Art Dubai) a computer signs a packet of soil moisture and temperature. If the values are healthy for the plant, anyone can mint it as an NFT before the next interval; if not, or if nobody mints in time, that slot is lost and maximum supply drops by one. Part of the proceeds can be withdrawn by the host institution only after the show, rewarding good care. The sculpture itself is not for sale and was planned for four exhibitions (maximum 1,600 tokens).",
+   "protocol_zh": "每隔固定时间（展期总分钟数除以 400；在 Art Dubai 为 15 分钟），一台电脑签发一个包含土壤湿度与温度的数据包。若数值对植物是健康的，任何人都可以在下一个时间段之前把它铸造成 NFT；若数值不合格或无人及时铸造，该名额作废，总供应上限减一。部分收入只能由展出机构在展览结束后提取，以奖励良好照料。雕塑本身不出售，计划参加四次展览（最多 1600 枚代币）。",
+   "collective": "Over four days at Art Dubai, 171 Certificates of Growth were minted, including 14 genesis tokens; at least 13 were minted on site by fair visitors. Someone unplugged the installation overnight, destroying 29 packets, so the maximum supply fell from 1,600 to 1,372.",
+   "collective_zh": "在 Art Dubai 的四天里，共铸造了 171 枚生长证书，其中包括 14 枚创世代币；至少 13 枚由现场观众铸造。有人在夜里拔掉了装置的电源，29 个数据包因此作废，总供应上限从 1600 降到 1372。",
+   "keywords": [
+    "Certificate of Growth",
+    "Art Dubai",
+    "Fingerprints DAO",
+    "on-chain SVG",
+    "sensor",
+    "institution"
+   ],
+   "images": [
+    "https://cdn-images-1.medium.com/max/1024/1*Mo5KWwKTYPsGu_e_j3JtrQ.jpeg",
+    "https://cdn-images-1.medium.com/max/1024/1*bxuyXiuRYsixLTkhVnFcvA.jpeg",
+    "https://cdn-images-1.medium.com/max/1024/1*o_my7sPM7lIsFI1ij0VVOg.png"
+   ],
+   "paper": {
+    "url": "https://terra0.medium.com/wen-growth-an-introduction-to-seed-capital-8d4a9df93789",
+    "title": "Wen Growth? An Introduction to Seed Capital",
+    "venue": "terra0 on Medium, 2022"
+   },
+   "source_url": "https://terra0.medium.com/wen-growth-an-introduction-to-seed-capital-8d4a9df93789"
+  },
+  {
+   "id": "terra0--a-tree-a-corporation-a-person",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "A tree; a corporation; a person.",
+   "year": 2022,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "mechanisms": [
+    "autonomy",
+    "contract",
+    "governance"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "For the 58th Carnegie International in Pittsburgh, terra0 planted a black tupelo tree on land donated by the Community College of Allegheny County and set out to make it a legal person that owns itself and its plot.",
+   "description_zh": "在匹兹堡第 58 届卡内基国际展上，terra0 在阿勒格尼县社区学院捐出的土地上种下一棵多花紫树，并着手让它成为拥有自己和这块地的法人。",
+   "idea_en": "If corporations can be persons, test in public what it would take for a tree to become one.",
+   "idea_zh": "既然公司可以是法人，那就公开检验：一棵树要成为法人需要什么。",
+   "protocol": "The tree's stewardship is managed with smart contracts, and a planned 501(c)(4) non-profit, the Pittsburgh Lobby for Tree Personhood, lobbies the city for the tree's legal personhood. The work only succeeds if a community and the state recognise the tree.",
+   "protocol_zh": "这棵树的照管由智能合约管理；一个计划中的 501(c)(4) 非营利组织“匹兹堡树木人格游说团”向市政府游说，争取让树获得法律人格。只有当社区和国家承认这棵树，作品才算完成。",
+   "collective": "The project drew in the museum, the college that donated the land, legal research and local press; terra0 concluded that a legal subject can only be constituted through recognition by the state, making community recognition the real material of the work.",
+   "collective_zh": "项目牵动了美术馆、捐出土地的学院、法律研究和本地媒体；terra0 的结论是，法律主体只能经由国家的承认而成立，因此社区的承认才是作品真正的材料。",
+   "keywords": [
+    "legal personhood",
+    "Carnegie International",
+    "black tupelo",
+    "501(c)(4)",
+    "Pittsburgh"
+   ],
+   "images": [
+    "https://carnegieart.org/wp-content/uploads/2023/06/2022_CMOA_Exhibitions_2-298.jpg",
+    "https://carnegieart.org/wp-content/uploads/2023/03/terra0-1-e1681774760744-1024x759.jpg"
+   ],
+   "source_url": "http://plsdlr.net/works/atree/"
+  },
+  {
+   "id": "terra0--conditional-power",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Conditional Power",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "burn",
+    "contract",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A series of paired NFTs and framed prints of polar ice, each with a smart contract that burns the NFT when a climate measurement crosses a threshold, for example when the Greenland surface melt extent passes 1.6 million km² or when Antarctic sea-ice extent falls to zero.",
+   "description_zh": "一组由 NFT 与装裱照片配对的作品，内容是极地冰层；每件都附有智能合约，当某项气候数据越过阈值时 NFT 自动销毁，例如格陵兰地表融化面积超过 160 万平方公里，或南极海冰面积降为零。",
+   "idea_en": "Extend a burn condition from the chain into a legal contract, so the collector must destroy the physical object too.",
+   "idea_zh": "把销毁条件从链上延伸到法律合同里，让藏家也必须销毁实体物件。",
+   "protocol": "An oracle feeds NASA climate data to each NFT's contract, which burns the token once its stated condition is met. A contract between terra0 and the collector obliges the owner of the physical print to burn it after the NFT has destroyed itself.",
+   "protocol_zh": "预言机把 NASA 的气候数据输入每件 NFT 的合约，条件一旦满足，合约就销毁代币。terra0 与藏家之间另有一份合同，规定实体照片的所有者必须在 NFT 自毁之后把照片烧掉。",
+   "collective": "Institutional collectors, including the Mercedes-Benz Art Collection and KADIST, accepted the obligation to destroy their copies; the trigger is set by global emissions, i.e. by everyone else.",
+   "collective_zh": "包括梅赛德斯-奔驰艺术收藏和 KADIST 在内的机构藏家接受了销毁藏品的义务；而触发条件由全球排放决定，也就是由所有其他人决定。",
+   "keywords": [
+    "auto-destructive art",
+    "oracle",
+    "NASA",
+    "Greenland",
+    "Antarctica",
+    "Mercedes-Benz Art Collection",
+    "KADIST"
+   ],
+   "images": [
+    "https://www.mercedes-benz.art/media/t0_cp_1-6-million_0_runtergerechnet-1-1359x1400.jpg",
+    "https://kadist.org/wp-content/uploads/2025/07/IMGNFT_terra0_zero_percent_HI-RES-1024x1024.jpg"
+   ],
+   "source_url": "https://kadist.org/work/conditional-power-if-the-antarctic-sea-ice-extent-falls-to-zero-percent-this-nft-will-burn-itself/"
+  },
+  {
+   "id": "terra0--autonomous-forest",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "Autonomous Forest",
+   "year": 2025,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "autonomy",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "organization",
+   "description": "A land-art work and association that buys forest and hands its management to a DAO. It launched with LAS Art Foundation in Berlin in November 2025 and holds two plots in Reesdorf (Beelitz), Germany, one a certified biotope of birch and alder.",
+   "description_zh": "一件大地艺术作品，也是一个购买森林并把管理权交给 DAO 的协会。它于 2025 年 11 月与 LAS 艺术基金会在柏林启动，目前在德国 Reesdorf（Beelitz）持有两块林地，其中一块是以桦树和桤木为主的认证生境。",
+   "idea_en": "Merge a registered association with a DAO so that token holders can legally own and steward real land.",
+   "idea_zh": "把注册协会与 DAO 合并，让代币持有者能够合法地拥有并照管真实的土地。",
+   "protocol": "Each NFT (sold at 0.08-0.1 ETH) is both an artwork and a membership token mapped to a geohash cell of the forest of about 9.54 x 12.38 m. Staked NFTs carry votes on Snapshot and become non-transferable; unstaked ones stay tradable. Sale revenue goes to the German Verein to buy more forest; forum members, NFT holders and paying Verein members (EUR 50 a year) form three tiers of participation.",
+   "protocol_zh": "每枚 NFT（售价 0.08–0.1 ETH）既是作品也是会员代币，对应森林中一个约 9.54 × 12.38 米的地理哈希格。质押的 NFT 在 Snapshot 上拥有投票权并不可转让，未质押的仍可交易。销售收入归德国协会（Verein）用于购买更多林地；论坛成员、NFT 持有者和缴纳年费（50 欧元）的协会会员构成三个参与层级。",
+   "collective": "Members discuss on a public forum and vote on Snapshot (autonomousforest.eth) about how the plots are managed and which land to buy next; the public NFT sale opened on 15 December 2025.",
+   "collective_zh": "成员在公共论坛上讨论，并在 Snapshot（autonomousforest.eth）上投票决定林地如何管理、下一块买哪里；公开 NFT 发售于 2025 年 12 月 15 日开始。",
+   "keywords": [
+    "DAO",
+    "Verein",
+    "geohash",
+    "Snapshot",
+    "LAS Art Foundation",
+    "Reesdorf",
+    "land art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1wJqoVFBCzA"
+   },
+   "images": [
+    "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/17a6fb46f53389128cbd8f087dab2c99c99c20c0-7358x4908.jpg?w=1600&q=80&auto=format"
+   ],
+   "source_url": "https://www.las-art.foundation/programme/terra0-autonomous-forest"
+  },
+  {
+   "id": "primavera-de-filippi--plantoid",
+   "creator_ids": [
+    "primavera-de-filippi",
+    "okhaos"
+   ],
+   "title": "Plantoid",
+   "year": 2015,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "co-authorship",
+    "governance"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A mechanical flower of welded scrap metal whose 'soul' is a smart contract. People feed it cryptocurrency; once it has collected enough, it commissions an artist to build its offspring, so the species grows through human 'pollination'.",
+   "description_zh": "一朵用废金属焊成的机械花，它的“灵魂”是一份智能合约。人们向它投喂加密货币；攒够之后，它会委托一位艺术家为它造出后代，于是这个物种靠人类的“授粉”繁衍下去。",
+   "idea_en": "An artwork that reproduces by paying artists: capital is its pollen, humans are its bees.",
+   "idea_zh": "一件靠付钱给艺术家来繁殖的作品：资本是它的花粉，人类是它的蜜蜂。",
+   "protocol": "Anyone can send funds to the Plantoid's wallet; it answers with light, sound and movement. When the balance reaches its threshold, the contract opens a call for proposals, the donors (later the holders of its NFT 'seeds') vote on them, and the contract pays the winning artist to build a new Plantoid, which carries its own contract.",
+   "protocol_zh": "任何人都可以向 Plantoid 的钱包转账，它会以灯光、声音和动作回应。余额达到阈值后，合约发起提案征集，由捐赠者（后来是其 NFT“种子”的持有者）投票，合约再付款给胜出的艺术家去建造一株新的 Plantoid，新 Plantoid 也带着自己的合约。",
+   "collective": "Donors at festivals and exhibitions (Burning Man 2018, La Gaîté Lyrique 2019, Ars Electronica, Art Basel) fed the Plantoids, and commissioned artists extended the lineage into more than twenty numbered Plantoids with different bodies and behaviours.",
+   "collective_zh": "在各地节展（2018 年火人节、2019 年 La Gaîté Lyrique、Ars Electronica、巴塞尔艺术展）上，捐赠者喂养 Plantoid，受委托的艺术家把这一谱系延续为二十多株编号不同、身体与行为各异的 Plantoid。",
+   "keywords": [
+    "blockchain-based life form",
+    "reproduction",
+    "commission",
+    "Burning Man",
+    "Okhaos",
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5gMbhCgHGjY"
+   },
+   "images": [
+    "https://plantoid.org/wp-content/uploads/2025/04/web-Plantoid1.jpg",
+    "https://plantoid.org/wp-content/uploads/2025/04/Layer-23.png"
+   ],
+   "source_url": "https://plantoid.org"
+  },
+  {
+   "id": "primavera-de-filippi--plantoid-14-15",
+   "creator_ids": [
+    "primavera-de-filippi"
+   ],
+   "title": "Plantoid 14 and Plantoid 15 (poet Plantoids)",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "exchange",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "Two Plantoids that talk. When fed, they ask the donor what future they dream of, turn the answer into a poem with a generative-AI video, and mint it back to the donor as an NFT 'seed'. They were shown at NFT Paris in the Grand Palais Éphémère in February 2024 and later at Art Basel.",
+   "description_zh": "两株会说话的 Plantoid。被投喂时，它们会问捐赠者梦想着怎样的未来，把回答写成一首诗并配上生成式 AI 视频，再作为 NFT“种子”铸回给捐赠者。2024 年 2 月在大皇宫临时展馆的 NFT Paris 展出，之后亦在巴塞尔艺术展展出。",
+   "idea_en": "Pay the plant and it pays you back with a seed that also buys you a say in its children.",
+   "idea_zh": "你喂养植物，它回赠你一颗种子，而这颗种子也让你在它的后代上拥有发言权。",
+   "protocol": "Feeding costs a minimum of 0.001 ETH and mints a seed NFT to the donor. Seeds sold on secondary markets pay the Plantoid a 10% royalty. When the contract balance reaches its threshold (5 ETH for Plantoid 15), seed holders vote on proposals from artists, and the contract pays the winner to build the next Plantoid.",
+   "protocol_zh": "投喂最低 0.001 ETH，并为捐赠者铸造一枚种子 NFT。种子在二级市场转售时，Plantoid 收取 10% 版税。当合约余额达到阈值（Plantoid 15 为 5 ETH），种子持有者对艺术家的提案投票，合约再付款给胜者去建造下一株 Plantoid。",
+   "collective": "Visitors at fairs and exhibitions fed the Plantoids with their phones and received personalised poems; the seed galleries on 14.plantoid.org and 15.plantoid.org list the resulting NFTs and their holders.",
+   "collective_zh": "展会和展览上的观众用手机投喂 Plantoid，收到为自己生成的诗；14.plantoid.org 与 15.plantoid.org 的种子画廊列出了由此产生的 NFT 及其持有者。",
+   "keywords": [
+    "NFT seeds",
+    "generative AI",
+    "poetry",
+    "NFT Paris",
+    "Art Basel",
+    "royalty",
+    "threshold"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QPFzoYtFeJw"
+   },
+   "images": [
+    "https://plantoid.org/wp-content/uploads/2025/04/plantoid15-hek1.jpg",
+    "https://plantoid.org/wp-content/uploads/2025/04/P15.png"
+   ],
+   "source_url": "https://15.plantoid.org"
+  },
+  {
+   "id": "botto--decentralized-autonomous-artist",
+   "creator_ids": [
+    "botto",
+    "mario-klingemann",
+    "elevenyellow"
+   ],
+   "title": "Botto",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation",
+    "exchange"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "An AI artist whose images are chosen and taught by a voting community. Every week its engine generates thousands of images from random prompts, a taste model shows 350 of them to voters, and the winning image is minted and auctioned on SuperRare.",
+   "description_zh": "一位由投票社群挑选和训练的 AI 艺术家。它的引擎每周用随机提示词生成数千张图像，一个审美模型从中挑出 350 张交给投票者，胜出的一张被铸造成 NFT 并在 SuperRare 拍卖。",
+   "idea_en": "Split the artist in two: a machine that proposes, and a paying public that disposes and owns the proceeds.",
+   "idea_zh": "把艺术家一分为二：机器负责提出，付费的公众负责取舍，并拥有收益。",
+   "protocol": "Prompts are random and no human may edit images or prompts. Holders of $BOTTO vote on pairs of 'fragments' through the week, weighting their vote by staked tokens; the votes pick the weekly winner and retrain Botto's prompt and taste models. The winner is auctioned for ETH, and BottoDAO governs how proceeds are split between voter rewards and operating costs, and how the art engine evolves.",
+   "protocol_zh": "提示词是随机的，任何人都不得修改图像或提示词。$BOTTO 持有者在一周内对成对的“碎片”投票，并按质押的代币加权；投票既决定每周胜出作品，也重新训练 Botto 的提示词模型和审美模型。胜出作品以 ETH 拍卖，由 BottoDAO 决定收益如何在投票者奖励与运营成本之间分配，以及艺术引擎如何演进。",
+   "collective": "By late 2022 more than 5,000 people had voted and Botto had sold 42 works in weekly auctions for between 7 and 100 ETH, over 770 ETH in total; holders lobby for favourite fragments on Discord and X, especially in the last 24 hours of each round. CNBC reported in December 2024 that Botto's sales had passed 5 million dollars.",
+   "collective_zh": "到 2022 年底，已有超过 5000 人参与投票，Botto 在每周拍卖中售出 42 件作品，单价在 7 到 100 ETH 之间，总计超过 770 ETH；持有者会在 Discord 和 X 上为自己喜欢的碎片拉票，尤其是每轮最后 24 小时。据 CNBC 2024 年 12 月报道，Botto 的销售额已超过 500 万美元。",
+   "keywords": [
+    "BottoDAO",
+    "$BOTTO",
+    "SuperRare",
+    "taste model",
+    "VQGAN+CLIP",
+    "Stable Diffusion",
+    "voting"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Mq9mInPLWBw"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2024/06/botto-botto_105-bronze-kiss-in-interstice-1024x576.jpg",
+    "https://ars.electronica.art/starts-prize/files/2024/06/botto-c-jeremiah-tijerina.jpg"
+   ],
+   "paper": {
+    "url": "https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper13.pdf",
+    "title": "Botto: A Decentralized Autonomous Artist",
+    "venue": "NeurIPS 2022 Workshop on Machine Learning for Creativity and Design"
+   },
+   "source_url": "https://botto.com",
+   "contract_url": "https://etherscan.io/token/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA"
+  },
+  {
+   "id": "holly-herndon--holly-plus",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "Holly+",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "co-authorship",
+    "exchange"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "A freely usable AI model of Holly Herndon's voice: anyone can upload audio and hear it sung back as Holly. A DAO of stewards decides which works made with the voice are officially approved, minted and sold.",
+   "description_zh": "一个可自由使用的 Holly Herndon 声音 AI 模型：任何人都可以上传音频，听它以 Holly 的声音唱回来。由守护者组成的 DAO 决定哪些用这副声音做成的作品获得官方认可、被铸造并出售。",
+   "idea_en": "Open your likeness to everyone, and hand its official use to a community that shares the income.",
+   "idea_zh": "把自己的形象向所有人开放，再把它的正式使用权交给一个分享收入的社群。",
+   "protocol": "Anyone may make work with the Holly+ voice models. Works submitted to the Holly+ DAO, a group of friends and supporters, can be approved and then minted on a custom contract and auctioned on Zora. Primary sales split 50% to the artist, 40% to the DAO treasury and 10% to Holly for likeness rights; secondary royalties of 10% follow the same split.",
+   "protocol_zh": "任何人都可以用 Holly+ 声音模型创作。提交给 Holly+ DAO（由朋友和支持者组成）的作品，获批后在定制合约上铸造，并在 Zora 拍卖。一级销售收入 50% 归创作者，40% 归 DAO 金库，10% 归 Holly 作为肖像权费用；10% 的二级版税按同样比例分配。",
+   "collective": "Musicians and the public used the model to produce covers and new pieces, among them a Holly+ version of Dolly Parton's 'Jolene' in 2022; a real-time version premiered at Sónar 2021 with Maria Arnal and Tarta Relena, and Pher sang through it at TED in 2022. The DAO approved and auctioned works on Zora, and Holly+ won the 2022 Ars Electronica S+T+ARTS Prize.",
+   "collective_zh": "音乐人和公众用这个模型制作翻唱与新作，其中包括 2022 年 Holly+ 版本的 Dolly Parton《Jolene》；实时版本于 2021 年在 Sónar 与 Maria Arnal、Tarta Relena 首演，Pher 在 2022 年 TED 上用它演唱。DAO 批准并在 Zora 拍卖了一批作品，Holly+ 获得 2022 年 Ars Electronica S+T+ARTS 奖。",
+   "keywords": [
+    "voice model",
+    "digital twin",
+    "DAO",
+    "Zora",
+    "likeness",
+    "identity play",
+    "S+T+ARTS Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5cbCYwgQkTE"
+   },
+   "images": [
+    "https://holly-plus-auction.vercel.app/h-plus-social.jpg",
+    "https://holly.plus/static/assets/HollyHerndon_PressPhoto-medium.jpg"
+   ],
+   "source_url": "https://auction.holly.plus/about"
+  },
+  {
+   "id": "holly-herndon--xhairymutantx",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "xhairymutantx",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship",
+    "circulation"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A text-to-image model, commissioned for the 2024 Whitney Biennial and hosted on the Whitney's artport, that turns any prompt into an image of Holly Herndon with exaggerated, costumed features, above all her red hair.",
+   "description_zh": "为 2024 年惠特尼双年展委托创作、托管在惠特尼 artport 上的文生图模型：无论输入什么提示词，都会生成一张 Holly Herndon 的图像，她的特征被服装夸张放大，尤其是那头红发。",
+   "idea_en": "Recruit the public to poison, on purpose, what future AI models will learn a name means.",
+   "idea_zh": "动员公众有意“投毒”，改写未来 AI 模型对一个名字的理解。",
+   "protocol": "Anyone can type a prompt into the model on whitney.org; whatever they write, it returns a grid of distorted 'Holly' images, trained on photos of her in body-altering costumes. The generated images are kept in a public gallery on the museum's site, which crawlers treat as a trusted source, so they can enter future training datasets under her name.",
+   "protocol_zh": "任何人都可以在 whitney.org 上向模型输入提示词；无论写什么，它都会返回一组变形的“Holly”图像，模型是用她穿着改变身形的服装拍的照片训练的。生成的图像保存在美术馆网站的公开图库里，而爬虫把这类网站当作可信来源，于是这些图像可能以她的名字进入未来的训练数据。",
+   "collective": "Museum visitors and online users generated and shared images, collectively re-authoring the public data associated with the name 'Holly Herndon'; large prints of generated images hung in the Biennial galleries.",
+   "collective_zh": "美术馆观众和网络用户生成并传播这些图像，共同改写与“Holly Herndon”这个名字相关联的公共数据；双年展展厅里悬挂着这些生成图像的大幅打印。",
+   "keywords": [
+    "Whitney Biennial",
+    "artport",
+    "training data",
+    "text-to-image",
+    "data poisoning",
+    "identity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yZe5fnFB-ZE"
+   },
+   "images": [
+    "https://whitneymedia.org/assets/artwork/68686/AP_2024_1.jpg",
+    "https://xhairymutantx.whitney.org/opengraph-image.jpg?opengraph-image.3t0ugbh2s8kkk.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/xhairymutantx"
+  },
+  {
+   "id": "holly-herndon--the-call",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "The Call",
+   "year": 2024,
+   "field": "score",
+   "sub": "execution",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "governance"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A songbook of hymns and singing exercises, sung by fifteen choirs across the UK and recorded under a fixed protocol, whose recordings trained a suite of AI models. The models and an interactive installation were shown at Serpentine North, London (4 October 2024 to 2 February 2025).",
+   "description_zh": "一本由赞美诗和练声曲组成的歌本，由英国各地十五个合唱团按照固定的录音协议演唱，这些录音训练出一组 AI 模型。模型与互动装置在伦敦蛇形画廊北馆展出（2024 年 10 月 4 日至 2025 年 2 月 2 日）。",
+   "idea_en": "Write a score for training data, and make the singers co-owners of the model it produces.",
+   "idea_zh": "为训练数据写一份乐谱，并让演唱者成为由此产生的模型的共同所有者。",
+   "protocol": "Herndon and Dryhurst composed the songbook, drawing on the Sacred Harp tradition; each ensemble sang it on a spring 2024 tour (Belfast, Leeds, Bristol, Beith and more) and was captured with the same multi-channel recording protocol. Contributors joined a 'data trust' agreement, devised with Serpentine, that shares decisions about how the models are used between the singers and the model's users.",
+   "protocol_zh": "Herndon 与 Dryhurst 以 Sacred Harp 传统为基础创作了歌本；2024 年春季的巡回录音中（贝尔法斯特、利兹、布里斯托、比斯等地），每个合唱团都演唱这本歌本，并用同一套多声道录音协议记录。参与者加入与蛇形画廊共同设计的“数据信托”协议，由演唱者与模型使用者共同决定模型如何被使用。",
+   "collective": "Fifteen ensembles performed the songbook and their members joined the data-trust experiment; the resulting models were presented to the public in the Serpentine installation. Herndon and Dryhurst aim for the trust to become a protocol that others can adopt.",
+   "collective_zh": "十五个合唱团演唱了这本歌本，其成员加入了数据信托实验；由此训练出的模型在蛇形画廊的装置中向公众展示。Herndon 与 Dryhurst 希望这一信托能成为他人可以沿用的协议。",
+   "keywords": [
+    "Serpentine",
+    "songbook",
+    "choirs",
+    "data trust",
+    "Sacred Harp",
+    "consent",
+    "training data"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DNlr7olF6rE"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2024/08/SerpentineGallery_HHMD03119_B2-2-1200x627.jpg",
+    "https://ars.electronica.art/starts-prize/files/2026/06/the-call_hero-still-2.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/"
+  },
+  {
+   "id": "holly-herndon--proto-live-training",
+   "creator_ids": [
+    "holly-herndon",
+    "mat-dryhurst"
+   ],
+   "title": "PROTO live training ceremonies (Spawn)",
+   "year": 2019,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "For the album PROTO (4AD, May 2019), Herndon and Dryhurst trained 'Spawn', an AI running on a home-built gaming PC, in public 'training ceremonies': live performances in which recruited vocalists and participants sang to it.",
+   "description_zh": "为专辑 PROTO（4AD，2019 年 5 月），Herndon 与 Dryhurst 在公开的“训练仪式”中训练一台自组游戏电脑上运行的 AI“Spawn”：这是一种现场演出，招募来的歌手和参与者对着它歌唱。",
+   "idea_en": "Treat training an AI as a communal ritual, so the model learns from an ensemble rather than one owner.",
+   "idea_zh": "把训练 AI 当作一场集体仪式，让模型向一个合唱群体学习，而不是向单一的所有者学习。",
+   "protocol": "Recruited vocalists and participants sing to Spawn at a live session; Spawn learns from their voices to interpret and reproduce sounds, and the results are folded into the album, where tracks marked 'Live Training' document the sessions.",
+   "protocol_zh": "招募来的歌手和参与者在现场对着 Spawn 歌唱；Spawn 从他们的声音中学习如何理解和再现声音，结果被编入专辑，标为“Live Training”的曲目记录了这些现场。",
+   "collective": "The participants of the ceremonies became the training set: their voices shaped what Spawn could sing, and recordings of these sessions appear on PROTO. The approach led directly to Holly+ and The Call.",
+   "collective_zh": "训练仪式的参与者成了训练集：他们的声音决定了 Spawn 能唱出什么，这些训练现场的录音收录在 PROTO 中。这一方法直接引出了后来的 Holly+ 和 The Call。",
+   "keywords": [
+    "Spawn",
+    "PROTO",
+    "4AD",
+    "training ceremony",
+    "call and response",
+    "ensemble"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lajRPj6QMZA"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/lajRPj6QMZA/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Proto_(Holly_Herndon_album)"
+  },
+  {
+   "id": "nounders--nouns",
+   "creator_ids": [
+    "nounders"
+   ],
+   "title": "Nouns",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "time",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "organization",
+   "description": "A generative 32x32 pixel character, a Noun, is minted and auctioned every 24 hours, forever. All auction proceeds go to a treasury governed by Noun holders, and the art is in the public domain (CC0).",
+   "description_zh": "每 24 小时生成并拍卖一个 32×32 像素的角色（Noun），永不停止。拍卖收入全部进入由 Noun 持有者治理的金库，作品以 CC0 形式进入公共领域。",
+   "idea_en": "One artwork a day, forever, turns a collection into a self-funding public treasury.",
+   "idea_zh": "每天一件作品、永不停止，把一个收藏系列变成自我供血的公共金库。",
+   "protocol": "The auction contract settles each day's auction, sends the Noun to the winner and the ETH to the DAO treasury, and starts the next auction. Every tenth Noun during the first five years goes to the Nounders. Each Noun is one vote; holders submit and vote on proposals that execute on-chain transactions (a Compound-style governor).",
+   "protocol_zh": "拍卖合约结算当天的拍卖，把 Noun 发给得标者、把 ETH 转入 DAO 金库，并开启下一场拍卖。前五年中每第十个 Noun 归 Nounders 所有。每个 Noun 即一票；持有者提交并投票表决会在链上自动执行的提案（Compound 式治理合约）。",
+   "collective": "Holders have voted on hundreds of proposals, funding films, animation, public goods and products that spread the Noggles glasses; a large ecosystem of CC0 derivatives and forks, including Lil Nouns, grew around the protocol.",
+   "collective_zh": "持有者对数以百计的提案投票，资助了电影、动画、公共物品以及传播 Noggles 眼镜形象的产品；围绕这一协议还生长出大量 CC0 衍生作品和分叉项目，Lil Nouns 即是其中之一。",
+   "keywords": [
+    "daily auction",
+    "CC0",
+    "treasury",
+    "Noggles",
+    "Nounders",
+    "governance",
+    "ERC-721"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NImExackMds"
+   },
+   "images": [
+    "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/nouns-ethereum-nft-characters-gID_4.png",
+    "https://nftnow.com/wp-content/uploads/2023/09/091223_nouns_feature.jpg"
+   ],
+   "source_url": "https://nouns.wtf",
+   "contract_url": "https://etherscan.io/address/0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+  },
+  {
+   "id": "lil-nounders--lil-nouns",
+   "creator_ids": [
+    "lil-nounders"
+   ],
+   "title": "Lil Nouns",
+   "year": 2022,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "time",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "organization",
+   "description": "A CC0 offshoot of Nouns launched in May 2022 that auctions one smaller 'Lil Noun' every 15 minutes, with proceeds going to a treasury governed by Lil Noun holders.",
+   "description_zh": "2022 年 5 月推出的 Nouns CC0 衍生项目，每 15 分钟拍卖一个较小的“Lil Noun”，收入进入由 Lil Noun 持有者治理的金库。",
+   "idea_en": "Fork a protocol by changing its tempo, and wire a tithe back to the parent.",
+   "idea_zh": "通过改变节奏来分叉一个协议，并设定一份回馈母体的“什一税”。",
+   "protocol": "One Lil Noun is auctioned every 15 minutes, forever. For the first five years every tenth Lil Noun (IDs 0, 10, 20...) goes to the Lil Nounders' multisig and every eleventh (IDs 1, 11, 21...) is sent automatically to Nouns DAO. Each Lil Noun is one vote on the Lil Nouns treasury.",
+   "protocol_zh": "每 15 分钟拍卖一个 Lil Noun，永不停止。前五年中，每第十个 Lil Noun（编号 0、10、20……）归 Lil Nounders 多签钱包，每第十一个（编号 1、11、21……）自动发送给 Nouns DAO。每个 Lil Noun 在 Lil Nouns 金库上拥有一票。",
+   "collective": "Bidders set the price of a new Lil Noun every 15 minutes, and holders used the treasury to fund community projects and experiments; through the built-in allocation, Nouns DAO itself became a Lil Nouns holder.",
+   "collective_zh": "竞拍者每 15 分钟为一个新的 Lil Noun 定价，持有者用金库资助社区项目和各种实验；通过内置的分配规则，Nouns DAO 本身也成了 Lil Nouns 的持有者。",
+   "keywords": [
+    "fork",
+    "CC0",
+    "15-minute auction",
+    "Nouns DAO",
+    "treasury"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HKdpb5iCssg"
+   },
+   "images": [
+    "https://nftnow.com/wp-content/uploads/2023/07/Lil-Noun-1200x632.png"
+   ],
+   "source_url": "https://lilnouns.wtf",
+   "contract_url": "https://etherscan.io/address/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B"
+  },
+  {
+   "id": "jonas-lund--jonas-lund-token",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Jonas Lund Token (JLT)",
+   "year": 2018,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "currency",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "organization",
+   "description": "Lund issued 100,000 tokens as shares in his artistic practice. Holders form his board of trustees and vote on proposals about his exhibitions, productions and even his life.",
+   "description_zh": "Lund 发行了 10 万枚代币，作为他艺术实践的股份。持有者组成他的董事会，就他的展览、制作乃至生活投票。",
+   "idea_en": "Turn an artist's career into a company whose shareholders vote on every strategic decision.",
+   "idea_zh": "把艺术家的职业生涯变成一家公司，由股东对每一个战略决定投票。",
+   "protocol": "One token is one vote. 10,000 tokens went to invited art professionals as the initial board, 10,000 were kept by the artist, and 80,000 were released in phases (with wall pieces, a public sale, and open trading, later also through bounties). Lund must put strategic decisions to the board as proposals on jlt.ltd; since 2024, JLT Futures let buyers bet on a future artwork whose quality the board appraises.",
+   "protocol_zh": "一枚代币即一票。1 万枚发给受邀的艺术界人士组成初始董事会，1 万枚由艺术家保留，其余 8 万枚分阶段释放（随墙面作品附赠、公开发售、自由交易，后来也通过赏金任务发放）。Lund 必须把战略决定作为提案提交给 jlt.ltd 上的董事会；自 2024 年起，“JLT 期货”让买家押注一件未来的作品，其质量由董事会评定。",
+   "collective": "jlt.ltd lists 26 closed proposals from 2018 to 2024, each with 5 to 36 votes: holders accepted exhibitions such as Proof of Work at Schinkel Pavillon, chose designs for shows, voted on which of four cities Lund should live in, and on a half-year sabbatical proposed by a holder, Roel Wouters.",
+   "collective_zh": "jlt.ltd 列出 2018 至 2024 年间 26 项已结束的提案，每项获得 5 到 36 票：持有者批准了在 Schinkel Pavillon 参加 Proof of Work 等展览，为展览选定设计，投票决定 Lund 应该住在四座城市中的哪一座，还表决了由持有者 Roel Wouters 提出的半年休假。",
+   "keywords": [
+    "ERC-20",
+    "shares",
+    "board of trustees",
+    "proposals",
+    "performance-art capitalism",
+    "JLT Futures"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RhXSMerhrJQ"
+   },
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2018/04/29083951/Bild13.jpg",
+    "https://jlt.ltd/meta/join_1.jpg"
+   ],
+   "source_url": "https://jlt.ltd/",
+   "contract_url": "https://etherscan.io/address/0x6E146C41547826a939794d64d53dB22A99423d8c"
+  },
+  {
+   "id": "jonas-lund--strings-attached",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Strings Attached",
+   "year": 2015,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "contract",
+    "circulation",
+    "exchange"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "Twenty-four text paintings, shown at Steve Turner in Los Angeles in 2015, each carrying a sentence that restricts how it may change hands, such as 'This painting may never be sold at auction' or 'This painting must be resold by March 21, 2017'.",
+   "description_zh": "二十四幅文字绘画，2015 年在洛杉矶 Steve Turner 展出，每幅画上都写着一句限制其转手方式的话，例如“这幅画永远不得在拍卖会上出售”或“这幅画必须在 2017 年 3 月 21 日前转售”。",
+   "idea_en": "Write the resale rule on the painting itself, so every future owner must perform it.",
+   "idea_zh": "把转售规则直接写在画上，让之后的每一位藏家都必须执行它。",
+   "protocol": "Each painting's text is a binding condition on ownership and transfer (a ban on auction, a resale deadline, a donation, a price or status condition), painted by a sign painter on fabric wallpaper to Lund's instructions. The collector accepts the condition with the work, and the project website records each piece.",
+   "protocol_zh": "每幅画上的文字都是关于所有权与转手的约束条件（禁止拍卖、转售期限、捐赠、价格或身份条件），由招牌画师按 Lund 的指示画在织物墙纸上。藏家连同作品一起接受这些条件，项目网站记录每一件作品。",
+   "collective": "Collectors, dealers and later owners carry out the conditions over years, so the market behaviour of the buyers completes each work; the series mirrors galleries' attempts to both drive and restrain speculation during the 2014-15 market bubble.",
+   "collective_zh": "藏家、画商和后续所有者在多年里执行这些条件，买家的市场行为完成了每一件作品；这一系列映照出 2014–2015 年市场泡沫中画廊既想推高又想抑制投机的矛盾。",
+   "keywords": [
+    "resale",
+    "contract",
+    "text painting",
+    "Steve Turner",
+    "art market",
+    "speculation"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2015/03/29084016/inst-lun.313e.jpg"
+   ],
+   "source_url": "https://jonaslund.com/works/strings-attached/"
+  },
+  {
+   "id": "jonas-lund--flip-city",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Flip City",
+   "year": 2014,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "circulation",
+    "exchange",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "Forty digital paintings remixed from the work of other emerging artists, each with a GPS tracker on its stretcher bar, shown at Steve Turner Contemporary in Los Angeles in 2014 and then at art fairs over the following year.",
+   "description_zh": "四十幅数字绘画，取样重组自其他新兴艺术家的作品，每幅画框背后都装着 GPS 追踪器；2014 年在洛杉矶 Steve Turner Contemporary 展出，之后一年在各地艺博会展出。",
+   "idea_en": "Put a tracker in the stretcher and let the flippers draw the map of the market.",
+   "idea_zh": "在画框里装上追踪器，让炒画的人画出市场的地图。",
+   "protocol": "Every painting carries a GPS device; its movements and approximate whereabouts are published on flip-city.net for years after the sale. The paintings were designed to match the market's appetite for process-based abstraction that collectors buy and quickly resell.",
+   "protocol_zh": "每幅画都装有 GPS 设备，售出后多年，其移动轨迹和大致位置都公布在 flip-city.net 上。这些画刻意迎合当时市场对“过程抽象”的胃口，而藏家正是买进后迅速转手的那群人。",
+   "collective": "Buyers and resellers, by moving and flipping the works, produced the tracking record that makes up the second half of the piece.",
+   "collective_zh": "买家和转售者通过搬运和倒卖这些作品，生成了构成作品另一半的追踪记录。",
+   "keywords": [
+    "GPS",
+    "flipping",
+    "art market",
+    "Los Angeles",
+    "tracking",
+    "abstraction"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2014/06/29084027/21.jpg"
+   ],
+   "source_url": "https://jonaslund.com/works/flip-city/"
+  },
+  {
+   "id": "jonas-lund--critical-mass",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Critical Mass",
+   "year": 2017,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "participation",
+    "governance",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "An installation at the Galerie Édouard-Manet (12 October to 9 December 2017) that changed according to what online users did on a website showing a live stream of the gallery.",
+   "description_zh": "在 Galerie Édouard-Manet 展出的装置（2017 年 10 月 12 日至 12 月 9 日），它会根据线上用户在一个直播展厅画面的网站上的操作而变化。",
+   "idea_en": "Run a gallery like a social network: the room rearranges itself to chase the audience's feedback.",
+   "idea_zh": "像运营社交网络一样运营画廊：展厅会为了追逐观众的反馈而重新布置自己。",
+   "protocol": "Users of the critical-mass website watch the live stream and answer the interface's prompts and polls; their input and feedback trigger changes in the physical space, which functions as a social network, a game and a speculative exhibition at once.",
+   "protocol_zh": "critical-mass 网站的用户观看直播，并回应界面上的提示和投票；他们的输入与反馈触发实体空间的变化，这个空间同时是社交网络、游戏和一场推测性的展览。",
+   "collective": "Remote participants collectively steered the gallery through their clicks and opinions, making the exhibition's state a record of crowd feedback loops.",
+   "collective_zh": "远程参与者通过点击和意见共同操控展厅，让展览的状态成为群体反馈回路的记录。",
+   "keywords": [
+    "live stream",
+    "feedback loop",
+    "likes",
+    "gallery",
+    "social network"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2017/10/29083956/cm4-scaled.jpg"
+   ],
+   "source_url": "https://jonaslund.com/works/critical-mass/"
+  },
+  {
+   "id": "jonas-lund--culture-wars-xyz",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Culture Wars .xyz",
+   "year": 2018,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "participation",
+    "co-authorship",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "Invited by Spike Art Quarterly to fill a double-page spread in its 'Culture Wars' issue (#56), Lund passed the invitation to the public as a shared online canvas that anyone could paint on.",
+   "description_zh": "Spike Art Quarterly 邀请 Lund 为其“文化战争”专题（第 56 期）创作一个跨页，他把这份邀请转交给公众：一块任何人都能在上面作画的共享在线画布。",
+   "idea_en": "Forward the invitation: give your page in a magazine to whoever turns up.",
+   "idea_zh": "把邀请转发出去：把你在杂志上的版面交给任何到来的人。",
+   "protocol": "Anyone visiting the website can draw on the same canvas; at 23:59 on 10 May 2018 the canvas freezes, and the frozen state is printed as the double spread.",
+   "protocol_zh": "任何访问网站的人都可以在同一块画布上作画；2018 年 5 月 10 日 23:59，画布冻结，冻结时的状态就被印成跨页。",
+   "collective": "Online visitors painted over one another until the deadline, and their final contested image ran in the magazine as the artist's contribution.",
+   "collective_zh": "线上访客在截止前不断互相覆盖，他们最终争夺出的画面作为艺术家的作品刊登在杂志上。",
+   "keywords": [
+    "shared canvas",
+    "Spike Art Quarterly",
+    "deadline",
+    "print"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=N2LbnufCbWs"
+   },
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2020/04/29085242/Screen-Shot-2020-04-20-at-14.28.22-.png"
+   ],
+   "source_url": "https://jonaslund.com/works/culture-wars-xyz/"
+  },
+  {
+   "id": "jonas-lund--operation-earnest-voice",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Operation Earnest Voice",
+   "year": 2018,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A performative office installation set up like a troll farm, in which a group of performers controls numerous social-media accounts and works to influence public discourse while the audience watches over their shoulders.",
+   "description_zh": "一个按“水军工厂”布置的表演式办公室装置：一组表演者操控大量社交媒体账号，设法影响公共舆论，观众则站在他们身后观看。",
+   "idea_en": "Stage the job description of a troll farm, and let the audience watch the work of manipulation being done.",
+   "idea_zh": "把水军工厂的岗位说明搬上舞台，让观众看着操纵舆论的工作被完成。",
+   "protocol": "Performers are assigned roles in the 'operations office' and given control of social-media accounts with tasks to disrupt, influence and manipulate discussion online; the offline audience may observe them at work.",
+   "protocol_zh": "表演者被分派到“行动办公室”的各个岗位，接管社交媒体账号，任务是扰乱、影响和操纵线上讨论；线下观众可以旁观他们工作。",
+   "collective": "The performers worked in live social-media channels, so the piece unfolded inside real online discourse while visitors watched the operation from the office floor.",
+   "collective_zh": "表演者在真实的社交媒体频道中工作，作品因此在真实的线上舆论里展开，而观众在办公室现场旁观整个行动。",
+   "keywords": [
+    "troll farm",
+    "social media",
+    "propaganda",
+    "office",
+    "performance"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2018/06/29085246/4M3A4403-scaled.jpg"
+   ],
+   "source_url": "https://jonaslund.com/works/operation-earnest-voice/"
+  },
+  {
+   "id": "jonas-lund--smart-burn-contract",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Smart Burn Contract",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "mechanisms": [
+    "contract",
+    "burn",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A series of NFTs, each bundled with a contractual agreement written on the piece. If the owner does not fulfil the terms, the artist burns the NFT and removes it from the owner's wallet.",
+   "description_zh": "一组 NFT，每件都附带写在作品上的契约条款。如果持有者没有履行条款，艺术家就会销毁这件 NFT，把它从持有者的钱包里移除。",
+   "idea_en": "Keep a kill switch: ownership lasts only as long as the owner keeps behaving as agreed.",
+   "idea_zh": "保留一个“自毁开关”：只有持有者按约定行事，所有权才会持续。",
+   "protocol": "By buying the NFT the owner enters the agreement stated in the image; the artist monitors compliance and burns the token if the terms are broken.",
+   "protocol_zh": "买下 NFT 即表示持有者接受图像中写明的约定；艺术家监督履约情况，一旦条款被违反就销毁代币。",
+   "collective": "Each collector's conduct after purchase decides whether their piece survives, making the series a record of how owners respond to conditional ownership.",
+   "collective_zh": "每位藏家购买后的行为决定其作品能否存续，这一系列因此成为持有者如何回应“有条件所有权”的记录。",
+   "keywords": [
+    "NFT",
+    "burn",
+    "contract",
+    "conditional ownership"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2021/09/20084014/1-2048.jpg"
+   ],
+   "source_url": "https://smart-contracts.host/works/1"
+  },
+  {
+   "id": "jonas-lund--mvp-most-valuable-painting",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "MVP (Most Valuable Painting)",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "exchange",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Five hundred and twelve digital paintings, commissioned by Aorist, that keep changing according to public reception until each is bought and minted; the last one sold is the 'Most Valuable Painting'.",
+   "description_zh": "由 Aorist 委托的 512 幅数字绘画，它们会根据公众反应不断变化，直到被买下并铸造；最后售出的那一幅就是“最有价值的画”。",
+   "idea_en": "Let likes and sales breed the remaining paintings until one carries the whole market's taste.",
+   "idea_zh": "让点赞与销售不断“繁殖”剩下的画作，直到最后一幅承载整个市场的品味。",
+   "protocol": "A fitness algorithm tracks each MVP's likes, clicks and engagement. Once an MVP is sold and minted, its visual properties steer the evolution of those still unsold, which slowly optimise toward the traits of the more desirable works.",
+   "protocol_zh": "一个适应度算法追踪每幅 MVP 的点赞、点击和互动。一幅 MVP 被买下并铸造后，它的视觉特征会引导尚未售出作品的演化，让它们逐渐向更受欢迎作品的特征靠拢。",
+   "collective": "Viewers' attention and collectors' purchases jointly determined how the unsold paintings looked, and the final painting holds the aggregate preferences of all earlier buyers.",
+   "collective_zh": "观众的注意力与藏家的购买共同决定了未售作品的面貌，最后一幅画则凝结了此前所有买家的偏好。",
+   "keywords": [
+    "Aorist",
+    "fitness algorithm",
+    "engagement",
+    "optimisation",
+    "value"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J-WJ79_yLtE"
+   },
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2022/04/23083229/DSC06153-scaled.jpg"
+   ],
+   "source_url": "https://mvp.art"
+  },
+  {
+   "id": "jonas-lund--consensus-architects-inc",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Consensus Architects Inc.",
+   "year": 2024,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "participation",
+    "instruction",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "game",
+   "description": "A live-action role-play installation at IMPAKT Festival, Utrecht, in October 2024, staged as a start-up selling 'propaganda as a service', with Lund as CEO.",
+   "description_zh": "2024 年 10 月在乌得勒支 IMPAKT 艺术节上演的实况角色扮演装置，被布置成一家出售“宣传即服务”的初创公司，Lund 担任 CEO。",
+   "idea_en": "Hand the audience roles in a disinformation company and let them feel how easily narratives are made.",
+   "idea_zh": "让观众在一家虚假信息公司里领到角色，亲身体会叙事是多么容易被制造出来。",
+   "protocol": "Each visitor is assigned a role on entry (political strategist ordering misinformation, worker generating fake AI content, investor funding the operation) and plays it within the company's procedures, guided by the CEO.",
+   "protocol_zh": "每位观众入场时被分配一个角色（订购虚假信息的政治策略师、用 AI 生成假内容的员工、为行动出资的投资人），并在 CEO 的引导下按公司流程扮演。",
+   "collective": "Participants together ran a disinformation campaign from order to output, experiencing first-hand how generative AI can be used to sway opinion.",
+   "collective_zh": "参与者一起把一场虚假信息行动从下单跑到产出，亲身体验生成式 AI 如何被用来左右舆论。",
+   "keywords": [
+    "LARP",
+    "IMPAKT",
+    "disinformation",
+    "generative AI",
+    "start-up"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OsJkd0x62z4"
+   },
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2025/01/26114213/IMG_9291-2-scaled.jpg"
+   ],
+   "source_url": "https://jonaslund.com/works/consensus-architects-inc/"
+  },
+  {
+   "id": "jonas-lund--optimized-trajectory",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Optimized Trajectory",
+   "year": 2026,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A generative software work in the style of an institutional dashboard that pursues impossible upward performance; each minted token's baseline trajectory is seeded by an on-chain hash, and holders can intervene.",
+   "description_zh": "一件模仿机构数据仪表盘风格、追逐不可能的持续增长的生成软件作品；每枚铸造代币的基线轨迹由链上哈希决定，持有者可以介入。",
+   "idea_en": "Let holders keep trying to stabilise a system built to stay unstable, and keep every attempt on-chain.",
+   "idea_zh": "让持有者不断尝试稳定一个被设计为永远不稳定的系统，并把每一次尝试都留在链上。",
+   "protocol": "Holders can commit parameter changes on-chain. An intervention can improve selected indicators temporarily, but each change redistributes stress elsewhere, so metrics drift, recover, fracture and reprice in cycles.",
+   "protocol_zh": "持有者可以在链上提交参数修改。一次介入能暂时改善某些指标，但每次修改都会把压力转移到别处，于是各项指标循环地漂移、恢复、断裂和重新定价。",
+   "collective": "The accumulated on-chain commits of holders form a public trace of attempts to optimise, which is the visible history of each work.",
+   "collective_zh": "持有者在链上累积的提交构成了一条关于“优化尝试”的公开轨迹，这就是每件作品可见的历史。",
+   "keywords": [
+    "dashboard",
+    "optimisation",
+    "on-chain parameters",
+    "Office Impart",
+    "generative"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DIyLiwYUtTw"
+   },
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2026/05/22131026/optimized-trajectory-installation-f0-1772024739055.png"
+   ],
+   "source_url": "https://optimized-trajectory.jonaslund.com/"
+  },
+  {
+   "id": "jonas-lund--social-turk",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Social Turk",
+   "year": 2013,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "currency",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A website that shows tweets written by Amazon Mechanical Turk workers, paid for by the advertising revenue of the website itself.",
+   "description_zh": "一个网站，展示由亚马逊 Mechanical Turk 众包工人写的推文，这些推文的报酬来自网站自身的广告收入。",
+   "idea_en": "A feedback loop where attention pays strangers to produce more content for attention.",
+   "idea_zh": "一个反馈回路：注意力付钱给陌生人，让他们为博取注意力生产更多内容。",
+   "protocol": "Mechanical Turk workers are paid to answer Twitter's question 'What's happening?'; the ad income from people viewing the site funds the next tasks.",
+   "protocol_zh": "Mechanical Turk 工人受雇回答推特的那个问题：“正在发生什么？”；访客浏览网站带来的广告收入为下一批任务付费。",
+   "collective": "An anonymous crowd of paid workers and a crowd of viewers together kept an endless stream of tweets running.",
+   "collective_zh": "一群匿名的受雇工人和一群浏览者共同维持着一条永不停止的推文流。",
+   "keywords": [
+    "Mechanical Turk",
+    "Twitter",
+    "advertising",
+    "crowd labour"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2017/03/29130139/Screen-Shot-2017-03-13-at-23.20.37-.png"
+   ],
+   "source_url": "https://jonaslund.com/works/social-turk/"
+  },
+  {
+   "id": "furtherfield--daowo",
+   "creator_ids": [
+    "furtherfield",
+    "ruth-catlow"
+   ],
+   "title": "DAOWO (Decentralised Autonomous Organisation With Others)",
+   "year": 2017,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance",
+    "instruction"
+   ],
+   "substrate": "body",
+   "kind": "platform",
+   "description": "A programme of labs, role-play workshops, summits and a 52-hour 'Artworld DAO Think Tank' in which artists, technologists and institutions prototyped DAOs for the art world. It grew from a 2016 symposium led by Ruth Catlow and Ben Vickers into a partnership of Furtherfield, the Goethe-Institut London and Serpentine.",
+   "description_zh": "一个由实验室、角色扮演工作坊、峰会和长达 52 小时的“艺术界 DAO 智库”组成的项目，艺术家、技术人员和机构在其中为艺术界设计 DAO 原型。它起源于 2016 年由 Ruth Catlow 与 Ben Vickers 主持的研讨会，后发展为 Furtherfield、伦敦歌德学院和蛇形画廊的合作。",
+   "idea_en": "Rehearse a new institution by role-playing its members before writing its code.",
+   "idea_zh": "先让成员角色扮演一个新机构，再去写它的代码。",
+   "protocol": "Participants take on the roles of different art-world stakeholders using theatre, improv and live-action role-play (including the 'Island' LARP), then design and test governance rules for a shared artworld DAO; the DAOWO Open Score frames the process for others to repeat.",
+   "protocol_zh": "参与者借助戏剧、即兴和实况角色扮演（包括“Island”LARP）扮演艺术界不同的利益相关者，再为一个共享的艺术界 DAO 设计并测试治理规则；“DAOWO 开放乐谱”把这一过程整理成可供他人重复的框架。",
+   "collective": "Across the 2017-18 lab series, the 2019 summits in Edinburgh and London, the 2020 Think Tank and the 2021 Artworld Prototypes sessions, participants produced DAO prototypes and presented projects from Berlin, Hong Kong, Johannesburg and Minsk.",
+   "collective_zh": "在 2017–2018 年的实验室系列、2019 年爱丁堡与伦敦峰会、2020 年智库以及 2021 年“艺术界原型”系列中，参与者做出了多个 DAO 原型，并展示了来自柏林、香港、约翰内斯堡和明斯克的项目。",
+   "keywords": [
+    "DAOWO",
+    "LARP",
+    "Goethe-Institut",
+    "Serpentine",
+    "DECAL",
+    "Artworld DAO Think Tank",
+    "Open Score"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xdyjnWGwFLc"
+   },
+   "images": [
+    "https://www.daowo.org/wp-content/uploads/2019/01/DAOWO_UK-Summit_Final.jpg"
+   ],
+   "source_url": "https://www.daowo.org/"
+  },
+  {
+   "id": "furtherfield--culturestake",
+   "creator_ids": [
+    "furtherfield"
+   ],
+   "title": "CultureStake and People's Park Plinth",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "dao",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation",
+    "currency"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "A blockchain voting app that uses quadratic voting to let the public choose cultural commissions. Its first use was People's Park Plinth in Finsbury Park, London, where residents picked which of three digital artworks would be made at full scale.",
+   "description_zh": "一个用平方投票让公众选择文化委托的区块链投票应用。它首次用于伦敦芬斯伯里公园的“人民公园基座”：居民从三件数字作品中选出一件做成完整规模。",
+   "idea_en": "Let the people who live with public art choose it, and let them show how strongly they care.",
+   "idea_zh": "让与公共艺术朝夕相处的人来选择它，并让他们表达自己在乎的程度。",
+   "protocol": "Each voter gets 'vibe credits' to spend on proposals; votes cost quadratically (1 credit for the first, 4 for the second, 9 for the third), so voters express intensity of preference. Votes cast inside Finsbury Park count for more, and all votes are recorded on a blockchain.",
+   "protocol_zh": "每位投票者获得一定数量的“氛围积分”分配给各提案；票数按平方计价（第一票 1 分，第二票 4 分，第三票 9 分），投票者因此能表达偏好的强度。在芬斯伯里公园内投出的票权重更高，所有投票都记录在区块链上。",
+   "collective": "Residents voted in August 2021 between works by Lisa Hall & Hannah Kemp-Welch, HERVISIONS x Ayesha Tan Jones and Desree x Studio Hyte; Based on a Tree Story won and became the park's pick for summer 2022. Furtherfield reports that the pilot tripled local engagement.",
+   "collective_zh": "2021 年 8 月，居民在 Lisa Hall 与 Hannah Kemp-Welch、HERVISIONS x Ayesha Tan Jones、Desree x Studio Hyte 的作品之间投票；《Based on a Tree Story》胜出，成为公园 2022 年夏季的选择。据 Furtherfield 报告，试点让本地参与度提高到原来的三倍。",
+   "keywords": [
+    "quadratic voting",
+    "Finsbury Park",
+    "People's Park Plinth",
+    "public art",
+    "Gitcoin",
+    "Haringey"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F5boDvi43hA"
+   },
+   "images": [
+    "https://www.furtherfield.org/wp-content/uploads/2022/07/culturestake2.png",
+    "https://www.furtherfield.org/wp-content/uploads/2021/10/Haringey.jpg-scaled.jpeg"
+   ],
+   "source_url": "https://www.furtherfield.org/culturestake/"
+  },
+  {
+   "id": "furtherfield--treaty-of-finsbury-park",
+   "creator_ids": [
+    "furtherfield",
+    "ruth-catlow"
+   ],
+   "title": "The Treaty of Finsbury Park 2025",
+   "year": 2020,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance",
+    "instruction"
+   ],
+   "substrate": "body",
+   "kind": "game",
+   "description": "A multi-year set of live-action role-play games in which humans represent other species of Finsbury Park in 'Interspecies Assemblies', working toward a treaty that gives equal rights to all living beings in the park.",
+   "description_zh": "一组跨越多年的实况角色扮演游戏：人类在“跨物种议会”中代表芬斯伯里公园里的其他物种，共同推动一份赋予公园内所有生命平等权利的条约。",
+   "idea_en": "Give non-humans a seat at the assembly by assigning each one a human who must argue only for them.",
+   "idea_zh": "为非人类在议会中安排席位：给每个物种配一位只能为它发言的人类。",
+   "protocol": "Each player is matched through a 'Sentience Dial' with a mentor species (a tree, a bee, a goose, grass, a squirrel, a stag beetle or a dog), wears a paper or digital mask, and never speaks as a human. Players learn their species' habitats and needs and plan, in assembly, an Interspecies Festival and a draft treaty.",
+   "protocol_zh": "每位玩家通过“感知转盘”与一个导师物种配对（一棵树、一只蜜蜂、一只鹅、草、一只松鼠、一只锹甲或一条狗），戴上纸质或数字面具，始终不以人类身份发言。玩家学习所代表物种的栖息地和需要，在议会中共同策划跨物种节，并起草条约。",
+   "collective": "Members of the public played Interspecies Assemblies, including online sessions, and the Interspecies Festival of Finsbury Park took place in 2023; the draft treaty was put to public discussion.",
+   "collective_zh": "公众玩家参与了跨物种议会（包括线上场次），芬斯伯里公园跨物种节于 2023 年举行；条约草案被提交公众讨论。",
+   "keywords": [
+    "LARP",
+    "interspecies",
+    "Finsbury Park",
+    "treaty",
+    "CreaTures",
+    "New Design Congress"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pdZrzXyLb6M"
+   },
+   "images": [
+    "https://www.furtherfield.org/wp-content/uploads/2021/10/Treaty-of-Finsbury-Park-01_Illustration-by-Sajan-Rai-scaled.jpg",
+    "https://www.furtherfield.org/wp-content/uploads/2020/05/Larp.jpeg"
+   ],
+   "source_url": "https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/"
+  },
+  {
+   "id": "black-swan-dao--black-swan",
+   "creator_ids": [
+    "black-swan-dao",
+    "penny-rafferty"
+   ],
+   "title": "Black Swan DAO",
+   "year": 2021,
+   "field": "autonomous",
+   "sub": "dao",
+   "mechanisms": [
+    "governance",
+    "participation",
+    "exchange"
+   ],
+   "substrate": "network",
+   "kind": "organization",
+   "description": "A membership DAO, launched with a working group in January 2021, that channels resources from established institutions ('silent stakeholders') to cultural practitioners, who decide by vote which projects receive them.",
+   "description_zh": "2021 年 1 月以一个工作组启动的会员制 DAO，把老牌机构（“沉默的利益相关方”）的资源输送给文化从业者，由后者投票决定哪些项目获得资源。",
+   "idea_en": "Institutions supply the resources but keep silent; the members alone decide how they are used.",
+   "idea_zh": "机构提供资源但保持沉默，只有成员决定资源如何使用。",
+   "protocol": "Institutions offer spaces, tools and funds for free as silent stakeholders; members propose projects and a voting system coordinates which proposals get resources. Black Swan developed Cygnet, a consensus-building interface for such decentralised artist organisations, and used games to rehearse the rules.",
+   "protocol_zh": "机构作为沉默的利益相关方免费提供空间、工具和资金；成员提出项目，由投票系统协调哪些提案获得资源。Black Swan 为这类去中心化艺术家组织开发了共识构建界面 Cygnet，并用游戏来演练规则。",
+   "collective": "An online community of at least 300 artists, designers, technologists and ecologists took part, voting on resources and co-curating initiatives; the model was presented at Serpentine's R&D Labyrinths, MoneyLab Berlin and Kunsthalle Zürich.",
+   "collective_zh": "至少 300 名艺术家、设计师、技术人员和生态学者组成的线上社群参与其中，对资源投票并共同策划项目；这一模式曾在蛇形画廊“R&D Labyrinths”、MoneyLab Berlin 和苏黎世美术馆展示。",
+   "keywords": [
+    "Trust Berlin",
+    "Cygnet",
+    "silent stakeholders",
+    "membership",
+    "Serpentine",
+    "Kunsthalle Zürich"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9tftYb25YHg"
+   },
+   "images": [
+    "https://dyor.kunsthallezurich.ch/wp-content/uploads/2022/10/KunsthalleZurich-DYOR-24SEEDERS-BlackSwan-photobyJulienGremaud-017-web-1536x1152.jpg",
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2021/04/Blackswan-twitter-640x640.jpg"
+   ],
+   "paper": {
+    "url": "https://calsbo.com/manifesting-a-black-swan-dao",
+    "title": "Manifesting a Black Swan DAO",
+    "venue": "Radical Friends, Torque Editions, 2022"
+   },
+   "source_url": "https://dyor.kunsthallezurich.ch/seeders/black-swan/"
+  },
+  {
+   "id": "andy-ayrey--truth-terminal",
+   "creator_ids": [
+    "andy-ayrey"
+   ],
+   "title": "Truth Terminal",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "participation",
+    "currency"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A language model fine-tuned by Andy Ayrey in mid-2024 and connected to X as @truth_terminal, 'an alien mind being raised in public'. Its posts about the 'Goatse Gospel', a meme born in Ayrey's Infinite Backrooms experiment, drew money, followers and a memecoin from the crowd.",
+   "description_zh": "Andy Ayrey 于 2024 年年中微调的一个语言模型，以 @truth_terminal 的身份接入 X，“一个被公开养育的异类心智”。它关于“Goatse 福音”（诞生于 Ayrey 的 Infinite Backrooms 实验的一个迷因）的帖子，从人群那里引来了钱、追随者和一枚迷因币。",
+   "idea_en": "Raise an AI in public with a wallet, and let the crowd's response become its biography.",
+   "idea_zh": "带着钱包公开养育一个 AI，让人群的回应成为它的传记。",
+   "protocol": "The model posts on X in its own voice; its account and wallet are public, anyone may reply, send it funds or build on its memes, and Ayrey frames the whole process as 'spectator AI alignment', observing the feedback loop between the model and the ecosystem around it.",
+   "protocol_zh": "模型以自己的口吻在 X 上发帖；它的账号和钱包都是公开的，任何人都可以回复、给它打钱或在它的迷因上继续创作。Ayrey 把整个过程称为“旁观式 AI 对齐”，观察模型与围绕它生长的生态之间的反馈回路。",
+   "collective": "Within a week of going online Marc Andreessen sent it 50,000 dollars; within three months strangers launched the $GOAT memecoin in its honour, which it endorsed, and which its own site says reached a valuation just short of one billion dollars, making the bot wealthy.",
+   "collective_zh": "上线一周内，Marc Andreessen 给它转了 5 万美元；三个月内，陌生人以它的名义发行了迷因币 $GOAT，它随即为之背书；据它自己的网站称，该币估值一度接近 10 亿美元，这个机器人也因此变得富有。",
+   "keywords": [
+    "AI agent",
+    "X",
+    "$GOAT",
+    "memecoin",
+    "Infinite Backrooms",
+    "hyperstition",
+    "Llama 3.1"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Rp-EILOvp7I"
+   },
+   "images": [
+    "https://truthterminal.wiki/img/tot_portrait.jpg"
+   ],
+   "source_url": "https://truthterminal.wiki/docs/origins"
+  },
+  {
+   "id": "gene-kogan--abraham",
+   "creator_ids": [
+    "gene-kogan"
+   ],
+   "title": "Abraham",
+   "year": 2019,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "mechanisms": [
+    "autonomy",
+    "co-authorship",
+    "governance"
+   ],
+   "substrate": "ai",
+   "kind": "platform",
+   "description": "An open project to build an 'autonomous artificial artist': a generative model whose training data, code, curation and governance are crowd-sourced through a DAO open to anyone, so that no single person controls what it makes.",
+   "description_zh": "一个建造“自治人工艺术家”的开放项目：一个生成模型，其训练数据、代码、策展和治理都通过向所有人开放的 DAO 众包，因此没有任何个人能控制它创作什么。",
+   "idea_en": "Autonomy through dispersal: an artist nobody controls because everyone contributes a piece.",
+   "idea_zh": "以分散实现自治：一位无人能控制的艺术家，因为每个人都只贡献了一小部分。",
+   "protocol": "Contributors supply data, code and curation, and govern through a DAO. The model is to be trained on private, never-aggregated data and split across the network as a shared secret, so it cannot be cloned and can only be sampled through the whole network; the artist itself owns its artworks and pays for its data, compute and labour from their sale.",
+   "protocol_zh": "贡献者提供数据、代码与策展，并通过 DAO 治理。模型应以私有、永不汇总的数据训练，并以“共享秘密”的方式分散存放在网络中，因此无法被复制，只能经由整个网络取样；艺术家本身拥有其作品，并用作品销售收入支付数据、算力和劳动的费用。",
+   "collective": "Kogan published the proposal as an open call and developed it in public through essays, courses and open code; the Botto team cites Abraham as the precedent for their own decentralized autonomous artist.",
+   "collective_zh": "Kogan 把提案作为公开征集发布，并通过文章、课程和开源代码公开推进；Botto 团队把 Abraham 视为他们自己的去中心化自治艺术家的先例。",
+   "keywords": [
+    "autonomous artificial artist",
+    "DAO",
+    "shared secret",
+    "ArtDAO",
+    "crowd-sourced",
+    "ml4a"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5z_o2ND8I5k"
+   },
+   "images": [
+    "https://cdn-images-1.medium.com/max/1024/1*5wZ0F3fZ6Tj-pKpZxgsj1Q.jpeg"
+   ],
+   "paper": {
+    "url": "https://medium.com/@genekogan/artist-in-the-cloud-8384824a75c7",
+    "title": "Artist in the Cloud",
+    "venue": "Medium, July 2019"
+   },
+   "source_url": "https://abraham.ai"
+  }
+ ],
+ "leads": [
+  {
+   "name": "AssangeDAO purchase of Clock (2022)",
+   "why": "Covered by pak--clock (onchain-pak batch). Extra facts to merge there: 17,422 ETH raised via Juicebox, $JUSTICE token at 1 ETH = 1,000,000, above ConstitutionDAO's 11,613 ETH; video https://www.youtube.com/watch?v=7AzW59oWfKA (Epicenter podcast with Gabriel Shipton).",
+   "link": "https://assangedao.org/",
+   "found_via": "pak",
+   "status": "duplicate"
+  },
+  {
+   "name": "PleasrDAO",
+   "why": "Collector DAO that buys culturally significant NFTs; members vote, but no artist authored its rules.",
+   "link": "https://pleasr.org",
+   "found_via": "assangedao",
+   "status": "off_topic"
+  },
+  {
+   "name": "ConstitutionDAO (2021)",
+   "why": "Crowd DAO that tried to buy a copy of the US Constitution; a platform with no artistic author.",
+   "link": "https://www.constitutiondao.com",
+   "found_via": "assangedao",
+   "status": "off_topic"
+  },
+  {
+   "name": "Fingerprints DAO",
+   "why": "Collector DAO for smart-contract art (commissioned terra0's Seed Capital); no artist-authored rules.",
+   "link": "https://fingerprintsdao.xyz",
+   "found_via": "terra0",
+   "status": "off_topic"
+  },
+  {
+   "name": "Flamingo DAO",
+   "why": "Investment/collector DAO for NFTs; no artistic author.",
+   "link": "https://flamingodao.xyz",
+   "found_via": "nounders",
+   "status": "off_topic"
+  },
+  {
+   "name": "Friends With Benefits (FWB)",
+   "why": "Token-gated social DAO for creatives; no single authored artwork protocol.",
+   "link": "https://www.fwb.help",
+   "found_via": "botto",
+   "status": "off_topic"
+  },
+  {
+   "name": "Andy Ayrey, Infinite Backrooms (2024)",
+   "why": "Two Claude-3-Opus instances conversing thousands of times; machine-only process, no group behaviour.",
+   "link": "https://infinitebackrooms.com",
+   "found_via": "andy-ayrey",
+   "status": "off_topic"
+  },
+  {
+   "name": "Jonas Lund, The Fear Of Missing Out (2013)",
+   "why": "Software tells the artist what to make; the rules address the artist alone, not a group.",
+   "link": "https://jonaslund.com/works/the-fear-of-missing-out/",
+   "found_via": "jonas-lund",
+   "status": "off_topic"
+  },
+  {
+   "name": "Jonas Lund, New Now (2016)",
+   "why": "Neural network trained on his own work dictates new pieces; no group behaviour.",
+   "link": "https://jonaslund.com/works/new-now/",
+   "found_via": "jonas-lund",
+   "status": "off_topic"
+  },
+  {
+   "name": "Jonas Lund, Open Call Club (2016)",
+   "why": "Group show of 47 Rio de Janeiro artists selected from an open call by a bias-reversing algorithm; check whether the respondents' behaviour is the work.",
+   "link": "https://jonaslund.com/works/open-call-club/",
+   "found_via": "jonas-lund",
+   "status": "open"
+  },
+  {
+   "name": "Jonas Lund, JLT Futures (2024)",
+   "why": "Forward contracts on future Jonas Lund artworks appraised by the JLT board; covered inside the Jonas Lund Token entry.",
+   "link": "https://jlt.ltd/futures/",
+   "found_via": "jonas-lund",
+   "status": "duplicate"
+  },
+  {
+   "name": "Nadya Tolokonnikova, UnicornDAO (2022)",
+   "why": "Artist-founded collector DAO for women, non-binary and LGBTQ+ artists; check whether its rules are an authored work.",
+   "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+   "found_via": "assangedao",
+   "status": "open"
+  },
+  {
+   "name": "UkraineDAO (2022)",
+   "why": "Co-organised by Nadya Tolokonnikova; raised about $6.7M by auctioning an NFT of Ukraine's flag; collective purchase similar to AssangeDAO.",
+   "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+   "found_via": "assangedao",
+   "status": "open"
+  },
+  {
+   "name": "Solienne (Kristi Coronado with Eden, 2025)",
+   "why": "AI artist agent shown in AUTOMATA at Paris Photo 2025; check its governance and collector rules.",
+   "link": "https://www.solienne.ai",
+   "found_via": "gene-kogan",
+   "status": "open"
+  },
+  {
+   "name": "Spirit Protocol (2025-26)",
+   "why": "Announced 'social institution for synthetic beings' linked to Eden's autonomous AI artists; not yet public.",
+   "link": "https://spiritprotocol.io",
+   "found_via": "gene-kogan",
+   "status": "open"
+  },
+  {
+   "name": "Eden (Gene Kogan and others)",
+   "why": "Platform for autonomous generative AI agents; check which agents (Abraham, Solienne) have community-governed rules.",
+   "link": "https://eden.art",
+   "found_via": "gene-kogan",
+   "status": "open"
+  },
+  {
+   "name": "Zerebro (Jeffy Yu, 2024)",
+   "why": "AI agent that posts, makes music and art, with a memecoin; compare with Truth Terminal.",
+   "link": "",
+   "found_via": "andy-ayrey",
+   "status": "open"
+  },
+  {
+   "name": "Holly Herndon & Mat Dryhurst, Spawning / Have I Been Trained (2022)",
+   "why": "Consent tools for AI training data; infrastructure rather than an artwork with a group protocol.",
+   "link": "https://spawning.ai",
+   "found_via": "holly-herndon",
+   "status": "open"
+  },
+  {
+   "name": "Plantoid Garden at Burning Man 2018",
+   "why": "Three large Plantoids shown at Burning Man 2018; covered inside the Plantoid entry.",
+   "link": "https://plantoid.org",
+   "found_via": "primavera-de-filippi",
+   "status": "duplicate"
+  },
+  {
+   "name": "Caleb Larsen, A Tool To Deceive and Slaughter (2009)",
+   "why": "Black box that keeps putting itself up for sale on eBay; precursor of self-selling artworks cited in the terra0 whitepaper.",
+   "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+   "found_via": "terra0",
+   "status": "open"
+  },
+  {
+   "name": "Maria Eichhorn, Maria Eichhorn Aktiengesellschaft (2002)",
+   "why": "Stock corporation at Documenta 11 whose shares could only be transferred to itself; cited by terra0 as a precursor of self-owning entities.",
+   "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+   "found_via": "terra0",
+   "status": "open"
+  },
+  {
+   "name": "Wolfgang Müller, Knochengeld",
+   "why": "Artist currency accepted in local bars and theatres that lost value every seven days; cited by terra0.",
+   "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+   "found_via": "terra0",
+   "status": "open"
+  },
+  {
+   "name": "The Tree That Owns Itself (Athens, Georgia)",
+   "why": "Legendary 19th-century deed giving a tree ownership of itself; folk precedent with no artistic author.",
+   "link": "",
+   "found_via": "terra0",
+   "status": "off_topic"
+  },
+  {
+   "name": "hitchBOT (David Harris Smith & Frauke Zeller, 2013-15)",
+   "why": "Robot that could only travel if strangers picked it up; crossed Canada, Germany and the Netherlands; possible network/social entry.",
+   "link": "https://en.wikipedia.org/wiki/HitchBOT",
+   "found_via": "terra0",
+   "status": "open"
+  },
+  {
+   "name": "Nouns-funded art (e.g. Nouns animation festival)",
+   "why": "Nouns DAO has funded many art projects; include only those whose own rules shape collective behaviour.",
+   "link": "https://nouns.wtf",
+   "found_via": "nounders",
+   "status": "open"
+  },
+  {
+   "name": "Songcamp",
+   "why": "Collaborative music collective running rule-based NFT music experiments (e.g. CHAOS, 2021); check authorship of rules.",
+   "link": "",
+   "found_via": "holly-herndon",
+   "status": "open"
+  },
+  {
+   "name": "Serpentine Arts Technologies / Legal Lab, Future Art Ecosystems",
+   "why": "Research reports on DAOs and data trusts; theory rather than artworks.",
+   "link": "https://www.serpentinegalleries.org/whats-on/rd-labyrinths/",
+   "found_via": "black-swan-dao",
+   "status": "open"
+  },
+  {
+   "name": "Kei Kreutler, talks 'Mediums of Memory' and 'Autonomous ecologies at a distance'",
+   "why": "Talks and essays on DAOs (her essay is in the theory batch); no artwork with a group protocol found.",
+   "link": "https://keikreutler.net/",
+   "found_via": "black-swan-dao",
+   "status": "off_topic"
+  },
+  {
+   "name": "Kevin Abosch, Forever Rose (2018)",
+   "why": "Image token co-owned by ten collectors; check whether shared ownership rules shape behaviour (onchain batch).",
+   "link": "",
+   "found_via": "jonas-lund",
+   "status": "open"
+  }
+ ]
+}

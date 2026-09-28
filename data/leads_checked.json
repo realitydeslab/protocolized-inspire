@@ -1,5 +1,181 @@
 [
  {
+  "name": "AssangeDAO purchase of Clock (2022)",
+  "why": "Covered by pak--clock (onchain-pak batch). Extra facts to merge there: 17,422 ETH raised via Juicebox, $JUSTICE token at 1 ETH = 1,000,000, above ConstitutionDAO's 11,613 ETH; video https://www.youtube.com/watch?v=7AzW59oWfKA (Epicenter podcast with Gabriel Shipton).",
+  "link": "https://assangedao.org/",
+  "found_via": "pak",
+  "status": "duplicate",
+  "batch": "autonomous"
+ },
+ {
+  "name": "PleasrDAO",
+  "why": "Collector DAO that buys culturally significant NFTs; members vote, but no artist authored its rules.",
+  "link": "https://pleasr.org",
+  "found_via": "assangedao",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "ConstitutionDAO (2021)",
+  "why": "Crowd DAO that tried to buy a copy of the US Constitution; a platform with no artistic author.",
+  "link": "https://www.constitutiondao.com",
+  "found_via": "assangedao",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Fingerprints DAO",
+  "why": "Collector DAO for smart-contract art (commissioned terra0's Seed Capital); no artist-authored rules.",
+  "link": "https://fingerprintsdao.xyz",
+  "found_via": "terra0",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Flamingo DAO",
+  "why": "Investment/collector DAO for NFTs; no artistic author.",
+  "link": "https://flamingodao.xyz",
+  "found_via": "nounders",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Friends With Benefits (FWB)",
+  "why": "Token-gated social DAO for creatives; no single authored artwork protocol.",
+  "link": "https://www.fwb.help",
+  "found_via": "botto",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Andy Ayrey, Infinite Backrooms (2024)",
+  "why": "Two Claude-3-Opus instances conversing thousands of times; machine-only process, no group behaviour.",
+  "link": "https://infinitebackrooms.com",
+  "found_via": "andy-ayrey",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Jonas Lund, The Fear Of Missing Out (2013)",
+  "why": "Software tells the artist what to make; the rules address the artist alone, not a group.",
+  "link": "https://jonaslund.com/works/the-fear-of-missing-out/",
+  "found_via": "jonas-lund",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Jonas Lund, New Now (2016)",
+  "why": "Neural network trained on his own work dictates new pieces; no group behaviour.",
+  "link": "https://jonaslund.com/works/new-now/",
+  "found_via": "jonas-lund",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Jonas Lund, JLT Futures (2024)",
+  "why": "Forward contracts on future Jonas Lund artworks appraised by the JLT board; covered inside the Jonas Lund Token entry.",
+  "link": "https://jlt.ltd/futures/",
+  "found_via": "jonas-lund",
+  "status": "duplicate",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Plantoid Garden at Burning Man 2018",
+  "why": "Three large Plantoids shown at Burning Man 2018; covered inside the Plantoid entry.",
+  "link": "https://plantoid.org",
+  "found_via": "primavera-de-filippi",
+  "status": "duplicate",
+  "batch": "autonomous"
+ },
+ {
+  "name": "The Tree That Owns Itself (Athens, Georgia)",
+  "why": "Legendary 19th-century deed giving a tree ownership of itself; folk precedent with no artistic author.",
+  "link": "",
+  "found_via": "terra0",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Kei Kreutler, talks 'Mediums of Memory' and 'Autonomous ecologies at a distance'",
+  "why": "Talks and essays on DAOs (her essay is in the theory batch); no artwork with a group protocol found.",
+  "link": "https://keikreutler.net/",
+  "found_via": "black-swan-dao",
+  "status": "off_topic",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Constant Dullaart — High Retention, Slow Delivery (2014)",
+  "why": "Bought 2.5 million fake Instagram followers and gave art-world accounts 100,000 each; the 'crowd' is purchased bot accounts, so no participants act under the rule.",
+  "link": "https://constantdullaart.com/projects/high-retention-slow-delivery",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Lauren Lee McCarthy — Follower (2016)",
+  "why": "One-to-one performance in which the artist follows a single user for a day; no group acts under the rule.",
+  "link": "https://lauren-mccarthy.com/Follower",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Lauren Lee McCarthy — LAUREN (2017)",
+  "why": "The artist herself acts as a human Alexa for one household at a time; not a crowd protocol (its crowd version is SOMEONE).",
+  "link": "https://lauren-mccarthy.com/LAUREN",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Lauren Lee McCarthy — Crowdpilot (2014)",
+  "why": "App letting strangers listen to a conversation and advise the user in real time; project page currently empty.",
+  "link": "https://lauren-mccarthy.com/Crowdpilot",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "no_media",
+  "batch": "network"
+ },
+ {
+  "name": "Josh Wardle — Wordle (2021)",
+  "why": "Single-player daily word game; the shared puzzle creates a social ritual but players do not act together under a rule.",
+  "link": "https://en.wikipedia.org/wiki/Wordle",
+  "found_via": "josh-wardle",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Eva & Franco Mattes — Emily's Video (2012), No Fun (2010), The Bots (2020)",
+  "why": "Reaction videos of respondents, a staged suicide on Chatroulette, and actors reenacting moderators; people are recorded rather than acting under a published rule.",
+  "link": "https://0100101110101101.org/works",
+  "found_via": "eva-and-franco-mattes",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Neal Agarwal — Infinite Craft and other web toys",
+  "why": "Mostly single-player browser games; shared 'first discoveries' are a side effect, not a collective rule.",
+  "link": "https://neal.fun/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Google Creative Lab — Quick, Draw! (2016)",
+  "why": "Drawing game that collects doodles into a dataset for machine learning; a corporate data product rather than an authored crowd work.",
+  "link": "https://quickdraw.withgoogle.com/",
+  "found_via": "aaron-koblin",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
+  "name": "Aaron Koblin — Flight Patterns (2005), New York Talk Exchange (2008)",
+  "why": "Visualisations of aircraft and telecom data; no participants acting under a rule.",
+  "link": "https://www.aaronkoblin.com/",
+  "found_via": "aaron-koblin",
+  "status": "off_topic",
+  "batch": "network"
+ },
+ {
   "name": "Harm van den Dorpel – Death Imitates Language (2016)",
   "why": "Checked: selection and breeding are done by the artist through 'likes' (plus visitor statistics), not by collectors; fails test 3 as an on-chain co-authored work.",
   "link": "https://harm.work/series/death-imitates-language",
@@ -110,6 +286,22 @@
   "found_via": "damien-hirst",
   "status": "off_topic",
   "batch": "onchain-pak"
+ },
+ {
+  "name": "Rhea Myers, Certificate of Inauthenticity (2020)",
+  "why": "NFT certificates growing out of the DECAL gold castings of Shareable Readymades; covered inside that entry.",
+  "link": "https://rhea.art/certificate-of-inauthenticity/",
+  "found_via": "rhea-myers",
+  "status": "duplicate",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Rhea Myers, Tokens Equal Text (2019)",
+  "why": "ERC-998 composable tokens whose IDs read as text; no collective rule.",
+  "link": "https://rhea.art/tokens-equal-text/",
+  "found_via": "rhea-myers",
+  "status": "off_topic",
+  "batch": "onchain-rules"
  },
  {
   "name": "Tino Sehgal",

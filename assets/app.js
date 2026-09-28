@@ -174,7 +174,7 @@
       <span class="colcard__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</span></button>` : ""; };
   function renderCollections() {
     currentList = [];
-    const groups = ["exhibition", "survey", "venue", "award"].map((t) => [t, COLS.filter((c) => (c.type || "exhibition") === t && colCount(c))]).filter(([, cs]) => cs.length);
+    const groups = ["exhibition", "survey", "registry", "venue", "award"].map((t) => [t, COLS.filter((c) => (c.type || "exhibition") === t && colCount(c))]).filter(([, cs]) => cs.length);
     $("#collectionList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().collections)}</h2><p class="starred__lede">${esc(S().collections_lede)}</p></div>` +
       groups.map(([t, cs]) => `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(S().col_groups[t])}</h3><span class="scat__n mono">${cs.length}</span></div>
         <div class="cols__grid">${cs.map(colCard).join("")}</div></section>`).join("");

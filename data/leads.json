@@ -1,5 +1,165 @@
 [
  {
+  "name": "Jonas Lund, Open Call Club (2016)",
+  "why": "Group show of 47 Rio de Janeiro artists selected from an open call by a bias-reversing algorithm; check whether the respondents' behaviour is the work.",
+  "link": "https://jonaslund.com/works/open-call-club/",
+  "found_via": "jonas-lund",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Nadya Tolokonnikova, UnicornDAO (2022)",
+  "why": "Artist-founded collector DAO for women, non-binary and LGBTQ+ artists; check whether its rules are an authored work.",
+  "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+  "found_via": "assangedao",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "UkraineDAO (2022)",
+  "why": "Co-organised by Nadya Tolokonnikova; raised about $6.7M by auctioning an NFT of Ukraine's flag; collective purchase similar to AssangeDAO.",
+  "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+  "found_via": "assangedao",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Solienne (Kristi Coronado with Eden, 2025)",
+  "why": "AI artist agent shown in AUTOMATA at Paris Photo 2025; check its governance and collector rules.",
+  "link": "https://www.solienne.ai",
+  "found_via": "gene-kogan",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Spirit Protocol (2025-26)",
+  "why": "Announced 'social institution for synthetic beings' linked to Eden's autonomous AI artists; not yet public.",
+  "link": "https://spiritprotocol.io",
+  "found_via": "gene-kogan",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Eden (Gene Kogan and others)",
+  "why": "Platform for autonomous generative AI agents; check which agents (Abraham, Solienne) have community-governed rules.",
+  "link": "https://eden.art",
+  "found_via": "gene-kogan",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Zerebro (Jeffy Yu, 2024)",
+  "why": "AI agent that posts, makes music and art, with a memecoin; compare with Truth Terminal.",
+  "link": "",
+  "found_via": "andy-ayrey",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Holly Herndon & Mat Dryhurst, Spawning / Have I Been Trained (2022)",
+  "why": "Consent tools for AI training data; infrastructure rather than an artwork with a group protocol.",
+  "link": "https://spawning.ai",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Caleb Larsen, A Tool To Deceive and Slaughter (2009)",
+  "why": "Black box that keeps putting itself up for sale on eBay; precursor of self-selling artworks cited in the terra0 whitepaper.",
+  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+  "found_via": "terra0",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Maria Eichhorn, Maria Eichhorn Aktiengesellschaft (2002)",
+  "why": "Stock corporation at Documenta 11 whose shares could only be transferred to itself; cited by terra0 as a precursor of self-owning entities.",
+  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+  "found_via": "terra0",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Wolfgang Müller, Knochengeld",
+  "why": "Artist currency accepted in local bars and theatres that lost value every seven days; cited by terra0.",
+  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
+  "found_via": "terra0",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "hitchBOT (David Harris Smith & Frauke Zeller, 2013-15)",
+  "why": "Robot that could only travel if strangers picked it up; crossed Canada, Germany and the Netherlands; possible network/social entry.",
+  "link": "https://en.wikipedia.org/wiki/HitchBOT",
+  "found_via": "terra0",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Nouns-funded art (e.g. Nouns animation festival)",
+  "why": "Nouns DAO has funded many art projects; include only those whose own rules shape collective behaviour.",
+  "link": "https://nouns.wtf",
+  "found_via": "nounders",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Songcamp",
+  "why": "Collaborative music collective running rule-based NFT music experiments (e.g. CHAOS, 2021); check authorship of rules.",
+  "link": "",
+  "found_via": "holly-herndon",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Serpentine Arts Technologies / Legal Lab, Future Art Ecosystems",
+  "why": "Research reports on DAOs and data trusts; theory rather than artworks.",
+  "link": "https://www.serpentinegalleries.org/whats-on/rd-labyrinths/",
+  "found_via": "black-swan-dao",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Kevin Abosch, Forever Rose (2018)",
+  "why": "Image token co-owned by ten collectors; check whether shared ownership rules shape behaviour (onchain batch).",
+  "link": "",
+  "found_via": "jonas-lund",
+  "status": "open",
+  "batch": "autonomous"
+ },
+ {
+  "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)",
+  "why": "A 'crowdsourced robot' whose actions are carried out by Mechanical Turk workers via a natural-language interface.",
+  "link": "http://instructables.com/id/Noodle-a-crowdsourced-robot/",
+  "found_via": "kyle-mcdonald",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Reddit — Robin (2016), Sequence (2019), Second (2021)",
+  "why": "Later Reddit April Fools' crowd experiments (vote to grow/stay/leave chats; crowd-sequenced film; guess the second most popular option); authorship not confirmed.",
+  "link": "https://en.wikipedia.org/wiki/List_of_Reddit_April_Fools%27_Day_events",
+  "found_via": "josh-wardle",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Aram Bartholl — DVD Dead Drop (2012) and OFFLINE ART (2013)",
+  "why": "Read-only DVD burner in the Museum of the Moving Image wall, and an offline-router exhibition format; weaker crowd role than Dead Drops.",
+  "link": "https://arambartholl.com/dvd-dead-drop/",
+  "found_via": "aram-bartholl",
+  "status": "open",
+  "batch": "network"
+ },
+ {
+  "name": "Kyle McDonald — Who Pays Artists? (2014)",
+  "why": "Anonymous crowdsourced board where artists share what they were paid and by whom.",
+  "link": "https://kylemcdonald.net/",
+  "found_via": "kyle-mcdonald",
+  "status": "open",
+  "batch": "network"
+ },
+ {
   "name": "Harm van den Dorpel – Mutant Garden (web, c. 2019)",
   "why": "Visitors click a 'mutant' to replace its siblings with mutated offspring (single-parent breeding); a network-field candidate, not on-chain.",
   "link": "https://harm.work/series/mutant-garden",
@@ -214,6 +374,46 @@
   "found_via": "jack-butcher",
   "status": "open",
   "batch": "onchain-pak"
+ },
+ {
+  "name": "Rhea Myers, The Fractionalized Phallus (2025)",
+  "why": "30 glitched 3D-scan fragments sold as separate NFTs; fractional ownership as subject, check whether any rule links holders.",
+  "link": "https://rhea.art/the-fractionalized-phallus/",
+  "found_via": "rhea-myers",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Rhea Myers, Ethereum Art Market (2014)",
+  "why": "Early smart contract to register and sell digital artworks with optional royalties.",
+  "link": "https://mlo.art/research/history-of-crypto-art/",
+  "found_via": "rhea-myers",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Simon de la Rouviere / Untitled Frontier, Logged Universe (2021–2023)",
+  "why": "Story-linked on-chain drops where holding earlier NFTs grants free mints of later ones (Anchor Certificates, Paintings of Forgotten Souls, Little Martians, Daisychains).",
+  "link": "https://www.untitledfrontier.studio",
+  "found_via": "simon-de-la-rouviere",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Hundreds (attributed to Simon de la Rouviere in the brief)",
+  "why": "No source found linking a work called Hundreds to him; verify authorship.",
+  "link": "",
+  "found_via": "simon-de-la-rouviere",
+  "status": "open",
+  "batch": "onchain-rules"
+ },
+ {
+  "name": "Sarah Friend, Perverse Affordances / Terraforming",
+  "why": "Other works on isthisa.com; check for contract rules.",
+  "link": "https://isthisa.com",
+  "found_via": "sarah-friend",
+  "status": "open",
+  "batch": "onchain-rules"
  },
  {
   "name": "Marina Abramović, Rhythm 0 (1974)",

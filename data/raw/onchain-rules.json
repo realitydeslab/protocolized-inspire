@@ -1,0 +1,1030 @@
+{
+ "batch": "onchain-rules",
+ "creators": [
+  {
+   "id": "sarah-friend",
+   "name": "Sarah Friend",
+   "kind": "person",
+   "role": "Artist, researcher and software developer",
+   "based": "Berlin, DE",
+   "bio": "Canadian artist and software developer based in Berlin whose work explores games, economics and the self through emerging technology. She has built blockchain games and contract artworks since 2017.",
+   "why": "Her contracts invert NFT ownership: tokens that die unless given away, and secrets that only open if most collectors cooperate.",
+   "links": {
+    "site": "https://isthisa.com",
+    "x": "https://x.com/isthisanart_",
+    "instagram": "https://www.instagram.com/isthisanart/",
+    "github": "https://github.com/ana0"
+   },
+   "role_zh": "艺术家、研究者、软件开发者",
+   "based_zh": "柏林，德国",
+   "bio_zh": "加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。",
+   "why_zh": "她的合约颠倒了 NFT 的所有权逻辑：不送出去就会死去的代币，只有多数藏家合作才能打开的秘密。",
+   "connected_to": [
+    "rhea-myers",
+    "simon-de-la-rouviere"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simon-de-la-rouviere",
+   "name": "Simon de la Rouviere",
+   "kind": "person",
+   "role": "Artist, writer and mechanism designer",
+   "based": "",
+   "bio": "Software developer, fiction writer and artist who worked on early Ethereum token standards and proposed token bonding curves and curation markets. Through Untitled Frontier he publishes stories with on-chain art.",
+   "why": "He turns economic mechanisms (Harberger tax, bonding curves, free infinite mints) into the form of an artwork.",
+   "links": {
+    "site": "https://home.simondlr.com",
+    "x": "https://x.com/simondlr",
+    "github": "https://github.com/simondlr"
+   },
+   "role_zh": "艺术家、作家、机制设计者",
+   "based_zh": "",
+   "bio_zh": "软件开发者、小说作者和艺术家，参与过早期以太坊代币标准，提出了代币联合曲线（bonding curve）与策展市场。通过 Untitled Frontier 发表配有链上艺术的故事。",
+   "why_zh": "他把经济机制（哈伯格税、联合曲线、免费无限铸造）直接变成作品的形式。",
+   "connected_to": [
+    "sarah-friend"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "sarah-friend--lifeforms",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Lifeforms",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "circulation",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "NFT creatures on Polygon that stay alive only if they keep moving: an owner who does not give a lifeform away within 90 days of receiving it kills it for good.",
+   "description_zh": "部署在 Polygon 上的 NFT 生命体，只有不断流转才能存活：持有者若在收到后 90 天内没有把它送出去，它就会永久死亡。",
+   "idea_en": "Care for a token by giving it away; holding is what kills it.",
+   "idea_zh": "照顾一个代币的方式是把它送走；死守不放才会害死它。",
+   "protocol": "Anyone can mint a lifeform (open, uncapped mint, 10 MATIC at launch). The contract gives each holder 90 days from receipt to transfer it to someone else; if the deadline passes, the lifeform dies, disappears from wallets and can never be transferred or revived.",
+   "protocol_zh": "任何人都可以铸造一个生命体（开放且不设上限，上线时 10 MATIC）。合约规定持有者自收到之日起 90 天内必须把它转给别人；逾期则生命体死亡，从钱包中消失，永远无法再转移或复活。",
+   "collective": "Holders had to find new carers again and again, turning each token into a chain of gifts. In February 2022 the artist reported that 51 lifeforms had died; in 2024 she opened Memoryforms so past carers could inscribe messages to them.",
+   "collective_zh": "持有者必须一次次为它找到新的照料者，每个代币都变成一串赠与。2022 年 2 月艺术家公布已有 51 个生命体死亡；2024 年她推出 Memoryforms，让曾经的照料者为它们刻下留言。",
+   "keywords": [
+    "Polygon",
+    "transfer",
+    "death",
+    "gift",
+    "90 days"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c5XMYD3vcg8"
+   },
+   "images": [
+    "https://isthisa.com/static/Lifeforms/Sarah-Friend-Lifeforms-1.jpg",
+    "https://isthisa.com/static/Lifeforms/Sarah-Friend-lifeforms-screenshot-1.png",
+    "https://www.holo.mg/wp-content/uploads/2021/09/HOLO-STREAM-20210903-Sarah-Friend-Lifeforms-1600.jpg"
+   ],
+   "source_url": "https://isthisa.com/lifeforms",
+   "contract_url": "https://polygonscan.com/address/0x8916edd9b39783d85303ecc6613917ddd735d88d"
+  },
+  {
+   "id": "sarah-friend--off",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Off",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "An edition of 255 NFTs, each a black rectangle with the pixel size of a real screen, that doubles as a multiplayer game: every buyer privately receives a secret image carrying a shard of a key to an encrypted essay.",
+   "description_zh": "一套 255 件的 NFT 版本，每件都是与某款真实屏幕像素尺寸相同的黑色矩形，同时也是一场多人游戏：每位买家会私下收到一张秘密图像，其中藏着解开一篇加密文章的密钥碎片。",
+   "idea_en": "Make the artwork's content depend on whether collectors choose to cooperate or defect.",
+   "idea_zh": "让作品的内容取决于藏家选择合作还是背叛。",
+   "protocol": "Each token has a public black image and a secret image sent to the buyer by email. Hidden in the secret images are an encrypted essay and shards of its key, split so that nothing can be decrypted unless 170 of the 255 holders (two thirds) share their secrets.",
+   "protocol_zh": "每个代币有一张公开的黑色图像，另有一张通过电子邮件发给买家的秘密图像。秘密图像里藏着一篇加密文章和密钥碎片，拆分方式保证只有 255 位持有者中的 170 位（三分之二）共享秘密时才能解密。",
+   "collective": "The essay's release was left to collectors' willingness to reveal what they privately held. By June 2022 the message was still hidden, and the artist built the follow-up Wildcards around that open outcome.",
+   "collective_zh": "文章能否公开，完全取决于藏家是否愿意交出自己私下持有的秘密。到 2022 年 6 月信息仍未被揭开，艺术家围绕这一悬而未决的结果创作了后续作品 Wildcards。",
+   "keywords": [
+    "secret sharing",
+    "threshold",
+    "cooperation",
+    "prisoner's dilemma",
+    "screens"
+   ],
+   "images": [
+    "https://www.holo.mg/wp-content/uploads/2021/05/HOLO-STREAM-20210512-SarahFriend-Off-1300.gif"
+   ],
+   "source_url": "https://off.supply"
+  },
+  {
+   "id": "sarah-friend--wildcards",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Wildcards",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "participation",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Custom card decks carrying mint instructions for one of 52 NFTs, shown in the solo exhibition Off: Endgame commissioned by Rhizome, Fingerprints and Refraction.",
+   "description_zh": "定制扑克牌，每副牌附有铸造 52 个 NFT 之一的指令，在由 Rhizome、Fingerprints 与 Refraction 委托的个展 Off: Endgame 中展出。",
+   "idea_en": "Lock a token's liquidity to another group's cooperation.",
+   "idea_zh": "把一个代币能否流通，锁在另一群人的合作上。",
+   "protocol": "Holders can mint a Wildcard token from the instructions in their deck, but the tokens cannot be traded unless the hidden message of Off is revealed, which requires two thirds of Off's collectors to pool their secret images.",
+   "protocol_zh": "持牌者可以按牌中的指令铸造 Wildcard 代币，但只有当 Off 的隐藏信息被揭开（需要三分之二的 Off 藏家汇集秘密图像）之后，这些代币才能交易。",
+   "collective": "Wildcards made a second group of owners dependent on the first: their tokens stay frozen for as long as Off's collectors do not cooperate.",
+   "collective_zh": "Wildcards 让第二群持有者依赖第一群人：只要 Off 的藏家不合作，他们的代币就一直冻结。",
+   "keywords": [
+    "Off: Endgame",
+    "Rhizome",
+    "non-transferable",
+    "cards"
+   ],
+   "images": [
+    "https://www.holo.mg/wp-content/uploads/2022/07/HOLO-STREAM-20220621-Sarah-Friend-Off-Endgame-Wildcards-1600.jpg"
+   ],
+   "source_url": "https://www.holo.mg/stream/sarah-friend-off-endgame-rhizome-fingerprints-refraction-dao/"
+  },
+  {
+   "id": "sarah-friend--memoryforms",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Memoryforms",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A collaborative on-chain memorial for the Lifeforms that died, in which people who once cared for them inscribe messages.",
+   "description_zh": "为死去的 Lifeforms 建立的链上集体纪念碑，曾经照料过它们的人在其中刻下留言。",
+   "idea_en": "Let the people who let a token die write its epitaph.",
+   "idea_zh": "让那些任由代币死去的人为它写墓志铭。",
+   "protocol": "Past carers of Lifeforms are invited to mint a Memoryform and inscribe a message on-chain for the lifeforms they looked after.",
+   "protocol_zh": "邀请 Lifeforms 过去的照料者铸造 Memoryform，并为自己照料过的生命体在链上刻写一段留言。",
+   "collective": "Former carers wrote messages of loss and regret; one owner of several dead lifeforms wrote that they wished they had set calendar reminders to take better care of their pack.",
+   "collective_zh": "过去的照料者写下了失去与遗憾；一位拥有多个已死亡生命体的持有者写道，真希望当初设了日历提醒，好好照顾它们。",
+   "keywords": [
+    "memorial",
+    "Lifeforms",
+    "inscription",
+    "care"
+   ],
+   "images": [
+    "https://www.holo.mg/wp-content/uploads/2024/09/HOLO-STREAM-20240917-Sarah-Friend-Memoryforms-1600.jpg"
+   ],
+   "source_url": "https://www.holo.mg/stream/sarah-friend-memoryforms-lifeforms-nft-memorial/"
+  },
+  {
+   "id": "sarah-friend--clickmine",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "ClickMine",
+   "year": 2017,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [],
+   "mechanisms": [
+    "currency",
+    "participation",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "A clicker game on Ethereum mainnet in which every click mines a plot of virtual land and mints an ERC-20 token; players pay real gas to play. It was commissioned through Furtherfield's Cryptodetectorist programme and shown at NEoN Digital Arts Festival.",
+   "description_zh": "运行在以太坊主网上的点击游戏：每点击一次就“挖”出一块虚拟土地，并铸造一枚 ERC-20 代币；玩家要支付真实的 gas 费用。作品由 Furtherfield 的 Cryptodetectorist 计划委托，并在 NEoN 数字艺术节展出。",
+   "idea_en": "Make players feel how a token supply is created and destroyed by their own clicking.",
+   "idea_zh": "让玩家通过自己的点击体会代币供应如何被创造、又如何被消耗。",
+   "protocol": "Each click is a transaction that mints the game's ERC-20 token and claims land; tokens can be spent on power-ups. The game is hyperinflationary: as wealth is created it is also destroyed, and all transfers are public on Etherscan.",
+   "protocol_zh": "每次点击都是一笔交易，铸造游戏的 ERC-20 代币并占领土地；代币可用于购买强化道具。这是一个恶性通胀的游戏：财富被创造的同时也在被销毁，所有转账都公开记录在 Etherscan 上。",
+   "collective": "Players collectively produced the token's inflation curve by clicking and spending, paying transaction fees to take part in an economy with no outside value.",
+   "collective_zh": "玩家通过点击和消费共同制造出代币的通胀曲线，为参与一个没有外部价值的经济体付出交易费用。",
+   "keywords": [
+    "clicker game",
+    "ERC-20",
+    "inflation",
+    "Furtherfield",
+    "NEoN"
+   ],
+   "images": [
+    "https://isthisa.com/static/ClickMine/all.gif",
+    "https://isthisa.com/static/ClickMine/Sarah-Friend-ClickMine-Pic1.jpg"
+   ],
+   "source_url": "https://isthisa.com/clickmine"
+  },
+  {
+   "id": "simon-de-la-rouviere--this-artwork-is-always-on-sale",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "This Artwork Is Always On Sale",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "currency",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A single digital artwork governed by a Harberger tax: whoever owns it must always name a price at which anyone can buy it, and pays a continuous patronage fee to the artist on that price.",
+   "description_zh": "一件受哈伯格税支配的数字作品：持有者必须随时标出一个价格，任何人都可以按此价格买走它；持有者还要按这个价格持续向艺术家支付赞助费。",
+   "idea_en": "Ownership as a lease you price yourself: name a high price and pay more tax, a low one and lose the work.",
+   "idea_zh": "所有权变成自己定价的租约：标价高就多交税，标价低就可能失去作品。",
+   "protocol": "The ArtSteward contract holds the work. The owner deposits funds and sets a sale price; patronage accrues to the artist at 5% a year of that price (version 1, 2019) or 100% a year (version 2, 2020). Anyone can buy the work at the listed price at any time, and if the deposit runs out the contract forecloses and takes the work back.",
+   "protocol_zh": "作品由 ArtSteward 合约托管。持有者存入资金并设定售价；赞助费按该价格每年 5%（2019 年第一版）或每年 100%（2020 年第二版）持续流向艺术家。任何人随时可按标价买下作品；如果押金耗尽，合约会收回作品。",
+   "collective": "Successive patrons had to balance the price they claimed against the tax they paid. According to the artist the highest sale price was $16,000, and the work has stayed on sale ever since; version 1 was restored in 2021 after bugs were found.",
+   "collective_zh": "一任任赞助人都要在自报的价格和要缴的税之间权衡。据艺术家说，最高成交价为 16,000 美元，此后作品一直处于在售状态；第一版在发现漏洞后于 2021 年修复重启。",
+   "keywords": [
+    "Harberger tax",
+    "COST",
+    "patronage",
+    "Radical Markets",
+    "royalty"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=all1wr0Gk7o"
+   },
+   "images": [
+    "https://thisartworkisalwaysonsale.com/artwork-v1.png",
+    "https://images.squarespace-cdn.com/content/v1/5e1421011232b71c373a8668/1607521843358-NRM0QFZ4KZ2NDX4XZU2X/TAIAOS4.png"
+   ],
+   "source_url": "https://thisartworkisalwaysonsale.com",
+   "contract_url": "https://etherscan.io/address/0xB602c0bBfaB973422B91C8dfc8302B7b47550fC0",
+   "code_url": "https://github.com/simondlr/thisartworkisalwaysonsale"
+  },
+  {
+   "id": "simon-de-la-rouviere--neolastics",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "Neolastics",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [],
+   "mechanisms": [
+    "scarcity",
+    "burn",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "On-chain generative compositions after Mondrian's neoplasticism, sold along a linear bonding curve: every mint raises the price of the next, and every burn pays the burner back from a reserve.",
+   "description_zh": "仿照蒙德里安新造型主义的链上生成作品，按线性联合曲线出售：每铸造一件，下一件的价格就上升；每销毁一件，销毁者就从储备金中得到回款。",
+   "idea_en": "Give an art series a self-driving market with a built-in price floor.",
+   "idea_zh": "给一个艺术系列装上自动运行、自带底价的市场。",
+   "protocol": "Anyone can mint a randomly generated piece at the current price of a linear bonding curve; the ETH goes into a reserve. Any holder can burn their piece to receive a reward from that reserve, so supply and price move together automatically, with no auction and no curator.",
+   "protocol_zh": "任何人都可以按线性联合曲线的当前价格铸造一件随机生成的作品，ETH 进入储备金。任何持有者都可以销毁自己的作品，从储备金中领取回报；供应和价格因此自动联动，没有拍卖，也没有策展人。",
+   "collective": "Collectors' minting and burning set both the size of the series and its price. According to the artist, 467.937 ETH of Neolastics had been bought by 15 February 2021.",
+   "collective_zh": "藏家的铸造与销毁同时决定了系列的规模和价格。据艺术家统计，截至 2021 年 2 月 15 日，Neolastics 的买入总额为 467.937 ETH。",
+   "keywords": [
+    "bonding curve",
+    "reserve",
+    "burn",
+    "neoplasticism",
+    "on-chain SVG"
+   ],
+   "images": [
+    "https://neolastics.com/meta.png",
+    "https://images.squarespace-cdn.com/content/v1/5e1421011232b71c373a8668/1609075572521-6I0Q0SWZU64Z207QCMA9/Screenshot+2020-12-11+at+18.45.14.png"
+   ],
+   "source_url": "https://neolastics.com",
+   "code_url": "https://github.com/simondlr/neolastics"
+  },
+  {
+   "id": "simon-de-la-rouviere--the-signature",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "The Signature",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A free, uncapped NFT in which every token is exactly the same on-chain SVG; the only thing that distinguishes one from another is when it was minted and who has held it.",
+   "description_zh": "一个免费且不限量的 NFT，每个代币都是完全相同的链上 SVG；区分它们的只有铸造时间和持有过它的人。",
+   "idea_en": "If every copy is identical, provenance itself becomes the artwork.",
+   "idea_zh": "当每一份都一模一样时，来源记录本身就成了作品。",
+   "protocol": "Anyone can mint a Signature at any time for free, with no supply cap. All tokens render the same image; the premise is that the mint time and the chain of owners a piece attracts are, in the long term, the valuable signal.",
+   "protocol_zh": "任何人随时都可以免费铸造一个 Signature，没有供应上限。所有代币显示同一张图像；作品的前提是：铸造时间和一件作品吸引到的持有者序列，才是长期有价值的信号。",
+   "collective": "By June 2022, 223 Signatures had been minted, each differing only in its timestamp and history of holders.",
+   "collective_zh": "截至 2022 年 6 月，共有 223 个 Signature 被铸造，彼此之间只有时间戳和持有记录不同。",
+   "keywords": [
+    "provenance",
+    "free mint",
+    "identical copies",
+    "time"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e1421011232b71c373a8668/1638150830504-E0ZZS6AM2UN9RWZ2IYMH/Screenshot+2021-11-28+at+20.39.35.png"
+   ],
+   "source_url": "https://blog.simondlr.com/posts/the-signature-exploring-time-amp-provenance-in-nft-art"
+  },
+  {
+   "id": "simon-de-la-rouviere--room-of-infinite-paintings",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "The Room of Infinite Paintings",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [],
+   "mechanisms": [
+    "scarcity",
+    "participation",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A free, infinite-supply series of CC0 on-chain paintings, made for the Logged Universe story, in which the images become more minimal the more of them are minted.",
+   "description_zh": "为 Logged Universe 故事创作的免费、无限供应的 CC0 链上绘画系列：铸造得越多，画面就越趋于极简。",
+   "idea_en": "Tie the aesthetics of a series to how many people take part in it.",
+   "idea_zh": "把一个系列的美学和参与人数绑在一起。",
+   "protocol": "Anyone can mint a painting for free, with no cap. The generator makes minimal outputs more likely as the mint count grows, up to one million mints.",
+   "protocol_zh": "任何人都可以免费铸造，没有上限。随着铸造数量增加（直到一百万次），生成器越来越倾向于产出极简的画面。",
+   "collective": "Each mint pushed the series a step further toward emptiness; by June 2022, 467 paintings had been minted.",
+   "collective_zh": "每一次铸造都把整个系列往“空无”推进一步；截至 2022 年 6 月，共铸造了 467 幅。",
+   "keywords": [
+    "infinite supply",
+    "CC0",
+    "minimalism",
+    "Untitled Frontier",
+    "Logged Universe"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e1421011232b71c373a8668/12ea0701-fb8e-4236-b5f5-edf7b9145f8b/Screenshot+2022-06-19+at+10.21.43.png"
+   ],
+   "source_url": "https://www.untitledfrontier.studio/blog/the-room-of-infinite-paintings"
+  },
+  {
+   "id": "simon-de-la-rouviere--witness-the-draft",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "Witness The Draft",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "participation",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "On-chain SVG artworks that document a novel written in 30 days: the artist logged each day's writing into a contract, and each token is a chorus of eyes that holders can open and close on other tokens in the collection.",
+   "description_zh": "记录一部 30 天写成的小说的链上 SVG 作品：艺术家把每天的写作日志写入合约，每个代币是一组眼睛，持有者可以让它们对集合中的其他作品睁眼或闭眼。",
+   "idea_en": "Let artworks in a collection watch each other, and let owners decide who is being witnessed.",
+   "idea_zh": "让集合中的作品彼此注视，并由持有者决定谁在被见证。",
+   "protocol": "In November 2022 the artist wrote a draft of the novel Witnesses of Gridlock and inserted a daily log into a smart contract. Collectors can call the contract to open or close eyes on their piece toward other pieces, changing both their own image and others', as often as they like and without end.",
+   "protocol_zh": "2022 年 11 月，艺术家写作小说 Witnesses of Gridlock 的初稿，并每天把写作日志写入智能合约。藏家可以调用合约，让自己作品上的眼睛朝向其他作品睁开或闭上，从而同时改变自己和他人的图像，次数不限，永无终点。",
+   "collective": "The collection's appearance is the running record of holders' choices about whom to witness; sales were meant to fund the completion of the novel.",
+   "collective_zh": "整个集合的面貌就是持有者“选择见证谁”的实时记录；销售收入用于资助小说的完成。",
+   "keywords": [
+    "social NFT",
+    "dynamic NFT",
+    "novel",
+    "witness",
+    "on-chain SVG"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/853be4eb-65d2-4451-bea8-4844d96df48f/Screenshot+2023-02-08+at+16.29.47.png",
+    "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/3748e87c-9725-467f-a3ee-76304bf27cae/Screenshot+2023-02-08+at+11.28.09.png"
+   ],
+   "source_url": "https://www.untitledfrontier.studio/blog/witness-the-draft"
+  },
+  {
+   "id": "simon-de-la-rouviere--is-this-prediction-market-art",
+   "creator_ids": [
+    "simon-de-la-rouviere"
+   ],
+   "title": "Is this prediction market, art?",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "governance"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A prediction market that asked whether it, itself, could be deemed art, leaving the answer to traders and the market's dispute process.",
+   "description_zh": "一个预测市场，问题是：它本身能否被视为艺术。答案交给交易者和市场的争议裁决程序。",
+   "idea_en": "Outsource the art-world question of nomination to a betting market.",
+   "idea_zh": "把“谁有权宣布某物是艺术”这一艺术界问题外包给一个下注市场。",
+   "protocol": "The artist opened a prediction market on the question of whether the market is art. Traders buy positions on yes or no; the market's resolution and dispute rules decide the outcome.",
+   "protocol_zh": "艺术家就“这个预测市场是不是艺术”开设了预测市场。交易者买入“是”或“否”的头寸，由市场的结算与争议规则决定结果。",
+   "collective": "Trading leaned towards yes, but after a dispute the question was ruled invalid; the artist later minted an NFT souvenir of the experiment.",
+   "collective_zh": "交易一度倾向于“是”，但经过争议程序后，这个问题被裁定为无效；艺术家后来为这次实验铸造了一件 NFT 纪念品。",
+   "keywords": [
+    "prediction market",
+    "nomination",
+    "dispute"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e1421011232b71c373a8668/1607521320049-45HPFT2PNT60I2XD9VUN/Screenshot+2020-12-09+at+15.41.41.png"
+   ],
+   "source_url": "https://home.simondlr.com/art"
+  },
+  {
+   "id": "rhea-myers--is-art",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Is Art",
+   "year": 2014,
+   "field": "onchain",
+   "sub": "provenance",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "An Ethereum contract with a single bit of state asserting that it either is or is not art; a web page shows the current state, and anyone can flip it.",
+   "description_zh": "一个只有一位状态的以太坊合约，声明它自己“是”或“不是”艺术；网页显示当前状态，任何人都可以把它翻转。",
+   "idea_en": "Hand the conceptual-art act of nomination to whoever sends the next transaction.",
+   "idea_zh": "把观念艺术中的“命名”行为，交给下一个发送交易的人。",
+   "protocol": "Anyone can send a transaction toggling the contract's state between art and not art. Whoever toggles it sets the state unimpeded until the next person changes it; the only cost is gas.",
+   "protocol_zh": "任何人都可以发送交易，把合约状态在“是艺术”和“不是艺术”之间切换。切换者设定的状态一直有效，直到下一个人改变它；唯一的成本是 gas。",
+   "collective": "The work's status as art is whatever the most recent participant said. The artist notes that a more rational system (bidding, voting, a prediction market) could be used, which later pieces in the series explore.",
+   "collective_zh": "作品是否为艺术，取决于最近一位参与者怎么说。艺术家指出也可以采用更“理性”的机制（竞价、投票、预测市场），系列中后来的作品正是在尝试这些机制。",
+   "keywords": [
+    "nomination",
+    "Duchamp",
+    "conceptual art",
+    "Artworld Ethereum",
+    "one bit"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/is1.8ec49aa93bbd3e01.png"
+   ],
+   "source_url": "https://rhea.art/is-art/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RfgZ8DhWg8Y"
+   }
+  },
+  {
+   "id": "rhea-myers--art-is",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Art Is",
+   "year": 2014,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A contract in which people pay to define art, with the price of each definition standing for the strength of the payer's certainty.",
+   "description_zh": "一个让人们付费来给艺术下定义的合约，每个定义所付的价钱代表付费者对其正确性的确信程度。",
+   "idea_en": "Settle an old aesthetic argument with a market instead of discourse.",
+   "idea_zh": "用市场而不是话语来了结一场古老的美学争论。",
+   "protocol": "Anyone can use the Ethereum network to submit a definition of art and pay for it; the amount paid is the weight of that definition. The original 2014 version suffered from bitrot and was re-implemented by the artist.",
+   "protocol_zh": "任何人都可以通过以太坊网络提交一个关于艺术的定义并为之付费，付费金额即该定义的权重。2014 年的原版因“比特腐烂”失效，后由艺术家重新实现。",
+   "collective": "The resulting definition of art is produced by what participants are willing to pay, an ironic stand-in for discourse funded by cultural institutions.",
+   "collective_zh": "最终得出的艺术定义由参与者愿意付出的金额产生，讽刺地替代了由文化机构资助的话语。",
+   "keywords": [
+    "definition of art",
+    "paid speech",
+    "Artworld Ethereum"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/art-is-2.0.e616257379bf37e7.png"
+   ],
+   "source_url": "https://rhea.art/art-is/"
+  },
+  {
+   "id": "rhea-myers--democratic-palette",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Democratic Palette",
+   "year": 2016,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "governance",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A palette of twelve colours set on the Ethereum blockchain by anyone who sends a voting transaction.",
+   "description_zh": "一个由十二种颜色组成的调色板，任何人发送投票交易即可在以太坊上决定它的颜色。",
+   "idea_en": "Put the choice of colour to a vote, and expose what it costs to vote.",
+   "idea_zh": "把选色交给投票，同时让投票本身的成本暴露出来。",
+   "protocol": "Every vote for every colour is tracked by the contract, and the twelve colours with the most votes make up the palette. The only cost of voting is gas paid in Ether.",
+   "protocol_zh": "合约记录每一种颜色获得的每一张票，得票最多的十二种颜色组成调色板。投票唯一的成本是用以太币支付的 gas。",
+   "collective": "The palette displayed in the work's visual applications is whatever voters have produced, raising the question of who can afford to take part in decentralised aesthetics.",
+   "collective_zh": "作品各种视觉应用中显示的调色板，就是投票者共同产生的结果，由此提出一个问题：谁负担得起参与去中心化美学。",
+   "keywords": [
+    "voting",
+    "colour",
+    "palette",
+    "gas"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/palette-stripes.e98bf4347304d472.png"
+   ],
+   "source_url": "https://rhea.art/democratic-palette/"
+  },
+  {
+   "id": "rhea-myers--lottery-symbol",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Lottery Symbol",
+   "year": 2017,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "chance",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A graphical symbol on the blockchain chosen by lottery from options that participants submit as Ethereum transactions.",
+   "description_zh": "一个链上图形符号，通过抽签从参与者以以太坊交易提交的选项中选出。",
+   "idea_en": "Pair a method of allocation with an aesthetic property: here, luck decides the image.",
+   "idea_zh": "把一种分配方法和一种审美属性配对：在这里，运气决定图像。",
+   "protocol": "Anyone can submit a candidate symbol by transaction; a simple lottery using the blockchain itself as a source of entropy picks the winner. The artist notes this randomness is insecure, which is acceptable for a symbol.",
+   "protocol_zh": "任何人都可以通过交易提交候选符号；一个以区块链本身作为熵源的简单抽签选出胜者。艺术家指出这种随机性并不安全，但对一个符号而言可以接受。",
+   "collective": "The displayed symbol comes from whoever took part and from chance; it follows Democratic Palette in a series pairing allocation methods with aesthetics.",
+   "collective_zh": "最终显示的符号来自参与者和偶然；它接续 Democratic Palette，属于把分配方法与美学配对的系列。",
+   "keywords": [
+    "lottery",
+    "entropy",
+    "symbol",
+    "allocation"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/lottery-symbol.1cfcb8ba7637f4a2.png"
+   ],
+   "source_url": "https://rhea.art/lottery-symbol/"
+  },
+  {
+   "id": "rhea-myers--schellingflags",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "SchellingFlags",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "governance",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A blockchain system for making and supporting flags as focal points for decentralised social coordination, shown in Distributed Systems at Gray Area.",
+   "description_zh": "一个在区块链上创建和支持旗帜的系统，把旗帜作为去中心化社会协调的焦点，曾在 Gray Area 的 Distributed Systems 展出。",
+   "idea_en": "Flags are Schelling points: let anyone create one and let support decide which become shared.",
+   "idea_zh": "旗帜就是谢林点：让任何人都能创造旗帜，由支持度决定哪些成为共识。",
+   "protocol": "Any individual can create and share a flag on-chain, and any individual can support it. The interface displays the most popular flags as a map of the ideological landscape.",
+   "protocol_zh": "任何人都可以在链上创建并分享一面旗帜，任何人都可以支持它。界面展示最受支持的旗帜，形成一张意识形态地形图。",
+   "collective": "The map of flags is drawn entirely by participants' creations and endorsements.",
+   "collective_zh": "这张旗帜地图完全由参与者的创作和支持绘制而成。",
+   "keywords": [
+    "Schelling point",
+    "flags",
+    "coordination",
+    "Gray Area"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/schellingflags.0d79a962f8329d7c.png"
+   ],
+   "source_url": "https://rhea.art/schellingflags/"
+  },
+  {
+   "id": "rhea-myers--secret-artwork",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Secret Artwork",
+   "year": 2018,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "An ERC-721 token whose contract stores only a salted hash of the artwork's content, so the owner owns something they cannot see.",
+   "description_zh": "一个 ERC-721 代币，合约只存储作品内容的加盐哈希值，持有者拥有的是一件自己看不到的东西。",
+   "idea_en": "Separate owning a work from knowing it.",
+   "idea_zh": "把“拥有一件作品”和“知道它是什么”拆开。",
+   "protocol": "The contract records a cryptographic hash of the content; the token can be owned and traded, but the owner knows no more about the content than the public. The DApp shows every fact the network holds about the token (owner, creation time, hash) as text, colour, shapes and notes.",
+   "protocol_zh": "合约记录内容的密码学哈希；代币可以被拥有和交易，但持有者对内容的了解并不比公众多。DApp 把网络上关于这个代币的所有事实（持有者、创建时间、哈希）呈现为文字、颜色、形状和音符。",
+   "collective": "Each buyer acquires a verified but unknowable work; it was sold in Sotheby's Natively Digital sale in 2021.",
+   "collective_zh": "每位买家得到的都是一件可验证却不可知的作品；它在 2021 年苏富比 Natively Digital 拍卖中售出。",
+   "keywords": [
+    "hash",
+    "secret",
+    "ERC-721",
+    "Sotheby's",
+    "Natively Digital"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/secret-artwork.4b64c9a83dd7e285.png"
+   ],
+   "source_url": "https://rhea.art/secret-artwork/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HLSOG5fWVow"
+   }
+  },
+  {
+   "id": "rhea-myers--token-grid",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Token Grid",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "burn",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A grid on the Ethereum blockchain, viewable on the web, that anyone can change, but only by burning one of the contract's ERC-20 tokens.",
+   "description_zh": "一个位于以太坊上、可在网页查看的网格，任何人都可以修改，但每次修改都要销毁一枚该合约的 ERC-20 代币。",
+   "idea_en": "Make every edit to a shared image cost a token that is destroyed.",
+   "idea_zh": "让对共享图像的每一次修改，都以销毁一枚代币为代价。",
+   "protocol": "To change a cell of the grid, a participant must acquire and burn one of the grid contract's ERC-20 tokens.",
+   "protocol_zh": "参与者要改动网格中的一个格子，必须先取得并销毁一枚网格合约的 ERC-20 代币。",
+   "collective": "The grid's state is the trace of every token participants chose to destroy to alter it.",
+   "collective_zh": "网格的状态记录着参与者为改动它而选择销毁的每一枚代币。",
+   "keywords": [
+    "grid",
+    "ERC-20",
+    "burn",
+    "modernism"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/token-grid.1f7067822c5a36b7.png"
+   ],
+   "source_url": "https://rhea.art/token-grid/"
+  },
+  {
+   "id": "rhea-myers--proof-of-work-bitmap",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Proof of Work Bitmap",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A 16×16 monochrome bitmap on the Ethereum blockchain that can only be edited by submitting a solved proof-of-work puzzle.",
+   "description_zh": "一张位于以太坊上的 16×16 单色位图，只有提交已解出的工作量证明谜题才能编辑。",
+   "idea_en": "Make people mine before they can draw.",
+   "idea_zh": "要画画，先挖矿。",
+   "protocol": "To edit the bitmap, a participant runs code similar to cryptocurrency mining and submits a 256-bit result with the required number of trailing zeros, the same size as the 16×16 image.",
+   "protocol_zh": "要编辑位图，参与者需运行类似加密货币挖矿的代码，提交一个末尾有足够多零的 256 位结果，其大小恰好与 16×16 的图像相同。",
+   "collective": "Each change to the image is backed by computation that participants spent to prove their good faith.",
+   "collective_zh": "图像的每一次变化，背后都是参与者为证明诚意而耗费的计算。",
+   "keywords": [
+    "proof of work",
+    "bitmap",
+    "mining",
+    "256-bit"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/powb-1.256f687208c65683.png"
+   ],
+   "source_url": "https://rhea.art/proof-of-work-bitmap/"
+  },
+  {
+   "id": "rhea-myers--hack-line-properties",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Hack Line Properties",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A supposedly secure contract that lets only its owner change the line stroke properties it stores, but contains a common Ethereum bug that lets anyone who finds it take control.",
+   "description_zh": "一个看似安全的合约，只允许所有者修改它存储的线条属性，但其中有一个常见的以太坊漏洞，任何发现它的人都能夺取控制权。",
+   "idea_en": "Write the exploit into the rules and let hackers become co-authors.",
+   "idea_zh": "把漏洞写进规则，让黑客成为共同作者。",
+   "protocol": "The contract's access control is deliberately flawed: anyone who spots the bug can call it and set the line properties themselves.",
+   "protocol_zh": "合约的访问控制被故意留有缺陷：任何发现漏洞的人都可以调用它，自行设定线条属性。",
+   "collective": "The drawing's current style is set by whoever last exploited the bug.",
+   "collective_zh": "图形当前的样式，由最近一次利用漏洞的人决定。",
+   "keywords": [
+    "exploit",
+    "bug",
+    "access control",
+    "line"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/hack-line-1.fe90a5cb26e28a9a.png"
+   ],
+   "source_url": "https://rhea.art/hack-line-properties/"
+  },
+  {
+   "id": "rhea-myers--pay-previous-path",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Pay Previous Path",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "circulation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A contract that lets anyone store a vector drawing on the blockchain in return for paying a small fee to the previous person who did so.",
+   "description_zh": "一个合约：任何人都可以在区块链上存储一幅矢量线稿，代价是向上一位这样做的人支付一小笔费用。",
+   "idea_en": "Each contributor is paid by the next one.",
+   "idea_zh": "每一位贡献者都由下一位付钱。",
+   "protocol": "Anyone can submit a path drawing (encoded like SVG path line art). To do so they pay a small fee, which goes to the author of the previous drawing.",
+   "protocol_zh": "任何人都可以提交一条路径线稿（编码方式类似 SVG path）。提交时需支付一小笔费用，这笔钱归上一幅线稿的作者。",
+   "collective": "The sequence of drawings forms a chain of small payments between strangers.",
+   "collective_zh": "一幅幅线稿连成陌生人之间的一串小额支付。",
+   "keywords": [
+    "SVG path",
+    "fee",
+    "chain",
+    "drawing"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/ppp1-cropped.c7f16600628a2503.png"
+   ],
+   "source_url": "https://rhea.art/pay-previous-path/"
+  },
+  {
+   "id": "rhea-myers--staking-ratio",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Staking Ratio",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "currency",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A ratio of two amounts of Ether staked by users; the last work in the series that began with Democratic Palette, and the first to deal directly in cryptocurrency value.",
+   "description_zh": "由用户质押的两笔以太币数额构成的比例；它是从 Democratic Palette 开始的系列中的最后一件，也是第一件直接处理加密货币价值的作品。",
+   "idea_en": "Let value itself be the aesthetic parameter.",
+   "idea_zh": "让价值本身成为审美参数。",
+   "protocol": "Users stake Ether on one of two sides; the work displays the ratio between the two amounts. The artist warns: use at your own risk.",
+   "protocol_zh": "用户把以太币质押到两边之一；作品显示两笔数额之间的比例。艺术家提示：风险自负。",
+   "collective": "The image is produced entirely by how much participants choose to stake on each side.",
+   "collective_zh": "图像完全由参与者选择在两边各质押多少决定。",
+   "keywords": [
+    "staking",
+    "ratio",
+    "Ether",
+    "value"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/EMDdkbeU8AAos7_cropped.c6cd41d017f7f89a.png"
+   ],
+   "source_url": "https://rhea.art/staking-ratio/"
+  },
+  {
+   "id": "rhea-myers--shareable-readymades",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Shareable Readymades",
+   "year": 2011,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "3D-printable models of a urinal, a balloon dog and a pipe, commissioned by the artist from Christine Webber and Bassam Kurdali and released under CC BY-SA for anyone to print.",
+   "description_zh": "艺术家委托 Christine Webber 和 Bassam Kurdali 制作的小便池、气球狗和烟斗的 3D 打印模型，以 CC BY-SA 许可发布，任何人都可以打印。",
+   "idea_en": "Turn canonical signature objects of art history back into a commons anyone can reproduce.",
+   "idea_zh": "把艺术史上被据为签名之作的日常物件，还原为任何人都能复制的公共资源。",
+   "protocol": "The models are free to download, print, modify and share under a Creative Commons Attribution-ShareAlike licence, with attribution to the commissioning artist. Furtherfield exhibited them with Certificates of Inauthenticity detourned from Sol LeWitt's wall-drawing certificates.",
+   "protocol_zh": "模型以知识共享“署名-相同方式共享”许可发布，可自由下载、打印、修改和分享，并署名委托艺术家。Furtherfield 展出时配上了挪用自索尔·勒维特墙绘证书的“非真品证书”。",
+   "collective": "Others took the files further: at #BlockchainLive18 in London, Ruth Catlow and Charlotte Frost of DECAL and Furtherfield produced gold castings of the Balloon Dog and registered them on a blockchain, which led to the artist's Certificate of Inauthenticity NFTs (2020).",
+   "collective_zh": "其他人把这些文件继续推进：在伦敦 #BlockchainLive18 上，DECAL 与 Furtherfield 的 Ruth Catlow 和 Charlotte Frost 用气球狗模型铸成金像并在区块链上登记，这又促成了艺术家 2020 年的 Certificate of Inauthenticity NFT。",
+   "keywords": [
+    "3D printing",
+    "Creative Commons",
+    "readymade",
+    "Koons",
+    "Duchamp",
+    "Furtherfield"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/urinal.8ce9e987b5cfdb58.png",
+    "https://rhea.art/images/balloon-dog.png",
+    "https://rhea.art/processed_images/Urinal04-cropped.45a9ed80bdcc6f07.png"
+   ],
+   "source_url": "https://rhea.art/shareable-readymades/"
+  },
+  {
+   "id": "rhea-myers--is-art-editions",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Is Art (Editions)",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "contract",
+    "governance"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "Sixteen smart-contract tokens that revisit Is Art (2014) and delegate the power to nominate the token as art, or not, to its owner.",
+   "description_zh": "十六个智能合约代币，回顾 2014 年的 Is Art，把“宣布代币是否为艺术”的权力交给持有者。",
+   "idea_en": "Sell the artist's power of nomination along with the token.",
+   "idea_zh": "把艺术家的命名权随代币一起出售。",
+   "protocol": "Each owner can set their token's state to art or not art; the assertion is secured by the blockchain. Unlike the 2014 contract, which anyone could flip, the right now belongs to whoever holds the token.",
+   "protocol_zh": "每位持有者都可以把自己的代币设为“是艺术”或“不是艺术”，这一声明由区块链保证。与 2014 年那份任何人都能翻转的合约不同，这项权利现在只属于代币持有者。",
+   "collective": "The art status of the edition is split across sixteen owners, each able to change their mind.",
+   "collective_zh": "这套版本的“艺术身份”分散在十六位持有者手中，每人都可以随时改变主意。",
+   "keywords": [
+    "nomination",
+    "edition",
+    "Galerie Nagel Draxler",
+    "Artworld Ethereum"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/is-art-token-is.e9d6202c31dcf1a1.png",
+    "https://rhea.art/images/is-art-token-block-height.gif"
+   ],
+   "source_url": "https://rhea.art/is-art-editions/"
+  },
+  {
+   "id": "rhea-myers--10k-drop",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "10K Drop",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "scarcity",
+    "time",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A collection of ten thousand generative 'drops' of the letter K, released on Verse, that stays locked until the price of Ether reaches ten thousand US dollars.",
+   "description_zh": "在 Verse 上发布的一万件生成式“字母 K 的水滴”，在以太坊价格达到一万美元之前一直处于锁定状态。",
+   "idea_en": "Make a collection's unlocking depend on the whole market, not on its collectors.",
+   "idea_zh": "让一个系列能否解锁取决于整个市场，而不是它的藏家。",
+   "protocol": "Each NFT is a generatively created drop of ten Ks, viewable as a live animation or a static image. The tokens are locked until ETH trades at $10,000.",
+   "protocol_zh": "每个 NFT 都是一个生成式的“十个 K 的水滴”，可以作为实时动画或静态图像观看。代币在 ETH 价格达到 10,000 美元之前保持锁定。",
+   "collective": "The work parodies the 10K PFP drop, in which buying early, 'aping in' and 'sweeping the floor' drive and frustrate a desire for complete ownership; here the collectors' fate is tied to the market as a whole.",
+   "collective_zh": "作品戏仿了一万件头像的发售模式：抢先买入、“梭哈”（aping in）、“扫地板”（sweeping the floor）既推动也挫败了对完整拥有的渴望；在这里，藏家的命运与整个市场绑在一起。",
+   "keywords": [
+    "10K drop",
+    "PFP",
+    "lock",
+    "ETH price",
+    "Verse"
+   ],
+   "images": [
+    "https://rhea.art/processed_images/10Kdrop-1.e97dc1326696d6ae.png"
+   ],
+   "source_url": "https://verse.works/series/10k-drop-by-rhea-myers",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ahB4LtWLIDE"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Rhea Myers, The Fractionalized Phallus (2025)",
+   "why": "30 glitched 3D-scan fragments sold as separate NFTs; fractional ownership as subject, check whether any rule links holders.",
+   "link": "https://rhea.art/the-fractionalized-phallus/",
+   "found_via": "rhea-myers",
+   "status": "open"
+  },
+  {
+   "name": "Rhea Myers, Ethereum Art Market (2014)",
+   "why": "Early smart contract to register and sell digital artworks with optional royalties.",
+   "link": "https://mlo.art/research/history-of-crypto-art/",
+   "found_via": "rhea-myers",
+   "status": "open"
+  },
+  {
+   "name": "Rhea Myers, Certificate of Inauthenticity (2020)",
+   "why": "NFT certificates growing out of the DECAL gold castings of Shareable Readymades; covered inside that entry.",
+   "link": "https://rhea.art/certificate-of-inauthenticity/",
+   "found_via": "rhea-myers",
+   "status": "duplicate"
+  },
+  {
+   "name": "Rhea Myers, Tokens Equal Text (2019)",
+   "why": "ERC-998 composable tokens whose IDs read as text; no collective rule.",
+   "link": "https://rhea.art/tokens-equal-text/",
+   "found_via": "rhea-myers",
+   "status": "off_topic"
+  },
+  {
+   "name": "Simon de la Rouviere / Untitled Frontier, Logged Universe (2021–2023)",
+   "why": "Story-linked on-chain drops where holding earlier NFTs grants free mints of later ones (Anchor Certificates, Paintings of Forgotten Souls, Little Martians, Daisychains).",
+   "link": "https://www.untitledfrontier.studio",
+   "found_via": "simon-de-la-rouviere",
+   "status": "open"
+  },
+  {
+   "name": "Hundreds (attributed to Simon de la Rouviere in the brief)",
+   "why": "No source found linking a work called Hundreds to him; verify authorship.",
+   "link": "",
+   "found_via": "simon-de-la-rouviere",
+   "status": "open"
+  },
+  {
+   "name": "Sarah Friend, Perverse Affordances / Terraforming",
+   "why": "Other works on isthisa.com; check for contract rules.",
+   "link": "https://isthisa.com",
+   "found_via": "sarah-friend",
+   "status": "open"
+  }
+ ]
+}
