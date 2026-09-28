@@ -1,0 +1,1160 @@
+{
+  "batch": "score",
+  "creators": [
+    {
+      "id": "allan-kaprow",
+      "name": "Allan Kaprow",
+      "kind": "person",
+      "role": "Artist and teacher",
+      "based": "New York and California, US",
+      "bio": "American artist (1927–2006) who coined the term 'happening' in 1959 and later moved to small, scored 'activities' for pairs and groups.",
+      "why": "He turned the exhibition into a set of instructions that audiences and volunteers carry out, and treated every remake as a 'reinvention'.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Allan_Kaprow"
+      },
+      "role_zh": "艺术家、教师",
+      "based_zh": "美国纽约与加利福尼亚",
+      "bio_zh": "美国艺术家（1927–2006），1959 年提出“偶发艺术”（happening）一词，后来转向为两人或小组编写的小规模“活动”乐谱。",
+      "why_zh": "他把展览变成一组由观众和志愿者执行的指令，并把每一次重做都视为一次“再发明”。",
+      "connected_to": [
+        "george-brecht",
+        "john-cage"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "felix-gonzalez-torres",
+      "name": "Felix Gonzalez-Torres",
+      "kind": "person",
+      "role": "Artist",
+      "based": "New York, US",
+      "bio": "Cuban-born American artist (1957–1996) known for candy spills and paper stacks that visitors may take from and that owners must replenish.",
+      "why": "His works exist as ownership certificates and installation guidelines: the owner rebuilds the piece and the public slowly takes it apart.",
+      "links": {
+        "site": "https://www.felixgonzalez-torresfoundation.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Felix_Gonzalez-Torres"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "美国纽约",
+      "bio_zh": "古巴出生的美国艺术家（1957–1996），以糖果堆和纸堆作品闻名：观众可以从中拿走，收藏者必须补充。",
+      "why_zh": "他的作品以所有权证书和安装准则的形式存在：收藏者按规则重建作品，公众则一点点把它拿走。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "hans-ulrich-obrist",
+      "name": "Hans Ulrich Obrist",
+      "kind": "person",
+      "role": "Curator",
+      "based": "London, UK",
+      "bio": "Swiss curator, artistic director of the Serpentine Galleries in London, who started the instruction exhibition do it with Christian Boltanski and Bertrand Lavier in 1993.",
+      "why": "do it is an exhibition made only of artists' instructions, which each host institution and its public must realise anew.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hans_Ulrich_Obrist"
+      },
+      "role_zh": "策展人",
+      "based_zh": "英国伦敦",
+      "bio_zh": "瑞士策展人，伦敦蛇形画廊艺术总监，1993 年与克里斯蒂安·波尔坦斯基、贝尔特朗·拉维耶一起发起指令展览 do it。",
+      "why_zh": "do it 是一个只由艺术家指令构成的展览，每个接待机构和它的观众都要重新把指令实现出来。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "erwin-wurm",
+      "name": "Erwin Wurm",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Vienna, AT",
+      "bio": "Austrian sculptor whose One Minute Sculptures (1997–) are drawn or written instructions that visitors perform with everyday objects for sixty seconds.",
+      "why": "He made the visitor's body the material of the sculpture and the instruction the lasting part of the work.",
+      "links": {
+        "site": "https://www.erwinwurm.at/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Wurm"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "奥地利维也纳",
+      "bio_zh": "奥地利雕塑家，他的《一分钟雕塑》（1997–）是一些画出或写出的指令，观众用日常物品照着做六十秒。",
+      "why_zh": "他把观众的身体变成雕塑的材料，而指令才是作品中持久的部分。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "david-horvitz",
+      "name": "David Horvitz",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Los Angeles, US",
+      "bio": "American artist (born 1982) working with books, mail art, performance and the internet, often through instructions that others carry out.",
+      "why": "He writes simple instructions that travel through networks and crowds, from a freezer meme to bells rung at local noon.",
+      "links": {
+        "site": "https://davidhorvitz.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_Horvitz"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "美国洛杉矶",
+      "bio_zh": "美国艺术家（1982 年生），创作涉及书籍、邮件艺术、表演和互联网，常常通过让别人执行的指令来完成作品。",
+      "why_zh": "他写下简单的指令，让它们在网络和人群中传播：从冰箱表情包到在本地正午敲响的铃。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "brian-eno",
+      "name": "Brian Eno",
+      "kind": "person",
+      "role": "Musician, producer and artist",
+      "based": "London, UK",
+      "bio": "English musician and producer who, with the painter Peter Schmidt, published the card deck Oblique Strategies in 1975.",
+      "why": "Oblique Strategies is a portable rule system: anyone stuck in a creative process draws a card and follows it.",
+      "links": {
+        "site": "https://www.brian-eno.net/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brian_Eno"
+      },
+      "role_zh": "音乐人、制作人、艺术家",
+      "based_zh": "英国伦敦",
+      "bio_zh": "英国音乐人和制作人，1975 年与画家彼得·施密特合作出版卡片《迂回策略》。",
+      "why_zh": "《迂回策略》是一套可以随身携带的规则系统：任何在创作中卡住的人抽一张卡，然后照做。",
+      "connected_to": [
+        "peter-schmidt"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "peter-schmidt",
+      "name": "Peter Schmidt",
+      "kind": "person",
+      "role": "Painter",
+      "based": "London, UK",
+      "bio": "German-born British painter (1931–1980) who co-authored Oblique Strategies with Brian Eno.",
+      "why": "Co-author of Oblique Strategies, one of the most widely used instruction decks for creative work.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Schmidt_(artist)"
+      },
+      "role_zh": "画家",
+      "based_zh": "英国伦敦",
+      "bio_zh": "德国出生的英国画家（1931–1980），与布莱恩·伊诺合著《迂回策略》。",
+      "why_zh": "《迂回策略》的共同作者，这是创作领域使用最广的指令卡之一。",
+      "connected_to": [
+        "brian-eno"
+      ],
+      "discovered_via": "brian-eno"
+    },
+    {
+      "id": "raymond-queneau",
+      "name": "Raymond Queneau",
+      "kind": "person",
+      "role": "Writer",
+      "based": "Paris, FR",
+      "bio": "French novelist and poet (1903–1976) who co-founded Oulipo with François Le Lionnais in 1960.",
+      "why": "His combinatorial sonnet book hands the composition of each poem to the reader, under a strict rhyme constraint.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Queneau"
+      },
+      "role_zh": "作家",
+      "based_zh": "法国巴黎",
+      "bio_zh": "法国小说家、诗人（1903–1976），1960 年与弗朗索瓦·勒利奥内共同创立“潜在文学工场”（Oulipo）。",
+      "why_zh": "他的组合十四行诗集在严格的押韵约束下，把每一首诗的组合交给读者完成。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "roman-ondak",
+      "name": "Roman Ondák",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Bratislava, SK",
+      "bio": "Slovak artist (born 1966) whose installations and performances often rely on instructions carried out by museum staff and visitors.",
+      "why": "Measuring the Universe turns a household habit, marking a child's height on a wall, into an instruction that thousands of visitors complete.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Roman_Ond%C3%A1k"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "斯洛伐克布拉迪斯拉发",
+      "bio_zh": "斯洛伐克艺术家（1966 年生），他的装置和表演常常依靠美术馆工作人员和观众执行的指令。",
+      "why_zh": "《测量宇宙》把在墙上给孩子量身高这一家庭习惯，变成成千上万名观众共同完成的指令。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "christian-marclay",
+      "name": "Christian Marclay",
+      "kind": "person",
+      "role": "Artist and composer",
+      "based": "London, UK and New York, US",
+      "bio": "Swiss-American visual artist and composer who has made many graphic and found scores for musicians to interpret.",
+      "why": "In Graffiti Composition the public writes the score and musicians play it, so both notation and performance come from other people.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Christian_Marclay"
+      },
+      "role_zh": "艺术家、作曲家",
+      "based_zh": "英国伦敦与美国纽约",
+      "bio_zh": "瑞士裔美国视觉艺术家、作曲家，创作了许多交给音乐家演绎的图形乐谱和现成乐谱。",
+      "why_zh": "在《涂鸦乐谱》中，公众写下乐谱、音乐家演奏它，记谱和演奏都来自别人。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anna-halprin",
+      "name": "Anna Halprin",
+      "kind": "person",
+      "role": "Dancer and choreographer",
+      "based": "Kentfield, California, US",
+      "bio": "American dancer and choreographer (1920–2021) who developed community dance rituals and, with Lawrence Halprin, the RSVP Cycles scoring method.",
+      "why": "Her Planetary Dance is a movement score that communities around the world perform each year with their own local theme.",
+      "links": {
+        "site": "https://www.annahalprin.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anna_Halprin"
+      },
+      "role_zh": "舞者、编舞家",
+      "based_zh": "美国加利福尼亚州肯特菲尔德",
+      "bio_zh": "美国舞者和编舞家（1920–2021），发展了社区舞蹈仪式，并与劳伦斯·哈尔普林一起提出“RSVP 循环”记谱方法。",
+      "why_zh": "她的《行星之舞》是一份动作乐谱，世界各地的社区每年以自己的本地主题来表演它。",
+      "connected_to": [
+        "simone-forti"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "simone-forti",
+      "name": "Simone Forti",
+      "kind": "person",
+      "role": "Artist, dancer and choreographer",
+      "based": "Los Angeles, US",
+      "bio": "Italian-born American artist and dancer (born 1935) whose Dance Constructions (1960–61) are task-based pieces for groups of performers.",
+      "why": "Her Dance Constructions entered MoMA's collection in 2015 as instructions and teaching rights, so the museum must train new performers to realise them.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Simone_Forti"
+      },
+      "role_zh": "艺术家、舞者、编舞家",
+      "based_zh": "美国洛杉矶",
+      "bio_zh": "意大利出生的美国艺术家和舞者（1935 年生），她的《舞蹈构造》（1960–61）是交给一群表演者完成的任务型作品。",
+      "why_zh": "2015 年《舞蹈构造》以指令和传授权的形式进入 MoMA 收藏，美术馆必须训练新的表演者来实现它们。",
+      "connected_to": [
+        "anna-halprin",
+        "la-monte-young",
+        "yoko-ono"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "john-baldessari",
+      "name": "John Baldessari",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Los Angeles, US",
+      "bio": "American conceptual artist (1931–2020) who used photographs, text and hired makers to question authorship in painting.",
+      "why": "His Commissioned Paintings were painted entirely by other people following his set-up, with their names written on the canvas.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Baldessari"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "美国洛杉矶",
+      "bio_zh": "美国观念艺术家（1931–2020），用照片、文字和雇来的制作者质疑绘画中的作者身份。",
+      "why_zh": "他的《委托绘画》完全由别人按照他设定的流程画成，画布上写的是画者的名字。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "david-katzive",
+      "name": "David H. Katzive",
+      "kind": "person",
+      "role": "Curator",
+      "based": "Chicago, US",
+      "bio": "Curator at the Museum of Contemporary Art Chicago who organised Art by Telephone in 1969, under director Jan van der Marck.",
+      "why": "Art by Telephone made the museum staff the executors of works that artists described only by phone.",
+      "links": {},
+      "role_zh": "策展人",
+      "based_zh": "美国芝加哥",
+      "bio_zh": "芝加哥当代艺术博物馆策展人，1969 年在馆长扬·范德马克任内组织了“电话艺术”展。",
+      "why_zh": "“电话艺术”让美术馆员工成为作品的执行者，而艺术家只通过电话描述作品。",
+      "connected_to": [
+        "laszlo-moholy-nagy",
+        "sol-lewitt"
+      ],
+      "discovered_via": "laszlo-moholy-nagy"
+    }
+  ],
+  "works": [
+    {
+      "id": "allan-kaprow--18-happenings-in-6-parts",
+      "creator_ids": [
+        "allan-kaprow"
+      ],
+      "title": "18 Happenings in 6 Parts",
+      "year": 1959,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An evening at the Reuben Gallery in New York, October 1959, in which three rooms of plastic-sheet walls hosted simultaneous actions, and the audience moved between rooms on printed instructions.",
+      "description_zh": "1959 年 10 月在纽约鲁本画廊的一场演出：三个用塑料布隔出的房间里同时进行各种动作，观众按照印好的指令卡在房间之间移动。",
+      "idea_en": "Hand the audience a timetable and they become part of the choreography.",
+      "idea_zh": "把一张时间表交给观众，他们就成了编舞的一部分。",
+      "protocol": "Guests received a programme and three stapled cards: \"The performance is divided into six parts... Each part contains three happenings which occur at once. The beginning and end of each will be signaled by a bell.\" The cards also told each guest when to change seats and which room to move to.",
+      "protocol_zh": "观众拿到一份节目单和三张订在一起的卡片：“演出分为六个部分……每部分包含三个同时发生的偶发事件，开始和结束以铃声为号。”卡片还规定每位观众何时换座、换到哪个房间。",
+      "collective": "Invited guests followed the cards, so no one saw all eighteen happenings and each person's version of the work differed; performers including Kaprow's friends carried out the scripted actions. The piece gave the 'happening' its name.",
+      "collective_zh": "受邀观众照卡片行动，因此没有人看全十八个事件，每个人看到的作品都不一样；包括卡普罗朋友在内的表演者执行写好的动作。“偶发艺术”一词由此得名。",
+      "keywords": [
+        "happening",
+        "Reuben Gallery",
+        "instruction cards",
+        "audience"
+      ],
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjMwMjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2fb4df5afdc0e236"
+      ],
+      "source_url": "https://www.moma.org/collection/works/associatedworks/173008"
+    },
+    {
+      "id": "allan-kaprow--yard",
+      "creator_ids": [
+        "allan-kaprow"
+      ],
+      "title": "Yard",
+      "year": 1961,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An environment of hundreds of used car tyres heaped in the sculpture garden of the Martha Jackson Gallery, New York, for visitors to walk on, climb and throw around; it has since been remade many times.",
+      "description_zh": "在纽约玛莎·杰克逊画廊的雕塑花园里堆满数百个旧轮胎，观众可以在上面行走、攀爬、把轮胎扔来扔去；此后被多次重做。",
+      "idea_en": "An environment is a score: the materials and the permission to move them are the work.",
+      "idea_zh": "环境就是乐谱：材料和“可以搬动它们”的许可就是作品。",
+      "protocol": "Fill a yard with tyres and let visitors walk on, climb, rearrange and interact with them. Kaprow treated Yard as a score to be re-realised in each new space, adapted to the site.",
+      "protocol_zh": "用轮胎填满一个院子，让观众在上面走、爬、重新摆放、随意互动。卡普罗把《院子》当作一份乐谱，在每个新空间里根据场地重新实现。",
+      "collective": "Visitors rearranged the tyres continuously, so the heap never held one form. Later reinventions, for example at The Hepworth Wakefield's The Calder (2014) and at MACRO in Rome (2024), were staged by other teams and invited artists, dancers and musicians to intervene.",
+      "collective_zh": "观众不断搬动轮胎，轮胎堆从来没有固定的形态。后来的“再发明”由其他团队完成，比如赫普沃斯韦克菲尔德美术馆的 The Calder（2014）和罗马 MACRO（2024），还邀请艺术家、舞者和音乐人介入。",
+      "keywords": [
+        "environment",
+        "tyres",
+        "Martha Jackson Gallery",
+        "reinvention"
+      ],
+      "images": [
+        "https://hepworth-wakefield-live.s3.amazonaws.com/wp-content/uploads/2017/08/71586-0008-1024x683.jpg",
+        "https://www.moussemagazine.it/wp-content/uploads/2024/09/Allan-Kaprow_Yard_Ph-Agnese-Bedini-DSL-Studio-IMG_9411-768x512.jpg"
+      ],
+      "source_url": "https://hepworthwakefield.org/whats-on/allan-kaprow-yard-19612014/"
+    },
+    {
+      "id": "allan-kaprow--push-and-pull",
+      "creator_ids": [
+        "allan-kaprow"
+      ],
+      "title": "Push and Pull: A Furniture Comedy for Hans Hofmann",
+      "year": 1963,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Two furnished rooms, made for a touring exhibition on Hans Hofmann and his students, that visitors were invited to rearrange as they wished.",
+      "description_zh": "为汉斯·霍夫曼及其学生的巡回展制作的两间布置好的房间，观众可以随意重新摆放其中的家具。",
+      "idea_en": "Turn a painter's composition rule into a room that strangers compose together.",
+      "idea_zh": "把画家的构图法则变成一间由陌生人一起“构图”的房间。",
+      "protocol": "Kaprow's instruction: \"Anyone can find or make one or more rooms of any shape, size, proportion, and color -- then furnish them perhaps, maybe paint some things or everything. Everyone else can come in and, if the room(s) are furnished, they also can arrange them, accommodating themselves as they see fit.\"",
+      "protocol_zh": "卡普罗的指令大意是：任何人都可以找到或搭建一个或几个任意形状、大小、比例和颜色的房间，也许放进家具，也许把一些东西或全部东西刷上颜色；其他所有人都可以进来，如果房间里有家具，也可以按自己的意思重新摆放。",
+      "collective": "Visitors moved the furniture, cooperating or competing with each other, so the rooms kept changing. The score has been re-realised by later groups, such as Push and Pull Redfern in Sydney.",
+      "collective_zh": "观众搬动家具，时而合作时而较劲，房间因此不停变化。后来的团体也重新实现过这份乐谱，比如悉尼的 Push and Pull Redfern。",
+      "keywords": [
+        "Hans Hofmann",
+        "furniture",
+        "push and pull",
+        "environment"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=GFCfecGIsTQ"
+      },
+      "source_url": "http://www.medienkunstnetz.de/works/push-and-pull/"
+    },
+    {
+      "id": "allan-kaprow--fluids",
+      "creator_ids": [
+        "allan-kaprow"
+      ],
+      "title": "Fluids",
+      "year": 1967,
+      "field": "score",
+      "sub": "event-scores",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A happening in which volunteers built large rectangular enclosures of ice blocks at sites across Pasadena and Los Angeles and left them to melt; the score has been reinvented in Los Angeles, London, Berlin and elsewhere.",
+      "description_zh": "一场偶发艺术：志愿者在帕萨迪纳和洛杉矶各处用冰块砌起大型长方形围墙，然后任其融化；这份乐谱后来在洛杉矶、伦敦、柏林等地被重新实现。",
+      "idea_en": "A short score, many builders, and a material that erases the result.",
+      "idea_zh": "一份简短的乐谱、许多建造者，以及一种会抹掉结果的材料。",
+      "protocol": "\"During three days, about twenty rectangular enclosures of ice blocks (measuring about 30 feet long, 10 wide and 8 high) are built throughout the city. Their walls are unbroken. They are left to melt.\"",
+      "protocol_zh": "“在三天之内，于城市各处用冰块砌起大约二十个长方形围墙（约 30 英尺长、10 英尺宽、8 英尺高）。墙面不留缺口。然后任其融化。”",
+      "collective": "Teams of volunteers did the building in 1967 for Kaprow's Pasadena Art Museum exhibition. In April 2008 LACMA coordinated a reinvention at sites across Los Angeles, and Tate Modern staged it on the Southbank and Millennium Bridge the same year; each group chose its own sites and way of working.",
+      "collective_zh": "1967 年，志愿者小组为卡普罗在帕萨迪纳美术馆的展览完成搭建。2008 年 4 月，洛杉矶郡艺术博物馆在洛杉矶多个地点协调了一次“再发明”；同年泰特现代美术馆在南岸和千禧桥上再次上演。每一组人都自己选址、自己决定做法。",
+      "keywords": [
+        "happening",
+        "ice",
+        "reinvention",
+        "LACMA",
+        "Tate Modern"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/img6432.width-600_QuDmopo.jpg"
+      ],
+      "source_url": "https://www.lacma.org/art/exhibition/fluids-happening-allan-kaprow"
+    },
+    {
+      "id": "allan-kaprow--routine",
+      "creator_ids": [
+        "allan-kaprow"
+      ],
+      "title": "Routine",
+      "year": 1973,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A five-part score for pairs of participants using mirrors and telephones, realised at the Portland Center for the Visual Arts in December 1973 and later published as an activity booklet (1975).",
+      "description_zh": "一份五段式乐谱，由两人一组的参与者用镜子和电话完成；1973 年 12 月在波特兰视觉艺术中心实现，1975 年以“活动手册”形式出版。",
+      "idea_en": "Repeat an everyday gesture between two people until communication breaks down, and notice what you were doing.",
+      "idea_zh": "让两个人反复做一个日常动作，直到交流失效，从而察觉自己在做什么。",
+      "protocol": "Part 1 of the programme: \"standing somewhere / facing a friend holding a large mirror / trying to catch one's reflection ... moving apart again and again / repeating process / until it's no longer possible to see oneself.\" Parts 2 and 4 use the telephone, part 5 both.",
+      "protocol_zh": "节目单第一部分：“站在某处／面对一位举着大镜子的朋友／试着看到自己的倒影……一次又一次地后退／重复这一过程／直到再也看不见自己。”第二、四部分使用电话，第五部分两者都用。",
+      "collective": "About twenty pairs of participants carried out the programme during Kaprow's three-day residency, bracketed by a briefing and a review; each pair's realisation stayed private. Kaprow also made an instructional film and published the booklet so others could perform it.",
+      "collective_zh": "在卡普罗为期三天的驻留中，约二十对参与者执行了这份节目单，前有“简报”、后有“回顾”；每一对的实现都是私下进行的。卡普罗还拍了一部教学影片并出版了手册，让别人也能来做。",
+      "keywords": [
+        "activity",
+        "Portland Center for the Visual Arts",
+        "mirror",
+        "telephone",
+        "The Scores Project"
+      ],
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_053_mm.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/gri_980063_b24_f09_009_mm.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/11/",
+        "title": "11. Allan Kaprow: Routine (1973–75)",
+        "venue": "The Scores Project, Getty Research Institute, 2025"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/11/",
+      "also": []
+    },
+    {
+      "id": "felix-gonzalez-torres--portrait-of-ross-in-la",
+      "creator_ids": [
+        "felix-gonzalez-torres"
+      ],
+      "title": "\"Untitled\" (Portrait of Ross in L.A.)",
+      "year": 1991,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A pile of multicoloured wrapped candies with an ideal weight of 175 lb, placed in a gallery corner; visitors may take a piece, and the owner replenishes the pile.",
+      "description_zh": "一堆彩色包装的糖果，理想重量 175 磅，堆在展厅角落；观众可以拿走一颗，收藏者负责补充。",
+      "idea_en": "A portrait that shrinks when people take part and returns when the owner follows the rule.",
+      "idea_zh": "一幅肖像：人们参与时它变小，收藏者按规则补充时它又回来。",
+      "protocol": "Candies in variously coloured wrappers, endless supply; ideal weight 175 lb; dimensions vary with installation. Visitors are allowed to take candy, and the owner may replenish the work, following the artist's certificate and the Foundation's guidelines.",
+      "protocol_zh": "彩色包装糖果，无限供应；理想重量 175 磅；尺寸随安装而变。观众可以拿走糖果，收藏者依照艺术家证书和基金会的准则补充作品。",
+      "collective": "Each visitor who takes a candy reduces the pile; each installation team decides its shape and when to replenish, so every display looks different. The ideal weight is usually read as that of Ross Laycock, the artist's partner, who died of AIDS-related complications in 1991.",
+      "collective_zh": "每位拿走糖果的观众都让糖堆变小；每个布展团队决定糖堆的形状和补充时机，所以每次展出都不一样。理想重量通常被理解为艺术家的伴侣罗斯·莱科克的体重，他于 1991 年死于艾滋病并发症。",
+      "keywords": [
+        "candy spill",
+        "endless supply",
+        "ideal weight",
+        "Art Institute of Chicago",
+        "AIDS"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A.%29%2C_Felix_Gonzalez-Torres%2C_Art_Institute.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg/960px-%22Untitled%22_%28Portrait_of_Ross_in_L.A%29_in_the_Art_Institute_of_Chicago.jpg"
+      ],
+      "source_url": "https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a"
+    },
+    {
+      "id": "felix-gonzalez-torres--placebo",
+      "creator_ids": [
+        "felix-gonzalez-torres"
+      ],
+      "title": "\"Untitled\" (Placebo)",
+      "year": 1991,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A floor carpet of silver-wrapped candies with an ideal weight of 1,000–1,200 lb; visitors may take candies, and the carpet is replenished.",
+      "description_zh": "一片铺在地面上的银色包装糖果，理想重量 1,000–1,200 磅；观众可以拿走糖果，糖果地毯会被补充。",
+      "idea_en": "Scale a take-away rule to a whole floor and the audience becomes the force that erodes it.",
+      "idea_zh": "把“可以拿走”的规则放大到整个地面，观众就成了侵蚀它的力量。",
+      "protocol": "Candies individually wrapped in silver cellophane, endless supply; ideal weight 1,000–1,200 lb; dimensions vary with installation. Visitors may take a candy; the owner may replenish.",
+      "protocol_zh": "单独包在银色玻璃纸里的糖果，无限供应；理想重量 1,000–1,200 磅；尺寸随安装而变。观众可以拿走糖果，收藏者可以补充。",
+      "collective": "Across an exhibition the public removes the carpet piece by piece while staff refill it, so its extent depends on attendance and on the institution's choices. MoMA, which owns one version, and other venues such as MUAC in Mexico City have installed it at different sizes.",
+      "collective_zh": "展期内，公众一颗颗把地毯拿走，工作人员再补上，所以它的面积取决于观众数量和机构的选择。收藏了该作品的 MoMA，以及墨西哥城 MUAC 等场馆，都以不同的尺寸展出过它。",
+      "keywords": [
+        "candy",
+        "endless supply",
+        "MoMA",
+        "placebo",
+        "AIDS"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MoMA_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg/960px-%22Untitled%22_%28Placebo%29%2C_Felix_Gonzalez-Torres%2C_MUAC_1.jpg",
+        "https://www.moma.org/media/W1siZiIsIjIzNDkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1d940ba7279b937"
+      ],
+      "source_url": "https://www.moma.org/collection/works/80932"
+    },
+    {
+      "id": "felix-gonzalez-torres--death-by-gun",
+      "creator_ids": [
+        "felix-gonzalez-torres"
+      ],
+      "title": "\"Untitled\" (Death by Gun)",
+      "year": 1990,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "A stack of identical offset sheets on the floor, each reproducing Time magazine's portraits of the 460 people killed by gunfire in the United States in the week of 1–7 May 1989; visitors take sheets and the stack is refilled.",
+      "description_zh": "地上一叠相同的胶印纸，每张都复制了《时代》杂志刊登的 1989 年 5 月 1 日至 7 日一周内在美国被枪杀的 460 人的肖像；观众把纸拿走，纸堆再被补足。",
+      "idea_en": "A monument that works by being carried away, sheet by sheet, into other people's rooms.",
+      "idea_zh": "一座靠被拿走来运作的纪念碑，一张张被带进别人的房间。",
+      "protocol": "Print on paper, endless copies, shown as a stack on the floor (about nine inches high). The public may take sheets to keep, display or pass on; the owner reprints and replenishes the stack.",
+      "protocol_zh": "纸上印刷，无限复本，以纸堆形式放在地面（约九英寸高）。公众可以拿走纸张保存、展示或转送他人；收藏者重新印刷并补足纸堆。",
+      "collective": "Visitors carry the sheets out of the museum, so the work is distributed into homes and offices while the stack in the gallery is kept whole by staff. The piece belongs to MoMA and was shown in the Hammer Museum's 2014 exhibition Take It or Leave It.",
+      "collective_zh": "观众把纸带出美术馆，作品因此散布到各家各户和办公室，而展厅里的纸堆由工作人员维持完整。作品为 MoMA 收藏，曾在汉默博物馆 2014 年的展览“Take It or Leave It”中展出。",
+      "keywords": [
+        "paper stack",
+        "endless copies",
+        "gun violence",
+        "Time magazine",
+        "MoMA"
+      ],
+      "images": [
+        "https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/87dbed26f781ae96dbefa0e60264f652.jpeg",
+        "https://static-assets.artlogic.net/w_1200,h_1200,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/724adc7d9d645a940c9c743f96667012.jpeg"
+      ],
+      "source_url": "https://www.felixgonzalez-torresfoundation.org/works/untitled-death-by-gun"
+    },
+    {
+      "id": "hans-ulrich-obrist--do-it",
+      "creator_ids": [
+        "hans-ulrich-obrist"
+      ],
+      "title": "do it",
+      "year": 1993,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "co-authorship",
+        "participation"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "An exhibition made only of artists' written instructions, begun in Paris in 1993 by Hans Ulrich Obrist with Christian Boltanski and Bertrand Lavier; each venue realises the instructions anew and the show is dismantled afterwards.",
+      "description_zh": "一个只由艺术家书面指令构成的展览，1993 年由汉斯·乌尔里希·奥布里斯特与克里斯蒂安·波尔坦斯基、贝尔特朗·拉维耶在巴黎发起；每个场馆都重新实现这些指令，展后拆除。",
+      "idea_en": "Ship an exhibition as a book of scores and let every host make its own version.",
+      "idea_zh": "把一个展览作为一本乐谱寄出去，让每个接待方做出自己的版本。",
+      "protocol": "Artists send instructions instead of objects. The host institution, its staff and local public interpret and carry them out; the resulting works are not kept after the show, and each new venue starts again from the texts.",
+      "protocol_zh": "艺术家寄来的是指令而不是物件。接待机构、它的员工和本地公众去解读并执行这些指令；展后作品不保留，每个新场馆都从文本重新开始。",
+      "collective": "The first twelve instructions were translated into nine languages and circulated as a book. Organised as a touring show by Independent Curators International, do it had been staged in at least 50 locations by about 2013, from Australia and China to Mexico and Uruguay, and grew to hundreds of instruction sets; in 2020 a do it (home) edition invited people to realise instructions at home.",
+      "collective_zh": "最初的十二份指令被译成九种语言，以书的形式流传。由独立策展人国际（ICI）作为巡回展组织，截至 2013 年前后已在至少 50 个地点上演，从澳大利亚、中国到墨西哥、乌拉圭；指令数量增加到数百份。2020 年的 do it (home) 版本邀请人们在家中实现指令。",
+      "keywords": [
+        "exhibition as score",
+        "Independent Curators International",
+        "Christian Boltanski",
+        "Bertrand Lavier",
+        "do it (home)"
+      ],
+      "images": [
+        "https://curatorsintl.org/images/Scan_130107_0015_WEB.jpg?w=2000"
+      ],
+      "source_url": "https://curatorsintl.org/exhibitions/18072-do-it-2013"
+    },
+    {
+      "id": "erwin-wurm--one-minute-sculptures",
+      "creator_ids": [
+        "erwin-wurm"
+      ],
+      "title": "One Minute Sculptures",
+      "year": 1997,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "An ongoing series of drawn or written instructions that tell a visitor how to pose with everyday objects, such as buckets, chairs or a plinth, and hold the pose for one minute.",
+      "description_zh": "一个持续进行的系列：画出或写出的指令告诉观众如何与水桶、椅子或基座等日常物品摆出姿势，并保持一分钟。",
+      "idea_en": "The sculpture is the instruction; any visitor who follows it for sixty seconds is the material.",
+      "idea_zh": "雕塑就是那条指令；任何照做六十秒的观众就是材料。",
+      "protocol": "Wurm supplies props and a sketch or a phrase, for example \"be a dog\" or \"Hold your breath and think of Spinoza\". The participant performs the pose and tries to hold it for 60 seconds.",
+      "protocol_zh": "沃姆提供道具和一张草图或一句话，比如“做一只狗”或“屏住呼吸，想一想斯宾诺莎”。参与者摆出这个姿势，并尽量保持 60 秒。",
+      "collective": "Museum visitors at Tate Modern, the MAK Center in Los Angeles and many other venues have performed the instructions, each body producing a different, short-lived version; Wurm also photographs anonymous participants as editions.",
+      "collective_zh": "泰特现代美术馆、洛杉矶 MAK 中心和许多其他场馆的观众都执行过这些指令，每个身体都做出一个不同的、短暂的版本；沃姆也把匿名参与者拍成摄影作品。",
+      "keywords": [
+        "sculpture",
+        "instruction drawing",
+        "sixty seconds",
+        "Tate"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Be_a_dog%2C_Erwin_Wurm.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg/960px-One_Minute_Sculpture%2C_Hold_your_breath_and_think_of_Spinoza%2C_Erwin_Wurm.jpg",
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_d3p677p.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/visit/tate-modern/display/performer-and-participant/erwin-wurm",
+      "also": []
+    },
+    {
+      "id": "david-horvitz--241543903",
+      "creator_ids": [
+        "david-horvitz"
+      ],
+      "title": "241543903",
+      "year": 2009,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "An instruction posted online in April 2009: photograph your head inside a freezer and tag the picture with the number 241543903, so that a search for the number shows everyone's photos together.",
+      "description_zh": "2009 年 4 月发布在网上的一条指令：拍一张把头伸进冰箱冷冻室的照片，并给它加上标签 241543903，这样搜索这个数字就能看到所有人的照片。",
+      "idea_en": "A meaningless number becomes a shared address where a crowd's photographs gather.",
+      "idea_zh": "一个无意义的数字变成一个共享地址，让人群的照片聚集在一起。",
+      "protocol": "Take a photograph of your head in a freezer. Upload it to the internet. Tag the file with 241543903. The number was made from the serial number of Horvitz's refrigerator and the barcodes of two frozen foods.",
+      "protocol_zh": "拍一张头伸进冷冻室的照片。上传到网上。给文件加上标签 241543903。这个数字由霍维茨冰箱的序列号和两件冷冻食品的条形码拼成。",
+      "collective": "Strangers repeated the pose and the tag; the meme spread on Orkut in Brazil, where Horvitz also had flyers handed out, then to Japan and to Facebook in 2010, and searching the number still returns the collected images.",
+      "collective_zh": "陌生人纷纷模仿这个姿势并加上标签；这个表情包在巴西的 Orkut 上流行（霍维茨还请人在当地散发传单），随后传到日本，2010 年传到 Facebook。至今搜索这个数字仍能看到收集起来的照片。",
+      "keywords": [
+        "meme",
+        "tag",
+        "freezer",
+        "Orkut",
+        "Flickr"
+      ],
+      "images": [
+        "https://i.kym-cdn.com/entries/icons/original/000/001/178/241543903_1_.png"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/David_Horvitz"
+    },
+    {
+      "id": "david-horvitz--let-us-keep-our-own-noon",
+      "creator_ids": [
+        "david-horvitz"
+      ],
+      "title": "Let us keep our own noon",
+      "year": 2013,
+      "field": "score",
+      "sub": "event-scores",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Forty-seven hand bells cast from a melted French church bell of 1742, rung by forty-seven participants at local solar noon; the ringers then walk away from each other until each hears only their own bell.",
+      "description_zh": "四十七个手铃由一口 1742 年的法国教堂钟熔化后铸成，由四十七位参与者在本地太阳正午敲响；随后敲铃人彼此走开，直到每个人只听得见自己的铃声。",
+      "idea_en": "Dispersing a crowd can redistribute time: one shared signal splits into many private ones.",
+      "idea_zh": "把人群散开，也就把时间重新分配了：一个共同的信号分裂成许多私人的信号。",
+      "protocol": "At local noon, the exact midpoint between sunrise and sunset, forty-seven participants begin ringing the bells together, then disperse in different directions, ringing, until they can hear no bell but their own. The title comes from a 19th-century protest against railway standard time.",
+      "protocol_zh": "在本地正午（日出与日落的正中间），四十七位参与者一起开始摇铃，然后一边摇铃一边朝不同方向散开，直到只听得见自己的铃声。标题来自 19 世纪人们抗议铁路标准时间的一句话。",
+      "collective": "Groups of volunteers have performed it at the New Museum in New York and at the National Gallery of Iceland in Reykjavík (2016), each time at that place's own local noon, so the moment of the performance moves with the site.",
+      "collective_zh": "志愿者群体在纽约新美术馆、雷克雅未克冰岛国家美术馆（2016）等地表演过这件作品，每次都按当地的正午进行，因此表演的时刻随地点而变。",
+      "keywords": [
+        "bells",
+        "local noon",
+        "standard time",
+        "New Museum",
+        "performance"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg/960px-David_Horvitz_at_the_New_Museum%2C_NYAP_ring_the_bells_in_his_piece_%27Let_us_keep_our_own_noon%27_%2814489090112%29.jpg",
+        "https://images.prismic.io/listasafn-islands/6b8be785-26d0-4457-a3a1-9cf6bb14248d_LET+US+KEEP+OUR+OWN+NOON_+2013++David+Horvitz.jpeg?auto=compress&max-w=1200"
+      ],
+      "source_url": "https://www.listasafn.is/en/art/exhibitions/david-horvitz/"
+    },
+    {
+      "id": "brian-eno--oblique-strategies",
+      "creator_ids": [
+        "brian-eno",
+        "peter-schmidt"
+      ],
+      "title": "Oblique Strategies",
+      "year": 1975,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "instruction",
+        "chance",
+        "constraint"
+      ],
+      "substrate": "text",
+      "kind": "score",
+      "description": "A boxed deck of cards, each printed with a short prompt, to be drawn at random when a creative process stalls; first published in 1975 and reissued in several editions.",
+      "description_zh": "一盒卡片，每张印有一句简短的提示，在创作卡住时随机抽取；1975 年首次出版，此后多次再版。",
+      "idea_en": "A deck of rules turns chance into a working method that anyone can pick up.",
+      "idea_zh": "一副规则卡把偶然变成任何人都能拿来用的工作方法。",
+      "protocol": "When stuck, draw a card and follow it, however obscure, for example \"Use an old idea\" or \"Consider different fading systems\". The deck is sold to anyone; Eno and Schmidt do not see how it is used.",
+      "protocol_zh": "卡住时抽一张卡并照做，哪怕它很隐晦，比如“用一个旧点子”或“考虑不同的淡出方式”。这副卡片面向所有人出售，伊诺和施密特并不知道它会被怎样使用。",
+      "collective": "Musicians, writers and designers have used the deck in their own work; Eno used it in studio sessions, including with David Bowie, and the publisher names Coldplay and Damon Albarn among users. Each draw produces a different decision in a different project.",
+      "collective_zh": "音乐人、作家和设计师在各自的工作中使用这副卡片；伊诺在录音室里用过它，包括与大卫·鲍伊合作时，出版方还提到酷玩乐队和戴蒙·阿尔本也在使用。每一次抽卡都在不同的项目里带来不同的决定。",
+      "keywords": [
+        "card deck",
+        "creative constraint",
+        "David Bowie",
+        "chance"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg/960px-Oblique_Strategies_deck%2C_PO_Box%2C_The_Barbican%2C_London%2C_UK.jpg",
+        "https://enoshop.co.uk/cdn/shop/files/Oblique-Image1.png?v=1743069911"
+      ],
+      "source_url": "https://www.enoshop.co.uk/product/oblique-strategies.html",
+      "also": []
+    },
+    {
+      "id": "raymond-queneau--cent-mille-milliards-de-poemes",
+      "creator_ids": [
+        "raymond-queneau"
+      ],
+      "title": "Cent mille milliards de poèmes",
+      "year": 1961,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "constraint",
+        "chance",
+        "co-authorship"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "A book of ten sonnets whose pages are cut into fourteen strips, one per line, so that readers can combine lines from different sonnets into 10^14 possible poems.",
+      "description_zh": "一本由十首十四行诗组成的书，每页被剪成十四条，每条一行，读者可以把不同诗中的诗行组合成 10^14 首可能的诗。",
+      "idea_en": "Write the constraint so tightly that every reader's combination is a valid poem.",
+      "idea_zh": "把约束写得足够严密，读者任意组合出来的都是一首成立的诗。",
+      "protocol": "All ten sonnets share the same rhyme sounds and syntax, so any line can follow any line from another sonnet. The reader turns strips independently; each choice of fourteen strips is a new poem that Queneau never read.",
+      "protocol_zh": "十首十四行诗押同样的韵、用相同的句法，所以任何一行都可以接在另一首诗的下一行后面。读者独立翻动每一条；每种十四条的组合都是一首奎诺本人从未读过的新诗。",
+      "collective": "Readers assemble the poems; with 10^14 combinations, almost every reading produces a poem no one has read before. The book, designed by Robert Massin and published by Gallimard, led to the founding of Oulipo with François Le Lionnais, and has been translated and turned into online generators.",
+      "collective_zh": "诗由读者拼成；共有 10^14 种组合，几乎每次阅读都会得到一首从未有人读过的诗。此书由罗伯特·马森设计、伽利玛出版社出版，促成奎诺与弗朗索瓦·勒利奥内创立 Oulipo，此后被翻译并做成了在线生成器。",
+      "keywords": [
+        "Oulipo",
+        "combinatorial poetry",
+        "sonnet",
+        "Gallimard",
+        "Robert Massin"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Queneau_sonnets.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/A_Hundred_Thousand_Billion_Poems",
+      "also": []
+    },
+    {
+      "id": "roman-ondak--measuring-the-universe",
+      "creator_ids": [
+        "roman-ondak"
+      ],
+      "title": "Measuring the Universe",
+      "year": 2007,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An empty white gallery where attendants mark each visitor's height on the wall, with their first name and the date; over months the marks build into a dense band around the room.",
+      "description_zh": "一间空白的展厅，工作人员在墙上标出每位观众的身高，写上名字和日期；几个月后，这些记号在房间四周积成一条浓密的带。",
+      "idea_en": "Borrow a family ritual, repeat it for thousands of strangers, and the crowd draws the work.",
+      "idea_zh": "借用一个家庭仪式，对成千上万名陌生人重复它，人群就画出了作品。",
+      "protocol": "Visitors who wish to take part stand against the wall; an attendant marks their height and writes their first name and the date of the visit. After the exhibition the walls are repainted white.",
+      "protocol_zh": "愿意参与的观众靠墙站好；工作人员标出他们的身高，写下名字和参观日期。展览结束后墙面重新刷白。",
+      "collective": "Shown at the Pinakothek der Moderne in Munich (2007), MoMA (2009), the Stedelijk (2010–11), Tate St Ives (2011) and Parramatta (2014). At MoMA the marks of thousands of visitors formed a thick black band; the pattern at each venue reflects who came.",
+      "collective_zh": "曾在慕尼黑现代绘画陈列馆（2007）、MoMA（2009）、阿姆斯特丹市立博物馆（2010–11）、泰特圣艾夫斯（2011）和帕拉马塔（2014）展出。在 MoMA，数千名观众的记号连成一条粗黑的带；每个场馆的图案都反映了来过的人。",
+      "keywords": [
+        "height",
+        "visitors",
+        "MoMA",
+        "Tate St Ives",
+        "collective drawing"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/romanmeasuringuniverse.width-600.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/roman-ondak-measuring-universe"
+    },
+    {
+      "id": "christian-marclay--graffiti-composition",
+      "creator_ids": [
+        "christian-marclay"
+      ],
+      "title": "Graffiti Composition",
+      "year": 1996,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "participation",
+        "co-authorship",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "Posters of blank sheet music pasted around Berlin during the 1996 Sonambiente festival; Marclay photographed what passers-by wrote, tore or pasted over them, and published 150 images as a score for musicians (portfolio, 2002).",
+      "description_zh": "1996 年 Sonambiente 声音艺术节期间，空白五线谱海报被贴满柏林街头；马克雷拍下路人在上面写的、撕的、覆盖的痕迹，选出 150 张作为给音乐家的乐谱出版（作品集，2002）。",
+      "idea_en": "Let the street write the notation, then let musicians play what the street wrote.",
+      "idea_zh": "让街道来写乐谱，再让音乐家演奏街道写下的东西。",
+      "protocol": "Paste blank staff paper in public places as an open invitation to mark it. Photograph the results, select 150 sheets, and give them to musicians to interpret in any way.",
+      "protocol_zh": "把空白五线谱贴在公共场所，作为一个开放的邀请，任人涂写。拍下结果，挑出 150 张，交给音乐家自由演绎。",
+      "collective": "Passers-by added notes, scribbles, tears and other flyers to the posters (reported as more than 5,000). Musicians have since performed the portfolio, for example five guitarists led by Elliott Sharp, with Melvin Gibbs, Mary Halvorson, Lee Ranaldo and Vernon Reid, at MoMA in 2006.",
+      "collective_zh": "路人在海报上添加音符、涂鸦、撕痕，或把别的传单贴上去（据报道海报超过 5,000 张）。此后音乐家多次演奏这套作品集，例如 2006 年在 MoMA，由 Elliott Sharp 带领 Melvin Gibbs、Mary Halvorson、Lee Ranaldo 和 Vernon Reid 五位吉他手演出。",
+      "keywords": [
+        "graphic score",
+        "Sonambiente",
+        "Berlin",
+        "sheet music",
+        "MoMA"
+      ],
+      "images": [
+        "https://whitneymedia.org/assets/artwork/28280/2006_51_151_cropped.jpg",
+        "https://www.moma.org/media/W1siZiIsIjExNDAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c9064adde4b8174"
+      ],
+      "source_url": "https://www.moma.org/collection/works/87778",
+      "also": []
+    },
+    {
+      "id": "anna-halprin--planetary-dance",
+      "creator_ids": [
+        "anna-halprin"
+      ],
+      "title": "Planetary Dance",
+      "year": 1981,
+      "field": "score",
+      "sub": "event-scores",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A community dance ritual built around a movement score called the Earth Run, created in 1981 on Mount Tamalpais in California and performed each year by groups around the world.",
+      "description_zh": "一个社区舞蹈仪式，以名为“地球奔跑”的动作乐谱为核心，1981 年在加州塔玛佩斯山创作，此后每年由世界各地的群体表演。",
+      "idea_en": "A score simple enough for any community to adopt, with one shared core and a local theme.",
+      "idea_zh": "一份任何社区都能采用的简单乐谱：共同的核心加上本地的主题。",
+      "protocol": "In the Earth Run, participants declare their intentions one by one, rising from kneeling; then they form three concentric circles moving in different directions, choosing to run, jog, walk or stand still. Each community adds its own preparation, theme and reflection.",
+      "protocol_zh": "在“地球奔跑”中，参与者从跪姿站起、逐一说出自己的意愿；然后组成三个同心圆，朝不同方向移动，每人可以选择跑、慢跑、走或静止。每个社区加入自己的准备、主题和反思。",
+      "collective": "Created with James Hurd Nixon and Russell Bass after a series of murders on Mount Tamalpais, the dance grew out of the larger Circle the Earth workshops. Communities in dozens of countries have performed it, each adapting the theme while sharing the Earth Run.",
+      "collective_zh": "这支舞是在塔玛佩斯山连环凶杀案之后，与 James Hurd Nixon 和 Russell Bass 一起创作的，源于更大规模的“环绕地球”工作坊。数十个国家的社区都表演过它，各自调整主题，但共享“地球奔跑”。",
+      "keywords": [
+        "Earth Run",
+        "Mount Tamalpais",
+        "community ritual",
+        "movement score",
+        "RSVP Cycles"
+      ],
+      "images": [
+        "https://bioneers.org/wp-content/uploads/2020/11/PD_EarthAlive-2-scaled.jpg",
+        "https://npr.brightspotcdn.com/dims4/default/fdab2d9/2147483647/strip/true/crop/6144x3226+0+435/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkalw%2Ffiles%2FPlanetary%20Dance%20Gen.jpg"
+      ],
+      "source_url": "https://planetarydance.org/the-story/"
+    },
+    {
+      "id": "simone-forti--dance-constructions",
+      "creator_ids": [
+        "simone-forti"
+      ],
+      "title": "Dance Constructions (Huddle, Slant Board and others)",
+      "year": 1961,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "Task-based pieces from 1960–61 for small groups, such as Huddle, in which seven to nine performers take turns climbing over the group's own tightly embracing bodies, and Slant Board, in which performers move across an inclined plywood ramp using ropes.",
+      "description_zh": "1960–61 年为小组创作的任务型作品，例如《抱团》：七到九名表演者轮流爬过大家紧紧抱在一起的身体；又如《斜板》：表演者借助绳索在倾斜的胶合板上移动。",
+      "idea_en": "Give a group one physical task and the dance emerges from how their bodies solve it together.",
+      "idea_zh": "给一群人一个身体任务，舞蹈就出现在他们如何一起解决它之中。",
+      "protocol": "Huddle: seven to nine people stand in a tight cluster; one at a time, a performer climbs over the top of the group and rejoins it, and the next begins. Slant Board: three or four performers move up, down and across a steep board holding onto ropes, for about ten minutes.",
+      "protocol_zh": "《抱团》：七到九人紧紧围成一团；每次一人从团顶爬过去再回到团里，接着下一个人开始。《斜板》：三到四名表演者抓着绳子在陡板上上下左右移动，持续约十分钟。",
+      "collective": "Performed first in 1961 in New York lofts, the works have been re-performed by many groups. MoMA acquired them in 2015 as its first historical dance works; the acquisition includes Forti's teaching of new performers, and licences allow Huddle to be staged in several places at once.",
+      "collective_zh": "这些作品 1961 年首先在纽约的阁楼里演出，此后被许多群体重演。MoMA 于 2015 年收藏了它们，这是该馆首次收藏历史舞蹈作品；收藏包含福尔蒂向新表演者的传授，授权方式也允许《抱团》同时在多个地方上演。",
+      "keywords": [
+        "Huddle",
+        "Slant Board",
+        "task",
+        "MoMA",
+        "dance acquisition"
+      ],
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjQ2MDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aa0665e122cca7c"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1080/01472526.2021.2024724",
+        "doi": "10.1080/01472526.2021.2024724",
+        "venue": "Dance Chronicle",
+        "title": "Making the Museum Dance: Simone Forti's Huddle (1961) and its Acquisition by the Museum of Modern Art"
+      },
+      "source_url": "https://www.moma.org/collection/works/200115"
+    },
+    {
+      "id": "john-baldessari--commissioned-paintings",
+      "creator_ids": [
+        "john-baldessari"
+      ],
+      "title": "Commissioned Paintings",
+      "year": 1969,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "contract",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "A series of paintings of a hand pointing at things, each painted by a different amateur painter from Baldessari's photographs, with \"A PAINTING BY\" and the painter's name lettered below by a sign painter.",
+      "description_zh": "一组画着一只手指向各种东西的绘画，每幅都由一位不同的业余画家根据巴尔代萨里拍的照片画成，下方由招牌画师写上“A PAINTING BY”加画者的名字。",
+      "idea_en": "Author the procedure, not the painting, and put the maker's name on the work.",
+      "idea_zh": "只写流程，不画画，并把制作者的名字写在作品上。",
+      "protocol": "A friend points at things Baldessari finds interesting; the pointing is photographed; amateur painters are commissioned to copy the photographs in paint; a sign painter adds the caption \"A PAINTING BY\" followed by the painter's name.",
+      "protocol_zh": "一位朋友指向巴尔代萨里觉得有意思的东西；这一指被拍成照片；委托业余画家把照片画成油画；再请招牌画师加上说明文字“A PAINTING BY”和画者的名字。",
+      "collective": "Each commissioned painter brought their own skill and style, so the series varies from canvas to canvas while no stroke is Baldessari's. It answered Al Held's remark that conceptual art was 'just pointing at things'.",
+      "collective_zh": "每位受托画家都带来自己的技术和风格，所以这组画每张都不一样，而没有一笔出自巴尔代萨里本人。它回应了阿尔·赫尔德“观念艺术不过是指着东西”的说法。",
+      "keywords": [
+        "authorship",
+        "amateur painters",
+        "conceptual art",
+        "pointing"
+      ],
+      "images": [
+        "https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025521/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9033.jpg",
+        "https://res.cloudinary.com/smimagebank/image/upload/w_1200,c_limit,f_jpg,fl_progressive/v1586025526/sprueth_magers_John_Baldessari_The_Commissioned_Paintings_9034.jpg"
+      ],
+      "source_url": "https://spruethmagers.com/exhibitions/john-baldessari-the-commissioned-paintings-cologne/",
+      "also": []
+    },
+    {
+      "id": "david-katzive--art-by-telephone",
+      "creator_ids": [
+        "david-katzive"
+      ],
+      "title": "Art by Telephone",
+      "year": 1969,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "An exhibition at the Museum of Contemporary Art Chicago (1 November–14 December 1969) in which artists in the US and Europe phoned in instructions for works that museum staff then made; the catalogue was an LP of the calls.",
+      "description_zh": "芝加哥当代艺术博物馆的一场展览（1969 年 11 月 1 日至 12 月 14 日）：美国和欧洲的艺术家打电话口述作品的指令，再由馆方员工制作出来；展览图录是一张记录这些通话的黑胶唱片。",
+      "idea_en": "Restrict the channel to a phone call and the museum becomes the artist's hands.",
+      "idea_zh": "把沟通渠道限定为一通电话，美术馆就成了艺术家的手。",
+      "protocol": "Artists communicate their proposal to the curator by telephone only; drawings, blueprints and written descriptions are avoided. MCA staff carry out the works from the spoken instructions. The idea takes Moholy-Nagy's 1922 'telephone pictures' as its starting point.",
+      "protocol_zh": "艺术家只能通过电话向策展人传达方案，避免使用图纸、蓝图和书面描述。芝加哥当代艺术博物馆员工根据口头指令完成作品。这个构想以莫霍利-纳吉 1922 年的“电话绘画”为起点。",
+      "collective": "Staff produced a Sol LeWitt wall drawing from his oral instructions and poured cement down a slope for Robert Smithson; visitors filled Arman's Plexiglas container with their own trash, and dialled Wolf Vostell's changing phone numbers for instructions for one-minute happenings. The exhibition was restaged as Art by Telephone... Recalled from 2012.",
+      "collective_zh": "员工根据索尔·勒维特的口头指令画出一幅墙绘，并为罗伯特·史密森把水泥倒下山坡；观众把自己的垃圾投进阿尔曼的有机玻璃容器，还拨打沃尔夫·福斯特尔不断更换的电话号码，获取“一分钟偶发”的指令。该展自 2012 年起以 Art by Telephone... Recalled 之名重演。",
+      "keywords": [
+        "telephone",
+        "MCA Chicago",
+        "exhibition as score",
+        "LP catalogue",
+        "Jan van der Marck"
+      ],
+      "images": [
+        "https://mcachicago.org/wp-content/uploads/image/IIARY2TY/original.jpg"
+      ],
+      "source_url": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+      "also": []
+    }
+  ],
+  "leads": [
+    {
+      "name": "Tino Sehgal",
+      "why": "Constructed situations (This Progress, These associations) performed by trained 'interpreters' under verbal rules; no photos allowed.",
+      "link": "https://en.wikipedia.org/wiki/Tino_Sehgal",
+      "found_via": "hans-ulrich-obrist",
+      "status": "open"
+    },
+    {
+      "name": "Marina Abramović, Rhythm 0 (1974)",
+      "why": "Audience given 72 objects and a written instruction to use them on the artist; likely belongs to the social / performance batch.",
+      "link": "https://en.wikipedia.org/wiki/Rhythm_0",
+      "found_via": "allan-kaprow",
+      "status": "open"
+    },
+    {
+      "name": "Olafur Eliasson, The collectivity project (2005–)",
+      "why": "City of white LEGO bricks built and rebuilt by visitors; check whether a written rule shapes behaviour.",
+      "link": "https://olafureliasson.net/",
+      "found_via": "erwin-wurm",
+      "status": "open"
+    },
+    {
+      "name": "Miranda July & Harrell Fletcher, Learning to Love You More (2002–2009)",
+      "why": "Numbered assignments posted online, completed and uploaded by thousands; belongs to network/crowdsourced.",
+      "link": "http://www.learningtoloveyoumore.com/",
+      "found_via": "david-horvitz",
+      "status": "open"
+    },
+    {
+      "name": "Lygia Pape, Divisor (1968)",
+      "why": "Large white cloth with holes worn and moved by a crowd; belongs to social/collective-action.",
+      "link": "https://en.wikipedia.org/wiki/Lygia_Pape",
+      "found_via": "anna-halprin",
+      "status": "open"
+    },
+    {
+      "name": "Oulipo",
+      "why": "Workshop of potential literature (1960–) inventing constraints for members and readers; decide whether a group-executed work passes.",
+      "link": "https://en.wikipedia.org/wiki/Oulipo",
+      "found_via": "raymond-queneau",
+      "status": "open"
+    },
+    {
+      "name": "Art by Telephone... Recalled (2012–)",
+      "why": "Restaging by Sébastien Pluot and Fabien Vallos in which new artists and institutions realise the 1969 phoned instructions.",
+      "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+      "found_via": "david-katzive",
+      "status": "open"
+    },
+    {
+      "name": "Allan Kaprow, Scales (1971) and Words (1962)",
+      "why": "Further Kaprow activities/environments with visitor rules; Scales restaged at Tate Modern 2008.",
+      "link": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
+      "found_via": "allan-kaprow",
+      "status": "open"
+    },
+    {
+      "name": "Benjamin Patterson, Paper Piece (1960)",
+      "why": "Performers and audience tear and crumple paper per score; Getty Scores Project chapter 4 with media.",
+      "link": "https://www.getty.edu/publications/scores/04/",
+      "found_via": "allan-kaprow",
+      "status": "open"
+    },
+    {
+      "name": "Yvonne Rainer, We Shall Run (1963)",
+      "why": "Group running score for trained and untrained performers; Getty Scores Project chapter 8.",
+      "link": "https://www.getty.edu/publications/scores/08/",
+      "found_via": "simone-forti",
+      "status": "open"
+    },
+    {
+      "name": "Jackson Mac Low, Three Social Projects (1963)",
+      "why": "Scores for social action; Getty Scores Project chapter 7.",
+      "link": "https://www.getty.edu/publications/scores/07/",
+      "found_via": "allan-kaprow",
+      "status": "open"
+    },
+    {
+      "name": "Christian Marclay, Shuffle (2007)",
+      "why": "Deck of 75 photo cards of musical notation found in the world, to be shuffled and performed by musicians; not verified this pass.",
+      "link": "https://en.wikipedia.org/wiki/Christian_Marclay",
+      "found_via": "christian-marclay",
+      "status": "open"
+    },
+    {
+      "name": "Christian Marclay: Festival (Whitney, 2010)",
+      "why": "Graphic scores performed by about fifty musicians; visitors marked up a wall-size score.",
+      "link": "https://whitney.org/exhibitions/christian-marclay",
+      "found_via": "christian-marclay",
+      "status": "open"
+    },
+    {
+      "name": "Wolf Vostell, telephone happenings for Art by Telephone (1969)",
+      "why": "Visitors dialled changing numbers to receive one-minute happening instructions.",
+      "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+      "found_via": "david-katzive",
+      "status": "open"
+    }
+  ]
+}

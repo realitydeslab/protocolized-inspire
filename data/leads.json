@@ -1,5 +1,141 @@
 [
  {
+  "name": "Harm van den Dorpel – Mutant Garden (web, c. 2019)",
+  "why": "Visitors click a 'mutant' to replace its siblings with mutated offspring (single-parent breeding); a network-field candidate, not on-chain.",
+  "link": "https://harm.work/series/mutant-garden",
+  "found_via": "harm-van-den-dorpel",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "fxhash open-form generative art",
+  "why": "fxhash format where each new edition can be minted from an existing one and inherits its lineage of hashes, so collectors grow a tree of variations; needs a specific artist's open-form project to qualify.",
+  "link": "https://docs.fxhash.xyz/creating-on-fxhash/programming-open-form-genart",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "fxhash params (fx(params))",
+  "why": "Collectors set artist-exposed parameters before minting; research specific works where collector choices shape the set.",
+  "link": "https://docs.fxhash.xyz",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Art Blocks PMP (project metadata parameters) projects",
+  "why": "Art Blocks feature letting token owners configure artist-defined parameters after mint; find projects where owners' settings are the point.",
+  "link": "https://www.artblocks.io",
+  "found_via": "alexis-andre",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Sam Spratt – Skulls of Luci / Council of Luci (2022)",
+  "why": "50 Skulls, 47 given as gifts to collectors, whose holders form the Council that judges later LUCI games; could be a separate governance entry.",
+  "link": "https://x.com/SamSpratt/status/1765785525061816746",
+  "found_via": "sam-spratt",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Mathcastles – other works",
+  "why": "Check Mathcastles' works beyond Terraforms (Xaltgeist and 0x113d) for further holder-driven systems.",
+  "link": "https://mathcastles.xyz",
+  "found_via": "mathcastles",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Async Art – Blueprints and later programmable works",
+  "why": "Other Async Art collaborations (e.g. layer works by XCOPY, Hackatao, Coldie) could be individual entries.",
+  "link": "https://async.art",
+  "found_via": "async-art",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Words3 (on-chain word game)",
+  "why": "Collaborative on-chain Scrabble-like board where players extend a shared grid; check authorship and whether it is an artwork.",
+  "link": "https://words3.xyz",
+  "found_via": "dark-forest-team",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Autonomous Worlds (ludens / 0xPARC essay, 2022)",
+  "why": "Essay defining on-chain 'autonomous worlds' after Dark Forest; belongs in theory/crypto-theory.",
+  "link": "https://0xparc.org/blog/autonomous-worlds",
+  "found_via": "dark-forest-team",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Etheria (2015)",
+  "why": "Early Ethereum hex-tile world where owners build on tiles; co-authored land precursor, likely provenance batch.",
+  "link": "https://etheria.world",
+  "found_via": "mathcastles",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Pixelmap (Ken Erwin, 2016)",
+  "why": "3,970 tiles whose owners set their own pixel images on a shared map; early co-authored canvas, likely provenance batch.",
+  "link": "https://pixelmap.io",
+  "found_via": "basepaint",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Million Ether Homepage / Thousand Ether Homepage (2017)",
+  "why": "Blockchain versions of the Million Dollar Homepage where buyers place pixels on a shared page.",
+  "link": "https://thousandetherhomepage.com",
+  "found_via": "basepaint",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Rare Pepe Directory (Counterparty, 2016)",
+  "why": "Community-submitted card series admitted under published rules on Bitcoin/Counterparty; collective curation precursor.",
+  "link": "http://rarepepedirectory.com",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Folia – Viper (Billy Rennekamp, 2022)",
+  "why": "Snake-like NFT that grows as it is sent between people; ownership/transfer protocol, check with the ownership batch.",
+  "link": "https://viper.folia.app",
+  "found_via": "harm-van-den-dorpel",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "EulerBeats (2021)",
+  "why": "Generative audio-visual originals whose prints follow a bonding curve and pay original holders; supply-mechanics candidate.",
+  "link": "https://eulerbeats.com",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Bitcoin Ordinals recursive inscriptions",
+  "why": "Look for artist-authored recursive-inscription projects where holders' inscriptions compose a shared work.",
+  "link": "https://docs.ordinals.com/inscriptions/recursion.html",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Higher (Farcaster, 2024)",
+  "why": "Farcaster-born collective art movement around a shared word and token; check whether an authored rule set exists.",
+  "link": "https://farcaster.xyz/~/channel/higher",
+  "found_via": "basepaint",
+  "status": "open",
+  "batch": "onchain-coauthor"
+ },
+ {
   "name": "Fomo (Pak, 2021)",
   "why": "Free mint with fixed supply and a 50% secondary fee framed as partnership; check whether the fee rule shaped holder behaviour.",
   "link": "https://paragraph.com/@netic7/systems-as-art",

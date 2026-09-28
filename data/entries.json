@@ -386,6 +386,239 @@
  },
  "creators": [
   {
+   "id": "async-art",
+   "links": {
+    "site": "https://async.art",
+    "x": "https://x.com/asyncart"
+   },
+   "connected_to": [
+    "matt-kane"
+   ],
+   "name": "Async Art",
+   "kind": "company",
+   "role": "Programmable art platform",
+   "role_zh": "可编程艺术平台",
+   "bio": "Async Art is an Ethereum platform launched in February 2020 by Conlan Rios, Lisa Liang and Nathan Clapp. It splits an artwork into a Master token and separately owned Layer tokens whose owners can change the image.",
+   "bio_zh": "Async Art 是 2020 年 2 月由 Conlan Rios、Lisa Liang 和 Nathan Clapp 推出的以太坊平台。它把一件作品拆成一个 Master 代币和多个分别持有的 Layer 代币，Layer 的持有者可以改变整幅图像。",
+   "why": "It turned co-ownership into co-authorship: each collector of a layer controls part of a shared picture within limits the artist set.",
+   "why_zh": "它把共同持有变成了共同创作：每位图层藏家都能在艺术家设定的范围内控制共享画面的一部分。",
+   "discovered_via": "seed",
+   "work_count": 3
+  },
+  {
+   "id": "matt-kane",
+   "links": {
+    "site": "https://mattkane.com",
+    "x": "https://x.com/mattkaneartist"
+   },
+   "connected_to": [
+    "async-art"
+   ],
+   "name": "Matt Kane",
+   "kind": "person",
+   "role": "Artist and programmer",
+   "role_zh": "艺术家、程序员",
+   "bio": "Chicago-born artist who writes his own software to make layered, data-driven digital paintings. He contributed to Async Art's First Supper and made the Bitcoin-driven Right Place & Right Time.",
+   "bio_zh": "出生于芝加哥的艺术家，自己编写软件来制作多层、由数据驱动的数字绘画。他参与了 Async Art 的 First Supper，并创作了由比特币行情驱动的 Right Place & Right Time。",
+   "why": "His programmable paintings are drawn each day by the collective behaviour of a market rather than by the artist's hand.",
+   "why_zh": "他的可编程绘画每天由市场的集体行为而不是艺术家的手来“绘制”。",
+   "discovered_via": "async-art",
+   "work_count": 2
+  },
+  {
+   "id": "dom-hofmann",
+   "links": {
+    "site": "https://www.lootproject.com",
+    "x": "https://x.com/dhof",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dom_Hofmann"
+   },
+   "connected_to": [],
+   "name": "Dom Hofmann",
+   "kind": "person",
+   "role": "Software developer and artist; co-founder of Vine",
+   "role_zh": "软件开发者、艺术家；Vine 联合创始人",
+   "bio": "Co-founder of Vine who, in 2021, released Blitmap, a pixel-art collection remixed by its community, and Loot, eight thousand on-chain text lists of adventurer gear with no images or rules attached.",
+   "bio_zh": "Vine 的联合创始人。2021 年他发布了由社区混编的像素艺术合集 Blitmap，以及 Loot：八千份存储在链上的冒险者装备文字清单，不附图像，也不附任何规则。",
+   "why": "He showed that a deliberately unfinished on-chain primitive can hand world-building to everyone who holds or builds on it.",
+   "why_zh": "他证明了一个刻意“未完成”的链上原语可以把构建世界的工作交给所有持有者和在其上继续开发的人。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "mathcastles",
+   "links": {
+    "site": "https://mathcastles.xyz",
+    "x": "https://x.com/mathcastles"
+   },
+   "connected_to": [],
+   "name": "Mathcastles",
+   "kind": "studio",
+   "role": "On-chain art studio (Xaltgeist and 0x113d)",
+   "role_zh": "链上艺术工作室（Xaltgeist 与 0x113d）",
+   "bio": "A pseudonymous two-person studio, Xaltgeist and 0x113d, that builds fully on-chain art systems. Its best-known work is Terraforms (2021), a 20-level on-chain structure of land parcels.",
+   "bio_zh": "一个由两位化名成员 Xaltgeist 与 0x113d 组成的工作室，专门构建完全在链上运行的艺术系统。其代表作是 Terraforms（2021），一座由地块组成、共 20 层的链上结构。",
+   "why": "Terraforms gives each holder a piece of a shared on-chain world they can repaint and lock back into the contract.",
+   "why_zh": "Terraforms 让每位持有者拥有共享链上世界的一块，并可以重新绘制它、再写回合约。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "harm-van-den-dorpel",
+   "links": {
+    "site": "https://harm.work",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harm_van_den_Dorpel"
+   },
+   "connected_to": [],
+   "name": "Harm van den Dorpel",
+   "kind": "person",
+   "role": "Artist; co-founder of left gallery",
+   "role_zh": "艺术家；left gallery 联合创始人",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Dutch artist working with software, genetic algorithms and blockchains; co-founder of left gallery, an early platform for selling code-based art. He has bred populations of images since Death Imitates Language (2016).",
+   "bio_zh": "荷兰艺术家，用软件、遗传算法和区块链创作；left gallery 的联合创始人，该画廊是较早出售代码艺术的平台。自 Death Imitates Language（2016）起，他一直在“培育”图像种群。",
+   "why": "His evolving token populations make ownership part of an ongoing breeding and archiving process.",
+   "why_zh": "他不断演化的代币种群，让“拥有”成为持续繁殖与存档过程的一部分。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "suum-cuique-labs",
+   "links": {
+    "site": "https://www.thehashmasks.com",
+    "x": "https://x.com/TheHashmasks"
+   },
+   "connected_to": [],
+   "name": "Suum Cuique Labs",
+   "kind": "company",
+   "role": "Studio behind Hashmasks",
+   "role_zh": "Hashmasks 的创作团队",
+   "based": "Zug, CH",
+   "based_zh": "楚格，瑞士",
+   "bio": "Swiss studio that released Hashmasks in 2021: 16,384 digital portraits painted by about 70 artists, which owners can name permanently by burning a dedicated token.",
+   "bio_zh": "瑞士工作室，2021 年发布 Hashmasks：由约 70 位艺术家绘制的 16,384 幅数字肖像，持有者可以通过销毁专用代币为其永久命名。",
+   "why": "It made naming, a collector's act, into the part of the work that decides its meaning and rarity.",
+   "why_zh": "它把“命名”这一藏家行为变成了决定作品意义和稀缺性的部分。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "tyler-hobbs",
+   "links": {
+    "site": "https://www.tylerxhobbs.com",
+    "x": "https://x.com/tylerxhobbs"
+   },
+   "connected_to": [
+    "dandelion-wist-mane"
+   ],
+   "name": "Tyler Hobbs",
+   "kind": "person",
+   "role": "Generative artist",
+   "role_zh": "生成艺术家",
+   "based": "Austin, US",
+   "based_zh": "奥斯汀，美国",
+   "bio": "Generative artist working with algorithms, plotters and paint, known for Fidenza (2021). With Dandelion Wist Mané he made QQL (2022), where collectors search the algorithm and choose what gets minted.",
+   "bio_zh": "使用算法、绘图仪和颜料创作的生成艺术家，以 Fidenza（2021）闻名。他与 Dandelion Wist Mané 合作的 QQL（2022）让藏家亲自探索算法、决定铸造哪一幅。",
+   "why": "QQL moved curation of a generative algorithm from the artist to the collectors.",
+   "why_zh": "QQL 把生成算法的策展权从艺术家手中交给了藏家。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "dandelion-wist-mane",
+   "links": {
+    "site": "https://qql.art"
+   },
+   "connected_to": [
+    "tyler-hobbs"
+   ],
+   "name": "Dandelion Wist Mané",
+   "kind": "person",
+   "role": "Software engineer and generative artist",
+   "role_zh": "软件工程师、生成艺术家",
+   "bio": "Software engineer and generative artist who created TensorBoard at Google Brain and co-created SourceCred at Protocol Labs before co-creating QQL with Tyler Hobbs.",
+   "bio_zh": "软件工程师和生成艺术家，曾在 Google Brain 创建 TensorBoard，在 Protocol Labs 共同创建 SourceCred，之后与 Tyler Hobbs 共同创作 QQL。",
+   "why": "Brought ideas from contribution-tracking systems into a generative artwork where the collector becomes co-creator.",
+   "why_zh": "把贡献追踪系统的思路带进生成艺术，让藏家成为共同创作者。",
+   "discovered_via": "tyler-hobbs",
+   "work_count": 1
+  },
+  {
+   "id": "sam-spratt",
+   "links": {
+    "site": "https://samspratt.com",
+    "x": "https://x.com/SamSpratt"
+   },
+   "connected_to": [],
+   "name": "Sam Spratt",
+   "kind": "person",
+   "role": "Painter and digital artist",
+   "role_zh": "画家、数字艺术家",
+   "bio": "Digital painter whose LUCI series (ten paintings, 613 masks and accompanying psalms) grows through games that collectors play inside the story.",
+   "bio_zh": "数字画家，其 LUCI 系列（十幅画作、613 个面具及配套诗篇）通过藏家在故事中参与的游戏不断生长。",
+   "why": "He turns collectors into players whose written contributions and votes are folded back into the paintings.",
+   "why_zh": "他把藏家变成玩家，并把他们的书写与投票重新织入画作。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "alexis-andre",
+   "links": {
+    "x": "https://x.com/MacTuitui"
+   },
+   "connected_to": [],
+   "name": "Alexis André",
+   "kind": "person",
+   "role": "Generative artist and researcher",
+   "role_zh": "生成艺术家、研究者",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "French generative artist and researcher based in Tokyo. His Art Blocks project Friendship Bracelets (2022) was given free to Art Blocks holders to keep one and give one away.",
+   "bio_zh": "常驻东京的法国生成艺术家和研究者。他在 Art Blocks 上的项目 Friendship Bracelets（2022）免费发放给 Art Blocks 持有者：留一个，送一个。",
+   "why": "Friendship Bracelets used a generative drop as an instruction to give and to make something by hand.",
+   "why_zh": "Friendship Bracelets 把一次生成艺术发放变成了“赠送”和“亲手编织”的指令。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "dark-forest-team",
+   "links": {
+    "site": "https://zkga.me",
+    "x": "https://x.com/darkforest_eth",
+    "github": "https://github.com/darkforest-eth"
+   },
+   "connected_to": [],
+   "name": "Dark Forest team (Brian Gu, Alan Luo et al.)",
+   "kind": "collective",
+   "role": "Developers of the zkSNARK game Dark Forest",
+   "role_zh": "零知识证明游戏 Dark Forest 的开发团队",
+   "bio": "Small team led by Brian Gu (gubsheep) that built Dark Forest (2020), a real-time strategy game that runs entirely on an Ethereum-compatible chain and hides the map with zero-knowledge proofs.",
+   "bio_zh": "由 Brian Gu（gubsheep）带领的小团队，于 2020 年打造 Dark Forest：一款完全在以太坊兼容链上运行、用零知识证明隐藏地图的即时战略游戏。",
+   "why": "Dark Forest showed that an on-chain rule set can host a persistent world whose history is written by its players and their bots.",
+   "why_zh": "Dark Forest 证明了一套链上规则可以承载一个由玩家及其机器人书写历史的持续世界。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "basepaint",
+   "links": {
+    "site": "https://basepaint.xyz",
+    "x": "https://x.com/basepaint_xyz",
+    "github": "https://github.com/BasePaint"
+   },
+   "connected_to": [],
+   "name": "BasePaint",
+   "kind": "collective",
+   "role": "Team behind the BasePaint daily canvas",
+   "role_zh": "BasePaint 每日画布的创作团队",
+   "bio": "Small team that launched BasePaint on the Base network in August 2023; its contracts were written mainly by the developer w1nt3r. Every day strangers paint one shared pixel canvas that is then sold as an open edition.",
+   "bio_zh": "2023 年 8 月在 Base 网络上推出 BasePaint 的小团队，合约主要由开发者 w1nt3r 编写。每天，陌生人共同在同一块像素画布上作画，画完后以开放版数出售。",
+   "why": "It turns a collective canvas into a daily contract that pays each painter in proportion to the pixels they placed.",
+   "why_zh": "它把集体画布变成一份每日合约，按每位画手落下的像素数给他们分成。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
    "id": "pak",
    "links": {
     "x": "https://x.com/muratpak",
@@ -1230,6 +1463,47 @@
    "also": []
   },
   {
+   "id": "sam-spratt--masquerade",
+   "creator_ids": [
+    "sam-spratt"
+   ],
+   "title": "LUCI: Chapter 6 – X. Masquerade / Masks of Luci",
+   "year": 2025,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "participation",
+    "circulation",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Chapter 6 of LUCI: 613 Masks of Luci that all began bare and took their final form from what their wearers wrote during the Masquerade, alongside the painting X. Masquerade.",
+   "description_zh": "LUCI 第六章：613 个 Masks of Luci 起初全部是空白的，最终形态取决于佩戴者在 Masquerade 期间写下的内容，并配有画作 X. Masquerade。",
+   "idea_en": "Each mask is shaped by the person who wears it: participation is the brush.",
+   "idea_zh": "每个面具由佩戴它的人塑造：参与就是画笔。",
+   "protocol": "Every Player from The Monument Game who kept custody of their ticket could claim a Mask in February 2025, and also held a Guest-list spot that allowed one more Mask to be bought: they could invite a Guest, collect it themselves, or release it to a public drawing. Masks started bare; Spratt read each wearer's Observation, Discussion and Revision, deliberated alone with the author and with the Council, and made each Mask to suit its wearer.",
+   "protocol_zh": "凡仍持有 The Monument Game 门票的 Player，均可在 2025 年 2 月领取一个面具，并获得一个 Guest 名额，可再购买一个面具：邀请一位客人收藏、自己收藏，或放入公开抽签。面具起初是空白的；Spratt 阅读每位佩戴者的 Observation、Discussion 与 Revision，分别与作者本人以及与 Council 一起讨论，再为每位佩戴者制作面具。",
+   "collective": "Hundreds of written contributions shaped 613 unique masks, each carrying one wearer's observation on the world; invitations passed masks from Players to new Guests.",
+   "collective_zh": "数百份书面贡献塑造出 613 个独一无二的面具，每个都承载着一位佩戴者对世界的观察；邀请机制让面具从 Player 传递给新的客人。",
+   "keywords": [
+    "LUCI",
+    "Masks of Luci",
+    "Masquerade",
+    "Sam Spratt",
+    "invitation"
+   ],
+   "images": [
+    "https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/X_Masquerade.webp",
+    "https://storage.googleapis.com/luci-bc460.firebasestorage.app/masks_sizes/1200/359.webp"
+   ],
+   "source_url": "https://samspratt.com/6/masks/",
+   "contract_url": "https://etherscan.io/address/0x4440732b0d85e2a77dcb2caedfd940154241249a",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "mat-dryhurst--protocol-art",
    "creator_ids": [
     "mat-dryhurst"
@@ -1491,6 +1765,51 @@
    "images": []
   },
   {
+   "id": "basepaint--basepaint",
+   "creator_ids": [
+    "basepaint"
+   ],
+   "title": "BasePaint",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "A daily collaborative pixel canvas on the Base network: each day people holding brushes paint one shared image, and the next day the finished canvas is sold as an open edition whose proceeds go to the painters.",
+   "description_zh": "Base 网络上的每日协作像素画布：每天，持有画笔的人共同绘制同一幅图像；第二天，完成的画布以开放版数出售，收入归画手所有。",
+   "idea_en": "A shared canvas with a clock and a payroll: one picture a day, paid out by pixels painted.",
+   "idea_zh": "一块带时钟和工资单的共享画布：每天一幅画，按所画像素付酬。",
+   "protocol": "Painting requires a Brush token with a daily pixel allowance (trial brushes lose pixels over time). The community votes on the day's theme. Rules: no tracing or recolouring, no promotions or offensive symbols, all art is public domain (CC0). The contract records each painter's pixel count; when the canvas is minted, 90% of mint revenue is split pro rata by pixels and 10% goes to the operators.",
+   "protocol_zh": "作画需要持有 Brush 代币，每支画笔每天有像素额度（试用画笔的像素会随时间减少）。社区投票决定当天主题。规则：不得描摹或重新上色，不得做推广或使用冒犯性符号，所有作品进入公共领域（CC0）。合约记录每位画手的像素数；画布被铸造时，90% 的铸造收入按像素比例分给画手，10% 归运营方。",
+   "collective": "Since August 2023 strangers have produced a new canvas every day, more than a thousand so far, coordinating in chat and live cursors; the BasePaint contract lists over 288,000 token holders on Blockscout.",
+   "collective_zh": "自 2023 年 8 月以来，陌生人每天完成一幅新画布，至今已超过一千幅，他们通过聊天和实时光标协调；Blockscout 显示 BasePaint 合约的代币持有地址超过 28.8 万个。",
+   "keywords": [
+    "BasePaint",
+    "Base",
+    "pixel canvas",
+    "daily",
+    "CC0",
+    "open edition"
+   ],
+   "images": [
+    "https://basepaint.xyz/api/art/image?day=1",
+    "https://basepaint.xyz/api/og"
+   ],
+   "source_url": "https://basepaint.xyz",
+   "contract_url": "https://basescan.org/address/0xBa5e05cb26b78eDa3A2f8e3b3814726305dcAc83",
+   "code_url": "https://github.com/BasePaint/basepaint-contracts",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "jack-butcher--checks",
    "creator_ids": [
     "jack-butcher"
@@ -1532,6 +1851,48 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "sam-spratt--the-monument-game",
+   "creator_ids": [
+    "sam-spratt"
+   ],
+   "title": "LUCI: Chapter 5 – The Monument Game",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "Chapter 5 of Sam Spratt's LUCI: a 1-of-1 painting played as a game. 256 Player tickets let holders write an 'observation' onto the painting, and the Council of Luci judged which contributions were best.",
+   "description_zh": "Sam Spratt 的 LUCI 第五章：一幅以游戏方式展开的独版画作。256 张 Player 票让持有者在画面上写下一条“观察”，再由 Council of Luci 评判哪些贡献最好。",
+   "idea_en": "Turn viewers into players who annotate a painting, and let the earlier collectors act as its jury.",
+   "idea_zh": "把观众变成为画作做注解的玩家，让早期藏家担任评审。",
+   "protocol": "In August 2023, 256 Player tickets were sold. Over four days each Player placed one observation, a few sentences or verses, on the painting. The Council of Luci (holders of the Skulls of Luci, 47 of which Spratt had given away as gifts, three held back) voted on the three Players who gave the most, who received the three remaining Skulls.",
+   "protocol_zh": "2023 年 8 月售出 256 张 Player 票。四天内，每位 Player 在画面上放置一条观察，几句话或几行诗。Council of Luci（Skulls of Luci 的持有者；Spratt 曾把其中 47 个作为礼物送出，保留 3 个）投票选出付出最多的三位 Player，他们获得剩下的三个 Skull。",
+   "collective": "Players wrote 256 observations that are inscribed on-chain with the finished 1-of-1, and the Council deliberated and voted on them. The work was later exhibited in Venice in 2024 by 1OF1 and collector Ryan Zurrer.",
+   "collective_zh": "玩家写下的 256 条观察与完成的独版作品一起被铭刻在链上，Council 对其进行讨论和投票。作品后于 2024 年由 1OF1 与藏家 Ryan Zurrer 在威尼斯展出。",
+   "keywords": [
+    "LUCI",
+    "Sam Spratt",
+    "Council of Luci",
+    "Skulls of Luci",
+    "observations"
+   ],
+   "images": [
+    "https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/IX_The_Monument_Game.webp"
+   ],
+   "source_url": "https://samspratt.com/5/ix/",
+   "contract_url": "https://etherscan.io/address/0xda6558fa1c2452938168ef79dfd29c45aba8a32b",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "jack-butcher--opepen-edition",
@@ -1794,6 +2155,55 @@
    "paper": {}
   },
   {
+   "id": "alexis-andre--friendship-bracelets",
+   "creator_ids": [
+    "alexis-andre"
+   ],
+   "title": "Friendship Bracelets",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "circulation",
+    "instruction",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A free Art Blocks project conceived with Art Blocks founder Snowfro: every holder of an Art Blocks piece could claim two generative bracelets, keep one and give the other away. Each output includes instructions to weave the bracelet by hand from embroidery floss.",
+   "description_zh": "与 Art Blocks 创始人 Snowfro 共同构想的免费 Art Blocks 项目：每位持有 Art Blocks 作品的人可以领取两个生成式手链，自己留一个，把另一个送人。每个作品都附有用绣线亲手编织这条手链的说明。",
+   "idea_en": "A generative artwork that asks to be given away and made by hand.",
+   "idea_zh": "一件要求被赠送、被亲手制作的生成艺术作品。",
+   "protocol": "Wallets holding any Art Blocks token at the 26 October 2022 snapshot could claim two mints for gas only until 10 January 2023. Holders were asked to keep one bracelet and gift the second; the artwork doubles as a pattern using standard embroidery floss colours.",
+   "protocol_zh": "在 2022 年 10 月 26 日快照时持有任何 Art Blocks 代币的钱包，可在 2023 年 1 月 10 日前只付 gas 领取两次铸造。持有者被请求自己留一条、把第二条送人；作品同时也是一份使用标准绣线颜色的编织图样。",
+   "collective": "Roughly 250,000 Art Blocks owners were eligible; bracelets spread as gifts to friends and newcomers, and holders wove physical versions from the on-chain patterns.",
+   "collective_zh": "约 25 万名 Art Blocks 持有者具有领取资格；手链作为礼物流向朋友和新人，持有者还按链上图样编织出实体手链。",
+   "keywords": [
+    "Art Blocks",
+    "Friendship Bracelets",
+    "gift",
+    "Snowfro",
+    "phygital"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_DeFATb0QB0",
+    "platform": "youtube",
+    "id": "_DeFATb0QB0",
+    "thumbnail": "https://i.ytimg.com/vi/_DeFATb0QB0/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://media-proxy.artblocks.io/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a/1575.png",
+    "https://whitehotmagazine.com/images/article_images/article_5567_featured-5.jpg"
+   ],
+   "source_url": "https://whitehotmagazine.com/articles/nfts-with-diy-phygital-component/5567",
+   "contract_url": "https://etherscan.io/address/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
+   "paper": {}
+  },
+  {
    "id": "jacob-horne--hyperstructures",
    "creator_ids": [
     "jacob-horne"
@@ -1873,6 +2283,53 @@
    ],
    "source_url": "https://mass.black/",
    "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "tyler-hobbs--qql",
+   "creator_ids": [
+    "tyler-hobbs",
+    "dandelion-wist-mane"
+   ],
+   "title": "QQL",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "participation",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "A generative algorithm published as a public tool: anyone can explore its parameters and save seeds, but only the 999 Mint Pass holders can turn a chosen seed into an official QQL NFT, at any time they like.",
+   "description_zh": "以公共工具形式发布的生成算法：任何人都可以调整参数、保存种子，但只有 999 张 Mint Pass 的持有者能把选中的种子铸成正式的 QQL NFT，而且可以在任何时候铸造。",
+   "idea_en": "Make the collector the curator: the algorithm proposes, the community searches, and the finder is paid.",
+   "idea_zh": "让藏家成为策展人：算法提议，社区搜寻，发现者获得回报。",
+   "protocol": "Each Mint Pass allows one mint with no time limit. A seed embeds the address of whoever created it, and that address receives a 2% royalty on secondary sales of the NFT, so the discoverer, not necessarily the minter, is credited.",
+   "protocol_zh": "每张 Mint Pass 可铸造一次，没有时间限制。种子中嵌入其创建者的地址，该地址在 NFT 二级销售时获得 2% 版税，因此获得回报的是“发现者”，不一定是铸造者。",
+   "collective": "The community generated large numbers of seeds, traded and discussed them on Discord and a subreddit, formed a rotating QQL Council that curates the Seedbox of unminted seeds, and runs monthly themed challenges decided by community vote.",
+   "collective_zh": "社区生成了大量种子，在 Discord 和 subreddit 上交换、讨论；成立轮值的 QQL Council，为尚未铸造的种子策划 Seedbox；并每月举办由社区投票决定的主题挑战。",
+   "keywords": [
+    "QQL",
+    "Tyler Hobbs",
+    "seed",
+    "Mint Pass",
+    "collector as curator"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0mjkN2aiax0",
+    "platform": "youtube",
+    "id": "0mjkN2aiax0",
+    "thumbnail": "https://i.ytimg.com/vi/0mjkN2aiax0/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://img.qql.art/assets/qql-social.png"
+   ],
+   "source_url": "https://qql.art/about",
+   "contract_url": "https://etherscan.io/address/0x845dd2a7ee2a92a0518ab2135365ed63fdba0c88",
    "paper": {},
    "also": []
   },
@@ -1971,6 +2428,177 @@
    "also": []
   },
   {
+   "id": "async-art--async-music",
+   "creator_ids": [
+    "async-art"
+   ],
+   "title": "Async Music (programmable music)",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "Async Art's extension of Layers to sound: musicians upload alternative versions of each stem, and owners of Stem Layer tokens choose which version plays in the song's current Master Track.",
+   "description_zh": "Async Art 把图层机制延伸到声音：音乐人为每条分轨上传多个备选版本，Stem Layer 代币的持有者决定当前 Master Track 中播放哪一版。",
+   "idea_en": "A song that exists as a menu of variants, mixed live by the people who own its stems.",
+   "idea_zh": "一首歌以“变体菜单”的形式存在，由持有分轨的人现场混音。",
+   "protocol": "The musician uploads every variant of each stem. The owner of a Stem Layer NFT selects one variant; the Master Track that everyone hears is the combination of all current selections. Separate Blank Record NFTs let a holder snapshot one audio-visual state of the Master.",
+   "protocol_zh": "音乐人上传每条分轨的所有变体。Stem Layer NFT 的持有者选择其中一个版本；所有人听到的 Master Track 就是全部当前选择的组合。另设 Blank Record NFT，持有者可用它为 Master 的某一个视听状态存档。",
+   "collective": "The first releases came from RAC, Verdigris Ensemble, HMLTD, and Connie Digital with Mighty33; the songs changed whenever stem owners changed their selections.",
+   "collective_zh": "首批发行来自 RAC、Verdigris Ensemble、HMLTD，以及 Connie Digital 与 Mighty33；每当分轨持有者改变选择，歌曲就随之改变。",
+   "keywords": [
+    "Async Music",
+    "stems",
+    "Master Track",
+    "Blank Record",
+    "RAC"
+   ],
+   "images": [
+    "https://mma.prnewswire.com/media/1498556/AsyncMusic_Breakdown_Infographic.jpg"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "dom-hofmann--blitmap",
+   "creator_ids": [
+    "dom-hofmann"
+   ],
+   "title": "Blitmap",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "merge"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "100 original 32×32 pixel artworks by 17 artists, stored on-chain, from which the community minted 1,600 'siblings' by combining the composition of one original with the palette of another.",
+   "description_zh": "由 17 位艺术家创作、存储在链上的 100 幅 32×32 原创像素画；社区在此基础上把一幅原作的构图与另一幅的配色组合，铸造出 1,600 幅“兄弟姐妹”。",
+   "idea_en": "Give a crowd a small, open set of originals and a recombination rule, and let it grow a universe.",
+   "idea_zh": "给人群一小套开放的原作和一条重组规则，让他们长出一个宇宙。",
+   "protocol": "The originals were written into the contract as data; any sibling is defined by choosing one original's composition and another's colour palette, and minting it creates a new token. Originals and much of what followed were released as open source, so anyone could build on them.",
+   "protocol_zh": "原作以数据形式写入合约；每一幅“兄弟姐妹”都由“一幅原作的构图 + 另一幅原作的配色”定义，铸造后成为一个新代币。原作及后续大部分作品以开源方式发布，任何人都可以在其上创作。",
+   "collective": "Collectors crafted all 1,600 siblings. Artists and fans then extended the world of Caelum with the Blitnauts expansion pack, Sup's androids, comics, cartoons, socks, shoes and toys.",
+   "collective_zh": "藏家组合铸造出全部 1,600 幅兄弟姐妹。随后，艺术家和爱好者用 Blitnauts 扩展包、Sup 的机器人阵营、漫画、动画、袜子、鞋和玩具，把 Caelum 世界继续扩展。",
+   "keywords": [
+    "Blitmap",
+    "pixel art",
+    "remix",
+    "siblings",
+    "open source",
+    "Blitnauts"
+   ],
+   "images": [
+    "https://www.blitmap.com/blitmap-collection-small.png",
+    "https://blitmap.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblitnaut-crop.974e3cca.webp&w=3840&q=75"
+   ],
+   "source_url": "https://blitmap.com",
+   "contract_url": "https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "suum-cuique-labs--hashmasks",
+   "creator_ids": [
+    "suum-cuique-labs"
+   ],
+   "title": "Hashmasks",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "burn",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "16,384 digital portraits painted by about 70 artists, sold in early 2021. Owners accrue a Name Changing Token (NCT) and can burn 1,830 NCT to give their mask a unique name stored on-chain.",
+   "description_zh": "约 70 位艺术家绘制的 16,384 幅数字肖像，于 2021 年初发售。持有者会累积 Name Changing Token（NCT），销毁 1,830 NCT 即可为自己的面具起一个存储在链上、独一无二的名字。",
+   "idea_en": "Let the collectors write the titles, and make each title cost something and exist only once.",
+   "idea_zh": "让藏家来写标题，而且每个标题都有成本、全网唯一。",
+   "protocol": "Every mask accrues NCT over time. To name a mask, its owner sends 1,830 NCT to the Hashmasks contract, which burns them and records the name; each name can belong to only one mask at a time.",
+   "protocol_zh": "每个面具都会随时间累积 NCT。要为面具命名，持有者需把 1,830 NCT 发送到 Hashmasks 合约，合约将其销毁并记录名字；同一名字同一时间只能属于一个面具。",
+   "collective": "Owners spent NCT to name their masks; because every name can exist only once, words became contested, and the on-chain naming record became part of each mask's identity and value alongside the artists' images.",
+   "collective_zh": "持有者花费 NCT 为自己的面具命名；由于每个名字只能存在一次，词语变得需要争夺，链上的命名记录与艺术家的图像一起，成为每个面具身份与价值的一部分。",
+   "keywords": [
+    "Hashmasks",
+    "NCT",
+    "naming",
+    "burn",
+    "Suum Cuique"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cDz8Y2UPeMg",
+    "platform": "youtube",
+    "id": "cDz8Y2UPeMg",
+    "thumbnail": "https://i.ytimg.com/vi/cDz8Y2UPeMg/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://hashmasksstore.blob.core.windows.net/hashmasks/1.jpg",
+    "https://img.phemex.com/v1/4caf239c/hashmasks-1024x576.jpg"
+   ],
+   "source_url": "https://www.thehashmasks.com",
+   "contract_url": "https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "dom-hofmann--loot",
+   "creator_ids": [
+    "dom-hofmann"
+   ],
+   "title": "Loot (for Adventurers)",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "participation",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "8,000 bags of randomly generated adventurer gear, each just a list of eight item names rendered as white text on black and stored on-chain. Stats, images and rules were left out on purpose, and the community built games, art and tokens on top.",
+   "description_zh": "8,000 个随机生成的冒险者装备袋，每个只是写在黑底上的八行白色物品名，完整存储在链上。属性、图像和规则都被刻意省略，社区在其上构建了游戏、艺术和代币。",
+   "idea_en": "Release an unfinished primitive and let everyone else decide what it means.",
+   "idea_zh": "发布一个未完成的原语，让所有人去决定它的意义。",
+   "protocol": "Anyone could claim a bag for free, paying only gas; items were derived from the token id by the contract. The only instruction was: 'Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.'",
+   "protocol_zh": "任何人只需支付 gas 即可免费领取一个袋子；物品由合约根据代币编号生成。唯一的说明是：属性、图像和其他功能被刻意省略，留给他人诠释，Loot 可以被随意使用。",
+   "collective": "Holders and outside builders turned the bags into a 'Lootverse': More Loot and Synthetic Loot for everyone, the Genesis Adventurer project, Realms, Banners, Crypts and Caverns dungeon maps, Rings, character art, 3D assets and games, each reading the original bags as canon.",
+   "collective_zh": "持有者和外部开发者把这些袋子扩展成 “Lootverse”：人人可领的 More Loot 和 Synthetic Loot、Genesis Adventurer 项目、Realms、Banners、Crypts and Caverns 地下城地图、Rings、角色画、3D 资产和游戏，都把原始袋子当作设定来源。",
+   "keywords": [
+    "Loot",
+    "Dom Hofmann",
+    "text NFT",
+    "derivatives",
+    "Lootverse",
+    "CC0"
+   ],
+   "images": [
+    "https://lootproject.com/meta.png",
+    "https://www.lootproject.com/banners.png",
+    "https://www.lootproject.com/cryptsandcaverns.png"
+   ],
+   "source_url": "https://www.lootproject.com",
+   "contract_url": "https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "pak--lost-poets",
    "creator_ids": [
     "pak"
@@ -2062,6 +2690,47 @@
    "also": []
   },
   {
+   "id": "harm-van-den-dorpel--mutant-garden-seeder",
+   "creator_ids": [
+    "harm-van-den-dorpel"
+   ],
+   "title": "Mutant Garden Seeder",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "time",
+    "chance",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "512+1 Ethereum tokens, released with Folia, whose images are 'mutants' seeded from blockchain state at birth and then randomly mutating over the following years. A later contract lets holders freeze chosen mutation states as permanent on-chain tokens.",
+   "description_zh": "与 Folia 合作发行的 512+1 个以太坊代币，其图像是在诞生时由区块链状态播种的“突变体”，此后多年随机持续突变。后来的合约让持有者把选定的突变状态凝固为永久的链上代币。",
+   "idea_en": "An artwork that keeps evolving after sale, with owners deciding which moments of its life are preserved.",
+   "idea_zh": "一件售出后仍在演化的作品，由持有者决定它生命中哪些时刻被保存下来。",
+   "protocol": "Each token has a fixed mutation probability; a daemon connected to Ethereum mainnet applies mutations and archives every past state. Through the Mutations contract a holder can mint any past state of their own mutant as a static token, or unlock it so anyone can mint its mutations while the holder receives a payout they set.",
+   "protocol_zh": "每个代币有固定的突变概率；一个连接以太坊主网的守护进程执行突变，并存档所有历史状态。通过 Mutations 合约，持有者可以把自己突变体的任意历史状态铸成静态代币，或将其开放给任何人铸造，并按自己设定的金额获得分成。",
+   "collective": "The 512 tokens sold out within hours in 2021. Holders have since chosen which mutation states to fix on-chain (metadata on-chain, SVGs on Arweave), turning private ownership into collective conservation of the garden.",
+   "collective_zh": "512 个代币于 2021 年在数小时内售罄。此后持有者不断挑选要写入链上的突变状态（元数据在链上，SVG 存于 Arweave），把个人持有变成对这座“花园”的集体保存。",
+   "keywords": [
+    "Mutant Garden",
+    "Folia",
+    "genetic programming",
+    "mutation",
+    "Arweave"
+   ],
+   "images": [
+    "https://seeder.mutant.garden/images/mutant-garden-meta-images.jpg",
+    "https://seeder.mutant.garden/images/installationview.jpg"
+   ],
+   "source_url": "https://seeder.mutant.garden/about",
+   "contract_url": "https://etherscan.io/address/0x20c70bdfcc398c1f06ba81730c8b52ace3af7cc3",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "tom-sachs--rocket-factory",
    "creator_ids": [
     "tom-sachs"
@@ -2100,6 +2769,54 @@
    ],
    "source_url": "https://unframed.lacma.org/2021/11/09/nfts-and-museum-tom-sachs-rocket-launch",
    "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "mathcastles--terraforms",
+   "creator_ids": [
+    "mathcastles"
+   ],
+   "title": "Terraforms",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "time",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "11,104 animated land parcels, each a 32×32 grid of characters generated entirely on-chain, stacked into a 20-level structure called the Hypercastle. Owners can switch a parcel to a blank 'daydream' and draw their own terrain back into the contract.",
+   "description_zh": "11,104 块动态地块，每块是一张完全在链上生成的 32×32 字符网格，叠成一座名为 Hypercastle 的 20 层结构。持有者可以把地块切换成空白的“白日梦”状态，再把自己绘制的地形写回合约。",
+   "idea_en": "A shared on-chain landscape whose surface is gradually redrawn by the people who own its pieces.",
+   "idea_zh": "一片共享的链上地景，其表面由各块的持有者逐渐重绘。",
+   "protocol": "Each parcel has a mode set by its owner: terrain (the original generated topography), daydream (a blank slate to draw on) or terraform (the drawing committed on-chain for everyone to see). The contract renders all parcels itself, so the Hypercastle is always the sum of what owners have left in it.",
+   "protocol_zh": "每块地块的模式由持有者设定：terrain（原始生成的地形）、daydream（可以作画的空白）或 terraform（把画作提交上链，所有人可见）。合约自行渲染所有地块，因此 Hypercastle 永远是持有者留下内容的总和。",
+   "collective": "Holders repainted parcels, while community developers built tools such as a 3D Hypercastle explorer; parcels were exhibited as a level-by-level world, for example at Glitch Marfa's e30d gallery in 2023.",
+   "collective_zh": "持有者重绘地块，社区开发者制作了 3D Hypercastle 浏览器等工具；这些地块也作为逐层展开的世界被展出，例如 2023 年 Glitch Marfa 的 e30d 画廊。",
+   "keywords": [
+    "Terraforms",
+    "Mathcastles",
+    "Hypercastle",
+    "on-chain",
+    "ASCII",
+    "land art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U2xTl5pPHwk",
+    "platform": "youtube",
+    "id": "U2xTl5pPHwk",
+    "thumbnail": "https://i.ytimg.com/vi/U2xTl5pPHwk/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.glitchmarfa.com/uploads/glitch_mathcastles3584.gif",
+    "https://www.glitchmarfa.com/uploads/HypercastleStructure.r1.jpg"
+   ],
+   "source_url": "https://www.bankless.com/terraforms-explained-is-this-ethereums-best-onchain-art",
+   "contract_url": "https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56",
    "paper": {},
    "also": []
   },
@@ -2233,6 +2950,183 @@
    ],
    "source_url": "https://burn.art/about",
    "contract_url": "https://etherscan.io/address/0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "async-art--async-art",
+   "creator_ids": [
+    "async-art"
+   ],
+   "title": "Async Art (programmable art)",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "contract",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "An Ethereum platform where an artwork is issued as one Master token plus many Layer tokens. Whoever owns a Layer can switch it between states the artist defined, and the Master image is redrawn from all current choices.",
+   "description_zh": "一个以太坊平台：一件作品被发行为一个 Master 代币和多个 Layer 代币。谁拥有某个图层，谁就能在艺术家预设的状态之间切换它，Master 图像则根据所有当前选择重新绘制。",
+   "idea_en": "Split a picture into parts, sell the parts to different people, and let the picture be whatever their combined choices make it.",
+   "idea_zh": "把一幅画拆成若干部分卖给不同的人，画面就是他们共同选择的结果。",
+   "protocol": "The artist uploads a Master and its Layers and, for each Layer, fixes the allowed abilities (state change, move, rotate, colour, scale, reflect, visibility, opacity) and their ranges. Only the current owner of a Layer token may change that Layer; the Master is rendered from the sum of Layer states. Layers can also be bound to external data such as time or prices.",
+   "protocol_zh": "艺术家上传 Master 及其图层，并为每个图层规定可用的能力（切换状态、移动、旋转、颜色、缩放、镜像、可见性、透明度）及其范围。只有图层代币的当前持有者可以修改该图层；Master 由所有图层状态叠加渲染而成。图层也可以绑定时间、价格等外部数据。",
+   "collective": "Collectors bought individual layers and changed them, so one Master could look different from week to week depending on many owners. Within its first year Async reports being featured at Christie's and selling single works in the six-figure range; in 2021 it extended the model to music stems.",
+   "collective_zh": "藏家分别购买图层并加以改动，同一幅 Master 因多位持有者的操作而每周呈现不同面貌。据 Async 自述，平台上线第一年即登上佳士得，并有单件作品以六位数美元成交；2021 年它把这一模式扩展到音乐分轨。",
+   "keywords": [
+    "Async Art",
+    "Master",
+    "Layer",
+    "programmable art",
+    "ERC-721"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e956f_Ntb4F8YJgyXZzHkwbK23tI5zxftuuXN4G-1tYcO-WzIA1o7Aina3L5ppK5B1GSV3KdwGKJJti0pNEisHCAukaDC6jICLGFlA3gZytXu73MA8PFjWlP7O6Dmqf70oczXssInUB8b-ae-PCB0Dpg7xnWvqQUwt_z6a_ZXHDMa3hkc0cV4ioyiVdDflVA.png"
+   ],
+   "source_url": "https://opensea.io/blog/articles/async-art-paving-the-way-for-programmable-dynamically-changing-art-on-the-blockchain",
+   "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "dark-forest-team--dark-forest",
+   "creator_ids": [
+    "dark-forest-team"
+   ],
+   "title": "Dark Forest",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "constraint",
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "A massively multiplayer space-conquest game whose entire state lives in smart contracts; zkSNARKs let players move without revealing where they are, so the universe has a real fog of war.",
+   "description_zh": "一款大型多人太空征服游戏，全部状态都在智能合约里；零知识证明让玩家在不暴露位置的情况下行动，使宇宙拥有真正的战争迷雾。",
+   "idea_en": "Publish the rules of a universe as a contract and let players, their scripts and their alliances write its history.",
+   "idea_zh": "把一个宇宙的规则发布为合约，让玩家、他们的脚本和联盟书写它的历史。",
+   "protocol": "The contract defines an infinite, procedurally generated universe; players must mine hashes locally to discover planets and submit zero-knowledge proofs that each move is valid without revealing coordinates. Rounds were time-boxed with prizes, first on Ropsten (August 2020) and later on xDAI/Gnosis Chain; the open client allowed plugins.",
+   "protocol_zh": "合约定义了一个无限、程序生成的宇宙；玩家须在本地计算哈希来发现行星，并提交零知识证明，证明每一步移动合法而不泄露坐标。比赛按回合进行并设奖金，最初在 Ropsten 测试网（2020 年 8 月），后来迁到 xDAI/Gnosis Chain；开放的客户端允许插件。",
+   "collective": "Players formed alliances, wrote bots and plugins (with community plugin and renderer contests), published strategy guides and even exploits, hosted their own community rounds through Lobbies, and organised themselves in groups such as DFDAO, which ran its own tournaments.",
+   "collective_zh": "玩家结成联盟，编写机器人与插件（社区还举办插件与渲染器竞赛），发表战术指南乃至漏洞利用文章，通过 Lobbies 自行举办社区回合，并组织起 DFDAO 等团体，自办锦标赛。",
+   "keywords": [
+    "Dark Forest",
+    "zkSNARK",
+    "0xPARC",
+    "autonomous worlds",
+    "RTS",
+    "plugins"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BLo1r3QhbCU",
+    "platform": "youtube",
+    "id": "BLo1r3QhbCU",
+    "thumbnail": "https://i.ytimg.com/vi/BLo1r3QhbCU/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://zkga.me/public/og_image.png",
+    "https://blog.zkga.me/img/announcing-df/ui-wip.png"
+   ],
+   "source_url": "https://blog.zkga.me/announcing-darkforest",
+   "code_url": "https://github.com/darkforest-eth",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "async-art--first-supper",
+   "creator_ids": [
+    "async-art",
+    "matt-kane"
+   ],
+   "title": "First Supper",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "exchange"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A parody of Leonardo's Last Supper made by 13 crypto artists for Async Art's launch, split into one Master and 22 Layers. Each Layer's owner can move, recolour or swap their part, and the picture is the sum of these choices.",
+   "description_zh": "为 Async Art 上线而作、由 13 位加密艺术家共同完成的《最后的晚餐》戏仿之作，拆分为一个 Master 和 22 个图层。每个图层的持有者都可以移动、改色或切换自己那一部分，画面是这些选择的总和。",
+   "idea_en": "A group portrait whose composition is decided by whoever currently owns each figure.",
+   "idea_zh": "一幅群像，构图由每个人物当下的持有者决定。",
+   "protocol": "Each of the 22 Layers, made by a different artist, has abilities fixed by that artist (rotation, scale, position, visibility, opacity, hue). Only the Layer token's owner can trigger them; for example the owner of MLIBTY's Layer 9 can slide and rotate a giant finger to point at any guest at the table.",
+   "protocol_zh": "22 个图层分别由不同艺术家制作，各自的能力（旋转、缩放、位置、可见性、透明度、色相）由作者设定。只有图层代币持有者可以触发这些能力；例如 MLIBTY 的第 9 层持有者可以平移、旋转一根巨大的手指，让它指向餐桌旁任意一位宾客。",
+   "collective": "The Master auction closed at 103.4 ETH on 28 February 2020 and the 22 Layers sold separately; by April 2020 the layers were held by 10 different collectors, whose changes kept rearranging the scene. Artists included XCOPY, Hackatao, Coldie, Josie Bellini, Alotta Money and Matt Kane.",
+   "collective_zh": "Master 于 2020 年 2 月 28 日以 103.4 ETH 拍出，22 个图层另行出售；到 2020 年 4 月，图层分属 10 位藏家，他们的修改不断重排画面。参与艺术家包括 XCOPY、Hackatao、Coldie、Josie Bellini、Alotta Money 和 Matt Kane。",
+   "keywords": [
+    "Async Art",
+    "Last Supper",
+    "layers",
+    "XCOPY",
+    "Hackatao",
+    "collaboration"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KNlDfNLyH5Q",
+    "platform": "youtube",
+    "id": "KNlDfNLyH5Q",
+    "thumbnail": "https://i.ytimg.com/vi/KNlDfNLyH5Q/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://cdn.steemitimages.com/DQmY3iuaoT5XvrLWvrhDjJL2akbgY4BV4yaheFKTJuabAV7/First%20Supper.jpg",
+    "https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e962f_636d5e387a5de6eea1342db7_63572c4e2c1d1071fb4a9d66_image3.avif"
+   ],
+   "source_url": "https://x.com/asyncart/status/1233482051548065793",
+   "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "matt-kane--right-place-right-time",
+   "creator_ids": [
+    "matt-kane"
+   ],
+   "title": "Right Place & Right Time",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "exchange",
+    "time",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A programmable painting on Async Art made of 24 Layers, one per hour, each redrawn daily from the previous 24 hours of Bitcoin price volatility. It sold for 262 ETH in September 2020.",
+   "description_zh": "Async Art 上的一幅可编程绘画，由 24 个图层组成，每层对应一小时，每天根据前 24 小时的比特币价格波动重新绘制。2020 年 9 月以 262 ETH 售出。",
+   "idea_en": "Let the anonymous crowd of a market paint the picture every day.",
+   "idea_zh": "让市场中匿名的人群每天替你作画。",
+   "protocol": "Kane's algorithm maps each hour of Bitcoin price change to the state of one of 24 Layers, so the composition is set by trading, not by the owner or the artist. A collector agreement adds a second layer: the owner receives 21% of the sales of daily edition NFTs (capped at 210) that record single days of the market.",
+   "protocol_zh": "Kane 的算法把比特币每小时的价格变化映射到 24 个图层之一的状态上，所以构图由交易决定，而不是由持有者或艺术家决定。另有一份藏家协议：持有者可获得每日版 NFT（上限 210 件，每件记录市场的一天）销售额的 21%。",
+   "collective": "The image is produced by the aggregate buying and selling of Bitcoin traders worldwide; the work was planned to run for ten or more years. The artist and its collector framed the revenue share as a new artist–collector partnership model.",
+   "collective_zh": "画面由全球比特币交易者的买卖总和生成；作品计划运行十年以上。艺术家与藏家把这种收益分成称为一种新的艺术家与藏家合作模式。",
+   "keywords": [
+    "Async Art",
+    "Bitcoin",
+    "volatility",
+    "data-driven",
+    "revenue share"
+   ],
+   "images": [
+    "https://volatility.art/wp-content/uploads/sites/5/2023/11/bitcoin-volatility-art-by-matt-kane_9-22-2020_10-scaled-1.jpg",
+    "https://mma.prnewswire.com/media/1277260/volatility_art___right_place_and_right_time_by_matt_kane___diagram.jpg"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/record-cryptoart-sale-matt-kanes-right-place--right-time-a-programmable-artwork-that-changes-with-bitcoin-price-volatility-sells-for-over-100k-on-async-art-301134356.html",
+   "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
    "video": {},
    "paper": {},
    "also": []

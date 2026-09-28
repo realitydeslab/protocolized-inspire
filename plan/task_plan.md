@@ -16,7 +16,8 @@ Examples named by the user: Pak, terra0, Sol LeWitt; most recent works are smart
 - [ ] P0 Research batches (8 parallel agents): score, social, network, onchain-pak, onchain-rules, onchain-coauthor, autonomous, theory
 - [ ] P0 Validate + build + fix dropped media
 - [ ] P1 Local preview check (`./serve.sh`, port 8933)
-- [ ] P2 git init, remote, domain, publish (needs user decision)
+- [x] P2 git init, remote, domain — user chose repo realitydeslab/protocolized-inspire (public, like mth) and domain protocolized.reality.design (DNS CNAME already pointed to realitydeslab.github.io). Pages enabled from main /, CNAME committed.
+- [ ] P0 After remaining batches: validate, build, audit duplicates, `tools/publish.sh`, enforce HTTPS once cert is approved
 
 ## Progress log
 - theory.json ✓ (28 works), onchain-pak.json ✓ (19 works). Interim build: 47 works, 0 dropped, 0 media problems.

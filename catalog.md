@@ -2,7 +2,7 @@
 
 A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-https://protocolized.reality.design · 2026-09-28 · 31 creators · 47 works
+https://protocolized.reality.design · 2026-09-28 · 43 creators · 62 works
 
 ## How an AI assistant should use this file
 
@@ -158,6 +158,88 @@ Contracts that change what owning means: always for sale, must be passed on, die
 
 Works whose layers, parameters or worlds are written by their holders and by the community that builds on them.
 
+#### Async Art (programmable art) — Async Art (2020)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Contract & certificate, Market & exchange
+- Idea: Split a picture into parts, sell the parts to different people, and let the picture be whatever their combined choices make it.
+- What it is: An Ethereum platform where an artwork is issued as one Master token plus many Layer tokens. Whoever owns a Layer can switch it between states the artist defined, and the Master image is redrawn from all current choices.
+- Protocol: The artist uploads a Master and its Layers and, for each Layer, fixes the allowed abilities (state change, move, rotate, colour, scale, reflect, visibility, opacity) and their ranges. Only the current owner of a Layer token may change that Layer; the Master is rendered from the sum of Layer states. Layers can also be bound to external data such as time or prices.
+- What the collective did: Collectors bought individual layers and changed them, so one Master could look different from week to week depending on many owners. Within its first year Async reports being featured at Christie's and selling single works in the six-figure range; in 2021 it extended the model to music stems.
+- Images: https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e956f_Ntb4F8YJgyXZzHkwbK23tI5zxftuuXN4G-1tYcO-WzIA1o7Aina3L5ppK5B1GSV3KdwGKJJti0pNEisHCAukaDC6jICLGFlA3gZytXu73MA8PFjWlP7O6Dmqf70oczXssInUB8b-ae-PCB0Dpg7xnWvqQUwt_z6a_ZXHDMa3hkc0cV4ioyiVdDflVA.png
+- Project page: https://opensea.io/blog/articles/async-art-paving-the-way-for-programmable-dynamically-changing-art-on-the-blockchain
+- Contract: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Dark Forest — Dark Forest team (Brian Gu, Alan Luo et al.) (2020)
+- Type: Game & experiment · Substrate: Ethereum & L2s · Mechanisms: Rules & constraints, Open participation, Co-authorship & derivatives
+- Idea: Publish the rules of a universe as a contract and let players, their scripts and their alliances write its history.
+- What it is: A massively multiplayer space-conquest game whose entire state lives in smart contracts; zkSNARKs let players move without revealing where they are, so the universe has a real fog of war.
+- Protocol: The contract defines an infinite, procedurally generated universe; players must mine hashes locally to discover planets and submit zero-knowledge proofs that each move is valid without revealing coordinates. Rounds were time-boxed with prizes, first on Ropsten (August 2020) and later on xDAI/Gnosis Chain; the open client allowed plugins.
+- What the collective did: Players formed alliances, wrote bots and plugins (with community plugin and renderer contests), published strategy guides and even exploits, hosted their own community rounds through Lobbies, and organised themselves in groups such as DFDAO, which ran its own tournaments.
+- Video: https://www.youtube.com/watch?v=BLo1r3QhbCU
+- Images: https://zkga.me/public/og_image.png https://blog.zkga.me/img/announcing-df/ui-wip.png
+- Project page: https://blog.zkga.me/announcing-darkforest
+- Code: https://github.com/darkforest-eth
+
+#### First Supper — Async Art, Matt Kane (2020)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Market & exchange
+- Idea: A group portrait whose composition is decided by whoever currently owns each figure.
+- What it is: A parody of Leonardo's Last Supper made by 13 crypto artists for Async Art's launch, split into one Master and 22 Layers. Each Layer's owner can move, recolour or swap their part, and the picture is the sum of these choices.
+- Protocol: Each of the 22 Layers, made by a different artist, has abilities fixed by that artist (rotation, scale, position, visibility, opacity, hue). Only the Layer token's owner can trigger them; for example the owner of MLIBTY's Layer 9 can slide and rotate a giant finger to point at any guest at the table.
+- What the collective did: The Master auction closed at 103.4 ETH on 28 February 2020 and the 22 Layers sold separately; by April 2020 the layers were held by 10 different collectors, whose changes kept rearranging the scene. Artists included XCOPY, Hackatao, Coldie, Josie Bellini, Alotta Money and Matt Kane.
+- Video: https://www.youtube.com/watch?v=KNlDfNLyH5Q
+- Images: https://cdn.steemitimages.com/DQmY3iuaoT5XvrLWvrhDjJL2akbgY4BV4yaheFKTJuabAV7/First%20Supper.jpg https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e962f_636d5e387a5de6eea1342db7_63572c4e2c1d1071fb4a9d66_image3.avif
+- Project page: https://x.com/asyncart/status/1233482051548065793
+- Contract: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Right Place & Right Time — Matt Kane (2020)
+- Type: Artwork · Substrate: Ethereum & L2s · Mechanisms: Market & exchange, Time, decay & death, Contract & certificate
+- Idea: Let the anonymous crowd of a market paint the picture every day.
+- What it is: A programmable painting on Async Art made of 24 Layers, one per hour, each redrawn daily from the previous 24 hours of Bitcoin price volatility. It sold for 262 ETH in September 2020.
+- Protocol: Kane's algorithm maps each hour of Bitcoin price change to the state of one of 24 Layers, so the composition is set by trading, not by the owner or the artist. A collector agreement adds a second layer: the owner receives 21% of the sales of daily edition NFTs (capped at 210) that record single days of the market.
+- What the collective did: The image is produced by the aggregate buying and selling of Bitcoin traders worldwide; the work was planned to run for ten or more years. The artist and its collector framed the revenue share as a new artist–collector partnership model.
+- Images: https://volatility.art/wp-content/uploads/sites/5/2023/11/bitcoin-volatility-art-by-matt-kane_9-22-2020_10-scaled-1.jpg https://mma.prnewswire.com/media/1277260/volatility_art___right_place_and_right_time_by_matt_kane___diagram.jpg
+- Project page: https://www.prnewswire.com/news-releases/record-cryptoart-sale-matt-kanes-right-place--right-time-a-programmable-artwork-that-changes-with-bitcoin-price-volatility-sells-for-over-100k-on-async-art-301134356.html
+- Contract: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Async Music (programmable music) — Async Art (2021)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Market & exchange
+- Idea: A song that exists as a menu of variants, mixed live by the people who own its stems.
+- What it is: Async Art's extension of Layers to sound: musicians upload alternative versions of each stem, and owners of Stem Layer tokens choose which version plays in the song's current Master Track.
+- Protocol: The musician uploads every variant of each stem. The owner of a Stem Layer NFT selects one variant; the Master Track that everyone hears is the combination of all current selections. Separate Blank Record NFTs let a holder snapshot one audio-visual state of the Master.
+- What the collective did: The first releases came from RAC, Verdigris Ensemble, HMLTD, and Connie Digital with Mighty33; the songs changed whenever stem owners changed their selections.
+- Images: https://mma.prnewswire.com/media/1498556/AsyncMusic_Breakdown_Infographic.jpg
+- Project page: https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html
+
+#### Blitmap — Dom Hofmann (2021)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Merge & composite
+- Idea: Give a crowd a small, open set of originals and a recombination rule, and let it grow a universe.
+- What it is: 100 original 32×32 pixel artworks by 17 artists, stored on-chain, from which the community minted 1,600 'siblings' by combining the composition of one original with the palette of another.
+- Protocol: The originals were written into the contract as data; any sibling is defined by choosing one original's composition and another's colour palette, and minting it creates a new token. Originals and much of what followed were released as open source, so anyone could build on them.
+- What the collective did: Collectors crafted all 1,600 siblings. Artists and fans then extended the world of Caelum with the Blitnauts expansion pack, Sup's androids, comics, cartoons, socks, shoes and toys.
+- Images: https://www.blitmap.com/blitmap-collection-small.png https://blitmap.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblitnaut-crop.974e3cca.webp&w=3840&q=75
+- Project page: https://blitmap.com
+- Contract: https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63
+
+#### Hashmasks — Suum Cuique Labs (2021)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Burn & destruction, Currency & value
+- Idea: Let the collectors write the titles, and make each title cost something and exist only once.
+- What it is: 16,384 digital portraits painted by about 70 artists, sold in early 2021. Owners accrue a Name Changing Token (NCT) and can burn 1,830 NCT to give their mask a unique name stored on-chain.
+- Protocol: Every mask accrues NCT over time. To name a mask, its owner sends 1,830 NCT to the Hashmasks contract, which burns them and records the name; each name can belong to only one mask at a time.
+- What the collective did: Owners spent NCT to name their masks; because every name can exist only once, words became contested, and the on-chain naming record became part of each mask's identity and value alongside the artists' images.
+- Video: https://www.youtube.com/watch?v=cDz8Y2UPeMg
+- Images: https://hashmasksstore.blob.core.windows.net/hashmasks/1.jpg https://img.phemex.com/v1/4caf239c/hashmasks-1024x576.jpg
+- Project page: https://www.thehashmasks.com
+- Contract: https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928
+
+#### Loot (for Adventurers) — Dom Hofmann (2021)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation, Rules & constraints
+- Idea: Release an unfinished primitive and let everyone else decide what it means.
+- What it is: 8,000 bags of randomly generated adventurer gear, each just a list of eight item names rendered as white text on black and stored on-chain. Stats, images and rules were left out on purpose, and the community built games, art and tokens on top.
+- Protocol: Anyone could claim a bag for free, paying only gas; items were derived from the token id by the contract. The only instruction was: 'Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.'
+- What the collective did: Holders and outside builders turned the bags into a 'Lootverse': More Loot and Synthetic Loot for everyone, the Genesis Adventurer project, Realms, Banners, Crypts and Caverns dungeon maps, Rings, character art, 3D assets and games, each reading the original bags as canon.
+- Images: https://lootproject.com/meta.png https://www.lootproject.com/banners.png https://www.lootproject.com/cryptsandcaverns.png
+- Project page: https://www.lootproject.com
+- Contract: https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7
+
 #### Lost Poets — Pak (2021)
 - Type: Game & experiment · Substrate: Ethereum & L2s · Mechanisms: Burn & destruction, Co-authorship & derivatives, Chance & randomness
 - Idea: Give buyers a fuel (Pages) that can only be spent by destroying it, and let them spend it on authoring the characters they own.
@@ -167,6 +249,27 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://lostpoets.xyz/img/lostpoets_card.png https://d1xxei964ioe0z.cloudfront.net/full/19bbbc3fd5354b3c21fe4bf29703ceb82ddb895eb719aae685e21f38d30619e7.png https://d1xxei964ioe0z.cloudfront.net/full/0e1490cb36bb726bb2c26ab21e28f8bdf5bf114cba09e022c5a6d34c364f31e5.png
 - Project page: https://lostpoets.xyz
 - Contract: https://etherscan.io/address/0x4b3406a41399c7FD2BA65cbC93697Ad9E7eA61e5
+
+#### Mutant Garden Seeder — Harm van den Dorpel (2021)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Time, decay & death, Chance & randomness, Co-authorship & derivatives
+- Idea: An artwork that keeps evolving after sale, with owners deciding which moments of its life are preserved.
+- What it is: 512+1 Ethereum tokens, released with Folia, whose images are 'mutants' seeded from blockchain state at birth and then randomly mutating over the following years. A later contract lets holders freeze chosen mutation states as permanent on-chain tokens.
+- Protocol: Each token has a fixed mutation probability; a daemon connected to Ethereum mainnet applies mutations and archives every past state. Through the Mutations contract a holder can mint any past state of their own mutant as a static token, or unlock it so anyone can mint its mutations while the holder receives a payout they set.
+- What the collective did: The 512 tokens sold out within hours in 2021. Holders have since chosen which mutation states to fix on-chain (metadata on-chain, SVGs on Arweave), turning private ownership into collective conservation of the garden.
+- Images: https://seeder.mutant.garden/images/mutant-garden-meta-images.jpg https://seeder.mutant.garden/images/installationview.jpg
+- Project page: https://seeder.mutant.garden/about
+- Contract: https://etherscan.io/address/0x20c70bdfcc398c1f06ba81730c8b52ace3af7cc3
+
+#### Terraforms — Mathcastles (2021)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Time, decay & death, Rules & constraints
+- Idea: A shared on-chain landscape whose surface is gradually redrawn by the people who own its pieces.
+- What it is: 11,104 animated land parcels, each a 32×32 grid of characters generated entirely on-chain, stacked into a 20-level structure called the Hypercastle. Owners can switch a parcel to a blank 'daydream' and draw their own terrain back into the contract.
+- Protocol: Each parcel has a mode set by its owner: terrain (the original generated topography), daydream (a blank slate to draw on) or terraform (the drawing committed on-chain for everyone to see). The contract renders all parcels itself, so the Hypercastle is always the sum of what owners have left in it.
+- What the collective did: Holders repainted parcels, while community developers built tools such as a 3D Hypercastle explorer; parcels were exhibited as a level-by-level world, for example at Glitch Marfa's e30d gallery in 2023.
+- Video: https://www.youtube.com/watch?v=U2xTl5pPHwk
+- Images: https://www.glitchmarfa.com/uploads/glitch_mathcastles3584.gif https://www.glitchmarfa.com/uploads/HypercastleStructure.r1.jpg
+- Project page: https://www.bankless.com/terraforms-explained-is-this-ethereums-best-onchain-art
+- Contract: https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
 #### Censored — Pak (2022)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation, Time, decay & death
@@ -178,6 +281,49 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Project page: https://www.artrights.me/en/censored-the-nft-project-by-pak-in-collaboration-with-julian-assange/
 - Contract: https://etherscan.io/address/0xDa22422592Ee3623c8d3c40Fe0059CdEcF30CA79
 
+#### Friendship Bracelets — Alexis André (2022)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Circulation & passing on, Instruction & score, Open participation
+- Idea: A generative artwork that asks to be given away and made by hand.
+- What it is: A free Art Blocks project conceived with Art Blocks founder Snowfro: every holder of an Art Blocks piece could claim two generative bracelets, keep one and give the other away. Each output includes instructions to weave the bracelet by hand from embroidery floss.
+- Protocol: Wallets holding any Art Blocks token at the 26 October 2022 snapshot could claim two mints for gas only until 10 January 2023. Holders were asked to keep one bracelet and gift the second; the artwork doubles as a pattern using standard embroidery floss colours.
+- What the collective did: Roughly 250,000 Art Blocks owners were eligible; bracelets spread as gifts to friends and newcomers, and holders wove physical versions from the on-chain patterns.
+- Video: https://www.youtube.com/watch?v=_DeFATb0QB0
+- Images: https://media-proxy.artblocks.io/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a/1575.png https://whitehotmagazine.com/images/article_images/article_5567_featured-5.jpg
+- Project page: https://whitehotmagazine.com/articles/nfts-with-diy-phygital-component/5567
+- Contract: https://etherscan.io/address/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a
+
+#### QQL — Tyler Hobbs, Dandelion Wist Mané (2022)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation, Contract & certificate
+- Idea: Make the collector the curator: the algorithm proposes, the community searches, and the finder is paid.
+- What it is: A generative algorithm published as a public tool: anyone can explore its parameters and save seeds, but only the 999 Mint Pass holders can turn a chosen seed into an official QQL NFT, at any time they like.
+- Protocol: Each Mint Pass allows one mint with no time limit. A seed embeds the address of whoever created it, and that address receives a 2% royalty on secondary sales of the NFT, so the discoverer, not necessarily the minter, is credited.
+- What the collective did: The community generated large numbers of seeds, traded and discussed them on Discord and a subreddit, formed a rotating QQL Council that curates the Seedbox of unminted seeds, and runs monthly themed challenges decided by community vote.
+- Video: https://www.youtube.com/watch?v=0mjkN2aiax0
+- Images: https://img.qql.art/assets/qql-social.png
+- Project page: https://qql.art/about
+- Contract: https://etherscan.io/address/0x845dd2a7ee2a92a0518ab2135365ed63fdba0c88
+
+#### BasePaint — BasePaint (2023)
+- Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Open participation, Co-authorship & derivatives, Market & exchange
+- Idea: A shared canvas with a clock and a payroll: one picture a day, paid out by pixels painted.
+- What it is: A daily collaborative pixel canvas on the Base network: each day people holding brushes paint one shared image, and the next day the finished canvas is sold as an open edition whose proceeds go to the painters.
+- Protocol: Painting requires a Brush token with a daily pixel allowance (trial brushes lose pixels over time). The community votes on the day's theme. Rules: no tracing or recolouring, no promotions or offensive symbols, all art is public domain (CC0). The contract records each painter's pixel count; when the canvas is minted, 90% of mint revenue is split pro rata by pixels and 10% goes to the operators.
+- What the collective did: Since August 2023 strangers have produced a new canvas every day, more than a thousand so far, coordinating in chat and live cursors; the BasePaint contract lists over 288,000 token holders on Blockscout.
+- Images: https://basepaint.xyz/api/art/image?day=1 https://basepaint.xyz/api/og
+- Project page: https://basepaint.xyz
+- Contract: https://basescan.org/address/0xBa5e05cb26b78eDa3A2f8e3b3814726305dcAc83
+- Code: https://github.com/BasePaint/basepaint-contracts
+
+#### LUCI: Chapter 5 – The Monument Game — Sam Spratt (2023)
+- Type: Game & experiment · Substrate: Ethereum & L2s · Mechanisms: Open participation, Voting & governance, Co-authorship & derivatives
+- Idea: Turn viewers into players who annotate a painting, and let the earlier collectors act as its jury.
+- What it is: Chapter 5 of Sam Spratt's LUCI: a 1-of-1 painting played as a game. 256 Player tickets let holders write an 'observation' onto the painting, and the Council of Luci judged which contributions were best.
+- Protocol: In August 2023, 256 Player tickets were sold. Over four days each Player placed one observation, a few sentences or verses, on the painting. The Council of Luci (holders of the Skulls of Luci, 47 of which Spratt had given away as gifts, three held back) voted on the three Players who gave the most, who received the three remaining Skulls.
+- What the collective did: Players wrote 256 observations that are inscribed on-chain with the finished 1-of-1, and the Council deliberated and voted on them. The work was later exhibited in Venice in 2024 by 1OF1 and collector Ryan Zurrer.
+- Images: https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/IX_The_Monument_Game.webp
+- Project page: https://samspratt.com/5/ix/
+- Contract: https://etherscan.io/address/0xda6558fa1c2452938168ef79dfd29c45aba8a32b
+
 #### Opepen Edition — Jack Butcher (2023)
 - Type: Platform & protocol · Substrate: Ethereum & L2s · Mechanisms: Voting & governance, Co-authorship & derivatives, Chance & randomness
 - Idea: Holders do not vote on proposals; they commit their own token to the image it will become.
@@ -187,6 +333,16 @@ Works whose layers, parameters or worlds are written by their holders and by the
 - Images: https://opepen.art/og/intro.png https://api.opepen.art/v1/render/sets/9dde6d38-2e6b-4e29-8f80-37a4450d49df/og? https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/eed1a6b3-b3a6-45df-89bc-8c9afce766d5/explainer.jpg
 - Project page: https://jack.art/opepen-edition
 - Contract: https://etherscan.io/address/0x6339e5E072086621540D0362C4e3Cea0d643E114
+
+#### LUCI: Chapter 6 – X. Masquerade / Masks of Luci — Sam Spratt (2025)
+- Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Open participation, Circulation & passing on, Co-authorship & derivatives
+- Idea: Each mask is shaped by the person who wears it: participation is the brush.
+- What it is: Chapter 6 of LUCI: 613 Masks of Luci that all began bare and took their final form from what their wearers wrote during the Masquerade, alongside the painting X. Masquerade.
+- Protocol: Every Player from The Monument Game who kept custody of their ticket could claim a Mask in February 2025, and also held a Guest-list spot that allowed one more Mask to be bought: they could invite a Guest, collect it themselves, or release it to a public drawing. Masks started bare; Spratt read each wearer's Observation, Discussion and Revision, deliberated alone with the author and with the Council, and made each Mask to suit its wearer.
+- What the collective did: Hundreds of written contributions shaped 613 unique masks, each carrying one wearer's observation on the world; invitations passed masks from Players to new Guests.
+- Images: https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/X_Masquerade.webp https://storage.googleapis.com/luci-bc460.firebasestorage.app/masks_sizes/1200/359.webp
+- Project page: https://samspratt.com/6/masks/
+- Contract: https://etherscan.io/address/0x4440732b0d85e2a77dcb2caedfd940154241249a
 
 #### Know Your Collector — Jack Butcher (2026)
 - Type: Series & collection · Substrate: Ethereum & L2s · Mechanisms: Co-authorship & derivatives, Open participation
@@ -528,32 +684,44 @@ Books, anthologies and research programmes on blockchain art, DAOs and protocols
 
 - **Jack Butcher** (9) — Conceptual artist, founder of Visualize Value. Artist and founder of Visualize Value, known for works built from simple signs (a checkmark, a receipt, a trademark symbol). Since 2023 he has made editions whose images and supply are changed by collectors, often with developer Jalil Wahdatehagh. https://jack.art
 - **Pak** (7) — Anonymous digital artist and system designer. Anonymous digital creator who also built the image-curating bot Archillect (2014). Between 2020 and 2022 Pak released a run of sales and contracts on Nifty Gateway, Sotheby's and their own sites: open editions, the ASH burn token, Lost Poets, Merge and Censored.
+- **Async Art** (3) — Programmable art platform. Async Art is an Ethereum platform launched in February 2020 by Conlan Rios, Lisa Liang and Nathan Clapp. It splits an artwork into a Master token and separately owned Layer tokens whose owners can change the image. https://async.art
 - **Alexander R. Galloway** (2) — Media theorist and programmer. American media theorist at New York University and a founding member of the software art collective RSG (Radical Software Group). http://cultureandcommunication.org/galloway/
 - **Botao Amber Hu** (2) — Designer and researcher, Reality Design Lab. Designer and HCI researcher who leads Reality Design Lab and publishes on protocol art, speculative design, mixed reality and decentralized AI. https://botao.hu/
 - **Claire Bishop** (2) — Art historian and critic. British art historian, professor at the CUNY Graduate Center, who writes on participatory art, installation and performance.
+- **Dom Hofmann** (2) — Software developer and artist; co-founder of Vine. Co-founder of Vine who, in 2021, released Blitmap, a pixel-art collection remixed by its community, and Loot, eight thousand on-chain text lists of adventurer gear with no images or rules attached. https://www.lootproject.com
 - **Jack Burnham** (2) — Artist, critic and curator. American artist and critic (1931–2019) who brought systems theory and cybernetics into art criticism in Artforum and curated the 1970 exhibition Software at the Jewish Museum.
+- **Matt Kane** (2) — Artist and programmer. Chicago-born artist who writes his own software to make layered, data-driven digital paintings. He contributed to Async Art's First Supper and made the Bitcoin-driven Right Place & Right Time. https://mattkane.com
 - **Ruth Catlow** (2) — Artist, curator and co-founder of Furtherfield. British artist and curator, co-founder and co-artistic director of Furtherfield, and a leading researcher of blockchain, DAOs and the arts. https://ruthcatlow.net/
+- **Sam Spratt** (2) — Painter and digital artist. Digital painter whose LUCI series (ten paintings, 613 masks and accompanying psalms) grows through games that collectors play inside the story. https://samspratt.com
 - **Sol LeWitt** (2) — Artist. American artist (1928–2007) central to Minimal and Conceptual art. His wall drawings exist as written instructions that assistants and institutions execute again and again.
 - **Summer of Protocols** (2) — Research programme on protocols. Research programme commissioned by the Ethereum Foundation in late 2022 that brought researchers, artists and engineers together to study protocols across fields; it ran seasons from 2023 to 2025. https://summerofprotocols.com/
 - **Venkatesh Rao** (2) — Writer and consultant. Indian-American writer, founder of the blog Ribbonfarm, and a director of the Summer of Protocols research programme. https://ribbonfarm.com/
 - **Aaron Wright** (1) — Legal scholar. American law professor at Cardozo School of Law, where he directs the Tech Startup Clinic, and co-author of Blockchain and the Law.
+- **Alexis André** (1) — Generative artist and researcher. French generative artist and researcher based in Tokyo. His Art Blocks project Friendship Bracelets (2022) was given free to Art Blocks holders to keep one and give one away.
 - **Amy Whitaker** (1) — Researcher in arts entrepreneurship. American writer and professor at New York University's Steinhardt School who studies art markets, artists' equity and blockchain.
+- **BasePaint** (1) — Team behind the BasePaint daily canvas. Small team that launched BasePaint on the Base network in August 2023; its contracts were written mainly by the developer w1nt3r. Every day strangers paint one shared pixel canvas that is then sold as an open edition. https://basepaint.xyz
 - **Benjamin H. D. Buchloh** (1) — Art historian. German art historian (born 1941) and editor of October, known for his histories of Conceptual art and postwar European art.
 - **Damien Hirst** (1) — Artist. British artist and a leading figure of the Young British Artists. With HENI he released The Currency (2021), his first NFT project. https://www.damienhirst.com
+- **Dandelion Wist Mané** (1) — Software engineer and generative artist. Software engineer and generative artist who created TensorBoard at Google Brain and co-created SourceCred at Protocol Labs before co-creating QQL with Tyler Hobbs. https://qql.art
+- **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — Developers of the zkSNARK game Dark Forest. Small team led by Brian Gu (gubsheep) that built Dark Forest (2020), a real-time strategy game that runs entirely on an Ethereum-compatible chain and hides the map with zero-knowledge proofs. https://zkga.me
 - **Eugene Thacker** (1) — Philosopher and media theorist. American philosopher and writer, professor at The New School, who has written on biotechnology, networks and the philosophy of horror.
 - **Florian Cramer** (1) — Writer and researcher on code and culture. German writer and researcher on literature, computing and media culture, long associated with the Piet Zwart Institute and Willem de Kooning Academy in Rotterdam.
 - **Grant Kester** (1) — Art historian. American art historian at the University of California, San Diego, who studies collaborative and socially engaged art.
 - **Hans Ulrich Obrist** (1) — Curator. Swiss curator, artistic director of the Serpentine Galleries in London, who started the instruction-based exhibition do it in 1993.
+- **Harm van den Dorpel** (1) — Artist; co-founder of left gallery. Dutch artist working with software, genetic algorithms and blockchains; co-founder of left gallery, an early platform for selling code-based art. He has bred populations of images since Death Imitates Language (2016). https://harm.work
 - **Jacob Horne** (1) — Co-founder of Zora. American entrepreneur and co-founder of Zora, an onchain protocol and platform for minting and collecting media. https://jacob.energy/
 - **Kei Kreutler** (1) — Artist, writer and co-founder of Gnosis Guild. Artist and writer working on decentralized organisations, co-founder of Gnosis Guild, which builds open tools for DAOs. https://keikreutler.net/
 - **Malte Rauch** (1) — Curator and writer. Curator and writer on blockchain art who has worked with Bright Moments and the Verse platform, and wrote the essay for the contract show World Computer Sculpture Garden.
 - **Marc Garrett** (1) — Artist, writer and co-founder of Furtherfield. British artist, writer and curator who co-founded the London art and technology organisation Furtherfield with Ruth Catlow in 1996.
 - **Mat Dryhurst** (1) — Artist, musician and researcher. Artist and researcher who works with Holly Herndon on AI and voice projects such as Holly+, and co-founded Spawning, which builds consent tools for AI training data.
+- **Mathcastles** (1) — On-chain art studio (Xaltgeist and 0x113d). A pseudonymous two-person studio, Xaltgeist and 0x113d, that builds fully on-chain art systems. Its best-known work is Terraforms (2021), a 20-level on-chain structure of land parcels. https://mathcastles.xyz
 - **Mitchell F. Chan** (1) — Artist and game maker. Artist working with conceptual art, video games and smart contracts. His 2017 token work Digital Zones of Immaterial Pictorial Sensibility restages Yves Klein's receipt ritual in an Ethereum contract. https://chan.gallery/
 - **Nicolas Bourriaud** (1) — Curator and critic. French curator and writer, co-founder of the Palais de Tokyo, who named the 1990s tendency of artworks built from social encounters 'relational aesthetics'.
 - **Penny Rafferty** (1) — Writer and researcher. Writer and researcher working on art, blockchain and DAOs, and co-editor of Radical Friends with Ruth Catlow.
 - **Primavera De Filippi** (1) — Legal scholar and artist. Researcher at the CNRS in Paris and faculty associate at Harvard's Berkman Klein Center, who studies blockchain governance and makes artworks such as the blockchain-based flower Plantoid.
 - **Rhea Myers** (1) — Artist, writer and hacker. Artist, hacker and writer who has made blockchain artworks since 2011, including early smart-contract works and conceptual pieces about value and ownership. https://rhea.art/
 - **Roy Ascott** (1) — Artist and theorist of telematic art. British artist and educator (born 1934) who developed cybernetic art teaching in the 1960s and telematic network artworks from the late 1970s.
+- **Suum Cuique Labs** (1) — Studio behind Hashmasks. Swiss studio that released Hashmasks in 2021: 16,384 digital portraits painted by about 70 artists, which owners can name permanently by burning a dedicated token. https://www.thehashmasks.com
 - **Tom Sachs** (1) — Sculptor. American sculptor known for hand-built replicas of space programmes and branded objects. Rocket Factory (2021) is his NFT project, in which collectors assemble rockets from parts that his studio then builds and launches. https://www.tomsachsrocketfactory.com
+- **Tyler Hobbs** (1) — Generative artist. Generative artist working with algorithms, plotters and paint, known for Fidenza (2021). With Dandelion Wist Mané he made QQL (2022), where collectors search the algorithm and choose what gets minted. https://www.tylerxhobbs.com
 - **Vera List Center for Art and Politics** (1) — Research center at The New School. Research and public programme centre at The New School in New York that works on the relation between art and politics through seasonal focus themes. https://www.veralistcenter.org/

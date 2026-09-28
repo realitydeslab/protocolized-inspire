@@ -1,0 +1,2213 @@
+{
+  "batch": "score",
+  "creators": [
+    {
+      "id": "laszlo-moholy-nagy",
+      "name": "László Moholy-Nagy",
+      "kind": "person",
+      "role": "Painter, photographer and Bauhaus teacher",
+      "role_zh": "画家、摄影师、包豪斯教师",
+      "based": "Berlin, DE; Chicago, US",
+      "based_zh": "柏林，德国；芝加哥，美国",
+      "bio": "Hungarian-born artist (1895–1946) who taught at the Bauhaus from 1923 and later founded the New Bauhaus in Chicago. He worked across painting, photography, film, typography and light sculpture.",
+      "bio_zh": "匈牙利出生的艺术家（1895—1946），1923 年起在包豪斯任教，后在芝加哥创办新包豪斯。创作横跨绘画、摄影、电影、字体设计和光雕塑。",
+      "why": "His enamel 'telephone pictures' are an early case of an artist specifying a work as instructions that a factory carries out.",
+      "why_zh": "他的珐琅“电话绘画”是艺术家把作品写成指令、交由工厂执行的早期案例。",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "marcel-duchamp",
+      "name": "Marcel Duchamp",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Paris, FR; New York, US",
+      "based_zh": "巴黎，法国；纽约，美国",
+      "bio": "French-American artist (1887–1968) who introduced the readymade and moved art from the made object to the choice and the idea.",
+      "bio_zh": "法裔美国艺术家（1887—1968），提出“现成品”，把艺术的重心从制作的物件转到选择和观念上。",
+      "why": "With Unhappy Readymade he sent a readymade as instructions by post, to be made by other people and finished by the weather.",
+      "why_zh": "在《不快乐的现成品》中，他把一件现成品写成指令寄出，由别人制作、由天气完成。",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Duchamp"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sol-lewitt",
+      "name": "Sol LeWitt",
+      "kind": "person",
+      "role": "Conceptual artist",
+      "role_zh": "观念艺术家",
+      "based": "New York and Chester, Connecticut, US",
+      "based_zh": "纽约与康涅狄格州切斯特，美国",
+      "bio": "American artist (1928–2007) and a founder of conceptual art. From 1968 he made about 1,350 wall drawings that exist as written instructions and diagrams, drawn on the wall by other people.",
+      "bio_zh": "美国艺术家（1928—2007），观念艺术的奠基者之一。自 1968 年起创作约 1350 件墙绘，它们以文字指令和示意图的形式存在，由他人画到墙上。",
+      "why": "His wall drawings are the clearest model of art as a score: the owner holds a certificate and instructions, and each installation is a new performance by drafters.",
+      "why_zh": "他的墙绘是“作品即乐谱”最清晰的范例：收藏者持有证书和指令，每一次安装都是绘图员的一次新演奏。",
+      "links": {
+        "site": "https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sol_LeWitt"
+      },
+      "connected_to": [
+        "lawrence-weiner"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lawrence-weiner",
+      "name": "Lawrence Weiner",
+      "kind": "person",
+      "role": "Conceptual artist",
+      "role_zh": "观念艺术家",
+      "based": "New York, US; Amsterdam, NL",
+      "based_zh": "纽约，美国；阿姆斯特丹，荷兰",
+      "bio": "American artist (1942–2021) whose works are statements in language that describe materials and actions, shown as text on walls, in books and in public space.",
+      "bio_zh": "美国艺术家（1942—2021），作品是描述材料与动作的语言陈述，以墙上文字、书籍和公共空间文字的形式出现。",
+      "why": "His 1968 Declaration of Intent hands the decision to build, fabricate or not build a work to whoever receives it.",
+      "why_zh": "他 1968 年的《意图声明》把“自己建造、请人制作或不建造”的决定权交给接收作品的人。",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Weiner"
+      },
+      "connected_to": [
+        "sol-lewitt"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yoko-ono",
+      "name": "Yoko Ono",
+      "kind": "person",
+      "role": "Artist, musician and peace activist",
+      "role_zh": "艺术家、音乐人、和平活动者",
+      "based": "New York, US",
+      "based_zh": "纽约，美国",
+      "bio": "Japanese-American artist (born 1933) active in the New York and Tokyo avant-garde from the late 1950s and close to Fluxus. Her instruction pieces, performances and participatory installations ask the audience to complete the work.",
+      "bio_zh": "日裔美国艺术家（1933 年生），自 1950 年代末活跃于纽约和东京的前卫艺术圈，与激浪派关系密切。她的指令作品、表演和参与式装置都请观众来完成作品。",
+      "why": "From the 1961 Instruction Paintings to the Wish Trees, she wrote instructions that strangers carry out, often by the thousands.",
+      "why_zh": "从 1961 年的《指令绘画》到《许愿树》，她写下由陌生人执行的指令，参与者常常成千上万。",
+      "links": {
+        "site": "https://imaginepeace.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Ono"
+      },
+      "connected_to": [
+        "george-maciunas",
+        "john-cage",
+        "la-monte-young"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "john-cage",
+      "name": "John Cage",
+      "kind": "person",
+      "role": "Composer",
+      "based": "New York, US",
+      "bio": "American composer (1912–1992) who used chance operations, indeterminate notation and silence to hand decisions to performers, listeners and the environment.",
+      "why": "His scores turned composition into writing rules for other people, and his New School classes trained the Fluxus generation of event-score writers.",
+      "links": {
+        "site": "https://johncage.org",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Cage"
+      },
+      "role_zh": "作曲家",
+      "bio_zh": "美国作曲家（1912—1992），借助偶然程序、不确定记谱和沉默，把决定权交给演奏者、听众和环境。",
+      "why_zh": "他的乐谱把作曲变成为他人写规则，他在新学院的课程培养了一代写事件乐谱的激浪派艺术家。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "george-brecht",
+        "la-monte-young",
+        "alison-knowles",
+        "christian-wolff"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "terry-riley",
+      "name": "Terry Riley",
+      "kind": "person",
+      "role": "Composer and performer",
+      "based": "US / Japan",
+      "bio": "American composer (born 1935) associated with early minimalism, known for In C and for long improvised keyboard performances.",
+      "why": "In C is one of the most performed open-ensemble scores: a page of short patterns that any group can play.",
+      "links": {
+        "site": "https://terryriley.net",
+        "wikipedia": "https://en.wikipedia.org/wiki/Terry_Riley"
+      },
+      "role_zh": "作曲家、演奏家",
+      "bio_zh": "美国作曲家（生于 1935 年），早期极简主义的代表人物，以《In C》和长时间的键盘即兴演奏闻名。",
+      "why_zh": "《In C》是演出最多的开放编制乐谱之一：一页短小的乐句，任何团体都可以演奏。",
+      "based_zh": "美国／日本",
+      "connected_to": [
+        "la-monte-young",
+        "pauline-oliveros"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cornelius-cardew",
+      "name": "Cornelius Cardew",
+      "kind": "person",
+      "role": "Composer",
+      "based": "London, UK",
+      "bio": "British composer (1936–1981), assistant to Stockhausen, member of the improvising group AMM and co-founder of the Scratch Orchestra.",
+      "why": "He wrote scores for untrained performers and a constitution for an orchestra open to anyone, making the rules of the group part of the music.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cornelius_Cardew"
+      },
+      "role_zh": "作曲家",
+      "bio_zh": "英国作曲家（1936—1981），曾任施托克豪森的助手，即兴团体 AMM 成员，Scratch Orchestra 的联合创办人。",
+      "why_zh": "他为未受训练的演奏者写乐谱，并为一个向所有人开放的乐团起草章程，把群体的规则也变成了音乐的一部分。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "karlheinz-stockhausen",
+        "john-cage"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pauline-oliveros",
+      "name": "Pauline Oliveros",
+      "kind": "person",
+      "role": "Composer and accordionist",
+      "based": "Kingston, New York, US",
+      "bio": "American composer (1932–2016), co-founder of the San Francisco Tape Music Center and founder of the Deep Listening practice.",
+      "why": "Her Sonic Meditations are text instructions for listening and sounding together that any group, trained or not, can perform.",
+      "links": {
+        "site": "https://www.deeplistening.rpi.edu",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pauline_Oliveros"
+      },
+      "role_zh": "作曲家、手风琴演奏家",
+      "bio_zh": "美国作曲家（1932—2016），旧金山磁带音乐中心联合创办人，“深度聆听”实践的创立者。",
+      "why_zh": "她的《声音冥想》是关于共同聆听与发声的文字指令，任何人群无论是否受过训练都可以演出。",
+      "based_zh": "纽约州金斯顿，美国",
+      "connected_to": [
+        "terry-riley",
+        "john-cage"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "karlheinz-stockhausen",
+      "name": "Karlheinz Stockhausen",
+      "kind": "person",
+      "role": "Composer",
+      "based": "Kürten, DE",
+      "bio": "German composer (1928–2007), a central figure of postwar electronic and serial music, who in 1968 turned to verbal scores he called intuitive music.",
+      "why": "Aus den sieben Tagen replaced notes with short texts, so the sound depends entirely on how an ensemble interprets them.",
+      "links": {
+        "site": "https://www.karlheinzstockhausen.org",
+        "wikipedia": "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen"
+      },
+      "role_zh": "作曲家",
+      "bio_zh": "德国作曲家（1928—2007），战后电子音乐与序列音乐的核心人物，1968 年转向他称为“直觉音乐”的文字乐谱。",
+      "why_zh": "《来自七天》用短文取代音符，声音完全取决于乐团如何诠释这些文字。",
+      "based_zh": "屈尔滕，德国",
+      "connected_to": [
+        "cornelius-cardew"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "la-monte-young",
+      "name": "La Monte Young",
+      "kind": "person",
+      "role": "Composer",
+      "based": "New York, US",
+      "bio": "American composer (born 1935) whose 1960 word scores and sustained-tone music shaped Fluxus and minimalism.",
+      "why": "His Compositions 1960 are one-line instructions that others perform, and his Anthology of Chance Operations gathered the first body of such scores.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Monte_Young"
+      },
+      "role_zh": "作曲家",
+      "bio_zh": "美国作曲家（生于 1935 年），他 1960 年的文字乐谱和长音音乐影响了激浪派与极简主义。",
+      "why_zh": "他的《1960 年作品》是交给别人演出的单行指令，他编的《偶然操作选集》汇集了第一批此类乐谱。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "jackson-mac-low",
+        "george-maciunas",
+        "terry-riley",
+        "john-cage"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jackson-mac-low",
+      "name": "Jackson Mac Low",
+      "kind": "person",
+      "role": "Poet and composer",
+      "based": "New York, US",
+      "bio": "American poet and composer (1922–2004) who wrote poems and performance pieces by chance operations and systematic procedures.",
+      "why": "Co-publisher of An Anthology of Chance Operations and author of many simultaneities meant to be read aloud by groups.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Mac_Low"
+      },
+      "role_zh": "诗人、作曲家",
+      "bio_zh": "美国诗人、作曲家（1922—2004），用偶然操作和系统化程序写诗与表演作品。",
+      "why_zh": "《偶然操作选集》的联合出版人，写过许多供群体同时朗读的作品。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "la-monte-young",
+        "john-cage"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "george-brecht",
+      "name": "George Brecht",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Cologne, DE",
+      "bio": "American artist (1926–2008), trained as a chemist, who invented the event score in John Cage's class and later lived in Germany.",
+      "why": "His printed cards reduced a work to a short instruction that anyone can realize, the basic unit of Fluxus.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Brecht"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "美国艺术家（1926—2008），原为化学家，在约翰·凯奇的课上发明了“事件乐谱”，后定居德国。",
+      "why_zh": "他的印刷卡片把一件作品压缩成任何人都能实现的简短指令，这是激浪派的基本单元。",
+      "based_zh": "科隆，德国",
+      "connected_to": [
+        "john-cage",
+        "george-maciunas",
+        "alison-knowles"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "alison-knowles",
+      "name": "Alison Knowles",
+      "kind": "person",
+      "role": "Artist and composer",
+      "based": "New York, US",
+      "bio": "American artist (born 1933), a founding member of Fluxus, who made event scores, artist's books and sound works built from everyday materials such as food and beans.",
+      "why": "Her scores Make a Salad and The Identical Lunch turned daily routines into instructions that friends and audiences repeat.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alison_Knowles"
+      },
+      "role_zh": "艺术家、作曲家",
+      "bio_zh": "美国艺术家（生于 1933 年），激浪派创始成员之一，以食物、豆子等日常材料创作事件乐谱、艺术家书和声音作品。",
+      "why_zh": "她的《做一份沙拉》和《相同的午餐》把日常惯例变成朋友与观众可以重复执行的指令。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "george-brecht",
+        "george-maciunas",
+        "benjamin-patterson"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "george-maciunas",
+      "name": "George Maciunas",
+      "kind": "person",
+      "role": "Artist, designer and Fluxus organizer",
+      "based": "New York, US",
+      "bio": "Lithuanian-born American artist and designer (1931–1978) who named and organized Fluxus and designed its editions, boxes and kits.",
+      "why": "He packaged other artists' scores as cheap editions for owners to open and perform, turning distribution itself into a rule.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Maciunas"
+      },
+      "role_zh": "艺术家、设计师、激浪派组织者",
+      "bio_zh": "立陶宛裔美国艺术家、设计师（1931—1978），为激浪派命名并组织其活动，设计了它的出版物、盒子和套装。",
+      "why_zh": "他把其他艺术家的乐谱包装成廉价版本，由购买者打开并执行，让发行方式本身成为一种规则。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "george-brecht",
+        "alison-knowles",
+        "mieko-shiomi",
+        "la-monte-young"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mieko-shiomi",
+      "name": "Mieko Shiomi",
+      "kind": "person",
+      "role": "Composer and artist",
+      "based": "Osaka, JP",
+      "bio": "Japanese composer and artist (born 1938), co-founder of Group Ongaku in Tokyo and a member of Fluxus from 1964.",
+      "why": "Her Spatial Poem sent scores by post to people around the world and compiled their reports into a collective poem.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mieko_Shiomi"
+      },
+      "role_zh": "作曲家、艺术家",
+      "bio_zh": "日本作曲家、艺术家（生于 1938 年），东京“音乐小组”联合创办人，1964 年起参与激浪派。",
+      "why_zh": "她的《空间诗》通过邮寄把乐谱发给世界各地的人，再把他们的回报汇编成一首集体的诗。",
+      "based_zh": "大阪，日本",
+      "connected_to": [
+        "george-maciunas",
+        "george-brecht"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "benjamin-patterson",
+      "name": "Benjamin Patterson",
+      "kind": "person",
+      "role": "Double bassist, composer and artist",
+      "based": "Wiesbaden, DE",
+      "bio": "American double bassist and artist (1934–2016), a founding member of Fluxus who took part in the 1962 Wiesbaden festival.",
+      "why": "Paper Piece is a precise score that any group can play with bags and sheets of paper.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Patterson_(artist)"
+      },
+      "role_zh": "低音提琴手、作曲家、艺术家",
+      "bio_zh": "美国低音提琴手、艺术家（1934—2016），激浪派创始成员，参加了 1962 年威斯巴登艺术节。",
+      "why_zh": "《纸的作品》是一份精确的乐谱，任何团体都能用纸袋和纸张来演奏。",
+      "based_zh": "威斯巴登，德国",
+      "connected_to": [
+        "george-maciunas",
+        "alison-knowles"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "christian-wolff",
+      "name": "Christian Wolff",
+      "kind": "person",
+      "role": "Composer",
+      "based": "New Hampshire, US",
+      "bio": "American composer (born 1934), associated with John Cage and Morton Feldman, whose scores coordinate players through cues and listening.",
+      "why": "His Prose Collection gives short verbal rules that any group, including non-musicians, can perform.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Christian_Wolff_(composer)"
+      },
+      "role_zh": "作曲家",
+      "bio_zh": "美国作曲家（生于 1934 年），与约翰·凯奇、莫顿·费尔德曼同属一个圈子，他的乐谱通过提示和聆听协调演奏者。",
+      "why_zh": "他的《散文集》给出简短的文字规则，任何团体包括非音乐人都能演出。",
+      "based_zh": "新罕布什尔州，美国",
+      "connected_to": [
+        "john-cage",
+        "cornelius-cardew"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "frederic-rzewski",
+      "name": "Frederic Rzewski",
+      "kind": "person",
+      "role": "Composer and pianist",
+      "based": "Brussels, BE",
+      "bio": "American composer and pianist (1938–2021), co-founder of the live-electronic group Musica Elettronica Viva in Rome.",
+      "why": "Les Moutons de Panurge is a simple additive rule for musicians and non-musicians whose errors shape the result.",
+      "links": {
+        "site": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Rzewski"
+      },
+      "role_zh": "作曲家、钢琴家",
+      "bio_zh": "美国作曲家、钢琴家（1938—2021），罗马现场电子乐团 Musica Elettronica Viva 的联合创办人。",
+      "why_zh": "《帕努日的羊群》是一条写给音乐人与非音乐人的简单累加规则，演奏中的失误塑造了最终结果。",
+      "based_zh": "布鲁塞尔，比利时",
+      "connected_to": [
+        "cornelius-cardew",
+        "christian-wolff"
+      ],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "laszlo-moholy-nagy--telephone-pictures",
+      "creator_ids": [
+        "laszlo-moholy-nagy"
+      ],
+      "title": "Telephone Pictures (EM 1, EM 2, EM 3)",
+      "year": 1923,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "Three porcelain-enamel paintings on steel with the same geometric composition at three sizes, produced by an enamel sign factory in Weimar from Moholy-Nagy's specifications. He later wrote that he placed the order by telephone.",
+      "description_zh": "三件钢板珐琅画，同一几何构图、三种尺寸，由魏玛一家珐琅招牌厂按照莫霍利-纳吉给出的规格制作。他后来写道，这批作品是通过电话下单的。",
+      "idea_en": "If a picture can be dictated, the artist's job is the specification, not the hand.",
+      "idea_zh": "如果一幅画可以口述出来，艺术家的工作就是写规格，而不是动手。",
+      "protocol": "Moholy-Nagy drew the composition on graph paper and used the factory's colour chart; he dictated the positions and colours to the factory supervisor, who held the same chart and paper. The factory, not the artist, made the three versions (large, medium, small).",
+      "protocol_zh": "莫霍利-纳吉把构图画在坐标纸上，并使用工厂的色卡；他把位置和颜色报给手里有同样色卡和坐标纸的工厂主管。三个版本（大、中、小）由工厂而不是艺术家制作。",
+      "collective": "Enamel workers at the factory fabricated the paintings from the specification. The telephone story has been questioned (his first wife Lucia Moholy recalled that he visited the factory in person), but the works were shown in 1924 at Der Sturm in Berlin as proof that a picture could be made from transmitted instructions.",
+      "collective_zh": "工厂的珐琅工人按照规格制作了这些画。“电话下单”的说法有争议（他的第一任妻子露西亚·莫霍利回忆说他亲自去过工厂），但这些作品于 1924 年在柏林 Der Sturm 画廊展出，证明一幅画可以凭传递的指令制作出来。",
+      "keywords": [
+        "Bauhaus",
+        "enamel",
+        "telephone",
+        "graph paper",
+        "Der Sturm",
+        "EM 1"
+      ],
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjQwNDI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebb5d75b7d58fa96"
+      ],
+      "source_url": "https://www.moma.org/collection/works/147626"
+    },
+    {
+      "id": "marcel-duchamp--unhappy-readymade",
+      "creator_ids": [
+        "marcel-duchamp"
+      ],
+      "title": "Unhappy Readymade",
+      "year": 1919,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "chance",
+        "time"
+      ],
+      "substrate": "post",
+      "kind": "artwork",
+      "description": "A wedding present sent by letter from Buenos Aires: Duchamp told his sister Suzanne and her husband Jean Crotti in Paris to hang a geometry textbook on their balcony. Wind, rain and sun then worked on the book; only Suzanne's photograph and her painting of it survive.",
+      "description_zh": "一份从布宜诺斯艾利斯寄出的结婚礼物：杜尚写信让在巴黎的妹妹苏珊娜和她的丈夫让·克罗蒂把一本几何教科书挂在阳台上。之后风、雨和阳光替他完成作品；留下来的只有苏珊娜拍的照片和她据此画的一幅画。",
+      "idea_en": "Mail the rule, let others build it and let the weather finish it.",
+      "idea_zh": "把规则寄出去，让别人搭建，让天气完成。",
+      "protocol": "By letter, Duchamp instructed the couple to hang a geometry book outside by strings, 'so that its pages would be torn apart and its text would be erased by the elements' (Philadelphia Museum of Art). He did not touch the object; the recipients built it and the weather 'chose its own problems'.",
+      "protocol_zh": "杜尚写信让这对夫妇用绳子把一本几何书挂在户外，“让书页被撕开、文字被风雨抹去”（费城艺术博物馆）。他本人没有碰这件物品；由收件人搭建，由天气“自己挑选题目”。",
+      "collective": "Suzanne Duchamp and Jean Crotti carried out the instruction on their Paris balcony; Suzanne photographed the weathered book and painted Le Readymade malheureux de Marcel (1920). The only realisation that exists is theirs, known through her photograph.",
+      "collective_zh": "苏珊娜·杜尚和让·克罗蒂在巴黎的阳台上执行了这一指令；苏珊娜拍下了被风雨侵蚀的书，并画了《马塞尔的不快乐的现成品》（1920）。唯一存在的实现是他们的版本，通过她的照片为人所知。",
+      "keywords": [
+        "readymade",
+        "letter",
+        "geometry book",
+        "Suzanne Duchamp",
+        "Jean Crotti",
+        "weather"
+      ],
+      "images": [
+        "https://iiif.micr.io/drOqS/full/1200,/0/default.jpg"
+      ],
+      "source_url": "https://philamuseum.org/collection/object/138592"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-1",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #1: Drawing Series II 18 (A & B)",
+      "year": 1968,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "contract"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "LeWitt's first wall drawing, made directly on the wall of Paula Cooper Gallery in New York in October 1968 for a benefit exhibition against the Vietnam War. Two 48-inch squares of graphite lines follow one permutation from his Drawing Series II.",
+      "description_zh": "勒维特的第一件墙绘，1968 年 10 月为一场反越战义展直接画在纽约 Paula Cooper 画廊的墙上。两个 48 英寸见方的石墨线条方块，采用他《素描系列 II》中的一种排列。",
+      "idea_en": "Move the drawing off the paper and onto any wall, so that it can be redrawn anywhere by anyone who follows the system.",
+      "idea_zh": "把素描从纸上搬到任何一面墙上，只要照着系统来，任何人在任何地方都能重画。",
+      "protocol": "The drawing is defined by a system: lines in four directions (vertical, horizontal, diagonal left, diagonal right) layered in a fixed combination within divided squares, in hard graphite directly on the wall. The owner holds the certificate and diagram; the physical drawing is painted out after each showing and redrawn for the next.",
+      "protocol_zh": "作品由一个系统定义：四个方向（竖、横、左斜、右斜）的线条按固定组合叠画在分格方块中，用硬石墨直接画在墙上。收藏者持有证书和示意图；每次展出后墙绘被刷掉，下次再重画。",
+      "collective": "First drawn at the Paula Cooper benefit organised by Lucy Lippard and Robert Huot; now owned by SFMOMA (Doris and Donald Fisher Collection), which must have it redrawn each time it is installed. Every installation is a new hand-made instance of the same instruction.",
+      "collective_zh": "首次绘制于由 Lucy Lippard 和 Robert Huot 组织的 Paula Cooper 义展；现藏旧金山现代艺术博物馆（Doris 与 Donald Fisher 收藏），每次展出都必须请人重画。每一次安装都是同一指令的一个新的手绘实例。",
+      "keywords": [
+        "wall drawing",
+        "Paula Cooper Gallery",
+        "Drawing Series II",
+        "certificate",
+        "graphite"
+      ],
+      "images": [
+        "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/20201534/FC.474_01_H02-web.jpg"
+      ],
+      "paper": {
+        "url": "https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description",
+        "title": "Sol LeWitt Wall Drawings Catalogue Raisonné",
+        "venue": "Cahiers d'Art Institute"
+      },
+      "source_url": "https://www.sfmoma.org/artwork/FC.474/"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-11",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #11",
+      "year": 1969,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An early pencil wall drawing: a wall split into four parts, each filled with three of the four basic line directions laid over one another. It was first drawn at Paula Cooper Gallery in 1969 by Jerry Orter, the artist Adrian Piper and LeWitt.",
+      "description_zh": "一件早期铅笔墙绘：墙面分成四份，每份叠画四种基本线条方向中的三种。1969 年首次在 Paula Cooper 画廊由 Jerry Orter、艺术家 Adrian Piper 和勒维特本人绘制。",
+      "idea_en": "A four-word vocabulary of line directions is enough to generate a whole family of works that other hands can draw.",
+      "idea_zh": "只用四种线条方向组成的“词汇”，就能生成一整套可以交给别人画的作品。",
+      "protocol": "'A wall divided horizontally and vertically into four equal parts. Within each part, three of the four kinds of lines are superimposed.' Drafters work in hard black pencil, spacing the lines by bundles of taped leads.",
+      "protocol_zh": "“一面墙横竖各分为四等份。每一份中叠画四种线条中的三种。”绘图员用硬黑铅笔作画，用胶带捆在一起的铅芯来控制线距。",
+      "collective": "The first drafters included Adrian Piper, then LeWitt's assistant and later a major conceptual artist. For the MASS MoCA retrospective (2008) it was redrawn by the LeWitt studio team; the drawing now belongs to Yale University Art Gallery.",
+      "collective_zh": "首批绘图员中有 Adrian Piper，她当时是勒维特的助手，后来成为重要的观念艺术家。在 MASS MoCA 回顾展（2008）中由勒维特工作室团队重新绘制；作品现藏耶鲁大学美术馆。",
+      "keywords": [
+        "wall drawing",
+        "Adrian Piper",
+        "pencil",
+        "permutation",
+        "Yale University Art Gallery"
+      ],
+      "images": [
+        "https://massmoca.org/wp-content/uploads/2015/12/11-1.jpg"
+      ],
+      "source_url": "https://massmoca.org/event/walldrawing11/"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-118",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #118: 50 randomly placed points connected by straight lines",
+      "year": 1971,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A wall drawing that LeWitt wrote for students of the School of the Museum of Fine Arts, Boston, in 1971 instead of giving a lecture. Fifty points placed by the drafters are all connected to one another, so each version produces a different dense web.",
+      "description_zh": "1971 年勒维特受邀在波士顿美术馆学院演讲，他没有讲课，而是写下这件墙绘让学生来画。绘图员自己放置五十个点并把它们两两相连，每个版本都会形成一张不同的密网。",
+      "idea_en": "A one-sentence rule with a random step: the same text yields a different drawing every time.",
+      "idea_zh": "一句话的规则里含有一个随机步骤：同样的文字，每次都画出不同的图。",
+      "protocol": "'On a wall surface, any continuous stretch of wall, using a hard pencil, place fifty points at random. The points should be evenly distributed over the area of the wall. All of the points should be connected by straight lines.'",
+      "protocol_zh": "“在一面墙上任意一段连续的墙面，用硬铅笔随机放置五十个点。点应均匀分布在墙面上。所有的点都用直线相连。”",
+      "collective": "First executed by students in Boston without the artist present. The drafters choose where the points go, and because every point connects to every other, small choices change the whole web. The Art Institute of Chicago received the work in 2023.",
+      "collective_zh": "首次由波士顿的学生在艺术家不在场的情况下完成。点的位置由绘图员决定，而每个点都要与其他所有点相连，所以细小的选择会改变整张网。芝加哥艺术博物馆于 2023 年获赠此作。",
+      "keywords": [
+        "wall drawing",
+        "random points",
+        "students",
+        "Boston",
+        "Art Institute of Chicago"
+      ],
+      "paper": {
+        "url": "https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description",
+        "title": "Sol LeWitt Wall Drawings Catalogue Raisonné",
+        "venue": "Cahiers d'Art Institute"
+      },
+      "source_url": "https://www.artic.edu/artworks/196148/wall-drawing-118-50-randomly-placed-points-connected-by-straight-lines"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-260",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #260: On Black Walls, All Two-Part Combinations of White Arcs from Corners and Sides, and White Straight, Not-Straight, and Broken Lines",
+      "year": 1975,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A room-size drawing in white crayon on black walls that works through every two-part combination of arcs and lines inside a grid. The title is the complete instruction.",
+      "description_zh": "一件房间尺度的墙绘：在黑墙上用白色蜡笔，在网格中穷尽弧线与直线的所有两两组合。标题本身就是完整的指令。",
+      "idea_en": "When the title is the whole rule, anyone with the title can rebuild the work.",
+      "idea_zh": "当标题就是全部规则，拿到标题的人就能重建作品。",
+      "protocol": "'On black walls, all two-part combinations of white arcs from corners and sides, and white straight, not straight, and broken lines.' A team of trained drafters lays out the grid and draws each combination by hand in crayon on painted walls.",
+      "protocol_zh": "“在黑墙上，白色弧线（从角和边出发）与白色直线、非直线、断线的所有两两组合。”一组受过训练的绘图员先打网格，再用蜡笔在刷好的墙上逐个手绘每种组合。",
+      "collective": "MoMA owns the instructions; the drawing was carried out by a team of assistants for the 1978 LeWitt retrospective and again for 'Focus: Sol LeWitt' (2008–09), covering about 1,500 square feet. LeWitt compared his role to a composer's and the drafters' to musicians'.",
+      "collective_zh": "MoMA 收藏的是这份指令；1978 年勒维特回顾展和 2008—09 年“聚焦：索尔·勒维特”展时，都由一组助手按指令绘制，面积约 1500 平方英尺。勒维特把自己的角色比作作曲家，把绘图员比作演奏者。",
+      "keywords": [
+        "wall drawing",
+        "MoMA",
+        "crayon",
+        "black wall",
+        "combinations"
+      ],
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjEzNzQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d06c886172651c2"
+      ],
+      "source_url": "https://www.moma.org/collection/works/79898"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-273",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #273: Lines to Points on a Grid",
+      "year": 1975,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Seven walls with a pencil grid, each carrying red, yellow and blue crayon lines drawn from corners, sides or centre to points on the grid. LeWitt fixed the starting points; the drafters decide how many lines and where they end.",
+      "description_zh": "七面墙上画有铅笔网格，每面墙上的红、黄、蓝蜡笔线从角、边中点或中心画到网格上的点。勒维特规定起点；画多少条、终点落在哪里由绘图员决定。",
+      "idea_en": "Fix where lines start and leave where they end to the person drawing.",
+      "idea_zh": "规定线从哪里出发，把线停在哪里交给画的人。",
+      "protocol": "'A 6-inch (15 cm) grid covering the walls. Lines from corners, sides, and center of the walls to random points on the grid.' Red lines come from the midpoints of the sides, blue from the corners, yellow from the centre, combined differently on each of the seven walls; 'the number of lines and their length are determined by the draftsman.'",
+      "protocol_zh": "“一张 6 英寸（15 厘米）的网格覆盖墙面。线条从墙的角、边和中心画到网格上的随机点。”红线出自各边中点，蓝线出自四角，黄线出自中心，七面墙各有不同组合；“线的数量和长度由绘图员决定”。",
+      "collective": "Every installation is a new set of choices by a new team of drafters, so no two versions match. SFMOMA owns the work and publishes a family activity inviting the public to draw their own version from the instructions.",
+      "collective_zh": "每次安装都是新一组绘图员的一组新选择，所以没有两个版本相同。旧金山现代艺术博物馆收藏此作，并推出家庭活动，邀请公众按指令画出自己的版本。",
+      "keywords": [
+        "wall drawing",
+        "location drawing",
+        "SFMOMA",
+        "grid",
+        "drafters' choice"
+      ],
+      "images": [
+        "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/19121212/FC.512_10N_LEWITT_512_V1R3-web.jpg"
+      ],
+      "source_url": "https://www.sfmoma.org/artwork/FC.512/"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-289",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #289",
+      "year": 1976,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "White crayon lines on four black walls with a six-inch pencil grid: lines radiate from the centre, the midpoints of the sides and the corners to points the drafters choose. It is one of the last of LeWitt's 'location' drawings.",
+      "description_zh": "四面黑墙上画有六英寸铅笔网格，白色蜡笔线从中心、各边中点和四角放射到绘图员选定的点上。这是勒维特“定位”系列墙绘的最后几件之一。",
+      "idea_en": "An instruction can set a drawing problem that the person executing it has to solve.",
+      "idea_zh": "一条指令可以提出一道绘图题，让执行的人去解。",
+      "protocol": "'A 6-inch (15 cm) grid covering each of the four black walls. White lines to points on the grids. Fourth wall: twenty-four lines from the center, twelve lines from the midpoint of each of the sides, twelve lines from each corner. (The length of the lines and their placement are determined by the drafter.)'",
+      "protocol_zh": "“一张 6 英寸（15 厘米）网格覆盖四面黑墙。白线画到网格上的点。第四面墙：从中心画二十四条线，从每边中点各画十二条，从每个角各画十二条。（线的长度和位置由绘图员决定。）”",
+      "collective": "First installed at the Detroit Institute of Arts and, fourth wall only, at MoMA in 1978; owned by the Whitney Museum. At MASS MoCA drafters test each line with red string before drawing it in crayon, deciding the endpoints themselves.",
+      "collective_zh": "首次安装于底特律美术馆，1978 年在 MoMA 只展出第四面墙；现为惠特尼美术馆收藏。在 MASS MoCA，绘图员先用红绳试放每一条线，再用蜡笔画出，终点由他们自己决定。",
+      "keywords": [
+        "wall drawing",
+        "location drawing",
+        "Whitney Museum",
+        "white crayon",
+        "MASS MoCA"
+      ],
+      "images": [
+        "https://massmoca.org/wp-content/uploads/2015/12/289-1.jpg"
+      ],
+      "source_url": "https://massmoca.org/event/walldrawing289/"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-797",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #797",
+      "year": 1995,
+      "field": "score",
+      "sub": "execution",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "circulation",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A wall drawing written for four drafters who copy each other's line in turn, from the top of the wall to the bottom. The small errors of each copy accumulate into a rippling field of black, red, yellow and blue lines.",
+      "description_zh": "一件写给四名绘图员的墙绘：他们轮流临摹上一个人画的线，从墙顶一直画到墙底。每次临摹的微小偏差不断累积，形成黑、红、黄、蓝线条起伏的一片。",
+      "idea_en": "A relay of imperfect copies turns human error into the drawing.",
+      "idea_zh": "一场不完美的临摹接力，把人的误差变成了作品。",
+      "protocol": "'The first drafter has a black marker and makes an irregular horizontal line near the top of the wall. Then the second drafter tries to copy it (without touching it) using a red marker. The third drafter does the same, using a yellow marker. The fourth drafter does the same using a blue marker. Then the second drafter followed by the third and fourth copies the last line drawn until the bottom of the wall is reached.'",
+      "protocol_zh": "“第一名绘图员用黑色马克笔在墙顶附近画一条不规则的横线。第二名绘图员用红色马克笔试着临摹它（不能碰到它）。第三名用黄色、第四名用蓝色照做。然后第二、第三、第四名依次临摹最后画的那条线，直到墙底。”",
+      "collective": "Conceived with student participation in mind and first drawn in 1995 by four Amherst College sculpture students at the Mead Art Museum. At MASS MoCA the head drafter based the first line on the Berkshire hills; each copied line took ten to twenty minutes.",
+      "collective_zh": "构思时就考虑了学生参与，1995 年由阿默斯特学院的四名雕塑专业学生在 Mead 美术馆首次绘制。在 MASS MoCA，首席绘图员以伯克希尔山脉的轮廓画出第一条线；每条临摹线要花十到二十分钟。",
+      "keywords": [
+        "wall drawing",
+        "copying",
+        "relay",
+        "Amherst College",
+        "marker"
+      ],
+      "images": [
+        "https://massmoca.org/wp-content/uploads/2015/12/797-1.jpg"
+      ],
+      "source_url": "https://massmoca.org/event/walldrawing797/"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-1136",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Wall Drawing #1136",
+      "year": 2004,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A late acrylic wall painting: a wide curved band of coloured stripes weaves across three walls of vertical stripes in the same seven colours. It is painted by a team following LeWitt's specifications for colour order and band width.",
+      "description_zh": "一件晚期丙烯墙绘：一条由彩色条纹组成的宽弧带穿过三面墙的竖条纹，两者用同样的七种颜色。由团队按照勒维特规定的颜色顺序和条带宽度绘制。",
+      "idea_en": "Even a work that looks free and gestural can be fully specified and handed to others.",
+      "idea_zh": "即使看起来自由、有手势感的作品，也可以被完全写成规格交给别人。",
+      "protocol": "LeWitt's instructions and diagram fix the sequence of colours and the width of the bands for the vertical stripes and the curving band; painters mask and paint the walls in acrylic to match. The work is sold and shown as a certificate plus instructions.",
+      "protocol_zh": "勒维特的指令和示意图规定了竖条纹与弯曲条带的颜色顺序和宽度；画工按此贴胶带遮挡、用丙烯涂刷墙面。作品以证书加指令的形式出售和展出。",
+      "collective": "Owned jointly by Tate and the National Galleries of Scotland through ARTIST ROOMS, it has been painted by different teams at different venues (among them the Turner Contemporary, Margate), fitted each time to the shape of the room.",
+      "collective_zh": "通过 ARTIST ROOMS 由泰特美术馆和苏格兰国家美术馆共同收藏，曾由不同团队在不同场馆（包括马盖特的特纳当代美术馆）绘制，每次都要适应房间的形状。",
+      "keywords": [
+        "wall drawing",
+        "acrylic",
+        "ARTIST ROOMS",
+        "Tate",
+        "National Galleries of Scotland"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_MrG187b.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/art/artworks/lewitt-wall-drawing-1136-ar00165"
+    },
+    {
+      "id": "sol-lewitt--wall-drawing-retrospective",
+      "creator_ids": [
+        "sol-lewitt"
+      ],
+      "title": "Sol LeWitt: A Wall Drawing Retrospective (MASS MoCA)",
+      "year": 2008,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "co-authorship",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "A long-term installation of 105 LeWitt wall drawings from 1969 to 2007 on nearly an acre of walls in Building 7 at MASS MoCA, North Adams. LeWitt planned it before his death in 2007; others drew all of it.",
+      "description_zh": "在北亚当斯 MASS MoCA 第 7 号楼近一英亩的墙面上长期陈列 105 件勒维特墙绘，时间跨度从 1969 年到 2007 年。勒维特在 2007 年去世前规划了这个展览，全部墙绘由他人绘制。",
+      "idea_en": "A retrospective of a dead artist can be newly made by the living, from instructions alone.",
+      "idea_zh": "一位已故艺术家的回顾展，可以只凭指令由在世的人重新做出来。",
+      "protocol": "Each drawing's certificate, diagram and written instructions from the LeWitt estate and Yale University Art Gallery guide the drafters; walls were built to LeWitt's specifications, and damaged drawings are replaced or redrawn under the estate's supervision.",
+      "protocol_zh": "每件墙绘的证书、示意图和文字指令（由勒维特遗产和耶鲁大学美术馆提供）指导绘图员工作；墙体按勒维特的规格建造，受损的墙绘在遗产方监督下更换或重画。",
+      "collective": "Over six months, more than 60 artists and art students drew the 105 works, led by LeWitt's senior drafters, in a collaboration of MASS MoCA, Yale University Art Gallery and the Williams College Museum of Art. Drafters' decisions, from line spacing to endpoints, differ from earlier installations of the same drawings.",
+      "collective_zh": "在勒维特资深绘图员带领下，60 多名艺术家和艺术学生用六个月完成了这 105 件作品，由 MASS MoCA、耶鲁大学美术馆和威廉姆斯学院美术馆合作实施。从线距到终点，绘图员的决定都与同一作品以往的安装不同。",
+      "keywords": [
+        "MASS MoCA",
+        "Yale University Art Gallery",
+        "retrospective",
+        "drafters",
+        "North Adams"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=c4cgB4vJ2XY"
+      },
+      "images": [
+        "https://massmoca.org/wp-content/uploads/2015/10/detail-full-width-slw2.jpg",
+        "https://massmoca.org/wp-content/uploads/2016/01/sol_lewitt_1180-1.jpg"
+      ],
+      "paper": {
+        "url": "https://www.cahiersdartinstitute.org/catalogues/sol-lewitt-wall-drawings/description",
+        "title": "Sol LeWitt Wall Drawings Catalogue Raisonné",
+        "venue": "Cahiers d'Art Institute"
+      },
+      "source_url": "https://massmoca.org/sol-lewitt/"
+    },
+    {
+      "id": "lawrence-weiner--statements",
+      "creator_ids": [
+        "lawrence-weiner"
+      ],
+      "title": "Statements / Declaration of Intent",
+      "year": 1968,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "contract"
+      ],
+      "substrate": "text",
+      "kind": "publication",
+      "description": "Weiner's first book, published by Seth Siegelaub and the Louis Kellner Foundation in 1968: 24 short statements describing materials and processes, each a complete work. It came with his rule that the receiver decides whether a work is built at all.",
+      "description_zh": "韦纳的第一本书，1968 年由 Seth Siegelaub 与 Louis Kellner 基金会出版：24 条描述材料和过程的简短陈述，每条都是一件完整作品。与之配套的是他的规则：作品是否要被建造，由接收者决定。",
+      "idea_en": "Publish the work as language and let whoever holds it choose to build it, have it built, or leave it unbuilt.",
+      "idea_zh": "把作品以语言发布，由持有者选择自己建、请人建，或者不建。",
+      "protocol": "Declaration of Intent: '1. The artist may construct the piece. 2. The piece may be fabricated. 3. The piece need not be built. Each being equal and consistent with the intent of the artist the decision as to condition rests with the receiver upon the occasion of receivership.'",
+      "protocol_zh": "《意图声明》：“1. 艺术家可以建造作品。2. 作品可以被制作。3. 作品不必被建造。三者同等并都符合艺术家的意图，作品处于何种状态，由接收者在接收之时决定。”",
+      "collective": "Collectors, curators, sign painters and readers realise the statements in different forms: painted on walls, installed as objects, or kept only as text. The book itself was printed in an edition of 1,000 and circulated in place of an exhibition of objects.",
+      "collective_zh": "收藏者、策展人、招牌画工和读者以不同形式实现这些陈述：刷在墙上、做成实物，或只保留为文字。这本书本身印了 1000 册，代替实物展览流通。",
+      "keywords": [
+        "Seth Siegelaub",
+        "Declaration of Intent",
+        "language",
+        "receiver",
+        "artist's book"
+      ],
+      "images": [
+        "https://static1.squarespace.com/static/60e820d70025154c9413112f/641483492b47ac67ecd62a35/6407b37ef991f15f62312bb0/1787831117470/DSC04467.jpg?format=1500w",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg/960px-Wandmalerei_Stein_auf_Stein_auf_gefallenen_Stein_%28Lawrence_Weiner_1983%29_04.jpg"
+      ],
+      "paper": {
+        "url": "https://toninieditore.com/shop-studio-bruno-tonini/p/lawrence-weiner-statements",
+        "title": "Statements (New York: Louis Kellner Foundation / Seth Siegelaub, 1968)",
+        "venue": "Artist's book"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Lawrence_Weiner"
+    },
+    {
+      "id": "yoko-ono--instruction-paintings",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Instruction Paintings (Instructions for Paintings)",
+      "year": 1961,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "Paintings that exist as instructions. At AG Gallery, New York, in 1961 Ono showed more than fifteen that were completed by the artist, by visitors or by the environment; at Sogetsu Art Center, Tokyo, in May 1962 she showed only the instructions, handwritten in Japanese by Toshi Ichiyanagi.",
+      "description_zh": "以指令形式存在的绘画。1961 年在纽约 AG 画廊，小野洋子展出了十五件以上由艺术家、观众或环境来完成的作品；1962 年 5 月在东京草月会馆，她只展出由一柳慧用日文手写的指令。",
+      "idea_en": "Replace the painting with the instruction, and let the viewer finish it with their feet, hands or mind.",
+      "idea_zh": "用指令取代画本身，让观众用脚、用手或在脑中把它完成。",
+      "protocol": "Each work is a short instruction; in Painting to Be Stepped On, for example, a scrap of canvas lies on the floor and becomes complete as footprints accumulate. Ono had the Sogetsu instructions written in another person's hand so the work would not depend on her own.",
+      "protocol_zh": "每件作品都是一条简短指令；例如在《被踩踏的绘画》中，一块画布放在地上，随着脚印累积而完成。草月会馆的指令由别人代写，以免作品依赖她本人的笔迹。",
+      "collective": "Visitors walked on, added to or imagined the paintings; Ono communicated most of the AG Gallery instructions by word of mouth. The 1962 Tokyo show made the instruction alone the exhibited work, a step toward conceptual art.",
+      "collective_zh": "观众在画上行走、添加，或在脑中想象它们；AG 画廊的大部分指令由小野口头传达。1962 年东京的展览只展出指令本身，是走向观念艺术的一步。",
+      "keywords": [
+        "AG Gallery",
+        "Sogetsu Art Center",
+        "Toshi Ichiyanagi",
+        "Painting to Be Stepped On",
+        "instruction"
+      ],
+      "paper": {
+        "url": "https://www.printedmatter.org/catalog/18180",
+        "title": "Instructions for Paintings: May 24, 1962",
+        "venue": "Galeria 56, Budapest (1993)"
+      },
+      "source_url": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide"
+    },
+    {
+      "id": "yoko-ono--grapefruit",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Grapefruit",
+      "year": 1964,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "text",
+      "kind": "publication",
+      "description": "A small self-published book of more than 150 instruction pieces in five sections (Music, Painting, Event, Poetry, Object), issued in Tokyo on 4 July 1964 in an edition of 500. Each page is a work that the reader performs, in action or in the mind.",
+      "description_zh": "一本自费出版的小书，收录 150 多件指令作品，分为音乐、绘画、事件、诗歌、物件五部分，1964 年 7 月 4 日在东京出版，印 500 册。每一页都是一件由读者执行的作品，或付诸行动，或在脑中完成。",
+      "idea_en": "A book can be a portable exhibition that readers stage themselves.",
+      "idea_zh": "一本书可以是一场便携的展览，由读者自己来上演。",
+      "protocol": "Short imperatives addressed to the reader, e.g. Cloud Piece: 'Imagine the clouds dripping. Dig a hole in your garden to put them in.' No one checks execution; the reader decides whether, where and how to carry out each piece.",
+      "protocol_zh": "写给读者的简短祈使句，例如《云之作》：“想象云在滴落。在你的花园里挖一个洞把它们装进去。”没有人检查执行情况；每件作品做不做、在哪里做、怎么做，都由读者决定。",
+      "collective": "Readers since 1964 have performed, adapted and republished the pieces; expanded editions followed in many languages, and museums, including Tate Modern in 2024, installed instructions from it for visitors to carry out.",
+      "collective_zh": "自 1964 年以来，读者们执行、改编并再版这些作品；此后出现多种语言的扩充版，包括泰特现代美术馆（2024）在内的美术馆也把书中的指令布置出来让观众执行。",
+      "keywords": [
+        "Wunternaum Press",
+        "artist's book",
+        "instruction",
+        "Fluxus",
+        "Cloud Piece"
+      ],
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjM0NjM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcc16cd0a4637452",
+        "https://d23eqwv5slm408.cloudfront.net/api/file/k97FqoRQRYs4im9VyvpC/convert?fit=clip&h=618&quality=100&w=824&compress=true&fit=clip"
+      ],
+      "paper": {
+        "url": "https://www.moma.org/collection/works/128103",
+        "title": "Grapefruit (Tokyo: Wunternaum Press, 1964)",
+        "venue": "Artist's book"
+      },
+      "source_url": "https://www.moma.org/collection/works/128103"
+    },
+    {
+      "id": "yoko-ono--cut-piece",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Cut Piece",
+      "year": 1964,
+      "field": "score",
+      "sub": "event-scores",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "Ono sits still on stage with a pair of scissors in front of her; audience members come up one at a time and cut off a piece of her clothing to keep. First performed at Yamaichi Concert Hall, Kyoto, on 20 July 1964.",
+      "description_zh": "小野洋子静坐在舞台上，面前放着一把剪刀；观众一个接一个上台，剪下她衣服的一小块带走。1964 年 7 月 20 日在京都山一音乐厅首演。",
+      "idea_en": "Give the audience the tool and the permission, and their restraint or aggression becomes the piece.",
+      "idea_zh": "把工具和许可交给观众，他们的克制或侵犯就成了作品。",
+      "protocol": "The performer sits on stage with scissors; it is announced that members of the audience may come on stage, one at a time, to cut a small piece of the performer's clothing and take it with them. The performer stays silent and does not react.",
+      "protocol_zh": "表演者带着剪刀坐在台上；宣布观众可以一次一人上台，剪下表演者衣服的一小块并带走。表演者保持沉默，不作反应。",
+      "collective": "Ono performed it six times: Kyoto and Tokyo (1964), Carnegie Recital Hall, New York (1965, filmed by Albert and David Maysles), London (1966) and Paris (2003). Each audience cut differently, from hesitant small snips to aggressive cutting; other artists have restaged the score since.",
+      "collective_zh": "小野洋子共演出六次：京都与东京（1964）、纽约卡内基独奏厅（1965，由梅索斯兄弟拍摄）、伦敦（1966）和巴黎（2003）。每一场观众的剪法都不同，从犹豫地剪下一小块到带有侵犯性的剪切；此后也有其他艺术家重演这份乐谱。",
+      "keywords": [
+        "performance",
+        "scissors",
+        "audience",
+        "Maysles",
+        "feminism"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=-Y7R7WmdyXI"
+      },
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ID_56_YO_2_copy_small.width-420.format-jpeg.jpg",
+        "https://mayslesfilms.com/wp-content/uploads/2014/02/10-cut-piece.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Cut_Piece_1964"
+    },
+    {
+      "id": "yoko-ono--painting-to-hammer-a-nail",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Painting to Hammer a Nail",
+      "year": 1966,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A white panel with a hammer hanging on a chain and a supply of nails: visitors complete the painting by hammering nails into it. Shown at Indica Gallery, London, in 1966; later versions include a cross-shaped panel.",
+      "description_zh": "一块白色面板，旁边用链子挂着一把锤子，并备有钉子：观众把钉子敲进去来完成这幅画。1966 年在伦敦 Indica 画廊展出；后来的版本包括十字形面板。",
+      "idea_en": "The painting is finished only by the accumulated marks of visitors.",
+      "idea_zh": "这幅画只有靠观众不断累积的痕迹才能完成。",
+      "protocol": "The instruction invites each visitor to hammer a nail into the panel. Nothing limits where the nail goes; the work records every visit until the surface is full.",
+      "protocol_zh": "指令邀请每位观众往面板上敲一颗钉子。钉子敲在哪里不受限制；作品记录下每一次到访，直到画面被钉满。",
+      "collective": "Visitors at each showing, among them John Lennon at the 1966 Indica preview, add nails, so each version ends with a different density and pattern. The outdoor Painting to Hammer a Nail In / Cross Version (2005) at the Österreichischer Skulpturenpark near Graz offers three wooden crosses to visitors' nails.",
+      "collective_zh": "每次展出的观众都来敲钉，其中包括 1966 年在 Indica 预展上的约翰·列侬，因此每个版本最后钉子的密度和分布都不同。格拉茨附近奥地利雕塑公园的户外作品《敲钉之画／十字版》（2005）以三个木十字架承接观众的钉子。",
+      "keywords": [
+        "Indica Gallery",
+        "hammer",
+        "nails",
+        "participation",
+        "John Lennon"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/YokoOno_PaintingToHammerANailIn.jpg/960px-YokoOno_PaintingToHammerANailIn.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg/960px-Ono_Painting_to_Hammer_a_Nail_In_-_Cross_Version_01.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Yoko_Ono"
+    },
+    {
+      "id": "yoko-ono--mend-piece",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Mend Piece",
+      "year": 1966,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A table of broken cups and saucers with glue, tape and string; visitors mend the fragments and place the repaired objects on shelves. First shown as Mending Piece I at Indica Gallery, London, in 1966.",
+      "description_zh": "一张桌子上放着碎杯碟，以及胶水、胶带和绳子；观众把碎片修补起来，把修好的器物放到架子上。1966 年以《修补之作 I》之名首次在伦敦 Indica 画廊展出。",
+      "idea_en": "Hand the audience broken things and a rule about care; the repaired shelf becomes a collective portrait.",
+      "idea_zh": "把破碎的东西和一条关于用心的规则交给观众；摆满修补物的架子就成了一幅集体肖像。",
+      "protocol": "'Mend carefully. Think of mending the world at the same time.' Visitors choose fragments and materials, mend them in any way, and leave the result on display.",
+      "protocol_zh": "“仔细修补。同时想着修补世界。”观众自选碎片和材料，用任何方法修补，并把结果留在展场。",
+      "collective": "Restaged many times, e.g. the Andrea Rosen Gallery version (1966/2015) at rennie museum, Vancouver, and 'Mend Piece for London' at Whitechapel Gallery (2021). The shelves fill with unpredictable hybrid objects made by thousands of strangers.",
+      "collective_zh": "曾多次重现，例如在温哥华 rennie 博物馆展出的 Andrea Rosen 画廊版本（1966/2015），以及白教堂画廊的《为伦敦修补》（2021）。架子上摆满了成千上万陌生人做出的、难以预料的拼合物件。",
+      "keywords": [
+        "Indica Gallery",
+        "repair",
+        "cups",
+        "participation",
+        "Whitechapel Gallery"
+      ],
+      "images": [
+        "https://renniemuseum.org/wp-content/uploads/2019/05/RennieCollection_OnoMendPiece_091.jpg",
+        "https://www.whitechapelgallery.org/wp-content/uploads/2021/08/YokoOno_WebCrop_ToGo-scaled.jpg"
+      ],
+      "source_url": "https://www.whitechapelgallery.org/exhibitions/yoko-ono-mend-piece-for-london/"
+    },
+    {
+      "id": "yoko-ono--wish-tree",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Wish Tree",
+      "year": 1996,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "A living tree native to the site, with paper tags and pencils: visitors write a wish and tie it to a branch. Wish Trees have been planted at MoMA, the Hirshhorn, Tate Modern and many other sites, and the collected wishes are sent to Ono's Imagine Peace Tower in Iceland.",
+      "description_zh": "一棵当地原生的活树，配有纸签和铅笔：观众写下愿望，系在树枝上。许愿树曾种在 MoMA、赫希洪博物馆、泰特现代美术馆等许多地方，收集到的愿望被寄往小野洋子在冰岛的“想象和平塔”。",
+      "idea_en": "A simple ritual rule, repeated at many sites, gathers a global archive of private hopes.",
+      "idea_zh": "一条简单的仪式性规则在多地重复，汇集成一个全球性的私人愿望档案。",
+      "protocol": "Wish Piece (1996): 'Make a wish / Write it down on a piece of paper / Fold it and tie it around a branch of a Wish Tree / Ask your friends to do the same / Keep wishing / Until the branches are covered with wishes.'",
+      "protocol_zh": "《许愿之作》（1996）：“许一个愿／把它写在一张纸上／折好，系在许愿树的树枝上／请你的朋友也这样做／不停许愿／直到树枝挂满愿望。”",
+      "collective": "Visitors at each host institution cover the branches; staff periodically harvest the tags and send them to the Imagine Peace Tower on Viðey, where they are kept. The Hirshhorn's Wish Tree for Washington, DC (2007) is in its permanent collection; MoMA's tree was installed in 2010.",
+      "collective_zh": "各地观众把树枝挂满；工作人员定期收下纸签，寄往维泽岛上的想象和平塔保存。赫希洪博物馆的《华盛顿许愿树》（2007）为其永久收藏；MoMA 的许愿树于 2010 年种下。",
+      "keywords": [
+        "Imagine Peace Tower",
+        "MoMA",
+        "Hirshhorn",
+        "wishes",
+        "participation"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yoko_Ono_Wish_Tree_B.JPG/960px-Yoko_Ono_Wish_Tree_B.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG/960px-For_Yoko_Ono%27s_wish_tree_at_MoMA.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cards_for_Hirshhorn_Wish_Tree.JPG/960px-Cards_for_Hirshhorn_Wish_Tree.JPG"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Wish_Tree_for_Washington,_DC"
+    },
+    {
+      "id": "yoko-ono--add-colour-refugee-boat",
+      "creator_ids": [
+        "yoko-ono"
+      ],
+      "title": "Add Colour (Refugee Boat)",
+      "year": 2016,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An all-white room with an all-white boat that visitors cover with writing and drawing in blue. The idea goes back to Ono's Add Colour paintings of 1960–66; this version, made in response to refugees crossing the Mediterranean, was first realised in 2016.",
+      "description_zh": "一间全白的房间里放着一艘全白的船，观众用蓝色在上面写字、画画，直到覆盖一切。构想可追溯到小野洋子 1960—66 年的《添加颜色》绘画；这一版本回应了横渡地中海的难民，于 2016 年首次实现。",
+      "idea_en": "A blank space plus one colour rule turns thousands of visitors' marks into a shared statement.",
+      "idea_zh": "一块空白加上一条颜色规则，把成千上万观众的笔迹变成一份共同的表达。",
+      "protocol": "Ono's instruction reads: 'Just blue like the ocean.' Visitors may write or draw anything, but only in blue (and white), on the walls, floor and boat, for the length of the exhibition.",
+      "protocol_zh": "小野洋子的指令是：“只用蓝色，像海洋一样。”观众可以写或画任何内容，但只能用蓝色（和白色），画在墙上、地上和船上，持续整个展期。",
+      "collective": "At each venue, such as Tate Modern in 2024 and Serralves in Porto, visitors gradually turn the room from white to a dense blue surface of messages; the final state is different every time.",
+      "collective_zh": "在每个场馆，例如 2024 年的泰特现代美术馆和波尔图的塞拉尔维斯，观众一点点把白色房间变成布满留言的密集蓝色表面；最终状态每次都不一样。",
+      "keywords": [
+        "refugees",
+        "blue",
+        "participation",
+        "Tate Modern",
+        "Serralves"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_MG_9203_copy_small.width-420.format-jpeg.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide"
+    },
+    {
+      "id": "john-cage--4-33",
+      "creator_ids": [
+        "john-cage"
+      ],
+      "title": "4′33″",
+      "year": 1952,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "chance",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A score in three movements, each marked tacet, for any instrument or combination of instruments; the performers make no intended sound for four minutes and thirty-three seconds.",
+      "description_zh": "一份分为三个乐章、每个乐章都标注“tacet”（休止）的乐谱，适用于任何乐器或乐器组合；演奏者在四分三十三秒内不发出任何有意的声音。",
+      "idea_en": "Frame a stretch of time and let whatever the room and the audience produce become the music.",
+      "idea_zh": "框定一段时间，让房间和观众自己发出的声音成为音乐。",
+      "protocol": "The score lets any performer or ensemble play; each of the three movements is marked \"tacet\" and the performer signals only its beginning and end. Nothing else is prescribed; the content is left to ambient sound.",
+      "protocol_zh": "任何演奏者或乐团都可以演出；三个乐章都标注“tacet”，演奏者只示意每个乐章的开始与结束。其余一概不作规定，内容交给环境声音。",
+      "collective": "David Tudor gave the first performance at Woodstock, New York, on 29 August 1952; since then pianists, orchestras such as the BBC Symphony Orchestra (Barbican, 2004) and amateur groups have performed it, and each performance consists of the coughs, rain, traffic and restlessness of that particular audience and room.",
+      "collective_zh": "1952 年 8 月 29 日，大卫·都铎在纽约州伍德斯托克首演此作；此后钢琴家、BBC 交响乐团（2004 年巴比肯中心）等乐团以及业余团体不断演出，每一次的内容都是当场观众和房间里的咳嗽、雨声、车流与骚动。",
+      "keywords": [
+        "silence",
+        "tacet",
+        "David Tudor",
+        "indeterminacy",
+        "Woodstock"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=yoAbXwr3qkg"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/89/4%2733%27_%28John_Cage%29_Original_Cover.webp"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3"
+    },
+    {
+      "id": "john-cage--musicircus",
+      "creator_ids": [
+        "john-cage"
+      ],
+      "title": "Musicircus",
+      "year": 1967,
+      "field": "score",
+      "sub": "constraints",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "chance",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "An event in which many invited musicians and performers play at the same time in one large space while the audience walks freely among them.",
+      "description_zh": "一场活动：许多受邀的音乐人和表演者在同一个大空间里同时演出，观众在他们之间自由走动。",
+      "idea_en": "Write only the conditions for a gathering and let simultaneity compose the piece.",
+      "idea_zh": "只写下聚集的条件，让“同时发生”来完成作曲。",
+      "protocol": "Cage's rule is an invitation: many performers agree to perform whatever they choose, simultaneously and in the same space, without coordination; the audience moves through the space and makes its own mix.",
+      "protocol_zh": "凯奇的规则就是一份邀请：许多表演者同意在同一空间里同时演出各自选择的内容，彼此不作协调；观众在空间里走动，自己完成混音。",
+      "collective": "The first Musicircus took place at the University of Illinois in November 1967; later versions, such as the English National Opera's in 2012 and many university and festival stagings, bring together choirs, bands, dancers and soloists, so each edition sounds like the local musical community at that moment.",
+      "collective_zh": "第一次《音乐马戏团》于 1967 年 11 月在伊利诺伊大学举行；此后如 2012 年英国国家歌剧院的版本以及许多大学和艺术节的演出，把合唱团、乐队、舞者与独奏者聚在一起，每一版都像是当地音乐群体在那一刻的声音快照。",
+      "keywords": [
+        "simultaneity",
+        "happening",
+        "University of Illinois",
+        "invitation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=HBR8OAA-5p8"
+      },
+      "source_url": "https://newmusicusa.org/nmbx/the-circus-of-life-as-music/"
+    },
+    {
+      "id": "john-cage--organ-aslsp-halberstadt",
+      "creator_ids": [
+        "john-cage"
+      ],
+      "title": "ORGAN²/ASLSP (Halberstadt performance)",
+      "year": 2001,
+      "field": "score",
+      "sub": "execution",
+      "mechanisms": [
+        "instruction",
+        "time",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance of Cage's organ piece \"As Slow As Possible\" in the St. Burchardi church in Halberstadt, Germany, planned to last 639 years, from 2001 to 2640; a chord changes only every few months or years.",
+      "description_zh": "在德国哈尔伯施塔特圣布尔夏迪教堂演出凯奇的管风琴作品《尽可能慢》，计划持续 639 年，从 2001 年到 2640 年；和弦每隔数月甚至数年才变换一次。",
+      "idea_en": "A score that only says 'as slow as possible' can hand a single performance to many generations.",
+      "idea_zh": "一份只写着“尽可能慢”的乐谱，可以把一场演出交给许多代人。",
+      "protocol": "Cage's 1987 score leaves the tempo to the performers with the instruction \"as slow as possible\"; the Halberstadt organizers set the length at 639 years and a timetable of note changes, which volunteers carry out by adding or removing pipes and weights on a purpose-built organ.",
+      "protocol_zh": "凯奇 1987 年的乐谱只给出“尽可能慢”的速度指示，交由演奏者决定；哈尔伯施塔特的组织者将演出长度定为 639 年，并制定了音符变换的时间表，由志愿者在专门建造的管风琴上增减音管和配重来执行。",
+      "collective": "The performance began on 5 September 2001 with a long rest; the foundation behind it is funded partly by people who sponsor individual years, and each sound change, such as those on 5 February and 5 August 2024, draws crowds to the church to watch a new chord begin.",
+      "collective_zh": "演出于 2001 年 9 月 5 日以一段漫长的休止开始；背后的基金会部分依靠认捐单个年份的人资助，每次换音（例如 2024 年 2 月 5 日和 8 月 5 日）都会吸引人群来到教堂，看一个新和弦开始鸣响。",
+      "keywords": [
+        "As Slow As Possible",
+        "Halberstadt",
+        "639 years",
+        "organ",
+        "long durations"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=L1a1CpaBovQ"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ORGAN%C2%B2ASLSP_Orgel.jpg/960px-ORGAN%C2%B2ASLSP_Orgel.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halberstadt-aslsp-gesamt.jpg/960px-Halberstadt-aslsp-gesamt.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/As_Slow_as_Possible"
+    },
+    {
+      "id": "john-cage--imaginary-landscape-no-4",
+      "creator_ids": [
+        "john-cage"
+      ],
+      "title": "Imaginary Landscape No. 4 (March No. 2)",
+      "year": 1951,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "chance",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A piece for twelve radios and twenty-four performers plus a conductor: at each radio one player turns the tuning dial and the other the volume, following times and settings fixed by chance.",
+      "description_zh": "一首为十二台收音机、二十四名演奏者和一名指挥而作的作品：每台收音机由一人调频、一人调音量，按照由偶然决定的时间和数值操作。",
+      "idea_en": "Script the hands on the dials precisely and let the broadcasts of the day fill in the sound.",
+      "idea_zh": "精确规定调节旋钮的双手，让当天的广播填满声音。",
+      "protocol": "Cage used chance operations derived from the I Ching to fix, for each pair of players, the wavelengths, volume levels and durations; the score controls the actions but not what the stations are broadcasting.",
+      "protocol_zh": "凯奇用源自《易经》的偶然操作，为每对演奏者确定频率、音量和时值；乐谱控制的是动作，而不是电台正在播出的内容。",
+      "collective": "First performed at Columbia University's McMillin Theater on 2 May 1951 with Cage conducting; every later performance, from student ensembles to groups such as DIY Space for London, picks up different programmes, so the same score sounds different in each city and hour.",
+      "collective_zh": "1951 年 5 月 2 日在哥伦比亚大学麦克米林剧场首演，由凯奇指挥；此后每一次演出，从学生乐团到伦敦 DIY Space 这样的团体，接收到的节目都不同，同一份乐谱在不同城市、不同时刻听起来都不一样。",
+      "keywords": [
+        "radio",
+        "I Ching",
+        "chance operations",
+        "Columbia University"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=yV-kWU1Z5u8"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Imaginary_Landscape_No._4_(March_No._2)"
+    },
+    {
+      "id": "john-cage--concert-for-piano-and-orchestra",
+      "creator_ids": [
+        "john-cage"
+      ],
+      "title": "Concert for Piano and Orchestra",
+      "year": 1958,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "chance",
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "An indeterminate concert piece in which the pianist and each orchestral player choose which pages of their parts to play, and the conductor's arms act as a clock rather than a beat.",
+      "description_zh": "一首不确定性的协奏作品：钢琴家和每位乐手自行选择演奏各自分谱中的哪些页，指挥的双臂像时钟一样计时，而不是打拍子。",
+      "idea_en": "Give every player a separate rulebook and let the ensemble's overlap be unplanned.",
+      "idea_zh": "给每位演奏者一本独立的规则手册，让整体的叠合不经计划。",
+      "protocol": "Parts are independent: the piano solo is a book of graphs in many different notations, any number of the orchestral parts may be used, and performers may play any amount of their material; the conductor moves the arms like clock hands to vary the passage of time.",
+      "protocol_zh": "各声部彼此独立：钢琴独奏是一册使用多种不同记谱法的图谱，管弦乐分谱可以任意取用，演奏者可以演奏自己材料中的任意部分；指挥像时钟指针一样移动双臂，改变时间流逝的速度。",
+      "collective": "At the premiere at New York's Town Hall on 15 May 1958 the audience whistled and jeered; David Tudor prepared his own fixed realization of the solo, and every ensemble since has had to make its own decisions, as the Getty Research Institute's Scores Project documents with Tudor's worksheets.",
+      "collective_zh": "1958 年 5 月 15 日在纽约市政厅首演时，观众吹口哨、起哄；大卫·都铎为独奏部分制作了自己的固定版本，此后每个乐团都必须自己做出决定，盖蒂研究所的《乐谱计划》用都铎的工作稿记录了这一过程。",
+      "keywords": [
+        "indeterminacy",
+        "David Tudor",
+        "Town Hall",
+        "graphic notation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KgmGGbiYnDY"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/cage-flipbook.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_980039_b176_f01_001_mm_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/02/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "John Cage: Concert for Piano and Orchestra (1958)"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/02/"
+    },
+    {
+      "id": "terry-riley--in-c",
+      "creator_ids": [
+        "terry-riley"
+      ],
+      "title": "In C",
+      "year": 1964,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "constraint",
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A one-page score of 53 short melodic patterns that any number of musicians play in order, each deciding when to move on, over a steady pulse on the note C.",
+      "description_zh": "一页乐谱，写着 53 个短小的旋律片段；任意数量的乐手依次演奏，各自决定何时进入下一个，底下是持续的 C 音脉冲。",
+      "idea_en": "Fixed order plus free timing turns an ensemble into a slowly shifting cloud of patterns.",
+      "idea_zh": "固定的顺序加上自由的时机，让乐团变成一片缓慢漂移的音型之云。",
+      "protocol": "\"Any number of any kind of instruments can play.\" Each player repeats each pattern as many times as they like before moving to the next, stays within a few patterns of the others, and the piece ends when everyone has reached the last pattern.",
+      "protocol_zh": "“任何数量、任何种类的乐器都可以演奏。”每位乐手自行决定每个片段重复多少次再进入下一个，与其他人保持在相近的几个片段之内，所有人都奏到最后一个片段时乐曲结束。",
+      "collective": "Premiered at the San Francisco Tape Music Center in November 1964; since then it has been played by rock bands, orchestras, school groups, the Malian and European musicians of Africa Express and ensembles such as BL!NDMAN and Third Coast Percussion, and the length and texture change with every group.",
+      "collective_zh": "1964 年 11 月在旧金山磁带音乐中心首演；此后摇滚乐队、管弦乐团、学校团体、Africa Express 的马里与欧洲音乐人，以及 BL!NDMAN、Third Coast Percussion 等乐团都演奏过它，每个团体演出的时长和质感都不同。",
+      "keywords": [
+        "minimalism",
+        "53 patterns",
+        "pulse",
+        "San Francisco Tape Music Center"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=GEfo7DRg9TQ"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Terry_Riley_In_C_Carnegie_Hall.jpg/960px-Terry_Riley_In_C_Carnegie_Hall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Incipit_of_Terry_Riley%27s_In_C.png"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/In_C"
+    },
+    {
+      "id": "cornelius-cardew--the-great-learning",
+      "creator_ids": [
+        "cornelius-cardew"
+      ],
+      "title": "The Great Learning",
+      "year": 1968,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A seven-part work (1968–71) setting Ezra Pound's translation of a Confucian text, written largely for untrained performers who sing, speak, drum and whistle by verbal and graphic rules.",
+      "description_zh": "一部七段式作品（1968—1971），以埃兹拉·庞德翻译的儒家文本为词，主要写给未受训练的表演者，他们依照文字与图形规则歌唱、念诵、击鼓和吹哨。",
+      "idea_en": "Rules for listening to your neighbours can make a crowd of amateurs converge on a shared sound.",
+      "idea_zh": "关于聆听身边人的规则，能让一群业余者汇聚成共同的声音。",
+      "protocol": "In Paragraph 7, each singer chooses a starting note and sings a line of text on it a set number of times, then for each new line takes a note they can hear another singer holding; the choir drifts from a cluster toward a few shared pitches.",
+      "protocol_zh": "在第七段中，每位歌者自选起始音，把一行文字按规定次数唱出，此后每一行都改用自己听到的另一位歌者正在唱的音；合唱从音簇逐渐漂向少数几个共同的音高。",
+      "collective": "The Scratch Orchestra, many of whose members were not trained musicians, performed and recorded parts of it (Deutsche Grammophon, 1971); choirs such as Helsingin kamarikuoro and community groups still perform Paragraph 7, and the pitches it settles on differ every time.",
+      "collective_zh": "Scratch Orchestra（许多成员并非受过训练的音乐人）演出并录制了其中的段落（德意志留声机，1971）；如今赫尔辛基室内合唱团等合唱团和社区团体仍在演出第七段，每一次最终汇聚的音高都不同。",
+      "keywords": [
+        "Confucius",
+        "Ezra Pound",
+        "Paragraph 7",
+        "Scratch Orchestra",
+        "choir"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9fO_HbjkZrA"
+      },
+      "source_url": "https://www.newmusicnewcollege.org/cardew.html"
+    },
+    {
+      "id": "cornelius-cardew--scratch-orchestra",
+      "creator_ids": [
+        "cornelius-cardew"
+      ],
+      "title": "A Scratch Orchestra: Draft Constitution",
+      "year": 1969,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "governance",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "organization",
+      "description": "A constitution, published in The Musical Times in June 1969, for an orchestra open to anyone, founded in London by Cornelius Cardew, Michael Parsons and Howard Skempton.",
+      "description_zh": "1969 年 6 月发表于《音乐时报》的一份章程，为一个向所有人开放的乐团而写；该乐团由科尼利厄斯·卡迪尤、迈克尔·帕森斯和霍华德·斯凯普顿在伦敦创办。",
+      "idea_en": "Write the orchestra's constitution as the score: membership, categories of activity and who proposes the next concert.",
+      "idea_zh": "把乐团章程当作乐谱来写：成员资格、活动类别，以及由谁提议下一场音乐会。",
+      "protocol": "A Scratch Orchestra is \"a large number of enthusiasts pooling their resources (not primarily material resources) and assembling for action (music-making, performance, edification)\"; members keep a notebook of their own accompaniments, and concerts are built from Scratch Music, Popular Classics, Improvisation Rites, compositions and research projects, with members taking turns to plan them.",
+      "protocol_zh": "Scratch Orchestra 是“大量爱好者汇集各自的资源（主要不是物质资源），为行动（演奏、表演、自我教化）而聚集”；每位成员记录自己的伴奏笔记，音乐会由“Scratch 音乐”“流行经典”“即兴仪式”、作品和研究项目组成，由成员轮流策划。",
+      "collective": "Artists, students and non-musicians joined, performing in halls and at outdoor sites across Britain; the orchestra's internal debates became part of its history when, in the early 1970s, many members turned to political music and the group split.",
+      "collective_zh": "艺术家、学生和非音乐人纷纷加入，在英国各地的礼堂和户外场所演出；乐团内部的争论也成了它历史的一部分——20 世纪 70 年代初，许多成员转向政治音乐，团体随之分裂。",
+      "keywords": [
+        "Scratch Orchestra",
+        "Musical Times",
+        "Improvisation Rites",
+        "Michael Parsons",
+        "Howard Skempton"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=CudcmB4_OTw"
+      },
+      "paper": {
+        "url": "https://doi.org/10.2307/951759",
+        "doi": "10.2307/951759",
+        "venue": "The Musical Times, June 1969",
+        "title": "A Scratch Orchestra: Draft Constitution"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Scratch_Orchestra"
+    },
+    {
+      "id": "cornelius-cardew--treatise",
+      "creator_ids": [
+        "cornelius-cardew"
+      ],
+      "title": "Treatise",
+      "year": 1967,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "constraint",
+        "chance",
+        "co-authorship"
+      ],
+      "substrate": "text",
+      "kind": "score",
+      "description": "A 193-page graphic score of lines, circles, numbers and fragments of notation, written 1963–67, with no instructions on how to play it.",
+      "description_zh": "一份 193 页的图形乐谱，由线条、圆形、数字和零碎的记谱符号组成，写于 1963—1967 年，没有任何演奏说明。",
+      "idea_en": "A score without a key forces each group to agree on its own reading.",
+      "idea_zh": "没有图例的乐谱，迫使每个团体自行商定读法。",
+      "protocol": "Cardew gives only the graphics: performers decide which pages to play, which instruments to use and what each sign means, usually by agreeing on rules among themselves before or during rehearsal.",
+      "protocol_zh": "卡迪尤只给出图形：演奏者自行决定演奏哪些页、用什么乐器、每个符号代表什么，通常在排练前或排练中彼此商定规则。",
+      "collective": "Improvisers, rock musicians, electronic musicians and chamber groups have performed it; the London Experimental Ensemble played the whole score in about two hours at Iklectik, London, in January 2017, while other groups use only a few pages.",
+      "collective_zh": "即兴乐手、摇滚乐手、电子音乐人和室内乐团都演出过它；2017 年 1 月，伦敦实验乐团在伦敦 Iklectik 用约两小时演奏了全部乐谱，其他团体则只取其中几页。",
+      "keywords": [
+        "graphic score",
+        "AMM",
+        "interpretation",
+        "193 pages"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9XPtMY-unCo"
+      },
+      "images": [
+        "https://socks-studio.com/img/blog/Treatise-01.jpg",
+        "https://socks-studio.com/img/blog/Treatise-02.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Treatise_(music)"
+    },
+    {
+      "id": "pauline-oliveros--sonic-meditations",
+      "creator_ids": [
+        "pauline-oliveros"
+      ],
+      "title": "Sonic Meditations",
+      "year": 1971,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A set of text scores (published 1974) for listening, breathing and sounding together, which any group can perform without musical training.",
+      "description_zh": "一组文字乐谱（1974 年出版），关于共同聆听、呼吸与发声，任何团体无需音乐训练即可演出。",
+      "idea_en": "Make listening to each other the instruction, and a room of strangers becomes one instrument.",
+      "idea_zh": "把“彼此聆听”写成指令，一屋子陌生人就成了一件乐器。",
+      "protocol": "Each meditation is a short verbal instruction; in the Tuning Meditation, participants alternate between singing a tone they imagine, matching a tone sung by someone else, and offering a new tone no one else is singing.",
+      "protocol_zh": "每一首冥想都是一段简短的文字指令；在《调音冥想》中，参与者交替地唱出自己想象的音、与别人正在唱的音对齐，以及唱出一个没有人在唱的新音。",
+      "collective": "Oliveros developed the pieces from 1971 with a women's ensemble in California; museums and festivals such as the Blanton Museum of Art and The Met Cloisters now stage the Tuning Meditation with their visitors, and the resulting chord changes with each crowd.",
+      "collective_zh": "奥利维罗斯自 1971 年起与加州的一个女性乐团共同发展这些作品；如今布兰顿美术馆、大都会博物馆修道院分馆等机构和艺术节带着观众演出《调音冥想》，每一群人唱出的和声都不同。",
+      "keywords": [
+        "Deep Listening",
+        "Tuning Meditation",
+        "text score",
+        "sonic awareness"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=wlxUpqsdlHM"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg/960px-Pauline_Oliveros_-SonicActs_-SonicActs2012.jpg"
+      ],
+      "source_url": "https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros"
+    },
+    {
+      "id": "karlheinz-stockhausen--aus-den-sieben-tagen",
+      "creator_ids": [
+        "karlheinz-stockhausen"
+      ],
+      "title": "Aus den sieben Tagen",
+      "year": 1968,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "Fifteen short text compositions written in May 1968, which Stockhausen called intuitive music: instead of notes, each gives the players a mood, an image or a way of playing.",
+      "description_zh": "1968 年 5 月写成的十五首短小文字作品，施托克豪森称之为“直觉音乐”：它们不给音符，而是给演奏者一种情绪、一个意象或一种演奏方式。",
+      "idea_en": "A sentence can be a full score if it changes how the players listen.",
+      "idea_zh": "只要能改变演奏者的聆听方式，一句话也可以是完整的乐谱。",
+      "protocol": "Each piece is a text for an ensemble; the whole of Unbegrenzt reads: \"play a sound with the certainty that you have an infinite amount of time and space.\" Players respond to the text and to each other, without notation.",
+      "protocol_zh": "每首作品都是写给乐团的一段文字；《无限》全文是：“演奏一个音，确信你拥有无限的时间和空间。”演奏者回应文字、也彼此回应，不借助任何记谱。",
+      "collective": "Stockhausen's own group recorded the pieces in 1969; later ensembles, from electronic improvisers to the zeitkratzer ensemble with Keiji Haino and a 2022 performance in Prague released by Supraphon, produce performances that share no common material.",
+      "collective_zh": "施托克豪森自己的乐团在 1969 年录制了这些作品；后来的乐团——从电子即兴乐手，到与灰野敬二合作的 zeitkratzer，再到 Supraphon 发行的 2022 年布拉格演出——所演出的版本之间没有任何共同的音乐材料。",
+      "keywords": [
+        "intuitive music",
+        "text score",
+        "Unbegrenzt",
+        "1968"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=e_reft1hEJ4"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Aus_den_sieben_Tagen"
+    },
+    {
+      "id": "la-monte-young--compositions-1960",
+      "creator_ids": [
+        "la-monte-young"
+      ],
+      "title": "Compositions 1960",
+      "year": 1960,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "A series of word scores written in 1960, such as #7 (two notes held for a long time), #10 (draw a straight line and follow it) and #5 (release butterflies in the performance area).",
+      "description_zh": "1960 年写成的一系列文字乐谱，例如第 7 号（长时间保持两个音）、第 10 号（画一条直线并沿着它走）、第 5 号（在演出区域放飞蝴蝶）。",
+      "idea_en": "One sentence can hand a whole performance to whoever reads it.",
+      "idea_zh": "一句话就能把整场演出交给读到它的人。",
+      "protocol": "Each composition is a single instruction on a card, for example #7: B and F sharp, \"to be held for a long time\", and #10 (to Bob Morris): \"Draw a straight line and follow it.\" Any performer may realize them.",
+      "protocol_zh": "每首作品都是卡片上的一句指令，例如第 7 号：B 与升 F，“保持很长时间”；第 10 号（献给鲍勃·莫里斯）：“画一条直线并沿着它走。”任何表演者都可以实现它们。",
+      "collective": "Nam June Paik realized #10 at the 1962 Fluxus festival in Wiesbaden by dragging his ink-soaked head along a strip of paper (later titled Zen for Head); #7 has been realized in versions lasting a minute or two, as by the ensemble EEMT, and in sustained performances lasting hours.",
+      "collective_zh": "1962 年威斯巴登激浪派艺术节上，白南准把头浸上墨汁，沿着一条长纸拖行来实现第 10 号（后称《头的禅》）；第 7 号既有 EEMT 乐团那样一两分钟的版本，也有持续数小时的长音演出。",
+      "keywords": [
+        "word score",
+        "Fluxus",
+        "Nam June Paik",
+        "Zen for Head",
+        "sustained tones"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tJu4W45DyNo"
+      },
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjE5MDAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97b1609717ca406f",
+        "https://www.moma.org/media/W1siZiIsIjIxNTgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3e958423752d310"
+      ],
+      "source_url": "https://www.moma.org/collection/works/127631"
+    },
+    {
+      "id": "la-monte-young--an-anthology-of-chance-operations",
+      "creator_ids": [
+        "la-monte-young",
+        "jackson-mac-low"
+      ],
+      "title": "An Anthology of Chance Operations",
+      "year": 1963,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "chance",
+        "co-authorship"
+      ],
+      "substrate": "text",
+      "kind": "publication",
+      "description": "A book of scores, texts and plans of action by 27 artists and composers, edited by La Monte Young, designed by George Maciunas and co-published by Young and Jackson Mac Low in 1963.",
+      "description_zh": "一本汇集27 位艺术家和作曲家的乐谱、文本与行动计划的书，由拉蒙特·杨编辑、乔治·马修纳斯设计，1963 年由杨与杰克逊·马克·洛共同出版。",
+      "idea_en": "Publish instructions as a book, and every reader becomes a possible performer.",
+      "idea_zh": "把指令印成书，每位读者都成了潜在的表演者。",
+      "protocol": "The anthology prints works as instructions for others to carry out: one of Mac Low's texts, for example, \"may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all.\"",
+      "protocol_zh": "这本选集把作品印成交给他人执行的指令：例如马克·洛的一篇文字写道，它“可以以任何方式用作独奏或集体朗读、音乐或戏剧表演、观看、嗅闻、任何其他事情和／或什么都不做的乐谱”。",
+      "collective": "Contributors included George Brecht, John Cage, Simone Forti, Dick Higgins, Yoko Ono, Nam June Paik, Terry Riley, Christian Wolff and Young; fundraising concerts at the Living Theatre preceded it, and its scores have been performed ever since, including the 2021 program Meaningless Work, Get to Work, curated by Sarah Cooper and Tashi Wada and documented in the Getty's Scores Project.",
+      "collective_zh": "撰稿人包括乔治·布雷希特、约翰·凯奇、西蒙娜·福尔蒂、迪克·希金斯、小野洋子、白南准、特里·莱利、克里斯蒂安·沃尔夫和杨本人；出版前曾在生活剧场举办筹款音乐会，此后书中的乐谱不断被演出，包括 2021 年由 Sarah Cooper 与 Tashi Wada 策划、收录于盖蒂《乐谱计划》的演出“Meaningless Work, Get to Work”。",
+      "keywords": [
+        "artist's book",
+        "Fluxus",
+        "George Maciunas",
+        "Living Theatre",
+        "chance operations"
+      ],
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r611559_94_b19099_001_th.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AA-mockup-p3-ologyof_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/05/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "La Monte Young, ed.: An Anthology of Chance Operations (1962–63)"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/An_Anthology_of_Chance_Operations"
+    },
+    {
+      "id": "george-brecht--water-yam",
+      "creator_ids": [
+        "george-brecht"
+      ],
+      "title": "Water Yam",
+      "year": 1963,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "chance"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "A Fluxus box, designed and published by George Maciunas, holding George Brecht's event scores printed on small cards.",
+      "description_zh": "一只激浪派盒子，由乔治·马修纳斯设计出版，装着印在小卡片上的乔治·布雷希特的事件乐谱。",
+      "idea_en": "Put instructions in a box of cards so the owner can shuffle, pick and perform them.",
+      "idea_zh": "把指令装进一盒卡片，让拥有者洗牌、抽取并执行。",
+      "protocol": "Each card states an event in a few words, for example \"Word Event\": \"EXIT\"; owners and performers decide how, when and where to realize each one, and the cards can be read in any order.",
+      "protocol_zh": "每张卡片用寥寥数语写下一个事件，例如《词事件》：“EXIT（出口）”；拥有者和表演者自行决定如何、何时、在何处实现，卡片可以按任意顺序阅读。",
+      "collective": "Brecht kept adding cards to later editions; Fluxus members performed the events at festivals across Europe from 1962, and museums, students and ensembles still use the box as a repertoire, each choosing different cards.",
+      "collective_zh": "布雷希特在后来的版本中不断增加卡片；自 1962 年起，激浪派成员在欧洲各地的艺术节上演出这些事件，今天博物馆、学生和乐团仍把这只盒子当作曲目库，每次挑选的卡片都不同。",
+      "keywords": [
+        "event score",
+        "Fluxus edition",
+        "George Maciunas",
+        "cards"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=oeCIvEjOMYg"
+      },
+      "images": [
+        "https://www.moma.org/media/W1siZiIsIjI0MjAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43e20d278e220ea0",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/water-yam-grid_th.jpg"
+      ],
+      "source_url": "https://www.moma.org/collection/works/126322"
+    },
+    {
+      "id": "george-brecht--drip-music",
+      "creator_ids": [
+        "george-brecht"
+      ],
+      "title": "Drip Music (Drip Event)",
+      "year": 1959,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "An event score, first drafted in 1959 and printed in Water Yam, in which water drips into an empty vessel.",
+      "description_zh": "一份事件乐谱，1959 年起草，后收入《水山药》：让水滴落进一个空容器。",
+      "idea_en": "An ordinary sound, framed by an instruction, becomes a piece anyone can stage.",
+      "idea_zh": "一个普通的声音，被一句指令框定后，就成了任何人都能上演的作品。",
+      "protocol": "The card reads: \"For single or multiple performance. A source of dripping water and an empty vessel are arranged so that the water falls into the vessel.\" A second version reads simply: \"Dripping.\"",
+      "protocol_zh": "卡片上写着：“可单人或多人演出。安排一个滴水的水源和一个空容器，使水落入容器中。”第二个版本只有一个词：“滴水。”",
+      "collective": "A convention grew up in which a performer climbs a ladder and pours water from a pitcher into a bowl, as Dick Higgins did at The Kitchen in 1979; students in Kobe in 2015 and countless others have staged their own versions, and a video search for the title returns hundreds of them.",
+      "collective_zh": "演出逐渐形成一种惯例：表演者爬上梯子，从水罐往下面的碗里倒水，迪克·希金斯 1979 年在 The Kitchen 就是这样演的；2015 年神户的学生以及无数其他人都上演过自己的版本，按标题搜索视频能找到数以百计的演出。",
+      "keywords": [
+        "event score",
+        "Fluxus",
+        "water",
+        "Dick Higgins"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=oGIlPBgUg9U"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/HigginsPerformance1979.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/GeorgeBrechtDripMusic-by-MidoriKubota-2015nov2.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_127_003_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/06/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "George Brecht: Drip Music (Drip Event) (1959–62)"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/06/"
+    },
+    {
+      "id": "george-brecht--motor-vehicle-sundown",
+      "creator_ids": [
+        "george-brecht"
+      ],
+      "title": "Motor Vehicle Sundown (Event)",
+      "year": 1960,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "chance",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "An event for any number of cars, dedicated to John Cage: at sundown, drivers perform shuffled instruction cards with headlights, horns, wipers, doors and engines.",
+      "description_zh": "一件写给任意数量汽车的事件作品，献给约翰·凯奇：日落时分，司机们按洗过的指令卡操作车灯、喇叭、雨刷、车门和引擎。",
+      "idea_en": "Turn a parking lot into an orchestra by dealing every driver a shuffled hand of actions.",
+      "idea_zh": "给每位司机发一手洗乱的动作卡，停车场就成了乐团。",
+      "protocol": "Any number of motor vehicles are arranged outdoors; the instruction cards are shuffled together and dealt to the drivers, who begin at an agreed time, preferably at sundown, and carry out their cards in sequence at a steady count.",
+      "protocol_zh": "任意数量的机动车停放在户外；所有指令卡洗在一起分发给司机，司机们在约定时间（最好是日落时）开始，按稳定的节拍依次执行手中的卡片。",
+      "collective": "Performed by Fluxus artists, by ensembles such as Vienna's die reihe and by musicians in the 2021 program Meaningless Work, Get to Work; the pattern of lights and horns depends on the cars available and on how the cards fall.",
+      "collective_zh": "激浪派艺术家、维也纳的 die reihe 乐团以及 2021 年“Meaningless Work, Get to Work”演出中的音乐人都演出过它；灯光与喇叭的组合取决于现场有哪些车，以及卡片如何分配。",
+      "keywords": [
+        "cars",
+        "event score",
+        "John Cage",
+        "sundown"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=LDNU0nqw-Ow"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/MotorVehicleSundownEvent_Various.jpg"
+      ],
+      "source_url": "https://www.getty.edu/publications/scores/05/"
+    },
+    {
+      "id": "alison-knowles--make-a-salad",
+      "creator_ids": [
+        "alison-knowles"
+      ],
+      "title": "#2—Proposition (Make a Salad)",
+      "year": 1962,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "An event score from October 1962 whose whole text is \"Make a salad\"; performed with audiences who then eat the result.",
+      "description_zh": "一份 1962 年 10 月的事件乐谱，全文只有“做一份沙拉”；与观众一起演出，之后大家一起吃掉成果。",
+      "idea_en": "The simplest instruction scales from one bowl to a crowd, and the work can be eaten.",
+      "idea_zh": "最简单的指令可以从一只碗放大到一群人，而作品可以被吃掉。",
+      "protocol": "The score says only \"Make a salad.\" Ingredients, scale, sound and number of helpers are left to each performance.",
+      "protocol_zh": "乐谱只写“做一份沙拉”。用什么食材、多大规模、发出什么声音、多少人帮忙，都留给每一次演出决定。",
+      "collective": "First performed at the Festival of Misfits at the Institute of Contemporary Arts in London in 1962; at Tate Modern in 2008 helpers threw vegetables, oil and vinegar from the bridge onto a tarpaulin in the Turbine Hall, where they were mixed with a rake and served to the audience.",
+      "collective_zh": "1962 年在伦敦当代艺术学院的“怪人艺术节”首演；2008 年在泰特现代美术馆，助手们从涡轮大厅的天桥上把蔬菜、油和醋抛到下面的防水布上，用耙子拌匀后分给观众。",
+      "keywords": [
+        "Fluxus",
+        "food",
+        "Festival of Misfits",
+        "Tate Modern"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=lmqvnIXnmyM"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/ART545952_th.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2015409_94_b22032_001_th.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Make_a_Salad"
+    },
+    {
+      "id": "alison-knowles--identical-lunch",
+      "creator_ids": [
+        "alison-knowles"
+      ],
+      "title": "The Identical Lunch",
+      "year": 1969,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A score based on the lunch Knowles ate at the same New York diner many days a week, which friends and later audiences repeat and document.",
+      "description_zh": "一份乐谱，来自诺尔斯每周多天在纽约同一家小餐馆吃的同一份午餐，朋友们和后来的观众照做并记录下来。",
+      "idea_en": "A daily habit written down as a score becomes a shared experiment in repetition.",
+      "idea_zh": "把日常习惯写成乐谱，就成了一场关于重复的共同实验。",
+      "protocol": "The score reads: \"a tunafish sandwich on wheat toast with lettuce and butter, no mayo and a large glass of buttermilk was and is eaten many days of each week at the same place at about the same time.\" Performers eat the lunch and record how each time differs.",
+      "protocol_zh": "乐谱写道：“一份金枪鱼三明治，全麦吐司，加生菜和黄油，不要蛋黄酱，配一大杯酪乳，过去和现在都在每周许多天、在同一地点、大约同一时间被吃掉。”表演者吃下这份午餐，并记录每一次的不同。",
+      "collective": "Knowles collected friends' realizations, receipts and diagrams in Journal of the Identical Lunch (1971); Philip Corner wrote a book of his versions (1973), George Maciunas made a symphony version, and the University of Chicago's Logan Center staged an Identical Lunch Symphony with the public in 2012.",
+      "collective_zh": "诺尔斯把朋友们的实现、收据和图表收入《相同午餐日志》（1971）；菲利普·科纳把自己的版本写成一本书（1973），乔治·马修纳斯做了一个“交响曲”版本，2012 年芝加哥大学洛根艺术中心与公众一起上演了《相同午餐交响曲》。",
+      "keywords": [
+        "Fluxus",
+        "food",
+        "repetition",
+        "Philip Corner",
+        "Riss Restaurant"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=d-MSbtR-90M"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/AlisonKnowles_IdenticalLunchSymphony_1.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/grl_91-b35085_01_cover_th.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b264_002_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/09/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "Alison Knowles: The Identical Lunch (late 1960s–early ’70s)"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/09/"
+    },
+    {
+      "id": "george-maciunas--fluxkit",
+      "creator_ids": [
+        "george-maciunas"
+      ],
+      "title": "Fluxkit",
+      "year": 1965,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "circulation",
+        "co-authorship"
+      ],
+      "substrate": "text",
+      "kind": "series",
+      "description": "An attaché case, assembled by George Maciunas in 1965–66, divided into compartments holding printed scores and small boxed works by Fluxus artists, to be opened, handled and performed by its owner.",
+      "description_zh": "一只由乔治·马修纳斯于 1965—1966 年组装的公文箱，内分格子，装着激浪派艺术家的印刷乐谱和小盒作品，供拥有者打开、把玩和执行。",
+      "idea_en": "Package many artists' instructions as a kit, and ownership becomes a way of performing.",
+      "idea_zh": "把众多艺术家的指令打包成一套工具，拥有它就成了一种演出方式。",
+      "protocol": "Maciunas solicited ideas from artists including George Brecht, Alison Knowles, Takehisa Kosugi, Shigeko Kubota, Benjamin Patterson, Mieko Shiomi, Ben Vautier and Robert Watts, then designed and produced them as multiples; the owner decides which objects and cards to open, read or perform.",
+      "protocol_zh": "马修纳斯向乔治·布雷希特、艾莉森·诺尔斯、小杉武久、久保田成子、本杰明·帕特森、盐见允枝子、本·沃蒂埃、罗伯特·沃茨等艺术家征集构想，再设计并制作成复数作品；拥有者自行决定打开、阅读或执行哪些物件和卡片。",
+      "collective": "Advertised by Maciunas for $100, the kits were sold and given to collectors and friends; each surviving copy has a slightly different selection of contents, and MoMA's Silverman collection holds examples that curators and artists such as Knowles have opened and demonstrated.",
+      "collective_zh": "马修纳斯曾以 100 美元的价格广告出售，这些套装卖给或送给藏家和朋友；每一件存世的套装内容都略有不同，纽约现代艺术博物馆的 Silverman 收藏中保存的套装曾由策展人和诺尔斯等艺术家打开演示。",
+      "keywords": [
+        "Fluxus edition",
+        "multiple",
+        "attaché case",
+        "Silverman Collection"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=cPi0UyHB95U"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153553_th.jpg"
+      ],
+      "source_url": "https://www.moma.org/collection/works/126323"
+    },
+    {
+      "id": "mieko-shiomi--spatial-poem",
+      "creator_ids": [
+        "mieko-shiomi"
+      ],
+      "title": "Spatial Poem",
+      "year": 1965,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "post",
+      "kind": "series",
+      "description": "A mail project (1965–75) of nine text scores that Shiomi posted to people around the world; their reports of what they did came back by mail and were compiled into maps, objects and a book.",
+      "description_zh": "一个邮寄项目（1965—1975），包含九份文字乐谱，盐见允枝子把它们寄给世界各地的人；他们寄回自己做了什么的报告，被汇编成地图、物件和一本书。",
+      "idea_en": "Post the same instruction to a network and the replies form one poem spread across the globe.",
+      "idea_zh": "把同一条指令寄给一个网络，回信就组成一首遍布全球的诗。",
+      "protocol": "Spatial Poem No. 1 (Word Event): \"Write a word (or words) on the enclosed card and place it somewhere. Please tell me the word and the place, which will be edited on the world map.\" Later events asked for directions, times and disappearances, always with the place or time reported back.",
+      "protocol_zh": "《空间诗》第 1 号（词事件）：“在附上的卡片上写一个词（或几个词），把它放在某处。请告诉我这个词和地点，它们将被编辑到世界地图上。”后来的事件要求报告方向、时间和消失，每次都要寄回地点或时间。",
+      "collective": "Launched in 1965 to a Fluxus mailing list of over a hundred people, the project drew more than 230 collaborators who reported back from twenty-six countries; Shiomi pinned their words as flags on a world map for the Fluxus edition and published the complete results in Osaka in 1976.",
+      "collective_zh": "项目于 1965 年寄给一份逾百人的激浪派通讯名单，最终有 230 多位合作者从 26 个国家寄回报告；盐见把他们的词做成小旗插在激浪派版本的世界地图上，并于 1976 年在大阪出版了全部结果。",
+      "keywords": [
+        "mail art",
+        "Fluxus",
+        "world map",
+        "Word Event"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1-6lpTPnK8c"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/sequences--525-SpatialPoem_001.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/gri_91_b36111_001_mm_th.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014747_890164_b47_f3_001_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/10/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "Mieko Shiomi: Spatial Poem (1965–75)"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/10/commentary/"
+    },
+    {
+      "id": "benjamin-patterson--paper-piece",
+      "creator_ids": [
+        "benjamin-patterson"
+      ],
+      "title": "Paper Piece",
+      "year": 1960,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A score written in 1960 for performers with sheets and bags of paper, who make sounds by shaking, tearing, crumpling and popping them.",
+      "description_zh": "一份 1960 年的乐谱，写给手持纸张和纸袋的表演者，他们通过抖动、撕扯、揉皱和拍爆纸袋来发声。",
+      "idea_en": "Precise rules for a cheap, universal material let almost any group perform.",
+      "idea_zh": "为一种廉价而随处可得的材料写下精确规则，几乎任何团体都能演出。",
+      "protocol": "The score fixes the number of sheets and paper bags per performer, with \"quality, size and shape varied\", and names each technique (shake, break, tear, crumple, rub, pop) to be used in sequence.",
+      "protocol_zh": "乐谱规定每位表演者使用的纸张和纸袋数量，要求“质地、尺寸与形状各异”，并逐一命名依次使用的技法（抖、折断、撕、揉、擦、拍爆）。",
+      "collective": "Fluxus artists performed it in Amsterdam in 1963 and in Nice in 1964; at some performances paper was dumped on the audience's heads, and ensembles such as Musikfabrik and EEMT still perform it, each with different paper and different noise.",
+      "collective_zh": "激浪派艺术家曾于 1963 年在阿姆斯特丹、1964 年在尼斯演出；有的演出把纸倒在观众头上，Musikfabrik、EEMT 等乐团至今仍在演出，每次用的纸不同，发出的声响也不同。",
+      "keywords": [
+        "Fluxus",
+        "paper",
+        "noise",
+        "Wiesbaden"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=6lgRJe7R8Hs"
+      },
+      "images": [
+        "https://www.getty.edu/publications/scores/_assets/images/figures/posters/FXM0570_Paper_Piece_by_Ben_Patterson_1964.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153517_th.jpg",
+        "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2012418_890164_b39_f33_017_th.jpg"
+      ],
+      "paper": {
+        "url": "https://www.getty.edu/publications/scores/04/",
+        "venue": "The Scores Project (Getty Research Institute, 2025)",
+        "title": "Benjamin Patterson: Paper Piece (1960)"
+      },
+      "source_url": "https://www.getty.edu/publications/scores/04/"
+    },
+    {
+      "id": "christian-wolff--stones",
+      "creator_ids": [
+        "christian-wolff"
+      ],
+      "title": "Stones (from Prose Collection)",
+      "year": 1968,
+      "field": "score",
+      "sub": "event-scores",
+      "mechanisms": [
+        "instruction",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A short prose score from Wolff's Prose Collection (1968–71) for any number of people making sounds with stones.",
+      "description_zh": "沃尔夫《散文集》（1968—1971）中的一首短小文字乐谱，写给任意数量用石头发声的人。",
+      "idea_en": "A few sentences and a handful of stones are enough for a group to make a piece together.",
+      "idea_zh": "几句话加一把石头，就足够让一群人共同完成一首作品。",
+      "protocol": "\"Make sounds with stones, draw sounds out of stones\", using stones of different sizes and kinds, mostly striking stones with stones but also on other surfaces; the score ends: \"Do not break anything.\"",
+      "protocol_zh": "“用石头发出声音，从石头里引出声音”，使用不同大小和种类的石头，主要是石头敲石头，也可以敲在其他表面上；乐谱最后一句是：“不要打破任何东西。”",
+      "collective": "Performed by new-music ensembles, students and non-musicians; the stones gathered for each performance, and how the players listen to one another, make every version sound different.",
+      "collective_zh": "现代音乐乐团、学生和非音乐人都演出过它；每次演出收集到的石头不同，演奏者彼此聆听的方式不同，每个版本听起来都不一样。",
+      "keywords": [
+        "Prose Collection",
+        "text score",
+        "stones",
+        "non-musicians"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5lNfOox76EY"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Christian_Wolff_(composer)"
+    },
+    {
+      "id": "frederic-rzewski--les-moutons-de-panurge",
+      "creator_ids": [
+        "frederic-rzewski"
+      ],
+      "title": "Les Moutons de Panurge",
+      "year": 1969,
+      "field": "score",
+      "sub": "constraints",
+      "mechanisms": [
+        "constraint",
+        "participation",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A piece for any number of musicians playing a 65-note melody additively (1, 1–2, 1–2–3 …), with optional non-musicians making noise alongside.",
+      "description_zh": "一首为任意数量乐手而作的作品：以累加方式演奏一段 65 个音的旋律（1、1—2、1—2—3……），也可加入非音乐人同时制造噪音。",
+      "idea_en": "A rule that punishes mistakes by keeping them turns an ensemble's errors into the form of the piece.",
+      "idea_zh": "一条把错误保留下来的规则，让乐团的失误成为作品的形式。",
+      "protocol": "All players read the same melody, adding one note on each pass and then subtracting; the score instructs: \"Stay together as long as you can, but if you get lost, stay lost.\"",
+      "protocol_zh": "所有演奏者读同一段旋律，每一轮加一个音，之后再逐轮减去；乐谱指示：“尽可能保持在一起，但如果你迷失了，就继续迷失下去。”",
+      "collective": "Performed by conservatories, bands and ensembles such as A Far Cry and eighth blackbird, sometimes with the audience as the non-musician section; the moment players drift apart and the resulting counterpoint differ in each performance.",
+      "collective_zh": "音乐学院、乐队以及 A Far Cry、eighth blackbird 等乐团都演出过它，有时由观众充当非音乐人声部；乐手何时走散、形成怎样的对位，每一次都不同。",
+      "keywords": [
+        "additive process",
+        "error",
+        "Musica Elettronica Viva",
+        "audience participation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NJ-ZVkVvgrI"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Frederic_Rzewski"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Marcel Duchamp — Erratum Musical (1913)",
+      "why": "Chance score: notes drawn from a hat, sung by Duchamp and his sisters; only three performers, check whether it passes the group test.",
+      "link": "https://en.wikipedia.org/wiki/Erratum_Musical",
+      "found_via": "marcel-duchamp",
+      "status": "open"
+    },
+    {
+      "name": "Marcel Duchamp — Monte Carlo Bond (1924)",
+      "why": "Shares sold to fund a roulette system; belongs to social/economies.",
+      "link": "https://www.moma.org/collection/works/81223",
+      "found_via": "marcel-duchamp",
+      "status": "open"
+    },
+    {
+      "name": "Joseph Kosuth — One and Three Chairs (1965)",
+      "why": "Certificate lets each owner re-make the photograph with a local chair; borderline execution work.",
+      "link": "https://www.moma.org/collection/works/81435",
+      "found_via": "sol-lewitt",
+      "status": "open"
+    },
+    {
+      "name": "Lucy Lippard — 557,087 / 955,000 (1969–70)",
+      "why": "Curator executed absent artists' instructions for the number shows.",
+      "link": "https://en.wikipedia.org/wiki/Lucy_R._Lippard",
+      "found_via": "sol-lewitt",
+      "status": "open"
+    },
+    {
+      "name": "Seth Siegelaub — The Xerox Book (1968)",
+      "why": "Seven artists incl. LeWitt and Weiner given the same 25-page constraint; likely social/economies or theory batch.",
+      "link": "https://en.wikipedia.org/wiki/Seth_Siegelaub",
+      "found_via": "lawrence-weiner",
+      "status": "open"
+    },
+    {
+      "name": "Yoko Ono — Play It by Trust (1966)",
+      "why": "All-white chess set that visitors play until they lose track of sides.",
+      "link": "https://en.wikipedia.org/wiki/Yoko_Ono",
+      "found_via": "yoko-ono",
+      "status": "open"
+    },
+    {
+      "name": "Yoko Ono — My Mummy Was Beautiful (2004)",
+      "why": "Visitors leave written messages about their mothers (Tate Liverpool 2004, Tate Modern 2024).",
+      "link": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
+      "found_via": "yoko-ono",
+      "status": "open"
+    },
+    {
+      "name": "Sol LeWitt — Wall Drawing #122 and other copy-line drawings",
+      "why": "Drafters copy one another's not-straight lines; relatives of #797.",
+      "link": "https://massmoca.org/event/walldrawing797/",
+      "found_via": "sol-lewitt",
+      "status": "open"
+    },
+    {
+      "name": "Jackson Mac Low: Three Social Projects (1963)",
+      "why": "Chapter 7 of the Getty Scores Project; social instruction pieces by Mac Low, not yet researched.",
+      "link": "https://www.getty.edu/publications/scores/07/",
+      "found_via": "jackson-mac-low",
+      "status": "open"
+    },
+    {
+      "name": "Yvonne Rainer: We Shall Run (1963)",
+      "why": "Dance score for untrained performers running in formation; Getty Scores Project chapter 8.",
+      "link": "https://www.getty.edu/publications/scores/08/",
+      "found_via": "la-monte-young",
+      "status": "open"
+    },
+    {
+      "name": "Takehisa Kosugi: Micro 1 (1961) / Theatre Music",
+      "why": "Event scores in the Anthology and Fluxus; performed in 2021 for the Getty program.",
+      "link": "https://www.getty.edu/publications/scores/05/",
+      "found_via": "la-monte-young",
+      "status": "open"
+    },
+    {
+      "name": "Walter De Maria: Beach Crawl (1960)",
+      "why": "Score in the Anthology of Chance Operations, re-performed as SKY, STONE, SEA (2021).",
+      "link": "https://www.getty.edu/publications/scores/05/",
+      "found_via": "la-monte-young",
+      "status": "open"
+    },
+    {
+      "name": "Earle Brown: December 1952",
+      "why": "Graphic score that any instrumentation may interpret; strong visual; check whether group realizations make it pass.",
+      "link": "https://www.getty.edu/publications/scores/05/",
+      "found_via": "john-cage",
+      "status": "open"
+    },
+    {
+      "name": "Alison Knowles & James Tenney: The House of Dust (1967)",
+      "why": "Computer-generated poem built as a structure at CalArts where students and artists staged works; borderline, the rule for the group is weak.",
+      "link": "https://en.wikipedia.org/wiki/House_of_Dust",
+      "found_via": "alison-knowles",
+      "status": "open"
+    },
+    {
+      "name": "Nam June Paik: Zen for Head (1962)",
+      "why": "Paik's realization of Young's Composition 1960 #10; could be a separate entry if Paik's scores for audiences (Participation TV) are covered.",
+      "link": "https://www.moma.org/collection/works/127631",
+      "found_via": "la-monte-young",
+      "status": "open"
+    },
+    {
+      "name": "Dick Higgins: Danger Music series",
+      "why": "Fluxus event scores, some for audiences; not researched.",
+      "link": "https://en.wikipedia.org/wiki/Dick_Higgins",
+      "found_via": "george-maciunas",
+      "status": "open"
+    },
+    {
+      "name": "Flux Year Box 2 (c. 1966)",
+      "why": "Second Fluxus anthology box with Fluxfilms and action kits; MoMA holds it; could join Fluxkit.",
+      "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html",
+      "found_via": "george-maciunas",
+      "status": "open"
+    },
+    {
+      "name": "Fluxus 1 (1964)",
+      "why": "First Fluxus yearbox anthology of scores by many artists.",
+      "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/index.html",
+      "found_via": "george-maciunas",
+      "status": "open"
+    },
+    {
+      "name": "Pauline Oliveros: Deep Listening practice / Deep Listening Institute",
+      "why": "Ongoing practice with workshops and group pieces beyond Sonic Meditations.",
+      "link": "https://www.deeplistening.rpi.edu",
+      "found_via": "pauline-oliveros",
+      "status": "open"
+    },
+    {
+      "name": "Morton Feldman: Intersection 3 (1953)",
+      "why": "Graph score for one pianist; Getty Scores Project chapter 1; performer freedom but no group.",
+      "link": "https://www.getty.edu/publications/scores/01/",
+      "found_via": "john-cage",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sylvano Bussotti: Five Piano Pieces for David Tudor (1959)",
+      "why": "Graphic score for a single performer; Getty chapter 3; no group carries out the rules.",
+      "link": "https://www.getty.edu/publications/scores/03/",
+      "found_via": "john-cage",
+      "status": "off_topic"
+    },
+    {
+      "name": "John Cage: Variations VII (1966, 9 Evenings)",
+      "why": "Live-electronic piece picking up sounds from phone lines and radio; Getty Research Institute video exists; check whether it passes (Cage and Tudor as performers).",
+      "link": "https://www.youtube.com/watch?v=XvKSLEzQB7k",
+      "found_via": "john-cage",
+      "status": "open"
+    }
+  ]
+}

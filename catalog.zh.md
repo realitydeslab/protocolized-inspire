@@ -2,7 +2,7 @@
 
 协议艺术作品目录：艺术家或设计师写下一个协议——指令、乐谱、契约、游戏或智能合约——它塑造一群人的行为，而这群人的行为就是作品。从 1920 年代的指令、激浪派乐谱，到智能合约艺术与 DAO，由 Reality Design Lab 整理，作为灵感素材。每件作品都列出核心想法、规则、群体做了什么，以及图片、视频、文本和合约链接。
 
-https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件作品
+https://protocolized.reality.design · 2026-09-28 · 43 位创作者 · 62 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -158,6 +158,88 @@ https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件�
 
 图层、参数或世界由持有者和在其上继续创作的社区写成的作品。
 
+#### Async Art (programmable art) — Async Art (2020)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 契约与证书, 市场与交换
+- 核心想法: 把一幅画拆成若干部分卖给不同的人，画面就是他们共同选择的结果。
+- 作品内容: 一个以太坊平台：一件作品被发行为一个 Master 代币和多个 Layer 代币。谁拥有某个图层，谁就能在艺术家预设的状态之间切换它，Master 图像则根据所有当前选择重新绘制。
+- 协议: 艺术家上传 Master 及其图层，并为每个图层规定可用的能力（切换状态、移动、旋转、颜色、缩放、镜像、可见性、透明度）及其范围。只有图层代币的当前持有者可以修改该图层；Master 由所有图层状态叠加渲染而成。图层也可以绑定时间、价格等外部数据。
+- 群体做了什么: 藏家分别购买图层并加以改动，同一幅 Master 因多位持有者的操作而每周呈现不同面貌。据 Async 自述，平台上线第一年即登上佳士得，并有单件作品以六位数美元成交；2021 年它把这一模式扩展到音乐分轨。
+- 图片: https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e956f_Ntb4F8YJgyXZzHkwbK23tI5zxftuuXN4G-1tYcO-WzIA1o7Aina3L5ppK5B1GSV3KdwGKJJti0pNEisHCAukaDC6jICLGFlA3gZytXu73MA8PFjWlP7O6Dmqf70oczXssInUB8b-ae-PCB0Dpg7xnWvqQUwt_z6a_ZXHDMa3hkc0cV4ioyiVdDflVA.png
+- 项目主页: https://opensea.io/blog/articles/async-art-paving-the-way-for-programmable-dynamically-changing-art-on-the-blockchain
+- 合约: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Dark Forest — Dark Forest team (Brian Gu, Alan Luo et al.) (2020)
+- 类型: 游戏与实验 · 载体: 以太坊与二层网络 · 机制: 规则与约束, 开放参与, 共同创作与衍生
+- 核心想法: 把一个宇宙的规则发布为合约，让玩家、他们的脚本和联盟书写它的历史。
+- 作品内容: 一款大型多人太空征服游戏，全部状态都在智能合约里；零知识证明让玩家在不暴露位置的情况下行动，使宇宙拥有真正的战争迷雾。
+- 协议: 合约定义了一个无限、程序生成的宇宙；玩家须在本地计算哈希来发现行星，并提交零知识证明，证明每一步移动合法而不泄露坐标。比赛按回合进行并设奖金，最初在 Ropsten 测试网（2020 年 8 月），后来迁到 xDAI/Gnosis Chain；开放的客户端允许插件。
+- 群体做了什么: 玩家结成联盟，编写机器人与插件（社区还举办插件与渲染器竞赛），发表战术指南乃至漏洞利用文章，通过 Lobbies 自行举办社区回合，并组织起 DFDAO 等团体，自办锦标赛。
+- 视频: https://www.youtube.com/watch?v=BLo1r3QhbCU
+- 图片: https://zkga.me/public/og_image.png https://blog.zkga.me/img/announcing-df/ui-wip.png
+- 项目主页: https://blog.zkga.me/announcing-darkforest
+- 代码: https://github.com/darkforest-eth
+
+#### First Supper — Async Art, Matt Kane (2020)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 市场与交换
+- 核心想法: 一幅群像，构图由每个人物当下的持有者决定。
+- 作品内容: 为 Async Art 上线而作、由 13 位加密艺术家共同完成的《最后的晚餐》戏仿之作，拆分为一个 Master 和 22 个图层。每个图层的持有者都可以移动、改色或切换自己那一部分，画面是这些选择的总和。
+- 协议: 22 个图层分别由不同艺术家制作，各自的能力（旋转、缩放、位置、可见性、透明度、色相）由作者设定。只有图层代币持有者可以触发这些能力；例如 MLIBTY 的第 9 层持有者可以平移、旋转一根巨大的手指，让它指向餐桌旁任意一位宾客。
+- 群体做了什么: Master 于 2020 年 2 月 28 日以 103.4 ETH 拍出，22 个图层另行出售；到 2020 年 4 月，图层分属 10 位藏家，他们的修改不断重排画面。参与艺术家包括 XCOPY、Hackatao、Coldie、Josie Bellini、Alotta Money 和 Matt Kane。
+- 视频: https://www.youtube.com/watch?v=KNlDfNLyH5Q
+- 图片: https://cdn.steemitimages.com/DQmY3iuaoT5XvrLWvrhDjJL2akbgY4BV4yaheFKTJuabAV7/First%20Supper.jpg https://cdn.prod.website-files.com/65455ae3354eb117950e9025/65455ae3354eb117950e962f_636d5e387a5de6eea1342db7_63572c4e2c1d1071fb4a9d66_image3.avif
+- 项目主页: https://x.com/asyncart/status/1233482051548065793
+- 合约: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Right Place & Right Time — Matt Kane (2020)
+- 类型: 艺术作品 · 载体: 以太坊与二层网络 · 机制: 市场与交换, 时间、衰变与死亡, 契约与证书
+- 核心想法: 让市场中匿名的人群每天替你作画。
+- 作品内容: Async Art 上的一幅可编程绘画，由 24 个图层组成，每层对应一小时，每天根据前 24 小时的比特币价格波动重新绘制。2020 年 9 月以 262 ETH 售出。
+- 协议: Kane 的算法把比特币每小时的价格变化映射到 24 个图层之一的状态上，所以构图由交易决定，而不是由持有者或艺术家决定。另有一份藏家协议：持有者可获得每日版 NFT（上限 210 件，每件记录市场的一天）销售额的 21%。
+- 群体做了什么: 画面由全球比特币交易者的买卖总和生成；作品计划运行十年以上。艺术家与藏家把这种收益分成称为一种新的艺术家与藏家合作模式。
+- 图片: https://volatility.art/wp-content/uploads/sites/5/2023/11/bitcoin-volatility-art-by-matt-kane_9-22-2020_10-scaled-1.jpg https://mma.prnewswire.com/media/1277260/volatility_art___right_place_and_right_time_by_matt_kane___diagram.jpg
+- 项目主页: https://www.prnewswire.com/news-releases/record-cryptoart-sale-matt-kanes-right-place--right-time-a-programmable-artwork-that-changes-with-bitcoin-price-volatility-sells-for-over-100k-on-async-art-301134356.html
+- 合约: https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8
+
+#### Async Music (programmable music) — Async Art (2021)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 市场与交换
+- 核心想法: 一首歌以“变体菜单”的形式存在，由持有分轨的人现场混音。
+- 作品内容: Async Art 把图层机制延伸到声音：音乐人为每条分轨上传多个备选版本，Stem Layer 代币的持有者决定当前 Master Track 中播放哪一版。
+- 协议: 音乐人上传每条分轨的所有变体。Stem Layer NFT 的持有者选择其中一个版本；所有人听到的 Master Track 就是全部当前选择的组合。另设 Blank Record NFT，持有者可用它为 Master 的某一个视听状态存档。
+- 群体做了什么: 首批发行来自 RAC、Verdigris Ensemble、HMLTD，以及 Connie Digital 与 Mighty33；每当分轨持有者改变选择，歌曲就随之改变。
+- 图片: https://mma.prnewswire.com/media/1498556/AsyncMusic_Breakdown_Infographic.jpg
+- 项目主页: https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html
+
+#### Blitmap — Dom Hofmann (2021)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 合并与合成
+- 核心想法: 给人群一小套开放的原作和一条重组规则，让他们长出一个宇宙。
+- 作品内容: 由 17 位艺术家创作、存储在链上的 100 幅 32×32 原创像素画；社区在此基础上把一幅原作的构图与另一幅的配色组合，铸造出 1,600 幅“兄弟姐妹”。
+- 协议: 原作以数据形式写入合约；每一幅“兄弟姐妹”都由“一幅原作的构图 + 另一幅原作的配色”定义，铸造后成为一个新代币。原作及后续大部分作品以开源方式发布，任何人都可以在其上创作。
+- 群体做了什么: 藏家组合铸造出全部 1,600 幅兄弟姐妹。随后，艺术家和爱好者用 Blitnauts 扩展包、Sup 的机器人阵营、漫画、动画、袜子、鞋和玩具，把 Caelum 世界继续扩展。
+- 图片: https://www.blitmap.com/blitmap-collection-small.png https://blitmap.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fblitnaut-crop.974e3cca.webp&w=3840&q=75
+- 项目主页: https://blitmap.com
+- 合约: https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63
+
+#### Hashmasks — Suum Cuique Labs (2021)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 销毁, 货币与价值
+- 核心想法: 让藏家来写标题，而且每个标题都有成本、全网唯一。
+- 作品内容: 约 70 位艺术家绘制的 16,384 幅数字肖像，于 2021 年初发售。持有者会累积 Name Changing Token（NCT），销毁 1,830 NCT 即可为自己的面具起一个存储在链上、独一无二的名字。
+- 协议: 每个面具都会随时间累积 NCT。要为面具命名，持有者需把 1,830 NCT 发送到 Hashmasks 合约，合约将其销毁并记录名字；同一名字同一时间只能属于一个面具。
+- 群体做了什么: 持有者花费 NCT 为自己的面具命名；由于每个名字只能存在一次，词语变得需要争夺，链上的命名记录与艺术家的图像一起，成为每个面具身份与价值的一部分。
+- 视频: https://www.youtube.com/watch?v=cDz8Y2UPeMg
+- 图片: https://hashmasksstore.blob.core.windows.net/hashmasks/1.jpg https://img.phemex.com/v1/4caf239c/hashmasks-1024x576.jpg
+- 项目主页: https://www.thehashmasks.com
+- 合约: https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928
+
+#### Loot (for Adventurers) — Dom Hofmann (2021)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与, 规则与约束
+- 核心想法: 发布一个未完成的原语，让所有人去决定它的意义。
+- 作品内容: 8,000 个随机生成的冒险者装备袋，每个只是写在黑底上的八行白色物品名，完整存储在链上。属性、图像和规则都被刻意省略，社区在其上构建了游戏、艺术和代币。
+- 协议: 任何人只需支付 gas 即可免费领取一个袋子；物品由合约根据代币编号生成。唯一的说明是：属性、图像和其他功能被刻意省略，留给他人诠释，Loot 可以被随意使用。
+- 群体做了什么: 持有者和外部开发者把这些袋子扩展成 “Lootverse”：人人可领的 More Loot 和 Synthetic Loot、Genesis Adventurer 项目、Realms、Banners、Crypts and Caverns 地下城地图、Rings、角色画、3D 资产和游戏，都把原始袋子当作设定来源。
+- 图片: https://lootproject.com/meta.png https://www.lootproject.com/banners.png https://www.lootproject.com/cryptsandcaverns.png
+- 项目主页: https://www.lootproject.com
+- 合约: https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7
+
 #### Lost Poets — Pak (2021)
 - 类型: 游戏与实验 · 载体: 以太坊与二层网络 · 机制: 销毁, 共同创作与衍生, 偶然与随机
 - 核心想法: 给买家一种只能靠销毁来使用的燃料（Pages），让他们用它来书写自己拥有的角色。
@@ -167,6 +249,27 @@ https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件�
 - 图片: https://lostpoets.xyz/img/lostpoets_card.png https://d1xxei964ioe0z.cloudfront.net/full/19bbbc3fd5354b3c21fe4bf29703ceb82ddb895eb719aae685e21f38d30619e7.png https://d1xxei964ioe0z.cloudfront.net/full/0e1490cb36bb726bb2c26ab21e28f8bdf5bf114cba09e022c5a6d34c364f31e5.png
 - 项目主页: https://lostpoets.xyz
 - 合约: https://etherscan.io/address/0x4b3406a41399c7FD2BA65cbC93697Ad9E7eA61e5
+
+#### Mutant Garden Seeder — Harm van den Dorpel (2021)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 时间、衰变与死亡, 偶然与随机, 共同创作与衍生
+- 核心想法: 一件售出后仍在演化的作品，由持有者决定它生命中哪些时刻被保存下来。
+- 作品内容: 与 Folia 合作发行的 512+1 个以太坊代币，其图像是在诞生时由区块链状态播种的“突变体”，此后多年随机持续突变。后来的合约让持有者把选定的突变状态凝固为永久的链上代币。
+- 协议: 每个代币有固定的突变概率；一个连接以太坊主网的守护进程执行突变，并存档所有历史状态。通过 Mutations 合约，持有者可以把自己突变体的任意历史状态铸成静态代币，或将其开放给任何人铸造，并按自己设定的金额获得分成。
+- 群体做了什么: 512 个代币于 2021 年在数小时内售罄。此后持有者不断挑选要写入链上的突变状态（元数据在链上，SVG 存于 Arweave），把个人持有变成对这座“花园”的集体保存。
+- 图片: https://seeder.mutant.garden/images/mutant-garden-meta-images.jpg https://seeder.mutant.garden/images/installationview.jpg
+- 项目主页: https://seeder.mutant.garden/about
+- 合约: https://etherscan.io/address/0x20c70bdfcc398c1f06ba81730c8b52ace3af7cc3
+
+#### Terraforms — Mathcastles (2021)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 时间、衰变与死亡, 规则与约束
+- 核心想法: 一片共享的链上地景，其表面由各块的持有者逐渐重绘。
+- 作品内容: 11,104 块动态地块，每块是一张完全在链上生成的 32×32 字符网格，叠成一座名为 Hypercastle 的 20 层结构。持有者可以把地块切换成空白的“白日梦”状态，再把自己绘制的地形写回合约。
+- 协议: 每块地块的模式由持有者设定：terrain（原始生成的地形）、daydream（可以作画的空白）或 terraform（把画作提交上链，所有人可见）。合约自行渲染所有地块，因此 Hypercastle 永远是持有者留下内容的总和。
+- 群体做了什么: 持有者重绘地块，社区开发者制作了 3D Hypercastle 浏览器等工具；这些地块也作为逐层展开的世界被展出，例如 2023 年 Glitch Marfa 的 e30d 画廊。
+- 视频: https://www.youtube.com/watch?v=U2xTl5pPHwk
+- 图片: https://www.glitchmarfa.com/uploads/glitch_mathcastles3584.gif https://www.glitchmarfa.com/uploads/HypercastleStructure.r1.jpg
+- 项目主页: https://www.bankless.com/terraforms-explained-is-this-ethereums-best-onchain-art
+- 合约: https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56
 
 #### Censored — Pak (2022)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与, 时间、衰变与死亡
@@ -178,6 +281,49 @@ https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件�
 - 项目主页: https://www.artrights.me/en/censored-the-nft-project-by-pak-in-collaboration-with-julian-assange/
 - 合约: https://etherscan.io/address/0xDa22422592Ee3623c8d3c40Fe0059CdEcF30CA79
 
+#### Friendship Bracelets — Alexis André (2022)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 流转与传递, 指令与乐谱, 开放参与
+- 核心想法: 一件要求被赠送、被亲手制作的生成艺术作品。
+- 作品内容: 与 Art Blocks 创始人 Snowfro 共同构想的免费 Art Blocks 项目：每位持有 Art Blocks 作品的人可以领取两个生成式手链，自己留一个，把另一个送人。每个作品都附有用绣线亲手编织这条手链的说明。
+- 协议: 在 2022 年 10 月 26 日快照时持有任何 Art Blocks 代币的钱包，可在 2023 年 1 月 10 日前只付 gas 领取两次铸造。持有者被请求自己留一条、把第二条送人；作品同时也是一份使用标准绣线颜色的编织图样。
+- 群体做了什么: 约 25 万名 Art Blocks 持有者具有领取资格；手链作为礼物流向朋友和新人，持有者还按链上图样编织出实体手链。
+- 视频: https://www.youtube.com/watch?v=_DeFATb0QB0
+- 图片: https://media-proxy.artblocks.io/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a/1575.png https://whitehotmagazine.com/images/article_images/article_5567_featured-5.jpg
+- 项目主页: https://whitehotmagazine.com/articles/nfts-with-diy-phygital-component/5567
+- 合约: https://etherscan.io/address/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a
+
+#### QQL — Tyler Hobbs, Dandelion Wist Mané (2022)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与, 契约与证书
+- 核心想法: 让藏家成为策展人：算法提议，社区搜寻，发现者获得回报。
+- 作品内容: 以公共工具形式发布的生成算法：任何人都可以调整参数、保存种子，但只有 999 张 Mint Pass 的持有者能把选中的种子铸成正式的 QQL NFT，而且可以在任何时候铸造。
+- 协议: 每张 Mint Pass 可铸造一次，没有时间限制。种子中嵌入其创建者的地址，该地址在 NFT 二级销售时获得 2% 版税，因此获得回报的是“发现者”，不一定是铸造者。
+- 群体做了什么: 社区生成了大量种子，在 Discord 和 subreddit 上交换、讨论；成立轮值的 QQL Council，为尚未铸造的种子策划 Seedbox；并每月举办由社区投票决定的主题挑战。
+- 视频: https://www.youtube.com/watch?v=0mjkN2aiax0
+- 图片: https://img.qql.art/assets/qql-social.png
+- 项目主页: https://qql.art/about
+- 合约: https://etherscan.io/address/0x845dd2a7ee2a92a0518ab2135365ed63fdba0c88
+
+#### BasePaint — BasePaint (2023)
+- 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 开放参与, 共同创作与衍生, 市场与交换
+- 核心想法: 一块带时钟和工资单的共享画布：每天一幅画，按所画像素付酬。
+- 作品内容: Base 网络上的每日协作像素画布：每天，持有画笔的人共同绘制同一幅图像；第二天，完成的画布以开放版数出售，收入归画手所有。
+- 协议: 作画需要持有 Brush 代币，每支画笔每天有像素额度（试用画笔的像素会随时间减少）。社区投票决定当天主题。规则：不得描摹或重新上色，不得做推广或使用冒犯性符号，所有作品进入公共领域（CC0）。合约记录每位画手的像素数；画布被铸造时，90% 的铸造收入按像素比例分给画手，10% 归运营方。
+- 群体做了什么: 自 2023 年 8 月以来，陌生人每天完成一幅新画布，至今已超过一千幅，他们通过聊天和实时光标协调；Blockscout 显示 BasePaint 合约的代币持有地址超过 28.8 万个。
+- 图片: https://basepaint.xyz/api/art/image?day=1 https://basepaint.xyz/api/og
+- 项目主页: https://basepaint.xyz
+- 合约: https://basescan.org/address/0xBa5e05cb26b78eDa3A2f8e3b3814726305dcAc83
+- 代码: https://github.com/BasePaint/basepaint-contracts
+
+#### LUCI: Chapter 5 – The Monument Game — Sam Spratt (2023)
+- 类型: 游戏与实验 · 载体: 以太坊与二层网络 · 机制: 开放参与, 投票与治理, 共同创作与衍生
+- 核心想法: 把观众变成为画作做注解的玩家，让早期藏家担任评审。
+- 作品内容: Sam Spratt 的 LUCI 第五章：一幅以游戏方式展开的独版画作。256 张 Player 票让持有者在画面上写下一条“观察”，再由 Council of Luci 评判哪些贡献最好。
+- 协议: 2023 年 8 月售出 256 张 Player 票。四天内，每位 Player 在画面上放置一条观察，几句话或几行诗。Council of Luci（Skulls of Luci 的持有者；Spratt 曾把其中 47 个作为礼物送出，保留 3 个）投票选出付出最多的三位 Player，他们获得剩下的三个 Skull。
+- 群体做了什么: 玩家写下的 256 条观察与完成的独版作品一起被铭刻在链上，Council 对其进行讨论和投票。作品后于 2024 年由 1OF1 与藏家 Ryan Zurrer 在威尼斯展出。
+- 图片: https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/IX_The_Monument_Game.webp
+- 项目主页: https://samspratt.com/5/ix/
+- 合约: https://etherscan.io/address/0xda6558fa1c2452938168ef79dfd29c45aba8a32b
+
 #### Opepen Edition — Jack Butcher (2023)
 - 类型: 平台与协议 · 载体: 以太坊与二层网络 · 机制: 投票与治理, 共同创作与衍生, 偶然与随机
 - 核心想法: 持有者不是对提案投票，而是把自己的代币押在它将变成的那张图像上。
@@ -187,6 +333,16 @@ https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件�
 - 图片: https://opepen.art/og/intro.png https://api.opepen.art/v1/render/sets/9dde6d38-2e6b-4e29-8f80-37a4450d49df/og? https://images.squarespace-cdn.com/content/v1/6547fdfa39dde777e76d89b5/eed1a6b3-b3a6-45df-89bc-8c9afce766d5/explainer.jpg
 - 项目主页: https://jack.art/opepen-edition
 - 合约: https://etherscan.io/address/0x6339e5E072086621540D0362C4e3Cea0d643E114
+
+#### LUCI: Chapter 6 – X. Masquerade / Masks of Luci — Sam Spratt (2025)
+- 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 开放参与, 流转与传递, 共同创作与衍生
+- 核心想法: 每个面具由佩戴它的人塑造：参与就是画笔。
+- 作品内容: LUCI 第六章：613 个 Masks of Luci 起初全部是空白的，最终形态取决于佩戴者在 Masquerade 期间写下的内容，并配有画作 X. Masquerade。
+- 协议: 凡仍持有 The Monument Game 门票的 Player，均可在 2025 年 2 月领取一个面具，并获得一个 Guest 名额，可再购买一个面具：邀请一位客人收藏、自己收藏，或放入公开抽签。面具起初是空白的；Spratt 阅读每位佩戴者的 Observation、Discussion 与 Revision，分别与作者本人以及与 Council 一起讨论，再为每位佩戴者制作面具。
+- 群体做了什么: 数百份书面贡献塑造出 613 个独一无二的面具，每个都承载着一位佩戴者对世界的观察；邀请机制让面具从 Player 传递给新的客人。
+- 图片: https://storage.googleapis.com/luci-bc460.firebasestorage.app/artworks_sizes/2000/X_Masquerade.webp https://storage.googleapis.com/luci-bc460.firebasestorage.app/masks_sizes/1200/359.webp
+- 项目主页: https://samspratt.com/6/masks/
+- 合约: https://etherscan.io/address/0x4440732b0d85e2a77dcb2caedfd940154241249a
 
 #### Know Your Collector — Jack Butcher (2026)
 - 类型: 系列与合集 · 载体: 以太坊与二层网络 · 机制: 共同创作与衍生, 开放参与
@@ -528,32 +684,44 @@ https://protocolized.reality.design · 2026-09-28 · 31 位创作者 · 47 件�
 
 - **Jack Butcher** (9) — 观念艺术家，Visualize Value 创始人. 艺术家，Visualize Value 创始人，作品常由简单符号构成（对勾、收据、商标符号）。自 2023 年起，他常与开发者 Jalil Wahdatehagh 合作，做出一系列由藏家改变图像与供应量的版数作品。 https://jack.art
 - **Pak** (7) — 匿名数字艺术家、系统设计者. 匿名数字创作者，2014 年做过图像策展机器人 Archillect。2020 至 2022 年间，Pak 在 Nifty Gateway、苏富比和自建网站上接连推出一系列发售与合约：开放版数、ASH 销毁代币、Lost Poets、Merge 和 Censored。
+- **Async Art** (3) — 可编程艺术平台. Async Art 是 2020 年 2 月由 Conlan Rios、Lisa Liang 和 Nathan Clapp 推出的以太坊平台。它把一件作品拆成一个 Master 代币和多个分别持有的 Layer 代币，Layer 的持有者可以改变整幅图像。 https://async.art
 - **Alexander R. Galloway** (2) — 媒介理论家、程序员. 美国媒介理论家，任教于纽约大学，软件艺术团体 RSG（Radical Software Group）的创始成员。 http://cultureandcommunication.org/galloway/
 - **Botao Amber Hu** (2) — 设计师、研究者，Reality Design Lab. 设计师与人机交互研究者，主持 Reality Design Lab，发表关于协议艺术、思辨设计、混合现实与去中心化 AI 的研究。 https://botao.hu/
 - **Claire Bishop** (2) — 艺术史学者、评论家. 英国艺术史学者，任教于纽约市立大学研究生中心，研究参与式艺术、装置与表演。
+- **Dom Hofmann** (2) — 软件开发者、艺术家；Vine 联合创始人. Vine 的联合创始人。2021 年他发布了由社区混编的像素艺术合集 Blitmap，以及 Loot：八千份存储在链上的冒险者装备文字清单，不附图像，也不附任何规则。 https://www.lootproject.com
 - **Jack Burnham** (2) — 艺术家、评论家与策展人. 美国艺术家与评论家（1931–2019），在《Artforum》上把系统论和控制论引入艺术批评，并于 1970 年在犹太博物馆策划展览 Software。
+- **Matt Kane** (2) — 艺术家、程序员. 出生于芝加哥的艺术家，自己编写软件来制作多层、由数据驱动的数字绘画。他参与了 Async Art 的 First Supper，并创作了由比特币行情驱动的 Right Place & Right Time。 https://mattkane.com
 - **Ruth Catlow** (2) — 艺术家、策展人，Furtherfield 联合创办人. 英国艺术家与策展人，Furtherfield 联合创办人及联合艺术总监，是区块链、DAO 与艺术领域的重要研究者。 https://ruthcatlow.net/
+- **Sam Spratt** (2) — 画家、数字艺术家. 数字画家，其 LUCI 系列（十幅画作、613 个面具及配套诗篇）通过藏家在故事中参与的游戏不断生长。 https://samspratt.com
 - **Sol LeWitt** (2) — 艺术家. 美国艺术家（1928–2007），极简主义与观念艺术的核心人物。他的墙绘以书面指令的形式存在，由助手和机构一次次执行。
 - **Summer of Protocols** (2) — 协议研究计划. 由以太坊基金会于 2022 年底委托发起的研究计划，把研究者、艺术家和工程师聚在一起跨领域研究协议，2023 至 2025 年每年举办一季。 https://summerofprotocols.com/
 - **Venkatesh Rao** (2) — 作家、顾问. 印度裔美国作家，博客 Ribbonfarm 创办人，Summer of Protocols 研究计划的负责人之一。 https://ribbonfarm.com/
 - **Aaron Wright** (1) — 法学学者. 美国法学教授，任教于 Cardozo 法学院并主持其科技创业法律诊所，《Blockchain and the Law》合著者。
+- **Alexis André** (1) — 生成艺术家、研究者. 常驻东京的法国生成艺术家和研究者。他在 Art Blocks 上的项目 Friendship Bracelets（2022）免费发放给 Art Blocks 持有者：留一个，送一个。
 - **Amy Whitaker** (1) — 艺术创业研究者. 美国作家，纽约大学 Steinhardt 学院教授，研究艺术市场、艺术家权益与区块链。
+- **BasePaint** (1) — BasePaint 每日画布的创作团队. 2023 年 8 月在 Base 网络上推出 BasePaint 的小团队，合约主要由开发者 w1nt3r 编写。每天，陌生人共同在同一块像素画布上作画，画完后以开放版数出售。 https://basepaint.xyz
 - **Benjamin H. D. Buchloh** (1) — 艺术史学者. 德国艺术史学者（1941 年生），《October》编辑，以观念艺术和战后欧洲艺术研究著称。
 - **Damien Hirst** (1) — 艺术家. 英国艺术家，“英国青年艺术家”群体的代表人物。他与 HENI 合作推出了自己的第一个 NFT 项目 The Currency（2021）。 https://www.damienhirst.com
+- **Dandelion Wist Mané** (1) — 软件工程师、生成艺术家. 软件工程师和生成艺术家，曾在 Google Brain 创建 TensorBoard，在 Protocol Labs 共同创建 SourceCred，之后与 Tyler Hobbs 共同创作 QQL。 https://qql.art
+- **Dark Forest team (Brian Gu, Alan Luo et al.)** (1) — 零知识证明游戏 Dark Forest 的开发团队. 由 Brian Gu（gubsheep）带领的小团队，于 2020 年打造 Dark Forest：一款完全在以太坊兼容链上运行、用零知识证明隐藏地图的即时战略游戏。 https://zkga.me
 - **Eugene Thacker** (1) — 哲学家、媒介理论家. 美国哲学家与作家，任教于新学院（The New School），著述涉及生物技术、网络与恐怖哲学。
 - **Florian Cramer** (1) — 代码与文化研究者、作家. 德国作家与研究者，研究文学、计算与媒介文化，长期任职于鹿特丹 Piet Zwart Institute 和 Willem de Kooning 学院。
 - **Grant Kester** (1) — 艺术史学者. 美国艺术史学者，任教于加州大学圣地亚哥分校，研究协作式与社会介入式艺术。
 - **Hans Ulrich Obrist** (1) — 策展人. 瑞士策展人，伦敦蛇形画廊艺术总监，1993 年发起以指令为基础的展览 do it。
+- **Harm van den Dorpel** (1) — 艺术家；left gallery 联合创始人. 荷兰艺术家，用软件、遗传算法和区块链创作；left gallery 的联合创始人，该画廊是较早出售代码艺术的平台。自 Death Imitates Language（2016）起，他一直在“培育”图像种群。 https://harm.work
 - **Jacob Horne** (1) — Zora 联合创办人. 美国创业者，Zora 联合创办人；Zora 是一个用于铸造和收藏媒体的链上协议与平台。 https://jacob.energy/
 - **Kei Kreutler** (1) — 艺术家、作家，Gnosis Guild 联合创办人. 研究去中心化组织的艺术家与作家，Gnosis Guild 联合创办人，该团队为 DAO 开发开源工具。 https://keikreutler.net/
 - **Malte Rauch** (1) — 策展人、作家. 研究区块链艺术的策展人与作家，曾与 Bright Moments 和 Verse 平台合作，为合约展览 World Computer Sculpture Garden 撰写文章。
 - **Marc Garrett** (1) — 艺术家、作家，Furtherfield 联合创办人. 英国艺术家、作家与策展人，1996 年与 Ruth Catlow 共同创办伦敦艺术与技术机构 Furtherfield。
 - **Mat Dryhurst** (1) — 艺术家、音乐人、研究者. 艺术家与研究者，与 Holly Herndon 合作 Holly+ 等 AI 与声音项目，并联合创办 Spawning，为 AI 训练数据开发授权同意工具。
+- **Mathcastles** (1) — 链上艺术工作室（Xaltgeist 与 0x113d）. 一个由两位化名成员 Xaltgeist 与 0x113d 组成的工作室，专门构建完全在链上运行的艺术系统。其代表作是 Terraforms（2021），一座由地块组成、共 20 层的链上结构。 https://mathcastles.xyz
 - **Mitchell F. Chan** (1) — 艺术家、游戏创作者. 创作涉及观念艺术、电子游戏和智能合约的艺术家。他 2017 年的代币作品 Digital Zones of Immaterial Pictorial Sensibility 把伊夫·克莱因的收据仪式搬进以太坊合约。 https://chan.gallery/
 - **Nicolas Bourriaud** (1) — 策展人、评论家. 法国策展人与作家，东京宫（Palais de Tokyo）联合创办人，把 1990 年代以社交相遇为材料的艺术倾向命名为“关系美学”。
 - **Penny Rafferty** (1) — 作家、研究者. 研究艺术、区块链与 DAO 的作家和研究者，与 Ruth Catlow 共同主编《Radical Friends》。
 - **Primavera De Filippi** (1) — 法学学者、艺术家. 巴黎法国国家科学研究中心（CNRS）研究员、哈佛 Berkman Klein 中心研究员，研究区块链治理，并创作了基于区块链的机械花 Plantoid 等作品。
 - **Rhea Myers** (1) — 艺术家、作家、黑客. 艺术家、黑客与作家，自 2011 年起创作区块链艺术，包括早期的智能合约作品以及关于价值与所有权的观念作品。 https://rhea.art/
 - **Roy Ascott** (1) — 艺术家、远程通信艺术理论家. 英国艺术家与教育者（1934 年生），1960 年代发展出控制论式的艺术教学，1970 年代末起创作远程通信网络作品。
+- **Suum Cuique Labs** (1) — Hashmasks 的创作团队. 瑞士工作室，2021 年发布 Hashmasks：由约 70 位艺术家绘制的 16,384 幅数字肖像，持有者可以通过销毁专用代币为其永久命名。 https://www.thehashmasks.com
 - **Tom Sachs** (1) — 雕塑家. 美国雕塑家，以手工复制太空计划和品牌物件著称。Rocket Factory（2021）是他的 NFT 项目：藏家用零件拼装火箭，再由他的工作室把火箭造出来并发射。 https://www.tomsachsrocketfactory.com
+- **Tyler Hobbs** (1) — 生成艺术家. 使用算法、绘图仪和颜料创作的生成艺术家，以 Fidenza（2021）闻名。他与 Dandelion Wist Mané 合作的 QQL（2022）让藏家亲自探索算法、决定铸造哪一幅。 https://www.tylerxhobbs.com
 - **Vera List Center for Art and Politics** (1) — 新学院下属研究中心. 纽约新学院（The New School）下属的研究与公共项目中心，以分季主题研究艺术与政治的关系。 https://www.veralistcenter.org/

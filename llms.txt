@@ -2,7 +2,7 @@
 
 > A catalog of protocol art: works in which an artist or designer writes a protocol — instructions, a score, a contract, a game, a smart contract — that shapes what a group of people does, and that group behaviour is the work. From 1920s instructions and Fluxus scores to smart-contract art and DAOs, compiled by Reality Design Lab as idea material. Each work lists its core idea, its rules, what the collective did, and links to images, video, texts and contracts.
 
-31 creators, 47 works (Scores & Instructions (0), Social Protocols & Economies (2), Network & Crowd Protocols (0), Smart-Contract Art (16), Autonomous Entities & DAOs (1), Theory & Texts (28)), 9 with a contract link, updated 2026-09-28. Bilingual (English / Simplified Chinese).
+43 creators, 62 works (Scores & Instructions (0), Social Protocols & Economies (2), Network & Crowd Protocols (0), Smart-Contract Art (31), Autonomous Entities & DAOs (1), Theory & Texts (28)), 22 with a contract link, updated 2026-09-28. Bilingual (English / Simplified Chinese).
 
 ## Full catalog
 

@@ -1,5 +1,37 @@
 [
  {
+  "name": "Harm van den Dorpel – Death Imitates Language (2016)",
+  "why": "Checked: selection and breeding are done by the artist through 'likes' (plus visitor statistics), not by collectors; fails test 3 as an on-chain co-authored work.",
+  "link": "https://harm.work/series/death-imitates-language",
+  "found_via": "harm-van-den-dorpel",
+  "status": "off_topic",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "mfers (sartoshi, 2021)",
+  "why": "CC0 stick-figure PFP collection with heavy derivative culture; sartoshi later left the project to the community. No authored rule beyond the CC0 licence shapes collective behaviour; revisit only if the hand-over is documented as a protocol.",
+  "link": "https://mfers.art",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "Loot Survivor (Provable Games, 2023)",
+  "why": "On-chain roguelike built on Loot on Starknet; a commercial game rather than an artist-authored protocol.",
+  "link": "https://lootsurvivor.io",
+  "found_via": "dom-hofmann",
+  "status": "off_topic",
+  "batch": "onchain-coauthor"
+ },
+ {
+  "name": "CryptoKitties (Axiom Zen / Dapper Labs, 2017)",
+  "why": "Collectors breed cats on-chain; a commercial game, useful only as context for breeding mechanics.",
+  "link": "https://www.cryptokitties.co",
+  "found_via": "harm-van-den-dorpel",
+  "status": "off_topic",
+  "batch": "onchain-coauthor"
+ },
+ {
   "name": "Archillect (Pak, 2014)",
   "why": "AI image curator whose picks respond to audience engagement; followers give feedback but do not act under an authored rule, so it fails test 2–3.",
   "link": "https://archillect.com",
